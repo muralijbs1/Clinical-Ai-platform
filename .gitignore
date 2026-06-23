@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets — NEVER commit these
+.env
+.env.*
+*.secret
+
+# Config overrides (local only)
+config.local.yaml
+
+# Data files — too large / sensitive for git
+data/raw/
+data/synthetic/*.jsonl
+*.pkl
+*.parquet
+
+# Model artifacts
+*.onnx
+*.bin
+*.safetensors
+models/
+
+# Docker
+.dockerignore
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp

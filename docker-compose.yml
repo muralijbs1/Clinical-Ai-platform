@@ -1,0 +1,75 @@
+version: "3.9"
+
+# ── Phase 0: Skeleton ──────────────────────────────────────────────────────────
+# Services are added phase by phase. Nothing runs yet except the scaffold.
+# Run with: docker compose up
+
+services:
+
+  # Phase 9 — Web dashboard (clinician UI)
+  # dashboard:
+  #   build: ./dashboard
+  #   ports: ["3000:3000"]
+
+  # Phase 9 — API gateway (auth, rate-limit, routing)
+  # api-gateway:
+  #   build: ./brain
+  #   ports: ["8000:8000"]
+
+  # Phase 6 — LangGraph orchestrator
+  # orchestrator:
+  #   build: ./brain
+  #   depends_on: [postgres, redis]
+
+  # Phase 8 — Agent workers (stateless, horizontally scalable)
+  # agent-workers:
+  #   build: ./agents
+  #   depends_on: [orchestrator, chroma]
+
+  # Phase 4 — Vector DB (local)
+  # chroma:
+  #   image: chromadb/chroma:latest
+  #   ports: ["8001:8001"]
+  #   volumes: ["chroma_data:/chroma/chroma"]
+
+  # Phase 4 — Relational DB (requests, audit log, staging)
+  # postgres:
+  #   image: postgres:16-alpine
+  #   environment:
+  #     POSTGRES_DB: clinicalai
+  #     POSTGRES_USER: clinicalai
+  #     POSTGRES_PASSWORD: clinicalai
+  #   volumes: ["postgres_data:/var/lib/postgresql/data"]
+
+  # Phase 4 — State store + checkpoints + cache
+  # redis:
+  #   image: redis:7-alpine
+  #   volumes: ["redis_data:/data"]
+
+  # Phase 4 — Object storage (audio, video frames, model artifacts)
+  # minio:
+  #   image: minio/minio:latest
+  #   command: server /data --console-address ":9001"
+  #   ports: ["9000:9000", "9001:9001"]
+  #   volumes: ["minio_data:/data"]
+
+  # Phase 8 — Kafka-compatible streaming (ICU vitals, alerts)
+  # redpanda:
+  #   image: redpandadata/redpanda:latest
+  #   ports: ["9092:9092"]
+
+  # Phase 11 — Metrics + dashboards
+  # prometheus:
+  #   image: prom/prometheus:latest
+  #   ports: ["9090:9090"]
+
+  # grafana:
+  #   image: grafana/grafana:latest
+  #   ports: ["3001:3001"]
+  #   depends_on: [prometheus]
+
+volumes:
+  chroma_data:
+  postgres_data:
+  redis_data:
+  minio_data:

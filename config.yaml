@@ -1,0 +1,21 @@
+vector_store:
+  provider: memory          # memory | chroma | pinecone
+
+embeddings:
+  provider: tfidf           # tfidf | sentence_transformers | openai
+
+llm:
+  default:
+    provider: mock          # mock | ollama | openai | anthropic
+  phi_safe:
+    provider: mock          # PHI-bearing prompts — NEVER use a public LLM here
+
+state_store:
+  provider: memory          # memory | redis
+
+data:
+  research_source: synthetic  # synthetic | real_public (PubMed)
+
+thresholds:
+  faithfulness_review: 0.85   # below this score → human review required
+  sepsis_alert: 70            # above this score → sepsis alert fires

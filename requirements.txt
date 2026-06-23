@@ -1,0 +1,35 @@
+# ── Core orchestration ────────────────────────────────────────────────────────
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# ── Data & config ─────────────────────────────────────────────────────────────
+pyyaml>=6.0
+pydantic>=2.0
+
+# ── RAG & embeddings (local, no API key needed) ───────────────────────────────
+scikit-learn>=1.4          # TF-IDF embedder
+rank-bm25>=0.2             # BM25 keyword retrieval
+
+# ── Vector store (local) ──────────────────────────────────────────────────────
+chromadb>=0.5              # local vector DB (Phase 4+)
+
+# ── API layer ─────────────────────────────────────────────────────────────────
+fastapi>=0.111
+uvicorn[standard]>=0.30
+
+# ── Database ──────────────────────────────────────────────────────────────────
+psycopg2-binary>=2.9       # PostgreSQL driver
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest>=8.0
+pytest-asyncio>=0.23
+
+# ── Observability ─────────────────────────────────────────────────────────────
+structlog>=24.0            # structured JSON logging
+
+# ── Optional / cloud swap (uncomment when ready) ──────────────────────────────
+# openai>=1.0              # OpenAI LLM + embeddings
+# anthropic>=0.25          # Anthropic LLM
+# pinecone-client>=3.0     # Pinecone vector DB
+# redis>=5.0               # Redis state store
+# sentence-transformers>=2.7  # better local embeddings
