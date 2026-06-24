@@ -1,0 +1,66 @@
+referral_id: REF-2025-045782
+specialty: Cardiology
+urgency: URGENT
+patient_name: James Patterson
+patient_dob: 1961-07-22
+patient_sex: Male
+patient_mrn: MRN-7283940
+insurance: Aetna Commercial
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — CARDIOLOGY
+Date: 2025-03-14    Referral ID: REF-2025-045782
+Urgency: URGENT — Patient to be seen within 24-48 hours
+
+TO: Cardiology Department, Heart & Vascular Center
+FROM: Dr. Michael Chen, MD — Internal Medicine, NPI 1234567890
+      Primary Care Associates, Phone: (555) 200-1010, Fax: (555) 200-1011
+
+PATIENT: James Patterson | DOB: 1961-07-22 | Age: 63 | Sex: Male
+MRN: MRN-7283940 | Insurance: Aetna Commercial | Member ID: AC-7382910-1
+
+REASON FOR REFERRAL: Chest pain with rising high-sensitivity troponin — rule out NSTEMI;
+urgent cardiology evaluation and consideration for cardiac catheterisation.
+
+CLINICAL SUMMARY:
+Mr. Patterson is a 63-year-old male with significant cardiac risk factors including hypertension
+(on Lisinopril and Amlodipine), hyperlipidemia (on Atorvastatin), and type 2 diabetes (on Metformin).
+He is a former smoker with 35 pack-year history, quit 8 years ago. Family history notable for father
+with MI at age 59 and brother with CABG at age 62.
+
+Patient presented this evening with 4 hours of substernal, pressure-like chest pain (7/10) radiating
+to left jaw and left arm, associated with diaphoresis and dyspnoea. He reports a similar self-limited
+20-minute episode 2 weeks ago that he did not seek care for.
+
+Physical examination: BP 162/94, HR 98, RR 20, SpO2 95% on room air. In mild distress.
+Cardiac exam: RRR, no murmurs. Lungs clear. No peripheral oedema.
+
+EKG: New T-wave inversions in V2-V4. Biphasic T-waves in V1. No ST-elevation.
+
+Laboratory results today:
+- hs-cTnT 0h: 65 ng/L (ref <14) — ELEVATED
+- hs-cTnT 1h: 118 ng/L (delta 53 ng/L) — RISING — meets ESC 0/1h rule-in
+- BNP: 148 pg/mL (mildly elevated)
+- CMP: Cr 1.1, Glu 194, all others normal
+- Lipids: LDL 162, HDL 38 (suboptimal control)
+
+Current medications: Lisinopril 20mg QD, Atorvastatin 40mg QHS, Metformin 1000mg BID,
+Omeprazole 20mg QD, Aspirin 81mg QD.
+Allergies: Sulfa drugs (rash).
+
+ASSESSMENT: Rising hs-cTnT with anterior T-wave changes in a patient with multiple cardiac
+risk factors — consistent with NSTEMI. Patient was given aspirin loading, ticagrelor 180mg
+loading dose, and started on IV heparin per ACS protocol.
+
+QUESTIONS FOR CARDIOLOGY:
+1. Does patient require urgent cardiac catheterisation?
+2. What is TIMI/GRACE risk stratification?
+3. Confirm appropriateness of ticagrelor vs clopidogrel?
+4. Is early invasive strategy (<24h) indicated?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-847372 | Insurance: Aetna Commercial
+Authorised for: Urgent cardiology consultation and possible cardiac catheterisation
+
+Referring Physician: Dr. Michael Chen, MD
+NPI: 1234567890 | Phone: (555) 200-1010 | Fax Results To: (555) 200-1011

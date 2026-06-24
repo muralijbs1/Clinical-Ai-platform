@@ -1,0 +1,59 @@
+encounter_id: transcript-004
+encounter_type: Inpatient — ICU
+condition: Urosepsis / Septic Shock
+icd10_primary: A41.9
+data_tag: SYNTHETIC
+---
+DATE: 2025-01-07   TIME: 03:20   PROVIDER: Dr. Lisa Ramirez, MD (Pulmonary/Critical Care)
+
+CC: Septic shock secondary to urosepsis
+
+HPI: 74 yo F transferred from ED to MICU at 03:00. Family reports 3-day h/o dysuria, frequency,
+and confusion, worsening today. PMH: DM2, CHF (EF 40%), CKD 3b (baseline Cr 1.6-1.8), AFib on
+warfarin. Source likely urinary — UA positive LE/nitrites, urine culture pending.
+Initially hypotensive (SBP 78) — received 2L NS, BP partially responsive; norepinephrine initiated.
+Temperature 39.8°C. Lactate 4.1 on arrival.
+
+PMH: Sepsis secondary to UTI x2 | DM2 x 22 years | CHF (EF 40%) x 4 years | CKD 3b | AFib | HTN | Hypothyroidism
+
+Meds (home): Warfarin 5mg QD | Metformin 500mg BID | Furosemide 40mg QD | Metoprolol 25mg BID
+             Lisinopril 20mg QD | Levothyroxine 75mcg QD | Atorvastatin 40mg QHS
+
+ALLERGIES: Cephalosporins (documented anaphylaxis).
+
+OBJECTIVE (ICU admission):
+VS: BP 88/54 | HR 118 (irregular — AFib) | RR 28 | Temp 39.8°C | SpO2 90% on NRB mask | Wt 61kg
+CVP 4 cmH2O (low — volume depleted). UO last 2h: 35 mL (oliguric).
+
+GCS 9 (E3V2M4). Skin mottled bilateral knees. Bibasilar crackles. Suprapubic tenderness.
+
+LABS:
+CBC: WBC 22.4 [HIGH] | Hgb 9.8 [LOW] | Plt 88 [LOW — DIC concern] | Bands 18%
+CMP: Na 128 [LOW] | K 5.4 [HIGH] | CO2 16 [LOW] | BUN 52 [HIGH] | Cr 2.9 [HIGH — AKI on CKD]
+     Glu 312 [HIGH] | Albumin 2.8 [LOW]
+Lactate: 4.1 mmol/L [SEVERELY ELEVATED] | Procalcitonin: 18.4 ng/mL [MARKEDLY ELEVATED]
+ABG: pH 7.26 | PaCO2 28 | PaO2 62 | HCO3 12 [metabolic acidosis + resp compensation]
+INR: 3.8 [ELEVATED] | Fibrinogen: 148 mg/dL [LOW <200 — DIC pattern] | D-dimer 8.4 ug/mL
+UA: WBC >100/hpf | Nitrites POS | LE LARGE | Bacteria MANY
+Urine Gram stain: Gram-negative rods (preliminary)
+
+ASSESSMENT:
+1. Septic Shock — urosepsis — A41.9 + R65.21
+   qSOFA 3/3. SOFA estimated 10-12. GNR on Gram stain — E. coli/Klebsiella likely.
+2. AKI Stage 3 — N17.9 on CKD 3b — Cr 2.9 (baseline 1.6-1.8)
+3. Sepsis-induced coagulopathy / early DIC — D65
+4. Metabolic acidosis — lactic / type A — pH 7.26, Lactate 4.1
+5. Hypoxaemic respiratory failure — PaO2 62 on NRB; bilateral infiltrates
+6. AFib with rapid ventricular response — I48.91
+
+PLAN:
+1. Norepinephrine via central line at 0.12 mcg/kg/min; titrate to MAP ≥65
+2. Cautious fluid challenges (250mL boluses) given CHF EF 35%
+3. Antibiotics (NO cephalosporins — anaphylaxis):
+   - Levofloxacin 750mg IV q24h + Gentamicin 1.5 mg/kg IV q8h (double GNR coverage for shock)
+4. Hold: Metformin (lactic acidosis risk), Lisinopril (hypoperfusion), Furosemide, Warfarin
+5. Insulin infusion: maintain glucose 140-180 mg/dL
+6. Repeat lactate q2h. A-line. Repeat echo if haemodynamics not improving.
+7. DNR/DNI per prior directive — VERIFY paperwork with daughter.
+
+DISPOSITION: MICU, critical condition, guarded prognosis.

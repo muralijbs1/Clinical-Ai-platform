@@ -1,0 +1,62 @@
+referral_id: REF-2025-047382
+specialty: Endocrinology
+urgency: ROUTINE
+patient_name: Robert Martinez
+patient_dob: 1978-05-11
+patient_sex: Male
+patient_mrn: MRN-7293847
+insurance: Humana HMO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — ENDOCRINOLOGY
+Date: 2025-06-18    Referral ID: REF-2025-047382
+Urgency: ROUTINE — Appointment within 4 weeks
+
+TO: Endocrinology Department, Diabetes & Endocrine Center
+FROM: Dr. David Thompson, MD — Family Medicine, NPI 8374829014
+      Family Care Network, Phone: (555) 400-3300, Fax: (555) 400-3301
+
+PATIENT: Robert Martinez | DOB: 1978-05-11 | Age: 47 | Sex: Male
+MRN: MRN-7293847 | Insurance: Humana HMO | Member ID: HM-3847291-2
+
+REASON FOR REFERRAL: Poorly controlled type 2 diabetes mellitus with HbA1c 8.9% despite
+maximum doses of oral agents. Significant insulin resistance.
+
+CLINICAL SUMMARY:
+Mr. Martinez is a 47-year-old male with 8-year history of type 2 diabetes and progressively
+worsening glycaemic control. Currently on triple oral therapy at maximum doses.
+
+Relevant labs this month:
+- HbA1c: 8.9% (goal <7%)
+- Fasting glucose: 156 mg/dL
+- Fasting insulin: 34 mIU/L (ref 2-12) — MARKEDLY ELEVATED
+- HOMA-IR: 13.3 (ref <2) — SEVERE insulin resistance
+- C-peptide: 3.2 ng/mL (elevated — sufficient endogenous production)
+- Creatinine: 0.95, eGFR 91 (normal — SGLT2 inhibitor feasible)
+- ALT: 78 U/L (elevated — NAFLD suspected, confirmed on prior ultrasound)
+- Triglycerides: 256 mg/dL | LDL: 118 mg/dL | HDL: 38 mg/dL
+
+Physical examination: BP 138/84, HR 76. Weight 242 lbs, Ht 70 inches, BMI 34.7.
+No acanthosis nigricans. Central obesity. No neuropathy.
+
+Current medications: Metformin 1000mg BID, Pioglitazone 45mg QD, Linagliptin 5mg QD,
+Losartan 100mg QD, Atorvastatin 80mg QHS, Allopurinol 300mg QD, Aspirin 81mg QD.
+
+Comorbidities: HTN, hyperlipidemia, obesity (BMI 34.7), OSA on CPAP, NAFLD, gout.
+
+ASSESSMENT: Poorly controlled T2DM with severe insulin resistance (HOMA-IR 13.3), metabolic
+syndrome, NAFLD. Insufficient C-peptide suggests adequate beta-cell reserve — primary issue is
+insulin resistance. Candidate for GLP-1 agonist or SGLT2 inhibitor therapy.
+
+QUESTIONS FOR ENDOCRINOLOGY:
+1. Is GLP-1 agonist (semaglutide or liraglutide) preferred over insulin initiation?
+2. Should we add SGLT2 inhibitor given no cardiovascular events but high risk?
+3. How to best address the underlying insulin resistance?
+4. What is the goal BMI — does patient qualify for obesity pharmacotherapy?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-847291 | Insurance: Humana HMO
+Authorised for: Endocrinology consultation and diabetes management optimisation
+
+Referring Physician: Dr. David Thompson, MD
+NPI: 8374829014 | Phone: (555) 400-3300 | Fax Results To: (555) 400-3301

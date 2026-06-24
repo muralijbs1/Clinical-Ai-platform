@@ -1,0 +1,2280 @@
+{
+  "data_tag": "RANDOMISED",
+  "procedure": "Laparoscopic Cholecystectomy",
+  "n_frames": 60,
+  "fps": 25,
+  "random_seed": 42,
+  "phases": [
+    "Preparation",
+    "CalotTriangleDissection",
+    "ClippingCutting",
+    "GallbladderDissection",
+    "GallbladderPackaging",
+    "CleaningCoagulation",
+    "GallbladderRetraction"
+  ],
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "phase": "Preparation",
+      "phase_confidence": 0.806,
+      "detections": [
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.803,
+          "bbox_normalised": {
+            "x": 0.639,
+            "y": 0.591,
+            "w": 0.327,
+            "h": 0.08
+          }
+        },
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.746,
+          "bbox_normalised": {
+            "x": 0.225,
+            "y": 0.454,
+            "w": 0.059,
+            "h": 0.12
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.625
+        },
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.719,
+          "bbox_normalised": {
+            "x": 0.657,
+            "y": 0.178,
+            "w": 0.174,
+            "h": 0.147
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.879
+        }
+      ]
+    },
+    {
+      "frame_index": 1,
+      "timestamp_s": 0.04,
+      "phase": "Preparation",
+      "phase_confidence": 0.797,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.858,
+          "bbox_normalised": {
+            "x": 0.533,
+            "y": 0.696,
+            "w": 0.305,
+            "h": 0.186
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 2,
+      "timestamp_s": 0.08,
+      "phase": "Preparation",
+      "phase_confidence": 0.893,
+      "detections": [
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.86,
+          "bbox_normalised": {
+            "x": 0.106,
+            "y": 0.579,
+            "w": 0.321,
+            "h": 0.395
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.833
+        },
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.795,
+          "bbox_normalised": {
+            "x": 0.559,
+            "y": 0.342,
+            "w": 0.18,
+            "h": 0.123
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.705
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 1.0,
+          "bbox_normalised": {
+            "x": 0.246,
+            "y": 0.42,
+            "w": 0.144,
+            "h": 0.374
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 3,
+      "timestamp_s": 0.12,
+      "phase": "Preparation",
+      "phase_confidence": 0.837,
+      "detections": [
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.907,
+          "bbox_normalised": {
+            "x": 0.694,
+            "y": 0.371,
+            "w": 0.067,
+            "h": 0.37
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 4,
+      "timestamp_s": 0.16,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.729,
+      "detections": [
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.886,
+          "bbox_normalised": {
+            "x": 0.247,
+            "y": 0.499,
+            "w": 0.142,
+            "h": 0.255
+          }
+        },
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.458,
+          "bbox_normalised": {
+            "x": 0.458,
+            "y": 0.123,
+            "w": 0.066,
+            "h": 0.088
+          }
+        },
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.451,
+          "bbox_normalised": {
+            "x": 0.355,
+            "y": 0.847,
+            "w": 0.235,
+            "h": 0.15
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.74
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.688,
+          "bbox_normalised": {
+            "x": 0.651,
+            "y": 0.665,
+            "w": 0.152,
+            "h": 0.134
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 5,
+      "timestamp_s": 0.2,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.692,
+      "detections": [
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.855,
+          "bbox_normalised": {
+            "x": 0.746,
+            "y": 0.289,
+            "w": 0.18,
+            "h": 0.263
+          }
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.93,
+          "bbox_normalised": {
+            "x": 0.785,
+            "y": 0.529,
+            "w": 0.131,
+            "h": 0.089
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 6,
+      "timestamp_s": 0.24,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.926,
+      "detections": [
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.445,
+          "bbox_normalised": {
+            "x": 0.752,
+            "y": 0.808,
+            "w": 0.067,
+            "h": 0.119
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.889
+        },
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.811,
+          "bbox_normalised": {
+            "x": 0.153,
+            "y": 0.43,
+            "w": 0.242,
+            "h": 0.143
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.864
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.544,
+          "bbox_normalised": {
+            "x": 0.211,
+            "y": 0.299,
+            "w": 0.398,
+            "h": 0.277
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 7,
+      "timestamp_s": 0.28,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.839,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.564,
+          "bbox_normalised": {
+            "x": 0.067,
+            "y": 0.493,
+            "w": 0.256,
+            "h": 0.053
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.514
+        },
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.964,
+          "bbox_normalised": {
+            "x": 0.107,
+            "y": 0.24,
+            "w": 0.284,
+            "h": 0.125
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 8,
+      "timestamp_s": 0.32,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.991,
+      "detections": [
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.395,
+          "bbox_normalised": {
+            "x": 0.202,
+            "y": 0.128,
+            "w": 0.201,
+            "h": 0.198
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.43
+        },
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.74,
+          "bbox_normalised": {
+            "x": 0.249,
+            "y": 0.202,
+            "w": 0.207,
+            "h": 0.198
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 9,
+      "timestamp_s": 0.36,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.323,
+      "detections": [
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.765,
+          "bbox_normalised": {
+            "x": 0.128,
+            "y": 0.572,
+            "w": 0.239,
+            "h": 0.055
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.863
+        }
+      ]
+    },
+    {
+      "frame_index": 10,
+      "timestamp_s": 0.4,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.743,
+      "detections": [
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.592,
+          "bbox_normalised": {
+            "x": 0.772,
+            "y": 0.182,
+            "w": 0.05,
+            "h": 0.187
+          }
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.765,
+          "bbox_normalised": {
+            "x": 0.816,
+            "y": 0.846,
+            "w": 0.124,
+            "h": 0.125
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.69
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.805,
+          "bbox_normalised": {
+            "x": 0.301,
+            "y": 0.09,
+            "w": 0.217,
+            "h": 0.372
+          }
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.688,
+          "bbox_normalised": {
+            "x": 0.114,
+            "y": 0.199,
+            "w": 0.258,
+            "h": 0.286
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.689
+        }
+      ]
+    },
+    {
+      "frame_index": 11,
+      "timestamp_s": 0.44,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.771,
+      "detections": [
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.604,
+          "bbox_normalised": {
+            "x": 0.576,
+            "y": 0.502,
+            "w": 0.161,
+            "h": 0.141
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 12,
+      "timestamp_s": 0.48,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.543,
+      "detections": [
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.1,
+          "bbox_normalised": {
+            "x": 0.29,
+            "y": 0.303,
+            "w": 0.313,
+            "h": 0.075
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.437
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.848,
+          "bbox_normalised": {
+            "x": 0.156,
+            "y": 0.329,
+            "w": 0.074,
+            "h": 0.135
+          }
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 1.0,
+          "bbox_normalised": {
+            "x": 0.613,
+            "y": 0.539,
+            "w": 0.383,
+            "h": 0.279
+          }
+        },
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.696,
+          "bbox_normalised": {
+            "x": 0.801,
+            "y": 0.157,
+            "w": 0.067,
+            "h": 0.087
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 13,
+      "timestamp_s": 0.52,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.762,
+      "detections": [
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.801,
+          "bbox_normalised": {
+            "x": 0.6,
+            "y": 0.732,
+            "w": 0.227,
+            "h": 0.105
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.446
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.783,
+          "bbox_normalised": {
+            "x": 0.085,
+            "y": 0.317,
+            "w": 0.096,
+            "h": 0.393
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 14,
+      "timestamp_s": 0.56,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.845,
+      "detections": [
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.736,
+          "bbox_normalised": {
+            "x": 0.773,
+            "y": 0.486,
+            "w": 0.198,
+            "h": 0.254
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 15,
+      "timestamp_s": 0.6,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.755,
+      "detections": [
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.75,
+          "bbox_normalised": {
+            "x": 0.769,
+            "y": 0.218,
+            "w": 0.095,
+            "h": 0.086
+          }
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.313,
+          "bbox_normalised": {
+            "x": 0.174,
+            "y": 0.794,
+            "w": 0.353,
+            "h": 0.202
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.841
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.667,
+          "bbox_normalised": {
+            "x": 0.79,
+            "y": 0.676,
+            "w": 0.116,
+            "h": 0.234
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.794
+        }
+      ]
+    },
+    {
+      "frame_index": 16,
+      "timestamp_s": 0.64,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.545,
+      "detections": [
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.571,
+          "bbox_normalised": {
+            "x": 0.737,
+            "y": 0.228,
+            "w": 0.224,
+            "h": 0.211
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.511
+        }
+      ]
+    },
+    {
+      "frame_index": 17,
+      "timestamp_s": 0.68,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.982,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.27,
+          "bbox_normalised": {
+            "x": 0.741,
+            "y": 0.824,
+            "w": 0.108,
+            "h": 0.131
+          }
+        },
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.979,
+          "bbox_normalised": {
+            "x": 0.142,
+            "y": 0.826,
+            "w": 0.112,
+            "h": 0.169
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 18,
+      "timestamp_s": 0.72,
+      "phase": "CalotTriangleDissection",
+      "phase_confidence": 0.916,
+      "detections": [
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.738,
+          "bbox_normalised": {
+            "x": 0.399,
+            "y": 0.837,
+            "w": 0.09,
+            "h": 0.152
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.527
+        },
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.67,
+          "bbox_normalised": {
+            "x": 0.466,
+            "y": 0.695,
+            "w": 0.29,
+            "h": 0.29
+          }
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.561,
+          "bbox_normalised": {
+            "x": 0.787,
+            "y": 0.549,
+            "w": 0.158,
+            "h": 0.094
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 19,
+      "timestamp_s": 0.76,
+      "phase": "ClippingCutting",
+      "phase_confidence": 0.761,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.875,
+          "bbox_normalised": {
+            "x": 0.494,
+            "y": 0.203,
+            "w": 0.283,
+            "h": 0.183
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.708
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.825,
+          "bbox_normalised": {
+            "x": 0.717,
+            "y": 0.293,
+            "w": 0.099,
+            "h": 0.325
+          }
+        },
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.836,
+          "bbox_normalised": {
+            "x": 0.459,
+            "y": 0.685,
+            "w": 0.386,
+            "h": 0.245
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.542
+        }
+      ]
+    },
+    {
+      "frame_index": 20,
+      "timestamp_s": 0.8,
+      "phase": "ClippingCutting",
+      "phase_confidence": 0.823,
+      "detections": [
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.785,
+          "bbox_normalised": {
+            "x": 0.588,
+            "y": 0.23,
+            "w": 0.12,
+            "h": 0.059
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.892
+        }
+      ]
+    },
+    {
+      "frame_index": 21,
+      "timestamp_s": 0.84,
+      "phase": "ClippingCutting",
+      "phase_confidence": 0.775,
+      "detections": [
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.792,
+          "bbox_normalised": {
+            "x": 0.511,
+            "y": 0.625,
+            "w": 0.184,
+            "h": 0.18
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.728
+        },
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.78,
+          "bbox_normalised": {
+            "x": 0.673,
+            "y": 0.225,
+            "w": 0.273,
+            "h": 0.294
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.628
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.903,
+          "bbox_normalised": {
+            "x": 0.475,
+            "y": 0.497,
+            "w": 0.161,
+            "h": 0.314
+          }
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.966,
+          "bbox_normalised": {
+            "x": 0.764,
+            "y": 0.391,
+            "w": 0.219,
+            "h": 0.206
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 22,
+      "timestamp_s": 0.88,
+      "phase": "ClippingCutting",
+      "phase_confidence": 1.0,
+      "detections": [
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.762,
+          "bbox_normalised": {
+            "x": 0.272,
+            "y": 0.672,
+            "w": 0.22,
+            "h": 0.117
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.536
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.927,
+          "bbox_normalised": {
+            "x": 0.114,
+            "y": 0.171,
+            "w": 0.184,
+            "h": 0.103
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.432
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.904,
+          "bbox_normalised": {
+            "x": 0.423,
+            "y": 0.1,
+            "w": 0.342,
+            "h": 0.186
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.828
+        }
+      ]
+    },
+    {
+      "frame_index": 23,
+      "timestamp_s": 0.92,
+      "phase": "ClippingCutting",
+      "phase_confidence": 0.688,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.753,
+          "bbox_normalised": {
+            "x": 0.289,
+            "y": 0.362,
+            "w": 0.362,
+            "h": 0.343
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.644
+        },
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.849,
+          "bbox_normalised": {
+            "x": 0.073,
+            "y": 0.319,
+            "w": 0.288,
+            "h": 0.192
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.82
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.953,
+          "bbox_normalised": {
+            "x": 0.477,
+            "y": 0.776,
+            "w": 0.257,
+            "h": 0.165
+          }
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.923,
+          "bbox_normalised": {
+            "x": 0.353,
+            "y": 0.219,
+            "w": 0.164,
+            "h": 0.316
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 24,
+      "timestamp_s": 0.96,
+      "phase": "ClippingCutting",
+      "phase_confidence": 0.845,
+      "detections": [
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 1.0,
+          "bbox_normalised": {
+            "x": 0.426,
+            "y": 0.649,
+            "w": 0.068,
+            "h": 0.337
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.725
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.837,
+          "bbox_normalised": {
+            "x": 0.082,
+            "y": 0.075,
+            "w": 0.137,
+            "h": 0.344
+          }
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.839,
+          "bbox_normalised": {
+            "x": 0.808,
+            "y": 0.422,
+            "w": 0.086,
+            "h": 0.179
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.789
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.958,
+          "bbox_normalised": {
+            "x": 0.136,
+            "y": 0.071,
+            "w": 0.159,
+            "h": 0.287
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.438
+        }
+      ]
+    },
+    {
+      "frame_index": 25,
+      "timestamp_s": 1.0,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.668,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.74,
+          "bbox_normalised": {
+            "x": 0.73,
+            "y": 0.53,
+            "w": 0.077,
+            "h": 0.394
+          }
+        },
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.565,
+          "bbox_normalised": {
+            "x": 0.455,
+            "y": 0.323,
+            "w": 0.347,
+            "h": 0.338
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.617
+        }
+      ]
+    },
+    {
+      "frame_index": 26,
+      "timestamp_s": 1.04,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.491,
+      "detections": [
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.967,
+          "bbox_normalised": {
+            "x": 0.191,
+            "y": 0.467,
+            "w": 0.278,
+            "h": 0.266
+          }
+        },
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.743,
+          "bbox_normalised": {
+            "x": 0.398,
+            "y": 0.635,
+            "w": 0.144,
+            "h": 0.318
+          }
+        },
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.65,
+          "bbox_normalised": {
+            "x": 0.506,
+            "y": 0.585,
+            "w": 0.168,
+            "h": 0.223
+          }
+        },
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.859,
+          "bbox_normalised": {
+            "x": 0.334,
+            "y": 0.257,
+            "w": 0.148,
+            "h": 0.259
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 27,
+      "timestamp_s": 1.08,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.571,
+      "detections": [
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.669,
+          "bbox_normalised": {
+            "x": 0.375,
+            "y": 0.494,
+            "w": 0.134,
+            "h": 0.217
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.447
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.541,
+          "bbox_normalised": {
+            "x": 0.245,
+            "y": 0.581,
+            "w": 0.179,
+            "h": 0.244
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 28,
+      "timestamp_s": 1.12,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.474,
+      "detections": [
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.829,
+          "bbox_normalised": {
+            "x": 0.267,
+            "y": 0.251,
+            "w": 0.092,
+            "h": 0.117
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.771
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.903,
+          "bbox_normalised": {
+            "x": 0.198,
+            "y": 0.223,
+            "w": 0.219,
+            "h": 0.304
+          }
+        },
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.681,
+          "bbox_normalised": {
+            "x": 0.287,
+            "y": 0.339,
+            "w": 0.156,
+            "h": 0.298
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.537
+        }
+      ]
+    },
+    {
+      "frame_index": 29,
+      "timestamp_s": 1.16,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.91,
+      "detections": [
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.677,
+          "bbox_normalised": {
+            "x": 0.132,
+            "y": 0.06,
+            "w": 0.15,
+            "h": 0.218
+          }
+        },
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.5,
+          "bbox_normalised": {
+            "x": 0.252,
+            "y": 0.739,
+            "w": 0.09,
+            "h": 0.064
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.476
+        }
+      ]
+    },
+    {
+      "frame_index": 30,
+      "timestamp_s": 1.2,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.721,
+      "detections": [
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.74,
+          "bbox_normalised": {
+            "x": 0.145,
+            "y": 0.662,
+            "w": 0.262,
+            "h": 0.278
+          }
+        },
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.902,
+          "bbox_normalised": {
+            "x": 0.738,
+            "y": 0.842,
+            "w": 0.115,
+            "h": 0.117
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.874
+        },
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.801,
+          "bbox_normalised": {
+            "x": 0.262,
+            "y": 0.115,
+            "w": 0.134,
+            "h": 0.243
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 31,
+      "timestamp_s": 1.24,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.846,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.96,
+          "bbox_normalised": {
+            "x": 0.616,
+            "y": 0.612,
+            "w": 0.202,
+            "h": 0.282
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.613
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.58,
+          "bbox_normalised": {
+            "x": 0.169,
+            "y": 0.263,
+            "w": 0.1,
+            "h": 0.071
+          }
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.606,
+          "bbox_normalised": {
+            "x": 0.787,
+            "y": 0.401,
+            "w": 0.126,
+            "h": 0.156
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 32,
+      "timestamp_s": 1.28,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.783,
+      "detections": [
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 1.0,
+          "bbox_normalised": {
+            "x": 0.082,
+            "y": 0.396,
+            "w": 0.163,
+            "h": 0.138
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.9
+        },
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.932,
+          "bbox_normalised": {
+            "x": 0.511,
+            "y": 0.66,
+            "w": 0.111,
+            "h": 0.2
+          }
+        },
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.549,
+          "bbox_normalised": {
+            "x": 0.848,
+            "y": 0.399,
+            "w": 0.133,
+            "h": 0.389
+          }
+        },
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.741,
+          "bbox_normalised": {
+            "x": 0.314,
+            "y": 0.605,
+            "w": 0.151,
+            "h": 0.376
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 33,
+      "timestamp_s": 1.32,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.777,
+      "detections": [
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.726,
+          "bbox_normalised": {
+            "x": 0.742,
+            "y": 0.71,
+            "w": 0.05,
+            "h": 0.259
+          }
+        },
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.83,
+          "bbox_normalised": {
+            "x": 0.465,
+            "y": 0.548,
+            "w": 0.224,
+            "h": 0.205
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.864
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.75,
+          "bbox_normalised": {
+            "x": 0.438,
+            "y": 0.073,
+            "w": 0.271,
+            "h": 0.33
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.555
+        }
+      ]
+    },
+    {
+      "frame_index": 34,
+      "timestamp_s": 1.36,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.873,
+      "detections": [
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.724,
+          "bbox_normalised": {
+            "x": 0.419,
+            "y": 0.144,
+            "w": 0.341,
+            "h": 0.224
+          }
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.774,
+          "bbox_normalised": {
+            "x": 0.382,
+            "y": 0.436,
+            "w": 0.215,
+            "h": 0.21
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 35,
+      "timestamp_s": 1.4,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.792,
+      "detections": [
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.709,
+          "bbox_normalised": {
+            "x": 0.668,
+            "y": 0.734,
+            "w": 0.146,
+            "h": 0.22
+          }
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.721,
+          "bbox_normalised": {
+            "x": 0.849,
+            "y": 0.442,
+            "w": 0.065,
+            "h": 0.239
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 36,
+      "timestamp_s": 1.44,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.576,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.946,
+          "bbox_normalised": {
+            "x": 0.746,
+            "y": 0.835,
+            "w": 0.099,
+            "h": 0.094
+          }
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.771,
+          "bbox_normalised": {
+            "x": 0.428,
+            "y": 0.781,
+            "w": 0.183,
+            "h": 0.217
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.648
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.486,
+          "bbox_normalised": {
+            "x": 0.822,
+            "y": 0.316,
+            "w": 0.063,
+            "h": 0.346
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.663
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.735,
+          "bbox_normalised": {
+            "x": 0.165,
+            "y": 0.747,
+            "w": 0.389,
+            "h": 0.065
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 37,
+      "timestamp_s": 1.48,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.587,
+      "detections": [
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.729,
+          "bbox_normalised": {
+            "x": 0.737,
+            "y": 0.354,
+            "w": 0.117,
+            "h": 0.302
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.709
+        }
+      ]
+    },
+    {
+      "frame_index": 38,
+      "timestamp_s": 1.52,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.386,
+      "detections": [
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.493,
+          "bbox_normalised": {
+            "x": 0.848,
+            "y": 0.647,
+            "w": 0.094,
+            "h": 0.08
+          }
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.468,
+          "bbox_normalised": {
+            "x": 0.773,
+            "y": 0.087,
+            "w": 0.191,
+            "h": 0.153
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 39,
+      "timestamp_s": 1.56,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.601,
+      "detections": [
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.761,
+          "bbox_normalised": {
+            "x": 0.186,
+            "y": 0.113,
+            "w": 0.355,
+            "h": 0.267
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.649
+        },
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.826,
+          "bbox_normalised": {
+            "x": 0.419,
+            "y": 0.253,
+            "w": 0.139,
+            "h": 0.053
+          }
+        },
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.386,
+          "bbox_normalised": {
+            "x": 0.806,
+            "y": 0.84,
+            "w": 0.093,
+            "h": 0.156
+          }
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.522,
+          "bbox_normalised": {
+            "x": 0.209,
+            "y": 0.358,
+            "w": 0.219,
+            "h": 0.133
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 40,
+      "timestamp_s": 1.6,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.619,
+      "detections": [
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 1.0,
+          "bbox_normalised": {
+            "x": 0.367,
+            "y": 0.056,
+            "w": 0.353,
+            "h": 0.322
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 41,
+      "timestamp_s": 1.64,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.652,
+      "detections": [
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.598,
+          "bbox_normalised": {
+            "x": 0.536,
+            "y": 0.332,
+            "w": 0.273,
+            "h": 0.267
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.714
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.48,
+          "bbox_normalised": {
+            "x": 0.082,
+            "y": 0.681,
+            "w": 0.062,
+            "h": 0.148
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.445
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.584,
+          "bbox_normalised": {
+            "x": 0.382,
+            "y": 0.211,
+            "w": 0.325,
+            "h": 0.357
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 42,
+      "timestamp_s": 1.68,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.851,
+      "detections": [
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.648,
+          "bbox_normalised": {
+            "x": 0.824,
+            "y": 0.286,
+            "w": 0.16,
+            "h": 0.331
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.83
+        },
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.723,
+          "bbox_normalised": {
+            "x": 0.824,
+            "y": 0.694,
+            "w": 0.096,
+            "h": 0.252
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.532
+        }
+      ]
+    },
+    {
+      "frame_index": 43,
+      "timestamp_s": 1.72,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.819,
+      "detections": [
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.818,
+          "bbox_normalised": {
+            "x": 0.802,
+            "y": 0.137,
+            "w": 0.085,
+            "h": 0.059
+          }
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.657,
+          "bbox_normalised": {
+            "x": 0.227,
+            "y": 0.101,
+            "w": 0.338,
+            "h": 0.368
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.423
+        },
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.865,
+          "bbox_normalised": {
+            "x": 0.143,
+            "y": 0.238,
+            "w": 0.238,
+            "h": 0.186
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 44,
+      "timestamp_s": 1.76,
+      "phase": "GallbladderDissection",
+      "phase_confidence": 0.584,
+      "detections": [
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.478,
+          "bbox_normalised": {
+            "x": 0.174,
+            "y": 0.382,
+            "w": 0.085,
+            "h": 0.221
+          }
+        },
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.755,
+          "bbox_normalised": {
+            "x": 0.076,
+            "y": 0.346,
+            "w": 0.205,
+            "h": 0.383
+          }
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.652,
+          "bbox_normalised": {
+            "x": 0.337,
+            "y": 0.369,
+            "w": 0.116,
+            "h": 0.093
+          }
+        },
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.713,
+          "bbox_normalised": {
+            "x": 0.563,
+            "y": 0.528,
+            "w": 0.057,
+            "h": 0.325
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.434
+        }
+      ]
+    },
+    {
+      "frame_index": 45,
+      "timestamp_s": 1.8,
+      "phase": "GallbladderPackaging",
+      "phase_confidence": 0.897,
+      "detections": [
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.882,
+          "bbox_normalised": {
+            "x": 0.313,
+            "y": 0.168,
+            "w": 0.365,
+            "h": 0.051
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.67
+        },
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.811,
+          "bbox_normalised": {
+            "x": 0.579,
+            "y": 0.071,
+            "w": 0.055,
+            "h": 0.326
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.694
+        }
+      ]
+    },
+    {
+      "frame_index": 46,
+      "timestamp_s": 1.84,
+      "phase": "GallbladderPackaging",
+      "phase_confidence": 0.92,
+      "detections": [
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.857,
+          "bbox_normalised": {
+            "x": 0.141,
+            "y": 0.101,
+            "w": 0.207,
+            "h": 0.177
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.626
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.626,
+          "bbox_normalised": {
+            "x": 0.085,
+            "y": 0.677,
+            "w": 0.353,
+            "h": 0.192
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.899
+        }
+      ]
+    },
+    {
+      "frame_index": 47,
+      "timestamp_s": 1.88,
+      "phase": "GallbladderPackaging",
+      "phase_confidence": 0.91,
+      "detections": [
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.824,
+          "bbox_normalised": {
+            "x": 0.442,
+            "y": 0.778,
+            "w": 0.076,
+            "h": 0.064
+          }
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.829,
+          "bbox_normalised": {
+            "x": 0.489,
+            "y": 0.31,
+            "w": 0.398,
+            "h": 0.236
+          }
+        },
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.867,
+          "bbox_normalised": {
+            "x": 0.129,
+            "y": 0.611,
+            "w": 0.348,
+            "h": 0.271
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.615
+        },
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.707,
+          "bbox_normalised": {
+            "x": 0.321,
+            "y": 0.413,
+            "w": 0.196,
+            "h": 0.083
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 48,
+      "timestamp_s": 1.92,
+      "phase": "GallbladderPackaging",
+      "phase_confidence": 0.824,
+      "detections": [
+        {
+          "label": "CysticDuct",
+          "category": "anatomy",
+          "confidence": 0.914,
+          "bbox_normalised": {
+            "x": 0.104,
+            "y": 0.715,
+            "w": 0.083,
+            "h": 0.073
+          }
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.695,
+          "bbox_normalised": {
+            "x": 0.098,
+            "y": 0.815,
+            "w": 0.247,
+            "h": 0.14
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 49,
+      "timestamp_s": 1.96,
+      "phase": "GallbladderPackaging",
+      "phase_confidence": 0.947,
+      "detections": [
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.677,
+          "bbox_normalised": {
+            "x": 0.3,
+            "y": 0.133,
+            "w": 0.228,
+            "h": 0.104
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 50,
+      "timestamp_s": 2.0,
+      "phase": "CleaningCoagulation",
+      "phase_confidence": 0.79,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.84,
+          "bbox_normalised": {
+            "x": 0.509,
+            "y": 0.696,
+            "w": 0.346,
+            "h": 0.298
+          }
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.585,
+          "bbox_normalised": {
+            "x": 0.714,
+            "y": 0.264,
+            "w": 0.093,
+            "h": 0.296
+          }
+        },
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.885,
+          "bbox_normalised": {
+            "x": 0.055,
+            "y": 0.746,
+            "w": 0.248,
+            "h": 0.132
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.446
+        }
+      ]
+    },
+    {
+      "frame_index": 51,
+      "timestamp_s": 2.04,
+      "phase": "CleaningCoagulation",
+      "phase_confidence": 0.914,
+      "detections": [
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.706,
+          "bbox_normalised": {
+            "x": 0.323,
+            "y": 0.346,
+            "w": 0.303,
+            "h": 0.322
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.478
+        },
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.736,
+          "bbox_normalised": {
+            "x": 0.589,
+            "y": 0.268,
+            "w": 0.282,
+            "h": 0.22
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 52,
+      "timestamp_s": 2.08,
+      "phase": "CleaningCoagulation",
+      "phase_confidence": 0.676,
+      "detections": [
+        {
+          "label": "Grasper",
+          "category": "tool",
+          "confidence": 0.81,
+          "bbox_normalised": {
+            "x": 0.277,
+            "y": 0.593,
+            "w": 0.22,
+            "h": 0.283
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.51
+        }
+      ]
+    },
+    {
+      "frame_index": 53,
+      "timestamp_s": 2.12,
+      "phase": "CleaningCoagulation",
+      "phase_confidence": 0.807,
+      "detections": [
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.755,
+          "bbox_normalised": {
+            "x": 0.664,
+            "y": 0.661,
+            "w": 0.133,
+            "h": 0.085
+          }
+        },
+        {
+          "label": "Liver",
+          "category": "anatomy",
+          "confidence": 0.696,
+          "bbox_normalised": {
+            "x": 0.153,
+            "y": 0.476,
+            "w": 0.131,
+            "h": 0.246
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 54,
+      "timestamp_s": 2.16,
+      "phase": "CleaningCoagulation",
+      "phase_confidence": 0.646,
+      "detections": [
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.723,
+          "bbox_normalised": {
+            "x": 0.787,
+            "y": 0.74,
+            "w": 0.144,
+            "h": 0.17
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.603
+        }
+      ]
+    },
+    {
+      "frame_index": 55,
+      "timestamp_s": 2.2,
+      "phase": "CleaningCoagulation",
+      "phase_confidence": 0.619,
+      "detections": [
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.878,
+          "bbox_normalised": {
+            "x": 0.418,
+            "y": 0.602,
+            "w": 0.177,
+            "h": 0.202
+          }
+        },
+        {
+          "label": "Scissors",
+          "category": "tool",
+          "confidence": 0.852,
+          "bbox_normalised": {
+            "x": 0.746,
+            "y": 0.647,
+            "w": 0.095,
+            "h": 0.286
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.655
+        },
+        {
+          "label": "Irrigator",
+          "category": "tool",
+          "confidence": 0.712,
+          "bbox_normalised": {
+            "x": 0.205,
+            "y": 0.671,
+            "w": 0.173,
+            "h": 0.317
+          },
+          "risk_flag": "bleeding_risk_elevation",
+          "risk_composite_score": 0.473
+        }
+      ]
+    },
+    {
+      "frame_index": 56,
+      "timestamp_s": 2.24,
+      "phase": "GallbladderRetraction",
+      "phase_confidence": 0.791,
+      "detections": [
+        {
+          "label": "Clipper",
+          "category": "tool",
+          "confidence": 0.656,
+          "bbox_normalised": {
+            "x": 0.658,
+            "y": 0.574,
+            "w": 0.102,
+            "h": 0.32
+          }
+        },
+        {
+          "label": "CysticArtery",
+          "category": "anatomy",
+          "confidence": 0.847,
+          "bbox_normalised": {
+            "x": 0.564,
+            "y": 0.839,
+            "w": 0.163,
+            "h": 0.158
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 57,
+      "timestamp_s": 2.28,
+      "phase": "GallbladderRetraction",
+      "phase_confidence": 0.864,
+      "detections": [
+        {
+          "label": "CalotTriangle",
+          "category": "anatomy",
+          "confidence": 0.874,
+          "bbox_normalised": {
+            "x": 0.523,
+            "y": 0.332,
+            "w": 0.076,
+            "h": 0.212
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.428
+        },
+        {
+          "label": "Gallbladder",
+          "category": "anatomy",
+          "confidence": 0.732,
+          "bbox_normalised": {
+            "x": 0.566,
+            "y": 0.832,
+            "w": 0.082,
+            "h": 0.12
+          },
+          "risk_flag": "proximity_to_common_bile_duct",
+          "risk_composite_score": 0.625
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.936,
+          "bbox_normalised": {
+            "x": 0.201,
+            "y": 0.534,
+            "w": 0.225,
+            "h": 0.385
+          }
+        },
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.751,
+          "bbox_normalised": {
+            "x": 0.836,
+            "y": 0.117,
+            "w": 0.124,
+            "h": 0.064
+          }
+        }
+      ]
+    },
+    {
+      "frame_index": 58,
+      "timestamp_s": 2.32,
+      "phase": "GallbladderRetraction",
+      "phase_confidence": 0.514,
+      "detections": [
+        {
+          "label": "Coagulator",
+          "category": "tool",
+          "confidence": 0.772,
+          "bbox_normalised": {
+            "x": 0.36,
+            "y": 0.67,
+            "w": 0.288,
+            "h": 0.065
+          }
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.767,
+          "bbox_normalised": {
+            "x": 0.359,
+            "y": 0.252,
+            "w": 0.348,
+            "h": 0.388
+          },
+          "risk_flag": "bile_spillage_risk",
+          "risk_composite_score": 0.567
+        }
+      ]
+    },
+    {
+      "frame_index": 59,
+      "timestamp_s": 2.36,
+      "phase": "GallbladderRetraction",
+      "phase_confidence": 0.787,
+      "detections": [
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.81,
+          "bbox_normalised": {
+            "x": 0.609,
+            "y": 0.364,
+            "w": 0.253,
+            "h": 0.378
+          }
+        },
+        {
+          "label": "Clip",
+          "category": "anatomy",
+          "confidence": 0.828,
+          "bbox_normalised": {
+            "x": 0.683,
+            "y": 0.701,
+            "w": 0.229,
+            "h": 0.256
+          }
+        },
+        {
+          "label": "SpecimenBag",
+          "category": "tool",
+          "confidence": 0.673,
+          "bbox_normalised": {
+            "x": 0.389,
+            "y": 0.339,
+            "w": 0.177,
+            "h": 0.113
+          },
+          "risk_flag": "critical_view_not_achieved",
+          "risk_composite_score": 0.571
+        }
+      ]
+    }
+  ]
+}

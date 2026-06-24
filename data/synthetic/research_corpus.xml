@@ -1,0 +1,1195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38421001</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>390</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Dapagliflozin in Heart Failure with Reduced Ejection Fraction: Outcomes from the DAPA-HF Extension Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>312-323</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: SGLT2 inhibitors reduce mortality and hospitalisation in patients with heart failure with reduced ejection fraction (HFrEF). Long-term data beyond 18 months remain limited. Methods: We conducted a double-blind, randomised, placebo-controlled extension of the DAPA-HF trial enrolling 4,744 patients with HFrEF (LVEF ≤40%) and NYHA class II-IV symptoms. The primary composite endpoint was worsening heart failure or cardiovascular death. Results: Over a median follow-up of 36 months, the primary composite endpoint occurred in 26.3% of the dapagliflozin group versus 34.1% of the placebo group (HR 0.74, 95% CI 0.65-0.85, P&lt;0.001). All-cause mortality was 19.8% vs 24.6% (HR 0.80, 95% CI 0.68-0.93). Benefits were consistent regardless of diabetes status (P-interaction 0.89). Conclusions: Dapagliflozin provides sustained reduction in cardiovascular death and worsening heart failure over 36 months in HFrEF patients independent of diabetes status. These findings (Level I, Grade A evidence) support universal incorporation of SGLT2 inhibitors into guideline-directed medical therapy for HFrEF.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Greene</LastName>
+            <Initials>SJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McMurray</LastName>
+            <Initials>JJV</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Solomon</LastName>
+            <Initials>SD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kosiborod</LastName>
+            <Initials>MN</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Heart Failure</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Heart Failure</DescriptorName>
+          <QualifierName>physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sodium-Glucose Transporter 2 Inhibitors</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Stroke Volume</DescriptorName>
+          <QualifierName>physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38421001</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2317445</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">37892044</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>49</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Intensive Care Medicine</Title>
+          <ISOAbbreviation>Intensive Care Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Early Restrictive versus Liberal Fluid Resuscitation in Septic Shock: A Multicentre Randomised Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1298-1309</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Optimal fluid volume during resuscitation of septic shock remains debated. Excessive fluid may worsen outcomes through oedema and organ failure. Methods: In this multicentre, open-label randomised trial, we enrolled 1,554 adult patients with septic shock randomised 1:1 to restrictive fluid strategy or liberal strategy. Results: The restrictive group received a median 2.4 L versus 4.1 L in the liberal group in the first 72 hours (P&lt;0.001). Ninety-day mortality was 36.8% restrictive vs 37.9% liberal (OR 0.95, 95% CI 0.78-1.16, P=0.62). Serious adverse events occurred in 23.6% vs 28.4% (OR 0.78, P=0.02), driven by fewer acute kidney injury episodes in the restrictive group. Conclusions: Restrictive fluid resuscitation does not reduce 90-day mortality in septic shock but is associated with fewer serious adverse events (Level II, Grade A). A targeted, reassessment-based fluid approach is supported over protocolised liberal resuscitation.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hjortrup</LastName>
+            <Initials>PB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Møller</LastName>
+            <Initials>MH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vestergaard</LastName>
+            <Initials>SR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Perner</LastName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Septic Shock</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Fluid Therapy</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Resuscitation</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hemodynamics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Critical Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intensive Care Units</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37892044</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00134-023-07214-3</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38104782</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>24</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lancet Infectious Diseases</Title>
+          <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Procalcitonin-Guided Antibiotic Stewardship in Sepsis: Systematic Review and Meta-Analysis of 32 Randomised Trials</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>289-301</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Procalcitonin (PCT) is used to guide antibiotic initiation and discontinuation in sepsis, but its net clinical benefit remains uncertain. Methods: We systematically searched MEDLINE, Cochrane, and EMBASE for randomised trials comparing PCT-guided antibiotic decisions to standard care. Thirty-two trials (n=8,473) met inclusion criteria. Results: PCT-guided care reduced antibiotic duration by 1.9 days (95% CI 1.4-2.4, P&lt;0.001) without increasing 28-day mortality (RR 0.91, 95% CI 0.84-0.99, P=0.03 favouring PCT). PCT cut-off of ≤0.5 ng/mL for discontinuation had highest sensitivity-specificity balance. Conclusions: PCT-guided antibiotic stewardship safely reduces antibiotic exposure and may reduce mortality in sepsis. This meta-analysis (Level I, Grade A) supports integration of PCT thresholds into sepsis antibiotic management protocols at cut-off ≤0.5 ng/mL.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Schuetz</LastName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wirz</LastName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sager</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Müller</LastName>
+            <Initials>B</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>META-ANALYSIS</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Procalcitonin</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sepsis</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Biomarkers</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Antibiotic Stewardship</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Systematic Review</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Meta-Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38104782</ArticleId>
+        <ArticleId IdType="doi">10.1016/S1473-3099(23)00512-8</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38231567</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>83</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of the American College of Cardiology</Title>
+          <ISOAbbreviation>J Am Coll Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>High-Sensitivity Troponin T in the Rapid Evaluation of Non-ST-Elevation Acute Coronary Syndrome: The RAPID-NSTEMI Validation Study</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>701-713</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Rapid rule-out of NSTEMI using high-sensitivity cardiac troponin (hs-cTnT) reduces unnecessary admissions. Optimal 0/1-hour versus 0/2-hour strategies require prospective validation across diverse ED populations. Methods: We prospectively enrolled 3,612 consecutive patients with chest pain and no ST-elevation. Hs-cTnT was measured at 0 and 1 hour. The ESC 0/1-hour algorithm was applied. Results: NSTEMI was diagnosed in 17.3%. The 0/1-hour algorithm classified 41.2% as rule-out (sensitivity 99.4%, NPV 99.9%), 22.6% as rule-in (PPV 74.8%). Among rule-out patients, 30-day MACE occurred in 0.6% (95% CI 0.1-1.4%). Conclusions: The ESC 0/1-hour hs-cTnT algorithm demonstrates excellent safety for NSTEMI rule-out in routine ED practice (Level II, Grade B).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shah</LastName>
+            <Initials>ASV</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sandoval</LastName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nofer</LastName>
+            <Initials>JR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mills</LastName>
+            <Initials>NL</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Troponin T</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Non-ST Elevated Myocardial Infarction</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Acute Coronary Syndrome</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Biomarkers</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Emergency Service, Hospital</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38231567</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jacc.2023.11.042</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">37654321</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>44</Volume>
+            <Issue>22</Issue>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>European Heart Journal</Title>
+          <ISOAbbreviation>Eur Heart J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Empagliflozin in Heart Failure with Preserved Ejection Fraction: Subgroup Analysis of the EMPEROR-Preserved Trial by Ejection Fraction Quartile</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2058-2071</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: EMPEROR-Preserved demonstrated empagliflozin reduces heart failure hospitalisation in HFpEF (LVEF ≥40%). Whether benefit varies by ejection fraction subgroup remains unclear. Methods: Pre-specified subgroup analysis of n=5,988 patients divided by LVEF quartile. Results: Empagliflozin reduced the primary endpoint across all EF quartiles (HR range 0.73-0.82). Absolute risk reduction was greatest in Q1 (HFmrEF): 5.4% vs 2.1% in Q4. Conclusions: Empagliflozin benefits are present across the full spectrum of preserved and mildly reduced EF, with greatest absolute benefit in HFmrEF (Level I, Grade A). LVEF should not be used to exclude patients from SGLT2 inhibitor therapy in the EF ≥40% population.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Anker</LastName>
+            <Initials>SD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Butler</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Filippatos</LastName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zannad</LastName>
+            <Initials>F</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Heart Failure</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sodium-Glucose Transporter 2 Inhibitors</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Stroke Volume</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Ventricular Function, Left</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37654321</ArticleId>
+        <ArticleId IdType="doi">10.1093/eurheartj/ehad178</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38561234</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>81</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Hypertension</Title>
+          <ISOAbbreviation>Hypertension</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Intensive Blood Pressure Reduction in Patients with Type 2 Diabetes and Stage 3 Chronic Kidney Disease: A Multicentre RCT</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1042-1055</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Optimal BP targets in patients with coexisting T2DM and CKD stage 3 are undefined. Methods: We randomised 2,184 adults with T2DM, CKD3, and SBP 130-179 mmHg to intensive (target SBP &lt;120 mmHg) versus standard (target SBP &lt;140 mmHg) treatment. Mean follow-up 4.1 years. Results: The intensive group achieved mean SBP 118.3 vs 133.7 mmHg. Primary endpoint occurred in 14.2% intensive vs 19.8% standard (HR 0.69, 95% CI 0.58-0.83, P&lt;0.001). Conclusions: Intensive BP control targeting SBP &lt;120 mmHg significantly reduces kidney and cardiovascular events in T2DM-CKD3 patients (Level II, Grade A) at cost of modest increase in hypotension.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Whelton</LastName>
+            <Initials>PK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carey</LastName>
+            <Initials>RM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aronow</LastName>
+            <Initials>WS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wright JT</LastName>
+            <Initials>Jr</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hypertension</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Diabetes Mellitus, Type 2</DescriptorName>
+          <QualifierName>complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Blood Pressure</DescriptorName>
+          <QualifierName>physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Antihypertensive Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38561234</ArticleId>
+        <ArticleId IdType="doi">10.1161/HYPERTENSIONAHA.123.22981</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">37123456</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>46</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Diabetes Care</Title>
+          <ISOAbbreviation>Diabetes Care</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>GLP-1 Receptor Agonists for Weight Loss and Glycaemic Control in Obese Adults with Type 2 Diabetes: A Network Meta-Analysis</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1721-1734</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Multiple GLP-1 receptor agonists (GLP-1 RAs) are now approved for T2DM and obesity but direct head-to-head comparisons are scarce. Methods: Network meta-analysis of 61 trials (n=52,413 patients) comparing GLP-1 RAs. Results: Semaglutide 2.4 mg weekly produced greatest HbA1c reduction (-1.8%, 95% CrI -2.1 to -1.5) and weight loss (-12.4 kg). All GLP-1 RAs significantly reduced weight vs placebo. MACE reduction confirmed for semaglutide and liraglutide. Conclusions: Semaglutide 2.4 mg provides superior glycaemic and weight outcomes among GLP-1 RAs in obese T2DM patients (Level I, Grade A). Agent selection should balance efficacy, cost, dosing frequency, and individual cardiovascular risk profile.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Davies</LastName>
+            <Initials>MJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aroda</LastName>
+            <Initials>VR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Collins</LastName>
+            <Initials>BS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buse</LastName>
+            <Initials>JB</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>META-ANALYSIS</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Glucagon-Like Peptide-1 Receptor</DescriptorName>
+          <QualifierName>agonists</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Diabetes Mellitus, Type 2</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Obesity</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hypoglycemic Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Glycated Hemoglobin</DescriptorName>
+          <QualifierName>analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Network Meta-Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37123456</ArticleId>
+        <ArticleId IdType="doi">10.2337/dc23-0442</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38441289</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>52</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Critical Care Medicine</Title>
+          <ISOAbbreviation>Crit Care Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Vasopressor Initiation Timing in Septic Shock: Early vs Delayed Norepinephrine and Effects on 28-Day Mortality</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>878-890</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Current sepsis guidelines recommend vasopressors when MAP remains &lt;65 mmHg despite fluid resuscitation, but optimal timing relative to fluid resuscitation is unknown. Methods: This parallel-group RCT enrolled 820 adults presenting to 12 ICUs with septic shock. Early arm initiated norepinephrine within 1 hour. Delayed arm used fluid resuscitation alone for up to 3 hours. Results: 28-day mortality was 34.1% early vs 40.2% delayed (RR 0.85, 95% CI 0.72-0.99, P=0.04). Early norepinephrine reduced total fluid volume at 6h by 1.1 L (P&lt;0.001). Conclusions: Early norepinephrine initiation within 1 hour of septic shock recognition reduces 28-day mortality and fluid requirements (Level II, Grade A). This supports earlier vasopressor use in haemodynamically unstable septic shock.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lamontagne</LastName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meade</LastName>
+            <Initials>MO</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hébert</LastName>
+            <Initials>PC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Asfar</LastName>
+            <Initials>P</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Shock, Septic</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Norepinephrine</DescriptorName>
+          <QualifierName>administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Vasoconstrictor Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Time-to-Treatment</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intensive Care Units</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38441289</ArticleId>
+        <ArticleId IdType="doi">10.1097/CCM.0000000000006231</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">37789012</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>34</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of the American Society of Nephrology</Title>
+          <ISOAbbreviation>J Am Soc Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Canagliflozin and Renal Outcomes in Diabetic Nephropathy: Five-Year Follow-Up of the CREDENCE Trial Cohort</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1398-1411</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: The CREDENCE trial demonstrated canagliflozin reduces end-stage kidney disease in diabetic nephropathy. Extended follow-up examines durability of renoprotective effects. Methods: Extended follow-up of 4,401 CREDENCE participants for 5 years. Results: The primary renal composite was 24.2% canagliflozin vs 31.4% placebo (HR 0.72, 95% CI 0.62-0.83). eGFR slope in years 1-5: -0.8 vs -2.1 mL/min/1.73m² per year (P&lt;0.001). Post-treatment eGFR trajectories remained diverged for 24 months after discontinuation. Conclusions: Canagliflozin provides durable renoprotection over 5 years in diabetic nephropathy with persistent benefit for 24 months after treatment discontinuation (Level I, Grade A).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Perkovic</LastName>
+            <Initials>V</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jardine</LastName>
+            <Initials>MJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Neal</LastName>
+            <Initials>B</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mahaffey</LastName>
+            <Initials>KW</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Diabetic Nephropathies</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sodium-Glucose Transporter 2 Inhibitors</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Canagliflozin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+          <QualifierName>drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37789012</ArticleId>
+        <ArticleId IdType="doi">10.1681/ASN.0000000000000171</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38198740</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>279</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of Surgery</Title>
+          <ISOAbbreviation>Ann Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Laparoscopic Cholecystectomy Complications and Risk Stratification: A Prospective Cohort Study of 18,420 Procedures</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>442-451</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Bile duct injury (BDI) remains the most serious complication of laparoscopic cholecystectomy (LC). Real-world incidence and risk factors from large prospective series are needed. Methods: Prospective single-registry cohort study of 18,420 consecutive LC procedures across 34 hospitals (2019-2023). Results: BDI occurred in 0.38% of cases. Independent risk factors: acute cholecystitis within 72h (OR 3.2), obesity BMI &gt;40 (OR 2.1), inexperienced surgeon &lt;50 cases (OR 4.7). Intraoperative cholangiography reduced BDI by 62%. Critical view of safety (CVS) documented in 71% of cases; CVS documentation associated with 79% lower BDI rate. Conclusions: BDI rate of 0.38% confirms LC safety at experienced centres (Level II, Grade B). Systematic CVS documentation and liberal IOC use are the most effective preventive strategies.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Strasberg</LastName>
+            <Initials>SM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pucci</LastName>
+            <Initials>MJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brunt</LastName>
+            <Initials>LM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deziel</LastName>
+            <Initials>DJ</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Cholecystectomy, Laparoscopic</DescriptorName>
+          <QualifierName>adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Bile Duct Injuries</DescriptorName>
+          <QualifierName>etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intraoperative Complications</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Postoperative Complications</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38198740</ArticleId>
+        <ArticleId IdType="doi">10.1097/SLA.0000000000006089</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">37456789</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>4</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>European Heart Journal - Digital Health</Title>
+          <ISOAbbreviation>Eur Heart J Digit Health</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Atrial Fibrillation Detection Using Wearable Single-Lead ECG: Validation Against 24-Hour Holter Monitoring in 5,000 Patients</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>298-308</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Wearable single-lead ECG devices may enable opportunistic AF detection in community settings, but diagnostic accuracy versus standard Holter monitoring requires validation. Methods: Prospective cross-sectional study in 5,000 patients wearing both devices simultaneously. Results: AF confirmed in 18.3% by Holter. Wearable device sensitivity 93.4% (95% CI 91.6-95.0%), specificity 91.8%, PPV 82.3%, NPV 97.3%. Paroxysmal AF &lt;30 minutes had lower sensitivity (76.2%). Conclusions: Single-lead wearable ECG demonstrates high sensitivity and specificity for AF detection versus 24-hour Holter (Level II, Grade B). NPV supports use as a rule-out tool.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hindricks</LastName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Potpara</LastName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dagres</LastName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arbelo</LastName>
+            <Initials>E</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Atrial Fibrillation</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Wearable Electronic Devices</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Electrocardiography, Ambulatory</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Diagnosis, Computer-Assisted</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37456789</ArticleId>
+        <ArticleId IdType="doi">10.1093/ehjdh/ztad041</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38342156</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>28</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Critical Care</Title>
+          <ISOAbbreviation>Crit Care</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Sepsis-3 Criteria versus SIRS in Predicting 30-Day Mortality: Retrospective Analysis of 98,000 Hospital Admissions</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>89</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: The Sepsis-3 definitions replaced SIRS-based criteria with organ dysfunction (SOFA ≥2) as the diagnostic cornerstone. Whether this improves mortality prediction remains debated. Methods: Retrospective analysis of 98,241 hospital admissions at 12 US academic medical centres. Results: Sepsis-3 C-statistic for 30-day mortality: 0.74 vs SIRS C-statistic 0.64 (difference 0.10, P&lt;0.001). qSOFA ≥2 had C-statistic 0.71 with high specificity (98.9%) but low sensitivity (28.5%). Conclusions: Sepsis-3 criteria significantly outperform SIRS in predicting 30-day mortality (Level III, Grade B). qSOFA is highly specific but misses sepsis cases; SOFA-based criteria should remain primary in ICU settings.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Seymour</LastName>
+            <Initials>CW</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <Initials>VX</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Iwashyna</LastName>
+            <Initials>TJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shankar-Hari</LastName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sepsis</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Systemic Inflammatory Response Syndrome</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospital Mortality</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Organ Dysfunction Scores</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intensive Care Units</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level III</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38342156</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13054-024-04872-z</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">37654987</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>158</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA Surgery</Title>
+          <ISOAbbreviation>JAMA Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robotic-Assisted versus Laparoscopic Cholecystectomy: Operative Outcomes from a Propensity-Matched National Database Study</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1089-1097</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Robotic-assisted cholecystectomy adoption is increasing despite limited comparative safety data versus standard laparoscopic approach. Methods: 14,228 robotic-assisted were propensity-matched to 14,228 laparoscopic cases from the ACS NSQIP database (2019-2022). Results: Major complication rate: robotic 3.1% vs laparoscopic 3.4% (OR 0.91, P=0.26). Operative time was longer for robotic (68 vs 51 min). Bile duct injury: 0.24% vs 0.31% (P=0.31). Hospital cost was 34% higher for robotic. Conclusions: Robotic-assisted cholecystectomy provides equivalent safety to laparoscopic approach but with longer operative times and substantially higher cost (Level III, Grade B).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Azagury</LastName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <Initials>RC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Morgan</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Curet</LastName>
+            <Initials>MJ</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Cholecystectomy, Laparoscopic</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Robotic Surgical Procedures</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Postoperative Complications</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Operative Time</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Propensity Score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level III</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37654987</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamasurg.2023.3442</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">38123409</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>19</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of Hospital Medicine</Title>
+          <ISOAbbreviation>J Hosp Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Clinical Decision Support for Sepsis Recognition: Alert Fatigue and Override Rates in a Tertiary Care System</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>211-219</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Sepsis alert systems improve recognition but generate high rates of false-positive alerts leading to alert fatigue and reduced adherence. Methods: Retrospective analysis of 48,291 sepsis alerts at a 500-bed tertiary hospital over 24 months. Results: Alert positive predictive value was 31.2%. Clinician override rate was 54.2%; 82.4% of overrides were appropriate (true false positives). Machine learning re-calibration reduced false-positive alerts by 41% without increasing missed sepsis cases. Conclusions: Current sepsis alert systems suffer from high false-positive rates driving alert fatigue (Level III, Grade C). Machine learning optimisation reduces false positives substantially. Human-in-the-loop review workflows must account for clinician override patterns.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rhee</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dantes</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Epstein</LastName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Murphy</LastName>
+            <Initials>DJ</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sepsis</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Decision Support Systems, Clinical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Alert Fatigue, Health Personnel</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Electronic Health Records</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospital Information Systems</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level III</OtherID>
+      <OtherID Source="EvidenceGrade">Grade C</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38123409</ArticleId>
+        <ArticleId IdType="doi">10.1002/jhm.13292</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">37891234</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>108</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2023</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of Clinical Endocrinology &amp; Metabolism</Title>
+          <ISOAbbreviation>J Clin Endocrinol Metab</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Metformin versus SGLT2 Inhibitor as First-Line Therapy in Newly Diagnosed Type 2 Diabetes with High Cardiovascular Risk</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1802-1814</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Current T2DM guidelines recommend metformin as first-line therapy, but SGLT2 inhibitors have demonstrated superior cardiovascular and renal outcomes. Methods: Propensity-matched cohort study (n=24,816) of newly diagnosed T2DM patients with established cardiovascular disease initiating metformin or empagliflozin as monotherapy. Results: MACE occurred in 6.8% empagliflozin vs 9.2% metformin (HR 0.73, 95% CI 0.62-0.87, P&lt;0.001). Heart failure hospitalisation: 2.1% vs 3.8% (HR 0.54). Conclusions: Empagliflozin as initial monotherapy provides superior cardiovascular and renal outcomes versus metformin in high-risk T2DM (Level II, Grade B). These data support re-evaluation of metformin as default first-line in high cardiovascular risk patients.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kosiborod</LastName>
+            <Initials>MN</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lam</LastName>
+            <Initials>CSP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kohsaka</LastName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <Initials>DJ</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>JOURNAL ARTICLE</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Metformin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sodium-Glucose Transporter 2 Inhibitors</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Diabetes Mellitus, Type 2</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hypoglycemic Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37891234</ArticleId>
+        <ArticleId IdType="doi">10.1210/clinem/dgad142</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

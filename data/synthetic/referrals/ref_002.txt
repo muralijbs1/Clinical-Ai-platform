@@ -1,0 +1,61 @@
+referral_id: REF-2025-048291
+specialty: Nephrology
+urgency: SOON
+patient_name: Susan Williams
+patient_dob: 1962-07-22
+patient_sex: Female
+patient_mrn: MRN-3927548
+insurance: BlueCross BlueShield
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — NEPHROLOGY
+Date: 2025-06-20    Referral ID: REF-2025-048291
+Urgency: SOON — Appointment within 2-3 weeks
+
+TO: Nephrology Department, Kidney Disease Center
+FROM: Dr. Jennifer Patel, MD — Internal Medicine/Geriatrics, NPI 1029384756
+      Comprehensive Care Clinic, Phone: (555) 311-2200, Fax: (555) 311-2201
+
+PATIENT: Susan Williams | DOB: 1962-07-22 | Age: 62 | Sex: Female
+MRN: MRN-3927548 | Insurance: BlueCross BlueShield | Member ID: BS-5029847-2
+
+REASON FOR REFERRAL: Chronic kidney disease stage 3b with declining eGFR and significant
+proteinuria in the setting of longstanding hypertension and type 2 diabetes.
+
+CLINICAL SUMMARY:
+Ms. Williams is a 62-year-old female with 22-year history of hypertension and 14-year history
+of type 2 diabetes who presents with progressive CKD. Six months ago: creatinine 1.35, eGFR 51.
+Most recent labs this month demonstrate continued deterioration.
+
+Current labs:
+- Creatinine: 1.62 mg/dL (was 1.35 six months ago — declining)
+- eGFR: 35 mL/min/1.73m² (Stage 3b — was Stage 3a)
+- BUN: 28 mg/dL
+- 24-hour urine protein: 1.8 g/day (approaching nephrotic range)
+- HbA1c: 7.2% (reasonably controlled)
+- Potassium: 4.2 | Phosphorus: 3.6 | Calcium: 8.9 (all normal)
+
+Physical examination: BP 132/78 on triple antihypertensive therapy. BMI 28.1.
+No peripheral oedema. No uremic changes.
+
+Current medications: Lisinopril 40mg QD (maximum dose), Amlodipine 5mg QD, HCTZ 12.5mg QD,
+Atorvastatin 40mg QHS, Metformin 1000mg BID, Glipizide 5mg BID, Levothyroxine 75mcg QD.
+Allergies: Penicillin (rash).
+
+ASSESSMENT: Stage 3b CKD with progressive decline and significant proteinuria (1.8g/day).
+Primary aetiology: diabetic nephropathy (other causes should be excluded). BP controlled at
+132/78 but proteinuria high despite maximum-dose ACEi.
+
+QUESTIONS FOR NEPHROLOGY:
+1. Is diabetic nephropathy confirmed or should renal biopsy be considered?
+2. Should we add SGLT2 inhibitor for additional nephroprotection?
+3. What is the projected trajectory to ESRD?
+4. When should dialysis access planning begin?
+5. Should we evaluate for pre-emptive transplant candidacy?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-928374 | Insurance: BlueCross BlueShield
+Authorised for: Nephrology consultation, renal ultrasound, and possible renal biopsy
+
+Referring Physician: Dr. Jennifer Patel, MD
+NPI: 1029384756 | Phone: (555) 311-2200 | Fax Results To: (555) 311-2201

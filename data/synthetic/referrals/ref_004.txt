@@ -1,0 +1,65 @@
+referral_id: REF-2025-049182
+specialty: Orthopaedic Surgery
+urgency: SOON
+patient_name: Margaret Davis
+patient_dob: 1954-09-30
+patient_sex: Female
+patient_mrn: MRN-8374928
+insurance: UnitedHealthcare Senior Plus
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — ORTHOPAEDIC SURGERY
+Date: 2025-06-22    Referral ID: REF-2025-049182
+Urgency: SOON — Appointment within 3-4 weeks
+
+TO: Orthopaedic Surgery Department, Orthopaedic Centre of Excellence
+FROM: Dr. Elizabeth Rodriguez, MD — Geriatric Medicine, NPI 4738291047
+      Senior Health & Wellness, Phone: (555) 520-4400, Fax: (555) 520-4401
+
+PATIENT: Margaret Davis | DOB: 1954-09-30 | Age: 70 | Sex: Female
+MRN: MRN-8374928 | Insurance: UnitedHealthcare Senior Plus | Member ID: UH-2847392-1
+
+REASON FOR REFERRAL: Severe bilateral knee osteoarthritis with significant functional impairment,
+failed conservative management. Requesting evaluation for total knee arthroplasty.
+
+CLINICAL SUMMARY:
+Mrs. Davis is a 70-year-old retired teacher with 15-year history of bilateral knee OA (right worse
+than left). Failed conservative management: corticosteroid injections, hyaluronic acid, physiotherapy,
+NSAIDs at maximum doses.
+
+Current functional status: Pain 8-9/10 bilateral. Wakes 2-3x/night. Walks only 1-2 blocks with
+difficulty. Cannot climb stairs without significant discomfort. Antalgic gait with crutch assistance.
+
+Physical examination: BP 132/78, HR 68, BMI 28.9.
+Right knee: Significant effusion, valgus deformity, ROM 0-90° (pain-limited), marked crepitus.
+Left knee: Moderate effusion, ROM 0-100°, mild valgus deformity.
+
+Imaging:
+- Right knee X-rays: Kellgren-Lawrence Grade 4 (severe) OA — marked medial JSN, osteophytes.
+- Left knee X-rays: Kellgren-Lawrence Grade 3 (moderate-to-severe) OA.
+
+Recent labs: HbA1c 6.9%, Cr 0.88, eGFR 78, Hgb 13.2, INR normal (all acceptable for surgery).
+
+Medical comorbidities (well controlled): T2DM (HbA1c 6.9%), HTN (BP 132/78), hyperlipidemia, osteoporosis.
+Allergies: Latex (contact urticaria only — NO systemic anaphylaxis). Advise surgical team.
+Prior surgery: Right shoulder rotator cuff repair 2015 — successful.
+
+Current medications: Metformin 1000mg QD, Lisinopril 20mg QD, HCTZ 12.5mg QD, Atorvastatin 40mg QHS,
+Alendronate 70mg weekly, Calcium carbonate 600mg BID + Vit D, Naproxen 500mg BID, Acetaminophen 1g TID.
+
+ASSESSMENT: Severe bilateral knee OA with significant functional decline and exhausted conservative
+management. Medically fit for surgery. Appropriate candidate for total knee arthroplasty evaluation.
+
+QUESTIONS FOR ORTHOPAEDICS:
+1. Candidate for bilateral TKA? Staged vs simultaneous?
+2. Planned timeline for scheduling?
+3. What pre-operative clearance required?
+4. Peri-operative management of alendronate and NSAIDs?
+5. Expected functional outcome and rehabilitation timeline?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-938482 | Insurance: UnitedHealthcare Senior Plus
+Authorised for: Orthopaedic surgical consultation and evaluation for bilateral TKA
+
+Referring Physician: Dr. Elizabeth Rodriguez, MD
+NPI: 4738291047 | Phone: (555) 520-4400 | Fax Results To: (555) 520-4401
