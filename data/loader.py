@@ -35,11 +35,12 @@ _RANDOMISED = _DATA_DIR / "randomised"
 _FHIR = {"f": "http://hl7.org/fhir"}   # FHIR namespace prefix for XPath
 
 _AGENT_SOURCES = {
-    "research":      ["research_corpus", "pubmed_real"],
-    "documentation": ["transcripts", "encounters"],
-    "diagnostic":    ["encounters", "diagnostic_cases", "vitals"],
-    "coordination":  ["referrals", "encounters"],
-    "surgical":      ["surgical_frames"],
+    "research":           ["research_corpus", "pubmed_real"],
+    "documentation":      ["transcripts", "encounters"],
+    "diagnostic":         ["encounters", "diagnostic_cases", "vitals"],
+    "coordination":       ["referrals", "encounters"],
+    "care_coordination":  ["referrals", "encounters"],
+    "surgical":           ["surgical_frames"],
 }
 
 
