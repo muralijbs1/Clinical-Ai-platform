@@ -3,7 +3,7 @@
 Generator: writes synthetic clinical referral letters as plain .txt files.
 
 Run once to produce data files. Re-run to regenerate or add more referrals.
-Output: data/synthetic/referrals/ref_001.txt ... ref_004.txt
+Output: data/synthetic/referrals/ref_001.txt ... ref_016.txt
 
 Each file has a metadata header (key: value pairs, terminated by ---) followed
 by the referral letter text. Mirrors how referrals arrive from referring physicians
@@ -275,6 +275,554 @@ Authorised for: Orthopaedic surgical consultation and evaluation for bilateral T
 
 Referring Physician: Dr. Elizabeth Rodriguez, MD
 NPI: 4738291047 | Phone: (555) 520-4400 | Fax Results To: (555) 520-4401
+""",
+    },
+    {
+        "referral_id": "REF-2025-051234",
+        "specialty": "Pulmonology",
+        "urgency": "SOON",
+        "patient_name": "Nathan Brooks",
+        "patient_dob": "1957-02-14",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-2938471",
+        "insurance": "Medicare Part B",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — PULMONOLOGY
+Date: 2025-03-10    Referral ID: REF-2025-051234
+Urgency: SOON — Appointment within 2 weeks
+
+TO: Pulmonology Department, Lung Disease Center
+FROM: Dr. Alan Foster, MD — Internal Medicine, NPI 3847291038
+      Primary Care Partners, Phone: (555) 600-5500, Fax: (555) 600-5501
+
+PATIENT: Nathan Brooks | DOB: 1957-02-14 | Age: 68 | Sex: Male
+MRN: MRN-2938471 | Insurance: Medicare Part B
+
+REASON FOR REFERRAL: Severe COPD (GOLD III, FEV1 38%) with frequent exacerbations (2 in 6 months),
+persistent dyspnoea despite maximum inhaled therapy. Evaluation for pulmonary rehabilitation and
+advanced therapies (LVRS, bronchoscopic lung volume reduction eligibility assessment).
+
+CLINICAL SUMMARY:
+Mr. Brooks is a 68-year-old male with severe COPD diagnosed 8 years ago on background of 45 pack-year
+smoking history (quit 3 years ago). He is on maximum inhaled therapy (LAMA + LABA + ICS) and home
+oxygen (2L/min continuous). Two exacerbations in the past 6 months — one requiring ICU admission
+(ventilation-related hypercapnia).
+
+Spirometry (3 months ago): FEV1 38% predicted | FEV1/FVC 0.52 | RV 185% (hyperinflation) | DLCO 40%
+6MWT: 220m (significant limitation)
+Exacerbation history: Hospital 2024-09 (4 days), ICU 2024-11 (3 days NIV)
+CAT Score: 24 (highly symptomatic) | mMRC: 3 (limited to house)
+
+Comorbidities: Pulmonary HTN (mPAP 28 — mild), T2DM, OSA (CPAP non-adherent), HTN.
+Current medications: Tiotropium 18mcg QD, Salmeterol/Fluticasone 50/500mcg BID, Albuterol PRN,
+Home O2 2L/min, Metformin 500mg BID, Lisinopril 10mg QD.
+Allergies: Penicillin (GI intolerance).
+
+QUESTIONS FOR PULMONOLOGY:
+1. Does patient qualify for pulmonary rehabilitation programme?
+2. Eligibility for LVRS or bronchoscopic valve placement?
+3. Optimise NIV settings at home?
+4. What is survival prognosis and should palliative care be introduced?
+
+PRIOR AUTHORISATION: Auth PA-915273 | Authorised for pulmonology consultation and PFTs.
+
+Referring Physician: Dr. Alan Foster, MD
+NPI: 3847291038 | Phone: (555) 600-5500 | Fax: (555) 600-5501
+""",
+    },
+    {
+        "referral_id": "REF-2025-052847",
+        "specialty": "Neurology",
+        "urgency": "URGENT",
+        "patient_name": "Theodore Kapoor",
+        "patient_dob": "1954-08-27",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-4738291",
+        "insurance": "BlueCross PPO",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — NEUROLOGY (STROKE)
+Date: 2025-05-09    Referral ID: REF-2025-052847
+Urgency: URGENT — Same-day / next-day appointment
+
+TO: Neurology Stroke Clinic
+FROM: Dr. Helen Voss, MD — Emergency Medicine, NPI 7382910473
+      City General Emergency Department, Phone: (555) 700-0911
+
+PATIENT: Theodore Kapoor | DOB: 1954-08-27 | Age: 70 | Sex: Male
+MRN: MRN-4738291 | Insurance: BlueCross PPO
+
+REASON FOR REFERRAL: Transient ischaemic attack (TIA) — 20-minute episode of right arm weakness
+and aphasia, fully resolved. ABCD2 score 6 (high-risk). Urgent neurovascular assessment needed.
+
+CLINICAL SUMMARY:
+Mr. Kapoor presented to the ED for a 20-minute episode of sudden right arm weakness and expressive
+aphasia that resolved completely before arrival. Last known well: 2 hours prior to ED presentation.
+ABCD2 score: Age 70 (1) + BP >140 (1) + Clinical features (focal 2) + Duration 10-59min (1) + DM (1) = 6.
+
+On arrival: NIHSS 0. Full recovery. No residual deficit.
+
+CT Head: No infarct. No haemorrhage. MRI DWI: Small acute DWI lesion in left posterior MCA territory (8mm).
+MRA: 40% left internal carotid stenosis (moderate).
+EKG: Normal sinus rhythm. No AF.
+Troponin: negative. BMP: normal.
+
+PMH: HTN (poorly controlled — BP 182/96 on arrival), T2DM, hyperlipidemia.
+Meds: Amlodipine 10mg QD, Metformin 1000mg BID, Atorvastatin 20mg QHS, Aspirin 81mg QD.
+
+QUESTIONS FOR NEUROLOGY:
+1. Is this TIA or minor stroke given the DWI lesion?
+2. Dual antiplatelet therapy (aspirin + clopidogrel) for 21 days per POINT trial?
+3. What is the 90-day stroke risk? Requires inpatient admission vs urgent outpatient?
+4. Carotid endarterectomy evaluation (40% ICA stenosis)?
+5. Long-term BP target and statin intensity?
+
+Referring Physician: Dr. Helen Voss, MD
+NPI: 7382910473 | Phone: (555) 700-0911
+""",
+    },
+    {
+        "referral_id": "REF-2025-053918",
+        "specialty": "Gastroenterology",
+        "urgency": "SOON",
+        "patient_name": "Victor Chen",
+        "patient_dob": "1961-04-15",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-5839201",
+        "insurance": "Aetna PPO",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — GASTROENTEROLOGY
+Date: 2025-08-10    Referral ID: REF-2025-053918
+Urgency: SOON — Appointment within 1 week
+
+TO: Gastroenterology Department
+FROM: Dr. Priya Nair, MD — Emergency Medicine / Hospitalist, NPI 9283740192
+      City Medical Center, Phone: (555) 811-2200
+
+PATIENT: Victor Chen | DOB: 1961-04-15 | Age: 64 | Sex: Male
+MRN: MRN-5839201 | Insurance: Aetna PPO
+
+REASON FOR REFERRAL: Recent hospitalisation for upper GIB (haematemesis, melena). Now stable.
+Requesting urgent outpatient upper endoscopy with H. pylori testing and GIB source identification.
+
+CLINICAL SUMMARY:
+Mr. Chen was hospitalised 5 days ago for upper GIB (haematemesis and melaena) in the setting of
+chronic NSAID use (naproxen 500mg BID) and significant alcohol use (6-8 drinks/day). Hgb nadir
+7.4g/dL. Received 2u pRBC with Hgb rise to 11.8. Haemodynamically stabilised with IV PPIs.
+Endoscopy NOT done during admission (patient declined inpatient procedure; agreed to outpatient).
+
+Risk factors: NSAID use, alcohol, age 64, Hgb decline 7g/dL, haemodynamic instability on admission.
+Glasgow-Blatchford Score: 14 (high-risk).
+
+Current outpatient status: Haemodynamically stable. Hgb 11.8. Stools normal colour.
+Medications changed: NSAIDs STOPPED, Pantoprazole 40mg BID initiated, Alcohol cessation counselled.
+
+QUESTIONS FOR GASTROENTEROLOGY:
+1. EGD with H. pylori biopsy — identify bleeding source (peptic ulcer most likely).
+2. Assess for varices/portal hypertension given alcohol history.
+3. Should PPI be continued indefinitely?
+
+Referring Physician: Dr. Priya Nair, MD
+NPI: 9283740192 | Phone: (555) 811-2200
+""",
+    },
+    {
+        "referral_id": "REF-2025-054201",
+        "specialty": "Haematology",
+        "urgency": "SOON",
+        "patient_name": "Jessica Brown",
+        "patient_dob": "1985-11-03",
+        "patient_sex": "Female",
+        "patient_mrn": "MRN-6741830",
+        "insurance": "Cigna HMO",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — HAEMATOLOGY
+Date: 2025-05-01    Referral ID: REF-2025-054201
+Urgency: SOON — Appointment within 2 weeks
+
+TO: Haematology / Thrombosis Clinic
+FROM: Dr. Ama Asante, MD — Vascular Medicine, NPI 8374920183
+      Vascular & Thrombosis Centre, Phone: (555) 922-3300
+
+PATIENT: Jessica Brown | DOB: 1985-11-03 | Age: 39 | Sex: Female
+MRN: MRN-6741830 | Insurance: Cigna HMO
+
+REASON FOR REFERRAL: Unprovoked proximal DVT (popliteal + femoral) in a 39-year-old female.
+Evaluation for inherited thrombophilia, malignancy screen, and anticoagulation duration discussion.
+
+CLINICAL SUMMARY:
+Ms. Brown presented with a 3-day history of right leg swelling confirmed as proximal DVT on Doppler US.
+No clear provoking factor identified (no recent travel, surgery, immobility, or hormonal contraception).
+No prior VTE. No family history of thrombosis initially reported.
+
+Started on Apixaban 10mg BID x7 days → 5mg BID.
+
+Labs to date: D-dimer 4.8 µg/mL (elevated). CBC/CMP normal. No malignancy identified on CXR or CT Chest/Abdomen (ordered in ED).
+
+Thrombophilia screen ordered but NOT yet performed. Awaiting haematology guidance.
+
+Family history update: Mother had DVT in pregnancy. Maternal aunt had "blood clot in lung."
+
+QUESTIONS FOR HAEMATOLOGY:
+1. What thrombophilia screen is appropriate while on anticoagulation?
+2. When to test (after stopping anticoagulation vs on drug)?
+3. Should anticardiolipin antibody / lupus anticoagulant be checked?
+4. Duration of anticoagulation: 3 months vs extended therapy?
+5. Genetic counselling for factor V Leiden?
+
+Referring Physician: Dr. Ama Asante, MD
+NPI: 8374920183 | Phone: (555) 922-3300
+""",
+    },
+    {
+        "referral_id": "REF-2025-055382",
+        "specialty": "Rheumatology",
+        "urgency": "ROUTINE",
+        "patient_name": "Angela Moore",
+        "patient_dob": "1970-06-22",
+        "patient_sex": "Female",
+        "patient_mrn": "MRN-7238490",
+        "insurance": "UnitedHealthcare Select",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — RHEUMATOLOGY
+Date: 2025-04-28    Referral ID: REF-2025-055382
+Urgency: ROUTINE — Appointment within 4-6 weeks
+
+TO: Rheumatology Department
+FROM: Dr. Michael Bennett, MD — Primary Care, NPI 6382910473
+
+PATIENT: Angela Moore | DOB: 1970-06-22 | Age: 54 | Sex: Female
+MRN: MRN-7238490 | Insurance: UnitedHealthcare Select
+
+REASON FOR REFERRAL: Positive ANA (1:320, homogenous pattern), arthralgia, fatigue, and new
+discoid rash — possible SLE. Needs expert evaluation, disease confirmation, and treatment initiation.
+
+CLINICAL SUMMARY:
+Ms. Moore is a 54-year-old female with 8-month history of joint pain (MCPs, PIPs, wrists, bilateral),
+morning stiffness >1h, fatigue, hair thinning, and new butterfly-shaped facial rash. CXR normal.
+ESR 72 mm/h (elevated). CRP 28 mg/L. CBC: mild leukopenia (WBC 3.4k) with lymphopenia.
+
+Autoimmune labs: ANA 1:320 homogenous | anti-dsDNA: 48 IU/mL (elevated) | C3 68 (LOW) | C4 8 (LOW)
+Urinalysis: 2+ protein, 10-15 RBC/hpf — proteinuria and haematuria concerning for lupus nephritis.
+
+SLICC criteria: Rash (1), Arthritis (1), CBC (leukopenia 1), ANA positive (1), anti-dsDNA (1),
+low complement (1), renal (proteinuria 1) — 7/11 met (threshold ≥4).
+
+QUESTIONS FOR RHEUMATOLOGY:
+1. Confirm SLE diagnosis and assess activity/organ involvement?
+2. Should hydroxychloroquine be started empirically?
+3. Is kidney biopsy indicated (proteinuria + haematuria)?
+4. Management if lupus nephritis confirmed?
+
+Referring Physician: Dr. Michael Bennett, MD
+NPI: 6382910473 | Phone: (555) 744-2200
+""",
+    },
+    {
+        "referral_id": "REF-2025-056491",
+        "specialty": "Oncology",
+        "urgency": "URGENT",
+        "patient_name": "Harold Fisher",
+        "patient_dob": "1951-09-14",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-3847291",
+        "insurance": "Medicare Advantage — Humana",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — THORACIC ONCOLOGY
+Date: 2025-06-05    Referral ID: REF-2025-056491
+Urgency: URGENT — Seen within 1 week
+
+TO: Thoracic Oncology, Cancer Centre
+FROM: Dr. Janet Kim, MD — Pulmonology, NPI 4839201738
+
+PATIENT: Harold Fisher | DOB: 1951-09-14 | Age: 73 | Sex: Male
+MRN: MRN-3847291 | Insurance: Medicare Advantage
+
+REASON FOR REFERRAL: New 4.2cm right upper lobe lung mass with mediastinal lymphadenopathy
+and right-sided pleural effusion on CT chest. High suspicion for non-small cell lung cancer.
+
+CLINICAL SUMMARY:
+Mr. Fisher is a 73-year-old male, 50 pack-year smoker (quit 5 years ago), presenting with 8-week
+progressive dyspnoea, 7kg unintentional weight loss, and right-sided chest discomfort.
+
+CT Chest/Abdomen/Pelvis: 4.2cm irregular spiculated RUL mass with satellite nodule (1.2cm).
+Enlarged right paratracheal (1.8cm) and subcarinal (1.4cm) nodes. Right pleural effusion (small).
+No definitive bone metastases on this CT.
+
+PET-CT: Ordered — pending.
+Brain MRI: Ordered — pending.
+
+Laboratory: CBC normal | Na 131 (low) | Ca 11.4 (HIGH — hypercalcaemia of malignancy??)
+LDH 348 (elevated) | Albumin 2.8 (depleted)
+
+Bronchoscopy planned — EBUS-TBNA of mediastinal nodes arranged for next week.
+
+QUESTIONS FOR ONCOLOGY:
+1. Confirm staging once PET/brain MRI available
+2. Tissue diagnosis (EBUS first vs CT-guided biopsy?)
+3. If NSCLC confirmed: molecular profiling (EGFR, ALK, PD-L1)?
+4. Is patient fit for treatment? PS assessment?
+5. Early palliative care integration?
+
+Referring Physician: Dr. Janet Kim, MD
+NPI: 4839201738 | Phone: (555) 644-8810
+""",
+    },
+    {
+        "referral_id": "REF-2025-057384",
+        "specialty": "Hepatology",
+        "urgency": "SOON",
+        "patient_name": "George Alvarez",
+        "patient_dob": "1968-03-27",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-9182736",
+        "insurance": "Medicaid Managed Care",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — HEPATOLOGY
+Date: 2025-07-18    Referral ID: REF-2025-057384
+Urgency: SOON — 2 weeks
+
+TO: Hepatology, Liver Disease Program
+FROM: Dr. Paul Santos, MD — Primary Care, NPI 3847291029
+
+PATIENT: George Alvarez | DOB: 1968-03-27 | Age: 57 | Sex: Male
+MRN: MRN-9182736 | Insurance: Medicaid
+
+REASON FOR REFERRAL: NAFLD with elevated liver enzymes, suspected NASH with bridging fibrosis
+on FibroScan. Evaluation for disease staging and management.
+
+CLINICAL SUMMARY:
+Mr. Alvarez is a 57-year-old male with obesity (BMI 36), T2DM, hyperlipidemia, and HTN
+with persistently elevated transaminases x2 years (ALT 68-94, AST 52-78). FibroScan 2 weeks ago:
+CAP 312dB/m (significant steatosis) | LSM 12.8 kPa (F3 — significant fibrosis by M1 cut-off).
+No alcohol use. Hepatitis B/C negative. ANA 1:40 (non-specific). No haemochromatosis.
+No symptoms of portal HTN. INR normal, albumin normal, bilirubin normal — compensated liver disease.
+
+QUESTIONS FOR HEPATOLOGY:
+1. Is liver biopsy indicated to confirm NASH vs other aetiology?
+2. Drug eligibility: Semaglutide or Resmetirom (FDA approved for NASH)?
+3. Surveillance plan for HCC?
+4. Screening for varices (despite compensated — F3 fibrosis)?
+5. Dietary programme referral?
+
+Referring Physician: Dr. Paul Santos, MD
+NPI: 3847291029 | Phone: (555) 533-4400
+""",
+    },
+    {
+        "referral_id": "REF-2025-058293",
+        "specialty": "Cardiology — Heart Failure",
+        "urgency": "SOON",
+        "patient_name": "Dorothy Huang",
+        "patient_dob": "1950-12-01",
+        "patient_sex": "Female",
+        "patient_mrn": "MRN-6473820",
+        "insurance": "Medicare + Medigap",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — CARDIOLOGY / HEART FAILURE CLINIC
+Date: 2025-11-14    Referral ID: REF-2025-058293
+Urgency: SOON — 1-2 weeks
+
+TO: Heart Failure Program, Cardiology
+FROM: Dr. Linda Park, MD — Internal Medicine, NPI 8392017483
+
+PATIENT: Dorothy Huang | DOB: 1950-12-01 | Age: 74 | Sex: Female
+MRN: MRN-6473820 | Insurance: Medicare
+
+REASON FOR REFERRAL: HFpEF (EF 58%) with recurrent hospitalisations (2 in past year) despite
+optimal medical therapy. Requesting advanced heart failure evaluation and optimisation.
+
+CLINICAL SUMMARY:
+Mrs. Huang has known HFpEF (echo EF 58%) with 2 hospital admissions for acute decompensation in
+the past year, despite compliance with furosemide, spironolactone, and sacubitril/valsartan.
+HTN, AF (on apixaban), DM2, obesity (BMI 34).
+NT-proBNP remains elevated at 1,240 pg/mL. BNP 380 pg/mL at last check. eGFR 48 (CKD 3b).
+Echo: Diastolic dysfunction Grade 2 (E/e' 18). EF 58%. No significant valve disease.
+6MWT: 240m. Functional class NYHA III.
+
+QUESTIONS FOR CARDIOLOGY HF CLINIC:
+1. Optimise diuretic strategy (torasemide vs furosemide)?
+2. Role of SGLT2 inhibitor (empagliflozin — EMPEROR-Preserved)?
+3. ICD / CRT indication assessment?
+4. Is patient a candidate for advanced HF therapies?
+5. Structured HF programme enrolment?
+
+Referring Physician: Dr. Linda Park, MD
+NPI: 8392017483 | Phone: (555) 866-3300
+""",
+    },
+    {
+        "referral_id": "REF-2025-059182",
+        "specialty": "Endocrinology",
+        "urgency": "ROUTINE",
+        "patient_name": "Sandra Kim",
+        "patient_dob": "1979-08-15",
+        "patient_sex": "Female",
+        "patient_mrn": "MRN-5837290",
+        "insurance": "Kaiser Permanente",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — ENDOCRINOLOGY / THYROID
+Date: 2025-09-22    Referral ID: REF-2025-059182
+Urgency: ROUTINE — 4 weeks
+
+TO: Endocrinology Department
+FROM: Dr. Marcus Williams, MD — OBGYN, NPI 7283910473
+
+PATIENT: Sandra Kim | DOB: 1979-08-15 | Age: 45 | Sex: Female
+MRN: MRN-5837290 | Insurance: Kaiser
+
+REASON FOR REFERRAL: Thyroid nodule — 2.2cm right lobe, Bethesda Category III (atypia of
+undetermined significance) on FNA. Endocrinology evaluation for management.
+
+CLINICAL SUMMARY:
+Ms. Kim was found to have a right thyroid nodule on routine neck ultrasound (ordered for neck pain).
+Subsequent US showed 2.2cm, hypoechoic, irregular margins, microcalcifications — ACR TIRADS 5.
+FNA biopsy: Bethesda Category III (AUS/FLUS). Repeat FNA in 3 months vs molecular testing
+vs surgery — requires endocrinology expertise.
+
+TSH 1.8 (normal) | T4 normal | Thyroglobulin normal | Anti-TPO antibodies elevated (Hashimoto's).
+No symptoms of hyper/hypothyroidism. No cervical lymphadenopathy palpable.
+
+No family history of thyroid cancer. No neck irradiation history.
+
+QUESTIONS FOR ENDOCRINOLOGY:
+1. Repeat FNA vs molecular marker testing (ThyroSeq, Afirma)?
+2. If molecular testing: what is malignancy risk with Bethesda III and TIRADS 5?
+3. Surgery consultation indicated?
+4. Manage Hashimoto's thyroiditis?
+
+Referring Physician: Dr. Marcus Williams, MD
+NPI: 7283910473 | Phone: (555) 977-5500
+""",
+    },
+    {
+        "referral_id": "REF-2025-060284",
+        "specialty": "Urology",
+        "urgency": "ROUTINE",
+        "patient_name": "Patrick O'Brien",
+        "patient_dob": "1962-01-20",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-4728390",
+        "insurance": "BCBS Federal Employee",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — UROLOGY
+Date: 2025-10-08    Referral ID: REF-2025-060284
+Urgency: ROUTINE — 4 weeks
+
+TO: Urology Department
+FROM: Dr. Thomas Reed, MD — Internal Medicine, NPI 2847391028
+
+PATIENT: Patrick O'Brien | DOB: 1962-01-20 | Age: 63 | Sex: Male
+MRN: MRN-4728390 | Insurance: BCBS Federal Employee
+
+REASON FOR REFERRAL: Gross haematuria x2 episodes — microhaematuria persistent on repeat UA.
+CT urogram ordered. Requesting urological evaluation to rule out bladder malignancy.
+
+CLINICAL SUMMARY:
+Mr. O'Brien is a 63-year-old male ex-smoker (30 pack-years, quit 5 years ago) with two
+episodes of gross haematuria in the past 2 months (painless). Repeat urinalysis confirms
+persistent microhaematuria (>25 RBC/hpf on two occasions). No UTI. No traumatic cause.
+No anticoagulation.
+
+CT Urogram: Irregular filling defect posterior wall bladder (1.4cm) — suspicious for bladder
+lesion. No upper tract abnormality. No hydroureteronephrosis.
+
+PSA 2.8 ng/mL (age-adjusted normal). Cr 1.0.
+
+QUESTIONS FOR UROLOGY:
+1. Cystoscopy with possible TURBT?
+2. Does CT finding require urgent evaluation vs standard outpatient?
+3. If transitional cell carcinoma confirmed — staging and treatment?
+
+Referring Physician: Dr. Thomas Reed, MD
+NPI: 2847391028 | Phone: (555) 488-6200
+""",
+    },
+    {
+        "referral_id": "REF-2025-061385",
+        "specialty": "Psychiatry",
+        "urgency": "SOON",
+        "patient_name": "Michelle Davis",
+        "patient_dob": "1990-03-12",
+        "patient_sex": "Female",
+        "patient_mrn": "MRN-8374019",
+        "insurance": "Cigna Behavioral Health",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — PSYCHIATRY
+Date: 2025-07-30    Referral ID: REF-2025-061385
+Urgency: SOON — 1-2 weeks
+
+TO: Psychiatric Services, Behavioural Health Department
+FROM: Dr. Christine Walsh, MD — Primary Care, NPI 3748291047
+
+PATIENT: Michelle Davis | DOB: 1990-03-12 | Age: 35 | Sex: Female
+MRN: MRN-8374019 | Insurance: Cigna Behavioral Health
+
+REASON FOR REFERRAL: New diagnosis of Bipolar I disorder following manic episode requiring ED
+visit. Requesting psychiatric evaluation, medication management, and long-term care planning.
+
+CLINICAL SUMMARY:
+Ms. Davis presented to the ED 2 weeks ago with a 10-day manic episode (grandiosity, racing thoughts,
+decreased sleep [2h/night], hypersexuality, excessive spending, pressured speech). No psychotic
+features. No suicidal ideation. No substance use (UDS negative). Discharge diagnosis: Bipolar I.
+Started on Quetiapine 50mg QHS in ED — tolerating, some improvement. No current depressive symptoms.
+No prior psychiatric history. Strong family history: mother with bipolar disorder.
+
+PHQ-9 (current, euthymic phase): 4 (minimal symptoms).
+
+Current meds: Quetiapine 50mg QHS | OCP (may affect mood in some patients — discuss)
+
+QUESTIONS FOR PSYCHIATRY:
+1. Confirm diagnosis and assess for mixed features or cycling?
+2. Is quetiapine monotherapy sufficient or should lithium/valproate be added?
+3. OCP interaction risk with mood stabilisers?
+4. Long-term monitoring plan (lithium levels, thyroid, renal)?
+
+Referring Physician: Dr. Christine Walsh, MD
+NPI: 3748291047 | Phone: (555) 333-2211
+""",
+    },
+    {
+        "referral_id": "REF-2025-062491",
+        "specialty": "Pain Management",
+        "urgency": "ROUTINE",
+        "patient_name": "Carlos Rivera",
+        "patient_dob": "1965-10-08",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-2938472",
+        "insurance": "Humana PPO",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — PAIN MANAGEMENT
+Date: 2025-08-22    Referral ID: REF-2025-062491
+Urgency: ROUTINE — 4-6 weeks
+
+TO: Chronic Pain Management Clinic
+FROM: Dr. Rosa Mendez, MD — Family Medicine, NPI 4738291048
+
+PATIENT: Carlos Rivera | DOB: 1965-10-08 | Age: 59 | Sex: Male
+MRN: MRN-2938472 | Insurance: Humana PPO
+
+REASON FOR REFERRAL: Chronic low back pain (LBP) with bilateral L4-L5 radiculopathy, inadequately
+controlled with current regimen. Requesting pain management consultation for interventional options.
+
+CLINICAL SUMMARY:
+Mr. Rivera is a 59-year-old male with 5-year history of chronic LBP secondary to L4-L5 disc
+herniation with bilateral radiculopathy (MRI-confirmed). Physical therapy completed x6 months —
+partial response. Currently on gabapentin 900mg TID, meloxicam 15mg QD, and acetaminophen 1g TID.
+VAS pain score: 7/10 daily average. Functioning: limited to sedentary activity, not working.
+
+MRI L-spine (4 months ago): L4-L5 large disc herniation with bilateral foraminal narrowing.
+L3-L4 mild DDD. No cord compression. No surgical emergency.
+
+PDMP check: No concerning prescribing patterns. No opioid history.
+
+QUESTIONS FOR PAIN MANAGEMENT:
+1. Lumbar epidural steroid injection feasibility?
+2. Medial branch block / radiofrequency ablation at L4-L5?
+3. Role of low-dose opioids if interventional fails?
+4. Multidisciplinary pain programme referral?
+
+Referring Physician: Dr. Rosa Mendez, MD
+NPI: 4738291048 | Phone: (555) 211-7700
 """,
     },
 ]

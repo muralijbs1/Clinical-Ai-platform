@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundle-ENC-2025-016017" />
+  <type value="collection" />
+  <timestamp value="2025-12-08T00:00:00+00:00" />
+  <entry>
+    <resource>
+      <Patient>
+        <id value="MRN-6238470" />
+        <identifier>
+          <system value="urn:hospital:mrn" />
+          <value value="MRN-6238470" />
+        </identifier>
+        <name>
+          <text value="Tyler Nguyen" />
+        </name>
+        <birthDate value="1997-09-14" />
+        <gender value="male" />
+        <extension url="urn:poc:race">
+          <valueString value="Vietnamese-American" />
+        </extension>
+        <extension url="urn:poc:language">
+          <valueString value="English" />
+        </extension>
+        <extension url="urn:poc:insurance">
+          <valueString value="Employer PPO" />
+        </extension>
+        <extension url="urn:poc:member-id">
+          <valueString value="EP-6238470-1" />
+        </extension>
+      </Patient>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Encounter>
+        <id value="ENC-2025-016017" />
+        <status value="finished" />
+        <class>
+          <coding>
+            <code value="IMP" />
+            <display value="Inpatient Hospitalization" />
+          </coding>
+        </class>
+        <period>
+          <start value="2025-12-08" />
+          <end value="2025-12-18" />
+        </period>
+        <length>
+          <value value="10" />
+          <unit value="days" />
+        </length>
+        <serviceProvider>
+          <display value="Medical Intensive Care Unit (MICU) / Neurology" />
+        </serviceProvider>
+        <participant>
+          <individual>
+            <display value="Dr. Fatima Hassan, MD (Infectious Disease / Neurology co-management)" />
+          </individual>
+        </participant>
+        <reasonCode>
+          <text value="Bacterial Meningitis — N. meningitidis" />
+        </reasonCode>
+        <extension url="urn:poc:data-tag">
+          <valueString value="SYNTHETIC" />
+        </extension>
+        <extension url="urn:poc:discharge-summary">
+          <valueString value="CSF confirmed N. meningitidis Group B. Ceftriaxone x14d. Dexamethasone x4d. DIC resolved with supportive care. Na normalised day 5 (SIADH). Residual: mild bilateral hearing loss — audiology referral. Public health notified. Close contacts given rifampicin prophylaxis." />
+        </extension>
+      </Encounter>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-016017-1" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Primary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="G00.9" />
+          </coding>
+          <text value="Bacterial meningitis — Neisseria meningitidis Group B" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-016017-2" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="A39.4" />
+          </coding>
+          <text value="Meningococcaemia" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-016017-3" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="D65" />
+          </coding>
+          <text value="Disseminated intravascular coagulation" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-016017-4" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="E87.1" />
+          </coding>
+          <text value="SIADH — secondary to meningitis" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-bp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="55284-4" />
+            <display value="Blood pressure" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8480-6" />
+              <display value="Systolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="118" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8462-4" />
+              <display value="Diastolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="72" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-heart_rate_bpm" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8867-4" />
+            <display value="Heart rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="112" />
+          <unit value="bpm" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-rr" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="9279-1" />
+            <display value="Respiratory rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="20" />
+          <unit value="/min" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-temp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8310-5" />
+            <display value="Body temperature" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="40.1" />
+          <unit value="Cel" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-spo2" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="59408-5" />
+            <display value="Oxygen saturation" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="99" />
+          <unit value="%" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-weight" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="29463-7" />
+            <display value="Body weight" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="74.0" />
+          <unit value="kg" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-bmi" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="39156-5" />
+            <display value="Body mass index" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="22.8" />
+          <unit value="kg/m2" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-lab-wbc_k_ul" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="wbc_k_ul" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="24.6" />
+        </valueQuantity>
+        <interpretation>
+          <text value="HIGH" />
+        </interpretation>
+        <referenceRange>
+          <text value="4.5-11.0" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-lab-platelets_k_ul" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="platelets_k_ul" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="88" />
+        </valueQuantity>
+        <interpretation>
+          <text value="LOW" />
+        </interpretation>
+        <referenceRange>
+          <text value="150-400" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-lab-procalcitonin_ng_ml" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="procalcitonin_ng_ml" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="22.4" />
+        </valueQuantity>
+        <interpretation>
+          <text value="HIGH" />
+        </interpretation>
+        <referenceRange>
+          <text value="&lt;0.5" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-lab-sodium_meq_l" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="sodium_meq_l" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="131" />
+        </valueQuantity>
+        <interpretation>
+          <text value="LOW" />
+        </interpretation>
+        <referenceRange>
+          <text value="136-145" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-lab-inr" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="inr" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="2.4" />
+        </valueQuantity>
+        <interpretation>
+          <text value="HIGH" />
+        </interpretation>
+        <referenceRange>
+          <text value="&lt;1.1" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-lab-csf_wbc_per_ul" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="csf_wbc_per_ul" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="8200" />
+        </valueQuantity>
+        <interpretation>
+          <text value="HIGH" />
+        </interpretation>
+        <referenceRange>
+          <text value="&lt;5" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-lab-csf_glucose_mg_dl" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="csf_glucose_mg_dl" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <valueQuantity>
+          <value value="22" />
+        </valueQuantity>
+        <interpretation>
+          <text value="LOW" />
+        </interpretation>
+        <referenceRange>
+          <text value="&gt;60% of serum" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-016017-micro" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Microbiology" />
+          </coding>
+        </category>
+        <code>
+          <text value="Microbiology Results" />
+        </code>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <valueString value="csf_gram_stain: Gram-negative diplococci | csf_culture: Neisseria meningitidis Group B — ceftriaxone sensitive | blood_culture_1: N. meningitidis Group B | nasopharyngeal_swab: N. meningitidis Group B carrier state" />
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-016017-at--1" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Ceftriaxone 2 g IV Q12h x14d total" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="2 g IV Q12h x14d total" />
+          <additionalInstruction>
+            <text value="Meningococcal meningitis" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-016017-at--2" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-6238470" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-016017" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Dexamethasone (completed) 0.15 mg/kg IV Q6h x4d — completed" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="0.15 mg/kg IV Q6h x4d — completed" />
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <AllergyIntolerance>
+        <id value="allergy-ENC-2025-016017-1" />
+        <patient>
+          <reference value="Patient/MRN-6238470" />
+        </patient>
+        <code>
+          <text value="No known drug allergies" />
+        </code>
+        <reaction>
+          <severity value="mild" />
+          <manifestation>
+            <text value="N/A" />
+          </manifestation>
+        </reaction>
+      </AllergyIntolerance>
+    </resource>
+  </entry>
+</Bundle>

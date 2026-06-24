@@ -1,0 +1,42 @@
+referral_id: REF-2025-062491
+specialty: Pain Management
+urgency: ROUTINE
+patient_name: Carlos Rivera
+patient_dob: 1965-10-08
+patient_sex: Male
+patient_mrn: MRN-2938472
+insurance: Humana PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — PAIN MANAGEMENT
+Date: 2025-08-22    Referral ID: REF-2025-062491
+Urgency: ROUTINE — 4-6 weeks
+
+TO: Chronic Pain Management Clinic
+FROM: Dr. Rosa Mendez, MD — Family Medicine, NPI 4738291048
+
+PATIENT: Carlos Rivera | DOB: 1965-10-08 | Age: 59 | Sex: Male
+MRN: MRN-2938472 | Insurance: Humana PPO
+
+REASON FOR REFERRAL: Chronic low back pain (LBP) with bilateral L4-L5 radiculopathy, inadequately
+controlled with current regimen. Requesting pain management consultation for interventional options.
+
+CLINICAL SUMMARY:
+Mr. Rivera is a 59-year-old male with 5-year history of chronic LBP secondary to L4-L5 disc
+herniation with bilateral radiculopathy (MRI-confirmed). Physical therapy completed x6 months —
+partial response. Currently on gabapentin 900mg TID, meloxicam 15mg QD, and acetaminophen 1g TID.
+VAS pain score: 7/10 daily average. Functioning: limited to sedentary activity, not working.
+
+MRI L-spine (4 months ago): L4-L5 large disc herniation with bilateral foraminal narrowing.
+L3-L4 mild DDD. No cord compression. No surgical emergency.
+
+PDMP check: No concerning prescribing patterns. No opioid history.
+
+QUESTIONS FOR PAIN MANAGEMENT:
+1. Lumbar epidural steroid injection feasibility?
+2. Medial branch block / radiofrequency ablation at L4-L5?
+3. Role of low-dose opioids if interventional fails?
+4. Multidisciplinary pain programme referral?
+
+Referring Physician: Dr. Rosa Mendez, MD
+NPI: 4738291048 | Phone: (555) 211-7700

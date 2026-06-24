@@ -1,0 +1,42 @@
+referral_id: REF-2025-061385
+specialty: Psychiatry
+urgency: SOON
+patient_name: Michelle Davis
+patient_dob: 1990-03-12
+patient_sex: Female
+patient_mrn: MRN-8374019
+insurance: Cigna Behavioral Health
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — PSYCHIATRY
+Date: 2025-07-30    Referral ID: REF-2025-061385
+Urgency: SOON — 1-2 weeks
+
+TO: Psychiatric Services, Behavioural Health Department
+FROM: Dr. Christine Walsh, MD — Primary Care, NPI 3748291047
+
+PATIENT: Michelle Davis | DOB: 1990-03-12 | Age: 35 | Sex: Female
+MRN: MRN-8374019 | Insurance: Cigna Behavioral Health
+
+REASON FOR REFERRAL: New diagnosis of Bipolar I disorder following manic episode requiring ED
+visit. Requesting psychiatric evaluation, medication management, and long-term care planning.
+
+CLINICAL SUMMARY:
+Ms. Davis presented to the ED 2 weeks ago with a 10-day manic episode (grandiosity, racing thoughts,
+decreased sleep [2h/night], hypersexuality, excessive spending, pressured speech). No psychotic
+features. No suicidal ideation. No substance use (UDS negative). Discharge diagnosis: Bipolar I.
+Started on Quetiapine 50mg QHS in ED — tolerating, some improvement. No current depressive symptoms.
+No prior psychiatric history. Strong family history: mother with bipolar disorder.
+
+PHQ-9 (current, euthymic phase): 4 (minimal symptoms).
+
+Current meds: Quetiapine 50mg QHS | OCP (may affect mood in some patients — discuss)
+
+QUESTIONS FOR PSYCHIATRY:
+1. Confirm diagnosis and assess for mixed features or cycling?
+2. Is quetiapine monotherapy sufficient or should lithium/valproate be added?
+3. OCP interaction risk with mood stabilisers?
+4. Long-term monitoring plan (lithium levels, thyroid, renal)?
+
+Referring Physician: Dr. Christine Walsh, MD
+NPI: 3748291047 | Phone: (555) 333-2211

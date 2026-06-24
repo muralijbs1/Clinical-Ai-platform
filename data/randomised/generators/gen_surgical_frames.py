@@ -19,7 +19,7 @@ random.seed(42)
 
 _OUT_FILE = Path(__file__).parent.parent / "surgical_frames.json"
 
-_N_FRAMES = 60
+_N_FRAMES = 240
 _PROCEDURE = "Laparoscopic Cholecystectomy"
 _FPS = 25
 

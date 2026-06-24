@@ -1,0 +1,48 @@
+referral_id: REF-2025-052847
+specialty: Neurology
+urgency: URGENT
+patient_name: Theodore Kapoor
+patient_dob: 1954-08-27
+patient_sex: Male
+patient_mrn: MRN-4738291
+insurance: BlueCross PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — NEUROLOGY (STROKE)
+Date: 2025-05-09    Referral ID: REF-2025-052847
+Urgency: URGENT — Same-day / next-day appointment
+
+TO: Neurology Stroke Clinic
+FROM: Dr. Helen Voss, MD — Emergency Medicine, NPI 7382910473
+      City General Emergency Department, Phone: (555) 700-0911
+
+PATIENT: Theodore Kapoor | DOB: 1954-08-27 | Age: 70 | Sex: Male
+MRN: MRN-4738291 | Insurance: BlueCross PPO
+
+REASON FOR REFERRAL: Transient ischaemic attack (TIA) — 20-minute episode of right arm weakness
+and aphasia, fully resolved. ABCD2 score 6 (high-risk). Urgent neurovascular assessment needed.
+
+CLINICAL SUMMARY:
+Mr. Kapoor presented to the ED for a 20-minute episode of sudden right arm weakness and expressive
+aphasia that resolved completely before arrival. Last known well: 2 hours prior to ED presentation.
+ABCD2 score: Age 70 (1) + BP >140 (1) + Clinical features (focal 2) + Duration 10-59min (1) + DM (1) = 6.
+
+On arrival: NIHSS 0. Full recovery. No residual deficit.
+
+CT Head: No infarct. No haemorrhage. MRI DWI: Small acute DWI lesion in left posterior MCA territory (8mm).
+MRA: 40% left internal carotid stenosis (moderate).
+EKG: Normal sinus rhythm. No AF.
+Troponin: negative. BMP: normal.
+
+PMH: HTN (poorly controlled — BP 182/96 on arrival), T2DM, hyperlipidemia.
+Meds: Amlodipine 10mg QD, Metformin 1000mg BID, Atorvastatin 20mg QHS, Aspirin 81mg QD.
+
+QUESTIONS FOR NEUROLOGY:
+1. Is this TIA or minor stroke given the DWI lesion?
+2. Dual antiplatelet therapy (aspirin + clopidogrel) for 21 days per POINT trial?
+3. What is the 90-day stroke risk? Requires inpatient admission vs urgent outpatient?
+4. Carotid endarterectomy evaluation (40% ICA stenosis)?
+5. Long-term BP target and statin intensity?
+
+Referring Physician: Dr. Helen Voss, MD
+NPI: 7382910473 | Phone: (555) 700-0911

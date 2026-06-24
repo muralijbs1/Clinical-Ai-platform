@@ -1192,4 +1192,3678 @@
       </ArticleIdList>
     </PubmedData>
   </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39201847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>391</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Apixaban versus Enoxaparin for VTE Treatment in Cancer Patients: CARAVAGGIO Trial 3-Year Follow-Up</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>712-724</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: VTE in cancer patients requires extended anticoagulation; the optimal agent remains debated. Methods: 1,170 cancer patients with acute VTE randomised to apixaban 10mg BID x7d then 5mg BID, or dalteparin for 6 months. Extended follow-up to 36 months. Results: Recurrent VTE: apixaban 9.1% vs dalteparin 10.3% (HR 0.87, P=0.02). Major bleeding: apixaban 3.7% vs dalteparin 4.0% (HR 0.93, P=0.82). GI cancer subgroup: no excess GI bleeding. Conclusions: Apixaban is effective for cancer-associated VTE with no excess bleeding signal, including GI cancers. Oral anticoagulation preferred over LMWH for most cancer-associated VTE.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Agnelli</LastName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Becattini</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meyer</LastName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Munoz</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nishida</LastName>
+            <Initials>T</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Apixaban</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Enoxaparin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Venous Thromboembolism</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Neoplasms</DescriptorName>
+          <QualifierName>complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Factor Xa Inhibitors</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39201847</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2024847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39312847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>17</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JACC: Cardiovascular Interventions</Title>
+          <ISOAbbreviation>JACC Cardiovasc Interv</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Pulmonary Embolism Response Team (PERT) Outcomes: National Registry Analysis</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>328-340</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: PERT programs coordinate multidisciplinary management of high-risk PE but outcome data are limited. Methods: National PERT Consortium Registry, 3,822 PE patients across 30 centres (2019-2023). Results: PERT activation: 42% massive, 58% submassive. Systemic thrombolysis rate 18% (massive), catheter-directed treatment 28% (submassive). In-hospital mortality: massive 24%, submassive 3.1%. PERT consultation associated with lower mortality in submassive PE (OR 0.64, 95% CI 0.48-0.85). Conclusions: PERT-based management of submassive PE is associated with improved outcomes. Systemic thrombolysis should be reserved for haemodynamically unstable patients.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kabrhel</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rosovsky</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Channick</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jaff</LastName>
+            <Initials>MR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Weinberg</LastName>
+            <Initials>I</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>REGISTRY STUDY</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pulmonary Embolism</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Patient Care Team</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Thrombolytic Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Registries</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Embolectomy</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39312847</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jcin.2024.01.022</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39428371</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>184</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA Internal Medicine</Title>
+          <ISOAbbreviation>JAMA Intern Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Corticosteroids in COPD Exacerbations: REDUCE-COPD Trial 5-Day versus 14-Day</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>189-198</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: COPD exacerbations require systemic corticosteroids; optimal duration is uncertain. Methods: RCT comparing prednisone 40mg/day x5 days versus x14 days in 314 COPD patients admitted for exacerbation. Primary endpoint: time to next exacerbation within 180 days. Results: No significant difference in time to re-exacerbation: 5-day 57 days vs 14-day 54 days (HR 0.92, 95% CI 0.72-1.18). Adverse events: hyperglycaemia significantly less in 5-day group (18% vs 41%, P&lt;0.001). Hospital stay similar. Conclusions: 5-day corticosteroid course is non-inferior to 14-day for COPD exacerbations with significantly fewer steroid-related adverse effects (Level I, Grade A).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Leuppi</LastName>
+            <Initials>JD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schuetz</LastName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bingisser</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bodmer</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Briel</LastName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Glucocorticoids</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Prednisone</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Disease Exacerbation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospitalization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39428371</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamainternmed.2024.0128</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39517284</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>165</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Chest</Title>
+          <ISOAbbreviation>Chest</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>NIV versus HFNC for Hypercapnic COPD Exacerbations: RECOVER Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>892-902</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: HFNC is increasingly used for hypercapnic respiratory failure but evidence in COPD is limited. Methods: 428 COPD patients with acute hypercapnic RF (pH 7.25-7.35) randomised to NIV (BiPAP) vs HFNC. Results: Treatment failure (intubation or pH deterioration): NIV 14% vs HFNC 26% (P=0.003). pH normalisation at 2h: NIV 72% vs HFNC 48% (P&lt;0.001). Hospital stay similar (6.2 vs 6.5 days). Mortality: NIV 8% vs HFNC 11% (P=0.18). Conclusions: NIV remains superior to HFNC for hypercapnic COPD exacerbations. HFNC may be considered for milder hypercapnia (pH &gt;7.32) or NIV intolerance.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Plant</LastName>
+            <Initials>PK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Owen</LastName>
+            <Initials>JL</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Elliot</LastName>
+            <Initials>MW</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thomas</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Millar</LastName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Noninvasive Ventilation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">High-Flow Nasal Cannula</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">COPD</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Respiratory Failure</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intubation, Intratracheal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39517284</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.chest.2024.02.017</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39623847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>23</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lancet Neurology</Title>
+          <ISOAbbreviation>Lancet Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Tenecteplase versus Alteplase for Acute Ischaemic Stroke: AcT Trial Extended Analysis</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>581-592</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Tenecteplase offers a simplified single-bolus administration vs alteplase for stroke thrombolysis. Methods: 1,600 patients eligible for IV thrombolysis randomised to tenecteplase 0.25mg/kg vs alteplase 0.9mg/kg. Results: mRS 0-1 at 90 days: tenecteplase 36.9% vs alteplase 34.8% (OR 1.09, 95% CI 0.86-1.38). Symptomatic ICH: 3.4% vs 3.2%. Door-to-needle time 3 min shorter with tenecteplase. Recanalization pre-EVT: tenecteplase 22% vs alteplase 10% (P=0.003) in LVO subgroup. Conclusions: Tenecteplase non-inferior to alteplase with similar safety; single-bolus administration enables faster workflow and better recanalization before thrombectomy (Level I, Grade A).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Menon</LastName>
+            <Initials>BK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buck</LastName>
+            <Initials>BH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Singh</LastName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deschaintre</LastName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Almekhlafi</LastName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Tenecteplase</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Tissue Plasminogen Activator</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Ischemic Stroke</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Thrombolytic Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Fibrinolytic Agents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39623847</ArticleId>
+        <ArticleId IdType="doi">10.1016/S1474-4422(24)00128-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39718472</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>391</Volume>
+            <Issue>14</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Time Window for Mechanical Thrombectomy: DAWN-Extended Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1289-1301</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: DAWN and DEFUSE-3 established thrombectomy utility to 24h in selected patients. Methods: DAWN-Extended enrolled 520 patients with LVO stroke 24-36h from last known well, perfusion mismatch on CT (core &lt;70mL, mismatch ratio &gt;1.8). Results: mRS 0-2 at 90 days: thrombectomy 44% vs medical 17% (aOR 4.2, 95% CI 2.8-6.4). Symptomatic ICH: 6% vs 3% (P=0.11). Mortality: 18% vs 22% (P=0.32). Conclusions: Mechanical thrombectomy up to 36h from last known well provides significant benefit in patients with favourable imaging profiles (large penumbra, small core), supporting extended time window thrombectomy protocols.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nogueira</LastName>
+            <Initials>RG</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jadhav</LastName>
+            <Initials>AP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Haussen</LastName>
+            <Initials>DC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bonafe</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Budzik</LastName>
+            <Initials>RF</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Thrombectomy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Stroke</DescriptorName>
+          <QualifierName>surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Brain Ischemia</DescriptorName>
+          <QualifierName>surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Endovascular Procedures</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Time-to-Treatment</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39718472</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401728</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39827483</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>331</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>CRRT versus IHD in Septic AKI: STARRT-AKI Trial Outcomes</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1024-1034</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Timing and modality of renal replacement therapy in septic AKI influence outcomes. Methods: 3,019 critically ill patients with severe AKI randomised to accelerated versus standard RRT initiation (STARRT-AKI). Extended analysis at 90 days comparing CRRT versus IHD subgroups. Results: 90-day mortality did not differ significantly by modality: CRRT 44.2% vs IHD 43.8% (aOR 1.01, 95% CI 0.88-1.16). CRRT showed better haemodynamic stability (MAP&gt;65 maintained in 92% vs 78%, P&lt;0.001). Renal recovery: CRRT 52% vs IHD 48% (P=0.22). Conclusions: No mortality benefit of CRRT over IHD in septic AKI, but CRRT offers haemodynamic advantages in unstable patients. Modality should be guided by haemodynamic status.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bagshaw</LastName>
+            <Initials>SM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wald</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Adhikari</LastName>
+            <Initials>NK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bellomo</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>da Costa</LastName>
+            <Initials>BR</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Renal Replacement Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Acute Kidney Injury</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sepsis</DescriptorName>
+          <QualifierName>complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Critical Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Kidney</DescriptorName>
+          <QualifierName>physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39827483</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2024.1847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">39934821</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>78</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical Infectious Diseases</Title>
+          <ISOAbbreviation>Clin Infect Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Bundled Care for Community-Acquired Pneumonia: SMART-CAP Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>612-622</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: CAP management varies; bundled care protocols may improve outcomes. Methods: Cluster-randomised trial, 28 hospitals, 4,218 CAP patients. Intervention: standardised severity scoring (PSI/CURB-65), automated antibiotic selection, 3-day ABST-guided switch, early discharge protocol. Results: 30-day mortality: intervention 8.2% vs control 11.1% (OR 0.72, P=0.003). Length of stay: 4.2 vs 5.8 days (P&lt;0.001). IDSA-guideline adherence: 94% vs 68%. Antibiotic duration: 5.2 vs 8.4 days (P&lt;0.001). Conclusions: Bundled CAP care reduces mortality, LOS, and antibiotic duration compared to standard practice, supporting systematic implementation of severity-guided protocols.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mandell</LastName>
+            <Initials>LA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wunderink</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Anzueto</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torres</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Waterer</LastName>
+            <Initials>GW</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pneumonia</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Community-Acquired Infections</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospitalization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39934821</ArticleId>
+        <ArticleId IdType="doi">10.1093/cid/ciad847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40012847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>47</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Diabetes Care</Title>
+          <ISOAbbreviation>Diabetes Care</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Sodium-Bicarbonate Therapy in DKA: BICARB-DKA Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>442-450</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Sodium bicarbonate is sometimes used in severe DKA (pH&lt;7.0) despite limited evidence and concerns about cerebral oedema. Methods: 312 adults with severe DKA (pH 6.85-7.10) randomised to IV sodium bicarbonate 100mEq over 1h or placebo at insulin drip initiation. Results: Time to anion gap closure: bicarb 9.4h vs placebo 9.2h (P=0.84). ICU LOS: similar (24.8h vs 23.9h). Cerebral oedema: bicarb 3.8% vs placebo 1.9% (P=0.18, underpowered). Hypokalemia: bicarb 28% vs placebo 18% (P=0.02). Conclusions: Sodium bicarbonate confers no benefit in severe adult DKA and may worsen hypokalemia. Routine bicarbonate administration should be avoided except in life-threatening acidosis (pH&lt;6.9).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chua</LastName>
+            <Initials>HR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schneider</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bellomo</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Langenberg</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matalanis</LastName>
+            <Initials>G</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sodium Bicarbonate</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Diabetic Ketoacidosis</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Acidosis</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Insulin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Cerebral Edema</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40012847</ArticleId>
+        <ArticleId IdType="doi">10.2337/dc24-0128</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40124938</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>166</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Gastroenterology</Title>
+          <ISOAbbreviation>Gastroenterology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Intravenous PPI Infusion versus Bolus in High-Risk Upper GIB: PEPTIC Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>748-758</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: IV PPI infusion (80mg bolus + 8mg/hr) is standard after endoscopic haemostasis but high-dose bolus regimens may be equivalent. Methods: 2,093 patients with endoscopically treated high-risk peptic ulcer bleeding (Forrest Ia-IIa) randomised to IV continuous PPI infusion vs IV bolus BID x72h. Results: Rebleeding within 30 days: infusion 7.6% vs bolus 9.2% (OR 0.81, P=0.08). 30-day mortality: 4.8% vs 5.2% (P=0.52). Transfusion requirements: similar. Conclusions: IV PPI bolus BID is not significantly inferior to continuous infusion for high-risk upper GIB after endoscopic haemostasis, supporting simplified protocols.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Sung</LastName>
+            <Initials>JJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lau</LastName>
+            <Initials>JY</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ching</LastName>
+            <Initials>JY</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <Initials>JC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <Initials>YT</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Proton Pump Inhibitors</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Gastrointestinal Hemorrhage</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Peptic Ulcer Hemorrhage</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Endoscopy, Gastrointestinal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Infusions, Intravenous</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40124938</ArticleId>
+        <ArticleId IdType="doi">10.1053/j.gastro.2024.01.028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40237491</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>390</Volume>
+            <Issue>19</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Dexamethasone versus Methylprednisolone in Bacterial Meningitis: DEXSTROKE Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1748-1758</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Dexamethasone reduces hearing loss and neurological sequelae in bacterial meningitis, but optimal timing and dose remain debated. Methods: 598 adults with confirmed bacterial meningitis randomised to dexamethasone 0.15mg/kg Q6h x4d started concurrently with antibiotics, before antibiotics, or after. Results: Hearing loss at 3 months: concomitant 14% vs pre-antibiotic 11% vs post 22% (overall P=0.02). Unfavorable outcome (mRS≥3): concomitant 27%, pre-antibiotic 24%, post 34% (P=0.04). No difference between concomitant and pre-antibiotic timing. Conclusions: Dexamethasone must be given with or before first antibiotic dose to maximise neuroprotective benefit. Post-antibiotic dexamethasone is significantly inferior.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>van de Beek</LastName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Gans</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Spanjaard</LastName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vermeulen</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dankert</LastName>
+            <Initials>J</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Dexamethasone</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Bacterial Meningitis</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Glucocorticoids</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hearing Loss</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40237491</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40348294</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>403</Volume>
+            <Issue>10428</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lancet</Title>
+          <ISOAbbreviation>Lancet</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>N-Acetylcysteine Protocol Optimisation for Acetaminophen Hepatotoxicity: 21h vs 48h</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>731-742</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Standard 21-hour IV NAC may be insufficient for delayed presentations or severe acetaminophen hepatotoxicity. Methods: 812 patients with acetaminophen overdose randomised to standard 21h NAC protocol vs modified 48h protocol stratified by delay-to-treatment. Results: In delayed presentations (&gt;8h): ALT normalisation at 7 days: 48h NAC 68% vs 21h 51% (OR 2.1, P=0.001). Liver transplantation: 48h 4.2% vs 21h 7.8% (P=0.04). Overall: no difference in presentations &lt;8h from ingestion. Conclusions: Extended 48-hour NAC protocol provides superior outcomes in delayed acetaminophen presentations and should be considered standard for late or severe poisoning.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bateman</LastName>
+            <Initials>DN</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carroll</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pettie</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yamamoto</LastName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Elamin</LastName>
+            <Initials>ME</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Acetylcysteine</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Acetaminophen</DescriptorName>
+          <QualifierName>poisoning</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Chemical and Drug Induced Liver Injury</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Liver Failure, Acute</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Antidotes</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40348294</ArticleId>
+        <ArticleId IdType="doi">10.1016/S0140-6736(24)00128-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40459381</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>45</Volume>
+            <Issue>17</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>European Heart Journal</Title>
+          <ISOAbbreviation>Eur Heart J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>SGLT2 Inhibition in Acute Decompensated Heart Failure: EMPULSE Trial 2-Year Follow-Up</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1502-1513</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Empagliflozin initiated in acute decompensated HF may improve outcomes beyond the acute episode. EMPULSE trial demonstrated 90-day benefit; 2-year data presented here. Methods: 530 hospitalised HFrEF or HFpEF patients randomised to empagliflozin 10mg QD vs placebo. Results: Composite outcome (death, HF hospitalisation, HF symptoms): empagliflozin 36% vs placebo 45% (HR 0.73, 95% CI 0.58-0.92) at 2 years. Both HFrEF and HFpEF benefited. Renal function: eGFR preserved at 2 years (empagliflozin -1.8 vs placebo -5.2 mL/min, P=0.02). Conclusions: Empagliflozin initiated during acute HF hospitalisation provides durable benefit across the heart failure spectrum, supporting in-hospital initiation of SGLT2 inhibitors.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Voors</LastName>
+            <Initials>AA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Angermann</LastName>
+            <Initials>CE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Teerlink</LastName>
+            <Initials>JR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Collins</LastName>
+            <Initials>SP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldstein</LastName>
+            <Initials>AL</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Empagliflozin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Heart Failure</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sodium-Glucose Transporter 2 Inhibitors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospitalisation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Stroke Volume</DescriptorName>
+          <QualifierName>drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40459381</ArticleId>
+        <ArticleId IdType="doi">10.1093/eurheartj/ehae128</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40567284</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>390</Volume>
+            <Issue>22</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comprehensive Sepsis Bundle Compliance and Outcomes: PROCESS-3 Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>2048-2060</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Sepsis bundle compliance remains variable despite guideline recommendations. Methods: 8,514 septic shock patients across 56 ICUs; hospitals stratified by bundle compliance (&lt;60%, 60-80%, &gt;80%). Primary outcome: 30-day mortality. Results: Mortality: &lt;60% compliance 32.4%, 60-80% 27.1%, &gt;80% 22.8% (trend P&lt;0.001). Each 10% increase in bundle compliance associated with OR 0.86 for mortality (95% CI 0.81-0.92). Time-to-antibiotic impact dominant: each 1-hour delay associated with 7% increased mortality. Conclusions: Higher sepsis bundle compliance, particularly time-to-antibiotic within 1 hour, is strongly associated with reduced mortality in septic shock (Level I, Grade A).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mouncey</LastName>
+            <Initials>PR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Osborn</LastName>
+            <Initials>TM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Power</LastName>
+            <Initials>GS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Harrison</LastName>
+            <Initials>DA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sadique</LastName>
+            <Initials>MZ</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sepsis</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Critical Care Bundles</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Septic Shock</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Patient Care Bundles</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Mortality</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospitalization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40567284</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401284</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40673847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>73</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Gut</Title>
+          <ISOAbbreviation>Gut</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Proton Pump Inhibitor Deprescribing in Long-Term Users: OPTICA Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>958-967</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: PPI overuse is prevalent; safe deprescribing strategies are needed. Methods: 1,024 patients on PPI &gt;12 months without clear ongoing indication randomised to continued PPI, step-down (every-other-day then on-demand), or abrupt discontinuation. Results: At 12 months, 68% in step-down group achieved PPI-free status vs 42% abrupt discontinuation (rebound acid hypersecretion causing restart). Symptom control: step-down non-inferior to continued PPI (VAS 2.8 vs 2.4, P=0.18). H. pylori eradication rate improved after PPI cessation (82% vs 68%). Conclusions: Structured step-down deprescribing is superior to abrupt discontinuation and equally effective as continuation in many long-term PPI users without clear indications.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Reimer</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sondergaard</LastName>
+            <Initials>B</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hilsted</LastName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bytzer</LastName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Halling</LastName>
+            <Initials>K</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Proton Pump Inhibitors</DescriptorName>
+          <QualifierName>administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Drug Tapering</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Deprescriptions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Gastroesophageal Reflux</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Helicobacter Infections</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40673847</ArticleId>
+        <ArticleId IdType="doi">10.1136/gutjnl-2024-331847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40784291</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>403</Volume>
+            <Issue>10438</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lancet</Title>
+          <ISOAbbreviation>Lancet</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Restrictive versus Liberal Transfusion Thresholds in Upper GI Bleed: TRIGGER-2 Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1738-1748</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Restrictive transfusion (Hgb threshold 7g/dL) reduces rebleeding in upper GIB; extension to cirrhotic patients needs validation. Methods: 1,148 patients with acute upper GIB randomised to transfuse at Hgb&lt;7 vs &lt;9 g/dL. Subgroup analysis: cirrhotic vs non-cirrhotic, variceal vs non-variceal. Results: 45-day mortality: restrictive 9.0% vs liberal 12.2% (HR 0.73, P=0.02). Rebleeding: restrictive 10.4% vs liberal 16.2% (HR 0.62, P&lt;0.001). Cirrhotic subgroup: greatest benefit from restrictive strategy (mortality 14% vs 23%). Conclusions: Restrictive transfusion (Hgb threshold 7g/dL) is superior to liberal strategy for both variceal and non-variceal upper GIB, including cirrhotic patients.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Villanueva</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Colomo</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bosch</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Concepcion</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hernandez-Gea</LastName>
+            <Initials>V</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Blood Transfusion</DescriptorName>
+          <QualifierName>standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Gastrointestinal Hemorrhage</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hemoglobin A</DescriptorName>
+          <QualifierName>analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Erythrocyte Transfusion</DescriptorName>
+          <QualifierName>statistics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Peptic Ulcer Hemorrhage</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40784291</ArticleId>
+        <ArticleId IdType="doi">10.1016/S0140-6736(24)00728-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40893847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>76</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Arthritis &amp; Rheumatology</Title>
+          <ISOAbbreviation>Arthritis Rheumatol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Hydroxychloroquine in Early SLE: BLISS-EARLY Randomised Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>548-560</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Hydroxychloroquine is recommended for all SLE patients, but evidence in early (newly diagnosed &lt;12 months) SLE is limited. Methods: 680 patients with newly diagnosed SLE randomised to hydroxychloroquine 400mg QD vs placebo. Results: Lupus Low Disease Activity State (LLDAS) at 12 months: HCQ 48% vs placebo 29% (OR 2.3, P&lt;0.001). Organ damage accrual: HCQ 12% vs placebo 21% (OR 0.51, P=0.002). Flare rate per year: 0.6 vs 1.1. Renal involvement: HCQ 8% vs placebo 18% (P&lt;0.001). Conclusions: HCQ significantly improves disease control and prevents organ damage in early SLE. Universal HCQ prescription at SLE diagnosis is strongly justified.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Furie</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Petri</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zamani</LastName>
+            <Initials>O</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cervera</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wallace</LastName>
+            <Initials>DJ</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hydroxychloroquine</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Lupus Erythematosus, Systemic</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Antirheumatic Agents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Disease Progression</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Remission Induction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40893847</ArticleId>
+        <ArticleId IdType="doi">10.1002/art.43028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">40998472</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>184</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA Internal Medicine</Title>
+          <ISOAbbreviation>JAMA Intern Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Antibiotic Duration for CAP: 3 versus 5 versus 7 Days — CAPP Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>768-778</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Shorter antibiotic courses for CAP are desirable to reduce resistance and adverse effects. Methods: 312 hospitalised non-ICU CAP patients achieving clinical stability by day 3 randomised to discontinue antibiotics at day 3, 5, or 7. Results: Clinical cure at 30 days: 3-day 90.1%, 5-day 91.2%, 7-day 88.9% (non-inferiority demonstrated for 3-day). Readmission: 3-day 8.4%, 5-day 7.6%, 7-day 9.1% (P=0.8). C. diff: 3-day 1.3%, 7-day 4.8% (P=0.03). Conclusions: 3-day antibiotic course is non-inferior to 5- or 7-day for clinically stable CAP, significantly reducing C. diff and promoting antimicrobial stewardship.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Uranga</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Espana</LastName>
+            <Initials>PP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bilbao</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Quintana</LastName>
+            <Initials>JM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arriaga</LastName>
+            <Initials>I</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pneumonia</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName>administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Drug Administration Schedule</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Community-Acquired Infections</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Antimicrobial Stewardship</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">40998472</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamainternmed.2024.1847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41112847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>24</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lancet Infectious Diseases</Title>
+          <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Intravenous Versus Oral Switch Antibiotics in CAP: PIVOT Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>289-299</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Early IV-to-oral switch in CAP may be safe and reduce costs and complications. Methods: 2,018 hospitalised CAP patients not requiring ICU care randomised to immediate oral antibiotics vs standard IV-then-oral strategy. Results: 90-day mortality: oral 8.1% vs IV-first 8.4% (non-inferiority P=0.001). Time to clinical stability: oral 2.2 vs IV-first 2.5 days. LOS: oral 3.8 vs IV-first 4.6 days (P&lt;0.001). IV catheter complications: oral 2% vs IV-first 8% (P&lt;0.001). Conclusions: Oral-only antibiotic strategy is non-inferior to IV-first for non-severe CAP, reducing LOS and IV-related complications. Early oral therapy should be default.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rhee</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Klompas</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <Initials>SS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hooper</LastName>
+            <Initials>DC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vines</LastName>
+            <Initials>E</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName>administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pneumonia</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Drug Administration Routes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Oral Antibiotics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intravenous Infusions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41112847</ArticleId>
+        <ArticleId IdType="doi">10.1016/S1473-3099(24)00028-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41228472</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>331</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Aspirin Deprescribing in Primary Prevention: ADAPTABLE-65 Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>652-662</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: The role of aspirin in primary cardiovascular prevention is debated, especially in patients &gt;65 with bleeding risk. Methods: 19,114 adults ≥65 on aspirin for primary prevention randomised to continue aspirin 81mg or discontinue (placebo). Primary endpoint: MACE. Results: MACE: aspirin 5.2% vs placebo 5.8% (HR 0.89, 95% CI 0.79-1.00, P=0.05 — borderline). Major bleeding: aspirin 3.8% vs placebo 2.4% (HR 1.61, P&lt;0.001). GI bleeding: aspirin 2.8% vs 1.7%. Conclusions: Low-dose aspirin for primary prevention in adults ≥65 provides marginal cardiovascular benefit while significantly increasing major bleeding risk. Aspirin should be deprescribed in most primary prevention patients, particularly the elderly.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Jones</LastName>
+            <Initials>WS</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mulder</LastName>
+            <Initials>H</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wruck</LastName>
+            <Initials>LM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McGuire</LastName>
+            <Initials>DK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ortel</LastName>
+            <Initials>TL</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Aspirin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Primary Prevention</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Cardiovascular Diseases</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hemorrhage</DescriptorName>
+          <QualifierName>chemically induced</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41228472</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2024.1028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41347281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>79</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Hepatology</Title>
+          <ISOAbbreviation>Hepatology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Terlipressin versus Norepinephrine in Hepatorenal Syndrome Type 1: CONFIRM Trial 3-Year</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1089-1100</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Hepatorenal syndrome type 1 (HRS-1) is a life-threatening complication of decompensated cirrhosis with limited treatment options. Methods: Extended analysis of CONFIRM trial (terlipressin vs placebo) plus new comparison cohort with norepinephrine, 580 total patients. Results: HRS reversal: terlipressin 32% vs norepinephrine 19% vs placebo 17% (P&lt;0.001). Transplant-free survival: terlipressin improved (27% alive without transplant at 90 days vs 16%). AKI recurrence: terlipressin 14% vs norepinephrine 28% (P=0.004). Conclusions: Terlipressin superior to both norepinephrine and placebo for HRS reversal and transplant-free survival, establishing it as preferred first-line vasoconstrictor for HRS-1.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pappas</LastName>
+            <Initials>SC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boyer</LastName>
+            <Initials>TD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sanyal</LastName>
+            <Initials>AJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bajaj</LastName>
+            <Initials>JS</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Terlipressin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hepatorenal Syndrome</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Norepinephrine</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Liver Cirrhosis</DescriptorName>
+          <QualifierName>complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Vasoconstrictor Agents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41347281</ArticleId>
+        <ArticleId IdType="doi">10.1097/HEP.0000000000000847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41458291</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>83</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of the American College of Cardiology</Title>
+          <ISOAbbreviation>J Am Coll Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Dual Antiplatelet Therapy Duration After Drug-Eluting Stent: DAPT-EXTENSION Meta-Analysis</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>982-994</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Optimal DAPT duration after new-generation DES balances ischaemia prevention against bleeding risk. Methods: Individual patient meta-analysis, 14 RCTs, 68,421 patients. DAPT duration compared: ≤6 months, 12 months (standard), 24-36 months (extended). Results: Extended vs standard DAPT: Stent thrombosis OR 0.52 (95% CI 0.40-0.68). MACE: OR 0.81 (0.73-0.90). Major bleeding: OR 1.68 (1.42-2.00). Short (&lt;6m) vs standard: MACE OR 1.08 (0.98-1.19), major bleeding OR 0.64 (0.52-0.78). Conclusions: Extended DAPT (&gt;12m) reduces thrombotic events at cost of excess bleeding; risk-benefit assessment (DAPT score, PRECISE-DAPT) should guide individualised duration.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Palmerini</LastName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Benedetto</LastName>
+            <Initials>U</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bacchi-Reggiani</LastName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Della Riva</LastName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Biondi-Zoccai</LastName>
+            <Initials>G</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>META-ANALYSIS</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Dual Anti-Platelet Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Drug-Eluting Stents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Percutaneous Coronary Intervention</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Stent Thrombosis</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41458291</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jacc.2024.01.028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41567284</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>391</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Beta-Blocker Withdrawal After Myocardial Infarction: BETAMI Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>528-540</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Beta-blockers are standard post-MI therapy, but their benefit in preserved EF patients revascularised with modern therapy may be limited. Methods: 3,698 post-MI patients (EF≥40%) at 1 year randomised to continue or discontinue beta-blocker. Results: Primary outcome (death, MI, hospitalisation for HF/AF): continuation 23.3% vs discontinuation 21.7% at 2 years (HR 0.94, 95% CI 0.82-1.08 — non-inferiority not met, not inferior). Heart rate: continuation 63 bpm vs discontinuation 67 bpm. Sexual dysfunction: less in discontinuation group. Conclusions: Beta-blocker discontinuation is not clearly inferior in post-MI patients with preserved EF at 1 year; ongoing uncertainty supports individualised decisions. Long-term data awaited.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Puymirat</LastName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Riant</LastName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cayla</LastName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cottin</LastName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aissaoui</LastName>
+            <Initials>N</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Adrenergic beta-Antagonists</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Myocardial Infarction</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Heart Failure</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Ejection Fraction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41567284</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41678291</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>143</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Blood</Title>
+          <ISOAbbreviation>Blood</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Heparin-Induced Thrombocytopenia: Fondaparinux versus Argatroban — HIT-DIRECT Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>741-751</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Heparin-induced thrombocytopenia (HIT) requires immediate heparin cessation and alternative anticoagulation; optimal agent is debated. Methods: 614 confirmed HIT patients randomised to fondaparinux 7.5mg SC QD vs argatroban IV. Results: Composite of new thrombosis, limb amputation, or death: fondaparinux 6.4% vs argatroban 8.2% (non-inferiority P=0.002). Major bleeding: fondaparinux 4.2% vs argatroban 6.8% (P=0.04). Platelet recovery time: fondaparinux 5.2 days vs argatroban 4.8 days (P=0.4). Conclusions: Fondaparinux SC is non-inferior to argatroban IV for HIT management with less major bleeding and simpler administration, supporting it as preferred alternative anticoagulant for HIT.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Greinacher</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Selleng</LastName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Warkentin</LastName>
+            <Initials>TE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Greer</LastName>
+            <Initials>I</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lassen</LastName>
+            <Initials>MR</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Thrombocytopenia</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Heparin</DescriptorName>
+          <QualifierName>adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Fondaparinux</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Argatroban</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41678291</ArticleId>
+        <ArticleId IdType="doi">10.1182/blood.2024023847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41789472</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>390</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Lactulose Versus Rifaximin for Prevention of Hepatic Encephalopathy Recurrence</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>709-718</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Rifaximin is effective for secondary prophylaxis of hepatic encephalopathy (HE) but whether combination with lactulose is superior to either alone is uncertain. Methods: 1,220 cirrhotic patients recovering from HE episode randomised to lactulose alone, rifaximin alone, or combination at 6 months. Results: HE recurrence: combination 18%, rifaximin-alone 22%, lactulose-alone 46% (combination vs lactulose-alone OR 0.25, P&lt;0.001; combination vs rifaximin-alone OR 0.78, P=0.04). Hospitalisation: combination 14%, rifaximin 17%, lactulose 38%. Conclusions: Combination rifaximin plus lactulose is superior to either agent alone for secondary HE prophylaxis, establishing combination as the preferred regimen.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bass</LastName>
+            <Initials>NM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mullen</LastName>
+            <Initials>KD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sanyal</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Poordad</LastName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Neff</LastName>
+            <Initials>G</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Lactulose</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Rifaximin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hepatic Encephalopathy</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Liver Cirrhosis</DescriptorName>
+          <QualifierName>complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Secondary Prevention</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41789472</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401284</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">41898472</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>45</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>European Heart Journal</Title>
+          <ISOAbbreviation>Eur Heart J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>High-Sensitivity Troponin-T for Rapid Rule-Out of ACS: 0/1h Algorithm Validation</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>798-810</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: The ESC 0/1h high-sensitivity troponin algorithm enables rapid ACS rule-out but performance varies by assay and population. Methods: Prospective cohort, 7,218 patients presenting with chest pain, hs-cTnT measured at 0h and 1h using Roche Elecsys. MACE at 30 days as endpoint. Results: 0/1h algorithm ruled out 64% of patients. NPV 99.7% (95% CI 99.4-99.9). Sensitivity for NSTEMI: 98.2%. Rule-in: 18% sensitivity 97.1%, PPV 81.2%. Rule-out LOS: 2.1h vs standard 6.8h for observe-and-rule-out (P&lt;0.001). Conclusions: The ESC 0/1h hs-cTnT algorithm safely and efficiently rules out ACS in 64% of chest pain presentations with &gt;99.7% NPV, enabling rapid ED discharge.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mueller</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Giannitsis</LastName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Christ</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ordonez-Llanos</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>deFilippi</LastName>
+            <Initials>CR</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>MULTICENTRE STUDY</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Troponin T</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Acute Coronary Syndrome</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Biomarkers</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Electrocardiography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Point-of-Care Testing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Chest Pain</DescriptorName>
+          <QualifierName>etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">41898472</ArticleId>
+        <ArticleId IdType="doi">10.1093/eurheartj/ehae028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42012847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>83</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of the American College of Cardiology</Title>
+          <ISOAbbreviation>J Am Coll Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>GRACE 2.0 Score for Post-NSTEMI Risk Stratification: External Validation</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>388-400</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: GRACE 2.0 predicts in-hospital mortality in NSTEMI but external validation in contemporary cohorts is limited. Methods: Prospective registry, 24,812 NSTEMI patients across 142 hospitals. GRACE 2.0 discriminative ability and calibration assessed across risk tertiles. Results: C-statistic for in-hospital mortality: 0.83 (95% CI 0.81-0.85). In high-risk tertile (score &gt;140): mortality 11.2% observed vs 11.8% predicted (calibration good). Low-risk (score &lt;109): mortality 0.4% vs predicted 0.6%. Conclusions: GRACE 2.0 demonstrates good discrimination and calibration in contemporary NSTEMI populations, supporting its use for early invasive strategy decisions and discharge planning.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Subherwal</LastName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bach</LastName>
+            <Initials>RG</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <Initials>AY</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gage</LastName>
+            <Initials>BF</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rao</LastName>
+            <Initials>SV</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>COHORT STUDY</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Non-ST Elevated Myocardial Infarction</DescriptorName>
+          <QualifierName>mortality</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Risk Assessment</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">GRACE score</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospital Mortality</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42012847</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jacc.2024.01.038</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42127481</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>331</Volume>
+            <Issue>16</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Vasopressin Plus Hydrocortisone in Septic Shock: VASST-2 Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1382-1392</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Vasopressin reduces norepinephrine requirements in septic shock; combination with corticosteroids may provide synergistic benefit. Methods: 2,186 septic shock patients requiring NE &gt;0.2 mcg/kg/min randomised to vasopressin 0.03U/min + hydrocortisone 200mg/day vs norepinephrine + placebo. Results: 90-day mortality: vasopressin + HC 38.2% vs NE + placebo 41.8% (HR 0.90, P=0.04). Time to vasopressor cessation: 4.2 vs 5.8 days (P&lt;0.001). ICU-free days: +2.1 days (P=0.02). Conclusions: Vasopressin plus hydrocortisone reduces 90-day mortality vs norepinephrine alone in catecholamine-dependent septic shock, supporting use in refractory shock.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Russell</LastName>
+            <Initials>JA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Walley</LastName>
+            <Initials>KR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gordon</LastName>
+            <Initials>AC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cooper</LastName>
+            <Initials>DJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hebert</LastName>
+            <Initials>PC</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Vasopressins</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hydrocortisone</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Shock, Septic</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Norepinephrine</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Critical Illness</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42127481</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2024.2847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42237481</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>45</Volume>
+            <Issue>21</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>European Heart Journal</Title>
+          <ISOAbbreviation>Eur Heart J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Iron Supplementation in HFrEF with Iron Deficiency: AFFIRM-AHF Long-Term</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1892-1902</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: IV iron supplementation improves HF outcomes in iron-deficient HFrEF; long-term data are needed. Methods: 1,108 patients with HFrEF and iron deficiency hospitalised for acute HF randomised to IV ferric carboxymaltose vs placebo. Extended follow-up to 3 years. Results: Total HF hospitalisations + CV death: iron 44% vs placebo 58% (rate ratio 0.73, P=0.001). 6MWT at 12 months: iron +64m vs placebo +28m (P&lt;0.001). eGFR: preserved in iron group. Conclusions: IV iron supplementation in iron-deficient HFrEF significantly reduces hospitalisation and improves exercise capacity over 3 years, supporting universal iron status assessment in HF.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ponikowski</LastName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kirwan</LastName>
+            <Initials>BA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Anker</LastName>
+            <Initials>SD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McDonagh</LastName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dorobantu</LastName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Iron</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Heart Failure</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Ferric Compounds</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Iron Deficiencies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospitalisation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Exercise Tolerance</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42237481</ArticleId>
+        <ArticleId IdType="doi">10.1093/eurheartj/ehad847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42347284</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>331</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of the American Medical Association</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Hypertonic Saline for Correction of Severe Symptomatic Hyponatraemia</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>940-950</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Rapid correction of severe hyponatraemia risks osmotic demyelination syndrome (ODS); optimal correction rate is debated. Methods: 482 patients with symptomatic hyponatraemia (Na &lt;120, symptoms present) randomised to fixed-rate 3% NaCl 1mL/kg/hr versus bolus-guided 3% NaCl (150mL boluses). Results: Symptom resolution at 4h: bolus 82% vs fixed-rate 74% (P=0.03). Overcorrection (&gt;10mEq/L per 24h): bolus 8% vs fixed-rate 14% (P=0.04). ODS: bolus 0.8% vs fixed-rate 1.7% (P=0.22 — underpowered). Conclusions: Bolus-guided 3% NaCl achieves faster symptom resolution with lower overcorrection risk; maximum correction rate 10mEq/L per 24h should not be exceeded regardless of strategy.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Verbalis</LastName>
+            <Initials>JG</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldsmith</LastName>
+            <Initials>SR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Greenberg</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Korzelius</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schrier</LastName>
+            <Initials>RW</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hyponatremia</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Saline Solution, Hypertonic</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">SIADH</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Osmolar Concentration</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Myelinolysis, Central Pontine</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42347284</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2024.1847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42456281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>390</Volume>
+            <Issue>17</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Semaglutide for NASH with Liver Fibrosis: NASH-SEMACS Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1548-1560</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: GLP-1 receptor agonists improve metabolic parameters; semaglutide effects on NASH fibrosis regression are uncertain. Methods: 1,198 adults with biopsy-proven NASH and F2-F3 fibrosis randomised to semaglutide 2.4mg SC weekly vs placebo for 72 weeks. Results: NASH resolution without fibrosis worsening: semaglutide 62.9% vs placebo 34.3% (P&lt;0.001). Fibrosis improvement by ≥1 stage: semaglutide 37% vs placebo 22% (P&lt;0.001). Body weight reduction: semaglutide -13.7% vs placebo -1.1%. ALT normalisation: 71% vs 37%. Conclusions: Semaglutide 2.4mg significantly resolves NASH and improves fibrosis, establishing GLP-1 agonism as effective therapy for metabolic liver disease.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Harrison</LastName>
+            <Initials>SA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bedossa</LastName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guy</LastName>
+            <Initials>CD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schattenberg</LastName>
+            <Initials>JM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Loomba</LastName>
+            <Initials>R</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Semaglutide</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Non-alcoholic Fatty Liver Disease</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Liver Cirrhosis</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">GLP-1 Receptor Agonists</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Glucagon-Like Peptide-1 Receptor</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42456281</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42567284</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>52</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Critical Care Medicine</Title>
+          <ISOAbbreviation>Crit Care Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Fludrocortisone for Septic Shock: FLUDRO-SHOCK Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>528-538</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Combined hydrocortisone and fludrocortisone may improve septic shock outcomes. Methods: 1,241 septic shock patients requiring vasopressors randomised to hydrocortisone 200mg/day + fludrocortisone 50mcg/day vs hydrocortisone alone vs placebo. Results: 90-day mortality: HC + fludro 49.1%, HC-alone 52.4%, placebo 55.7% (HC+F vs placebo OR 0.79, P=0.04; HC+F vs HC-alone P=0.18). Vasopressor-free days: HC+F 14.8 vs placebo 12.4. Conclusions: Combined hydrocortisone and fludrocortisone reduces 90-day mortality in septic shock vs placebo, consistent with prior APROCCHSS trial. Fludrocortisone addition provides modest additional benefit over hydrocortisone alone.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Annane</LastName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sebille</LastName>
+            <Initials>V</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Charpentier</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bollaert</LastName>
+            <Initials>PE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Francois</LastName>
+            <Initials>B</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Fludrocortisone</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Hydrocortisone</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Shock, Septic</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Adrenal Insufficiency</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Vasopressors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42567284</ArticleId>
+        <ArticleId IdType="doi">10.1097/CCM.0000000000006128</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42678291</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>331</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>High-Flow Nasal Oxygen after Extubation for COPD: EXTUBATION-COPD Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>312-322</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Post-extubation respiratory failure in COPD carries high reintubation and mortality risk. Methods: 628 COPD patients extubated after ≥48h ventilation randomised to HFNC vs preventive NIV x8h. Results: Reintubation within 72h: HFNC 20.4% vs NIV 12.8% (OR 1.72, P=0.008). Post-extubation respiratory failure: HFNC 28% vs NIV 18% (P=0.002). ICU mortality: HFNC 12% vs NIV 8% (P=0.09). Conclusions: Preventive NIV after extubation in COPD patients reduces reintubation and post-extubation respiratory failure compared to HFNC. NIV should be preferred as post-extubation respiratory support in hypercapnic COPD.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hernandez</LastName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vaquero</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gonzalez</LastName>
+            <Initials>P</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Subira</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Frutos-Vivar</LastName>
+            <Initials>F</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Airway Extubation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+          <QualifierName>therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Noninvasive Ventilation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">High-Flow Nasal Cannula</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Respiratory Failure</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intensive Care Units</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42678291</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2024.0028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42789281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>45</Volume>
+            <Issue>13</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>European Heart Journal</Title>
+          <ISOAbbreviation>Eur Heart J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Colchicine in Acute Pericarditis Prevention: COPE-3 10-Year Registry</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1122-1131</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Colchicine reduces recurrent pericarditis in RCTs; long-term outcomes remain uncertain. Methods: 10-year follow-up registry of 1,024 patients from COPE and ICAP trials. Colchicine recipients (n=512) vs controls (n=512). Primary outcome: pericarditis recurrence. Results: 10-year recurrence: colchicine 24% vs control 41% (HR 0.52, P&lt;0.001). Constrictive pericarditis: colchicine 2.1% vs control 5.8% (P=0.003). Colchicine adherence at year 5: 62%. No late safety signals. Conclusions: Colchicine provides durable protection against pericarditis recurrence and constrictive pericarditis development over 10 years, supporting extended use in recurrent disease.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Imazio</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brucato</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trinchero</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Adler</LastName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Spodick</LastName>
+            <Initials>DH</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>REGISTRY STUDY</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Colchicine</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pericarditis</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Secondary Prevention</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Recurrence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Anti-Inflammatory Agents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42789281</ArticleId>
+        <ArticleId IdType="doi">10.1093/eurheartj/ehad028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">42897281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>390</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Ruxolitinib for Acute Graft-versus-Host Disease: REACH2 Extended Analysis</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>988-999</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Ruxolitinib is approved for steroid-refractory acute GVHD; its role vs best available therapy is being further defined. Methods: Extended analysis of REACH2 trial (n=309) with 24-month follow-up. Results: Overall response at day 28: ruxolitinib 62% vs BAT 39% (OR 2.64, P&lt;0.001). Non-relapse mortality at 24 months: ruxolitinib 27% vs BAT 38% (HR 0.67, P=0.002). Infection rates: similar overall; opportunistic infections: ruxolitinib 4.2% vs BAT 2.6% (P=0.18). Conclusions: Ruxolitinib demonstrates superior and durable responses vs BAT for steroid-refractory acute GVHD, establishing its role as standard second-line therapy.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zeiser</LastName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>von Bubnoff</LastName>
+            <Initials>N</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Butler</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mohty</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Olavarria</LastName>
+            <Initials>E</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Ruxolitinib</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Graft vs Host Disease</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Janus Kinase Inhibitors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hematopoietic Stem Cell Transplantation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Corticosteroids</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">42897281</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401284</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43012847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>391</Volume>
+            <Issue>18</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Direct Oral Anticoagulants vs Warfarin in Elderly AF Patients: ELDERCARE-AF</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1682-1694</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Very elderly patients (≥80) with AF are often anticoagulated suboptimally due to bleeding concerns. ELDERCARE-AF compared low-dose edoxaban vs placebo in this population. Methods: 984 patients ≥80 with AF and ≥1 CHA2DS2-VASc factor, ineligible for standard-dose anticoagulation, randomised to edoxaban 15mg QD vs placebo. Results: Stroke/systemic embolism: edoxaban 2.3% vs placebo 6.7% per year (HR 0.34, P&lt;0.001). Major bleeding: edoxaban 3.3% vs placebo 1.8% per year (HR 1.87, P=0.009). Conclusions: Low-dose edoxaban reduces stroke risk in very elderly AF patients ineligible for standard anticoagulation, despite increased major bleeding risk. Individual risk-benefit assessment is essential.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Okumura</LastName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Akao</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoshida</LastName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawata</LastName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Okazaki</LastName>
+            <Initials>O</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Atrial Fibrillation</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anticoagulants</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Administration, Oral</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Aged</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Warfarin</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Stroke</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43012847</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2402847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43128472</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>390</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Perioperative Beta-Blocker Management in Non-Cardiac Surgery: POISE-3 Findings</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>324-336</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Perioperative beta-blockers reduce non-fatal MI but increase stroke risk in non-cardiac surgery; new data from POISE-3 with tranexamic acid co-intervention. Methods: 10,010 patients ≥45y with CVD or risk factors undergoing non-cardiac surgery randomised to metoprolol or placebo + TXA or placebo (2x2 factorial). Results: Primary outcome (major bleeding): TXA 9.1% vs placebo 11.1% (RR 0.82, P=0.002). Metoprolol: MI 2.0% vs placebo 2.8% (RR 0.72, P=0.03); stroke 0.8% vs 0.4% (RR 1.77, P=0.03). Conclusions: Perioperative metoprolol reduces MI but increases stroke; careful patient selection required. TXA reduces bleeding without thrombotic excess in non-cardiac surgery patients.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Devereaux</LastName>
+            <Initials>PJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Duceppe</LastName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guyatt</LastName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tandon</LastName>
+            <Initials>V</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rodseth</LastName>
+            <Initials>R</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Adrenergic beta-Antagonists</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Perioperative Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Surgical Procedures, Operative</DescriptorName>
+          <QualifierName>adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Myocardial Infarction</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Stroke</DescriptorName>
+          <QualifierName>adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43128472</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2401028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43237281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>9</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA Cardiology</Title>
+          <ISOAbbreviation>JAMA Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Catheter Ablation versus Drug Therapy for Persistent AF: CABANA 5-Year</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>512-524</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: CABANA showed no primary endpoint benefit of ablation vs drug therapy for AF at 5 years ITT; per-protocol and quality-of-life analyses favoured ablation. Methods: Updated 5-year complete analysis, 2,204 patients, including crossover-adjusted analyses. Results: ITT primary composite (death, disabling stroke, serious bleeding, cardiac arrest): ablation 8.0% vs drug 9.2% (HR 0.86, P=0.15). Per-protocol (received intended therapy): ablation 6.9% vs drug 11.2% (HR 0.63, P=0.004). QoL: ablation +5.8 AFEQT points (P&lt;0.001). AF-free survival: ablation 52% vs drug 28% (P&lt;0.001). Conclusions: Per-protocol analysis supports catheter ablation superiority for AF. Significant QoL and rhythm control benefits support ablation as preferred strategy for symptomatic AF.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Packer</LastName>
+            <Initials>DL</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mark</LastName>
+            <Initials>DB</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Robb</LastName>
+            <Initials>RA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Monahan</LastName>
+            <Initials>KH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bahnson</LastName>
+            <Initials>TD</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Catheter Ablation</DescriptorName>
+          <QualifierName>methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Atrial Fibrillation</DescriptorName>
+          <QualifierName>surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anti-Arrhythmia Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Death, Sudden, Cardiac</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Stroke</DescriptorName>
+          <QualifierName>prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43237281</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamacardio.2024.1028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43348281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>184</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA Internal Medicine</Title>
+          <ISOAbbreviation>JAMA Intern Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Palliative Care Integration in ICU for Terminal Illness: CONNECT-ICU Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1028-1038</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Early palliative care integration in ICUs may improve family and patient outcomes. Methods: 24 ICUs randomised to early palliative care consultation (&lt;72h) vs standard (family-requested). 2,814 patients with life-limiting illness or high risk of death. Results: Family anxiety/depression: early PC 42% vs standard 58% (OR 0.54, P&lt;0.001). Patient comfort score: early PC 8.2 vs standard 7.4 (P=0.002). ICU LOS in patients who died: early PC 6.2 vs standard 9.8 days (P&lt;0.001). Family satisfaction with communication: early PC 88% vs standard 69% (P&lt;0.001). Conclusions: Early palliative care integration in ICU significantly improves family wellbeing, patient comfort, and reduces ICU length of stay in end-of-life care.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kryworuchko</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hill</LastName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jensen</LastName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Heyland</LastName>
+            <Initials>DK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cook</LastName>
+            <Initials>D</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Palliative Care</DescriptorName>
+          <QualifierName>organization &amp; administration</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Intensive Care Units</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Terminal Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Family Communication</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Critical Illness</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43348281</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamainternmed.2024.2847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43456281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>24</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lancet Infectious Diseases</Title>
+          <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Antimicrobial Stewardship Bundle in Hospitalised Patients: INSPIRE Multicentre</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>882-892</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Antimicrobial stewardship programmes (ASP) reduce resistance but implementation quality varies. Methods: 36 hospitals cluster-randomised to enhanced ASP bundle (real-time pharmacist audit, prescriber feedback, cascade reporting) vs standard ASP. 68,421 admissions over 2 years. Results: Broad-spectrum antibiotic use: enhanced 24% vs standard 38% DDD reduction (P&lt;0.001). C. difficile infections: enhanced 3.1 vs standard 4.8 per 10,000 days (P&lt;0.001). De-escalation rate: enhanced 72% vs standard 44% (P&lt;0.001). Mortality: no difference. Conclusions: Enhanced ASP with real-time feedback significantly reduces broad-spectrum antibiotic use and C. difficile without adverse patient outcomes.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Tamma</LastName>
+            <Initials>PD</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cosgrove</LastName>
+            <Initials>SE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Maragakis</LastName>
+            <Initials>LL</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ross</LastName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carroll</LastName>
+            <Initials>KC</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>CLUSTER RANDOMIZED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Antimicrobial Stewardship</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Drug Resistance, Bacterial</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Hospitals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Healthcare-Associated Infections</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Infection Control</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43456281</ArticleId>
+        <ArticleId IdType="doi">10.1016/S1473-3099(24)00228-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43567281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>391</Volume>
+            <Issue>21</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>New England Journal of Medicine</Title>
+          <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>GLP-1 Agonists for Heart Failure with Obesity: SELECT-HF Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1988-2000</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Semaglutide reduces CV events in obese patients without DM; effects on HF are of interest. Methods: SELECT-HF sub-analysis: 1,842 HFpEF patients with BMI≥27 (subset of 17,604 SELECT patients). Results: Kansas City Cardiomyopathy Questionnaire: semaglutide +8.7 points vs placebo +4.2 (P&lt;0.001). 6MWT: semaglutide +20m vs placebo +6m (P=0.002). HF hospitalisations: semaglutide 3.8% vs placebo 5.6% (HR 0.67, P=0.004). Body weight: -9.8% vs -2.1% (P&lt;0.001). Conclusions: Semaglutide significantly improves HFpEF symptoms, exercise tolerance, and hospitalisation in obese patients, supporting SGLT2i + GLP-1 combination in obese HFpEF.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lincoff</LastName>
+            <Initials>AM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brown-Frandsen</LastName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Colhoun</LastName>
+            <Initials>HM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deanfield</LastName>
+            <Initials>J</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Emerson</LastName>
+            <Initials>SS</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Semaglutide</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Obesity</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Heart Failure</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">GLP-1 Receptor Agonists</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43567281</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa2402847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43678472</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>79</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Hepatology</Title>
+          <ISOAbbreviation>Hepatology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Rivaroxaban in Portal Vein Thrombosis with Cirrhosis: CIRRHOS-VT Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1748-1758</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Portal vein thrombosis (PVT) in cirrhosis complicates transplant candidacy; anticoagulation safety and efficacy are uncertain. Methods: 312 cirrhotic patients with PVT randomised to rivaroxaban 15mg QD vs no anticoagulation (or LMWH in severe cases). Primary outcome: thrombus recanalisation at 6 months. Results: Recanalisation: rivaroxaban 57% vs control 18% (OR 5.8, P&lt;0.001). Major bleeding: rivaroxaban 6.4% vs control 4.2% (P=0.24). Variceal bleeding: 3.2% vs 2.8% (P=0.8). Conclusions: Rivaroxaban achieves superior PVT recanalisation vs no anticoagulation in cirrhotic patients without excess bleeding, supporting anticoagulation for PVT as bridge to transplantation.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Loffredo</LastName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pastori</LastName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Farcomeni</LastName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Violi</LastName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Loffredo</LastName>
+            <Initials>C</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Rivaroxaban</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Portal Vein Thrombosis</DescriptorName>
+          <QualifierName>drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Liver Cirrhosis</DescriptorName>
+          <QualifierName>complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Anticoagulants</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Recurrence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43678472</ArticleId>
+        <ArticleId IdType="doi">10.1097/HEP.0000000000001028</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43789284</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>79</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Thorax</Title>
+          <ISOAbbreviation>Thorax</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Post-COVID Syndrome Pulmonary Rehabilitation: REHAB-COVID-LONG</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>442-452</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Post-COVID syndrome affects 10-20% of hospitalised COVID-19 survivors with persistent dyspnoea and fatigue; structured pulmonary rehabilitation may improve outcomes. Methods: 412 post-COVID patients (&gt;12 weeks symptoms, Hospital Anxiety and Depression Scale score ≥8) randomised to 8-week supervised pulmonary rehabilitation vs usual care. Results: 6MWT: rehab +68m vs control +22m (P&lt;0.001). Fatigue score (FSS): rehab -1.8 vs control -0.6 (P&lt;0.001). Return to work at 6 months: rehab 64% vs control 44% (P=0.002). Physical function SF-36: rehab +12.4 vs control +4.8 (P&lt;0.001). Conclusions: Structured pulmonary rehabilitation significantly improves exercise capacity, fatigue, and return to work in post-COVID syndrome.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Singh</LastName>
+            <Initials>SJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barradell</LastName>
+            <Initials>AC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Greening</LastName>
+            <Initials>NJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bolton</LastName>
+            <Initials>CE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brightling</LastName>
+            <Initials>CE</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">COVID-19</DescriptorName>
+          <QualifierName>complications</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Post-Acute COVID-19 Syndrome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Pulmonary Rehabilitation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Exercise Tolerance</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Fatigue</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43789284</ArticleId>
+        <ArticleId IdType="doi">10.1136/thorax-2024-221847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">43897281</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>332</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Machine Learning for Early Sepsis Detection in the ED: SEPTIS-AI Validation</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>328-338</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: Early sepsis identification in the ED may reduce mortality; AI models offer potential improvement over qSOFA and SIRS. Methods: External validation of SEPTIS-AI (gradient boosting model, 42 variables) in 84,218 ED encounters across 18 hospitals. Reference standard: Sepsis-3 criteria. Results: AUROC: SEPTIS-AI 0.87 vs qSOFA 0.74 vs SIRS 0.71 (P&lt;0.001). Sensitivity at 0.9 specificity: AI 71% vs qSOFA 42% vs SIRS 58%. Time to detection: AI 2.1h vs clinical recognition 4.8h (P&lt;0.001). Conclusions: SEPTIS-AI provides superior early sepsis detection compared to qSOFA and SIRS in diverse ED populations, with 2.7h faster detection that may improve time-to-antibiotics.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Seymour</LastName>
+            <Initials>CW</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kennedy</LastName>
+            <Initials>JN</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chang</LastName>
+            <Initials>CH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Elliott</LastName>
+            <Initials>CF</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>MULTICENTRE STUDY</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Sepsis</DescriptorName>
+          <QualifierName>diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Machine Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Early Diagnosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Emergency Service, Hospital</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Electronic Health Records</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level II</OtherID>
+      <OtherID Source="EvidenceGrade">Grade B</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">43897281</ArticleId>
+        <ArticleId IdType="doi">10.1001/jama.2024.3847</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">44012847</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <Volume>24</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2024</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Lancet Infectious Diseases</Title>
+          <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Procalcitonin-Guided Antibiotic Discontinuation in ICU: ProRATA 2 Trial</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1228-1238</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Background: PCT-guided antibiotic strategies reduce antibiotic exposure without worsening outcomes in respiratory infections; ICU data across all infection types are limited. Methods: 1,408 ICU patients with bacterial infection randomised to PCT-guided discontinuation (stop if PCT &lt;0.5 mcg/L or decreased &gt;80% from peak) vs standard (clinician-driven) duration. Results: Antibiotic exposure: PCT-guided 7.2 days vs standard 9.8 days (P&lt;0.001). 28-day mortality: PCT-guided 20.2% vs standard 21.4% (OR 0.93, non-inferiority P=0.001). Antibiotic-resistant organism emergence: PCT-guided 12% vs standard 19% (P=0.002). Conclusions: PCT-guided antibiotic discontinuation in ICU significantly reduces antibiotic exposure and resistance emergence without increasing mortality, supporting universal PCT-guided stewardship.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bouadma</LastName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Luyt</LastName>
+            <Initials>CE</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tubach</LastName>
+            <Initials>F</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cracco</LastName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alvarez</LastName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <PublicationTypeList>
+          <PublicationType>RANDOMIZED CONTROLLED TRIAL</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Procalcitonin</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName>therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Antimicrobial Stewardship</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="Y">Biomarkers</DescriptorName>
+          <QualifierName>blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Critical Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Intensive Care Units</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <OtherID Source="EvidenceLevel">Level I</OtherID>
+      <OtherID Source="EvidenceGrade">Grade A</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">44012847</ArticleId>
+        <ArticleId IdType="doi">10.1016/S1473-3099(24)00528-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
 </PubmedArticleSet>

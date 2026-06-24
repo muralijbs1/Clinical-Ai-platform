@@ -1,0 +1,39 @@
+referral_id: REF-2025-057384
+specialty: Hepatology
+urgency: SOON
+patient_name: George Alvarez
+patient_dob: 1968-03-27
+patient_sex: Male
+patient_mrn: MRN-9182736
+insurance: Medicaid Managed Care
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — HEPATOLOGY
+Date: 2025-07-18    Referral ID: REF-2025-057384
+Urgency: SOON — 2 weeks
+
+TO: Hepatology, Liver Disease Program
+FROM: Dr. Paul Santos, MD — Primary Care, NPI 3847291029
+
+PATIENT: George Alvarez | DOB: 1968-03-27 | Age: 57 | Sex: Male
+MRN: MRN-9182736 | Insurance: Medicaid
+
+REASON FOR REFERRAL: NAFLD with elevated liver enzymes, suspected NASH with bridging fibrosis
+on FibroScan. Evaluation for disease staging and management.
+
+CLINICAL SUMMARY:
+Mr. Alvarez is a 57-year-old male with obesity (BMI 36), T2DM, hyperlipidemia, and HTN
+with persistently elevated transaminases x2 years (ALT 68-94, AST 52-78). FibroScan 2 weeks ago:
+CAP 312dB/m (significant steatosis) | LSM 12.8 kPa (F3 — significant fibrosis by M1 cut-off).
+No alcohol use. Hepatitis B/C negative. ANA 1:40 (non-specific). No haemochromatosis.
+No symptoms of portal HTN. INR normal, albumin normal, bilirubin normal — compensated liver disease.
+
+QUESTIONS FOR HEPATOLOGY:
+1. Is liver biopsy indicated to confirm NASH vs other aetiology?
+2. Drug eligibility: Semaglutide or Resmetirom (FDA approved for NASH)?
+3. Surveillance plan for HCC?
+4. Screening for varices (despite compensated — F3 fibrosis)?
+5. Dietary programme referral?
+
+Referring Physician: Dr. Paul Santos, MD
+NPI: 3847291029 | Phone: (555) 533-4400

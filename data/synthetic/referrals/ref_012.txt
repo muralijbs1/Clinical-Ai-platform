@@ -1,0 +1,40 @@
+referral_id: REF-2025-058293
+specialty: Cardiology — Heart Failure
+urgency: SOON
+patient_name: Dorothy Huang
+patient_dob: 1950-12-01
+patient_sex: Female
+patient_mrn: MRN-6473820
+insurance: Medicare + Medigap
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — CARDIOLOGY / HEART FAILURE CLINIC
+Date: 2025-11-14    Referral ID: REF-2025-058293
+Urgency: SOON — 1-2 weeks
+
+TO: Heart Failure Program, Cardiology
+FROM: Dr. Linda Park, MD — Internal Medicine, NPI 8392017483
+
+PATIENT: Dorothy Huang | DOB: 1950-12-01 | Age: 74 | Sex: Female
+MRN: MRN-6473820 | Insurance: Medicare
+
+REASON FOR REFERRAL: HFpEF (EF 58%) with recurrent hospitalisations (2 in past year) despite
+optimal medical therapy. Requesting advanced heart failure evaluation and optimisation.
+
+CLINICAL SUMMARY:
+Mrs. Huang has known HFpEF (echo EF 58%) with 2 hospital admissions for acute decompensation in
+the past year, despite compliance with furosemide, spironolactone, and sacubitril/valsartan.
+HTN, AF (on apixaban), DM2, obesity (BMI 34).
+NT-proBNP remains elevated at 1,240 pg/mL. BNP 380 pg/mL at last check. eGFR 48 (CKD 3b).
+Echo: Diastolic dysfunction Grade 2 (E/e' 18). EF 58%. No significant valve disease.
+6MWT: 240m. Functional class NYHA III.
+
+QUESTIONS FOR CARDIOLOGY HF CLINIC:
+1. Optimise diuretic strategy (torasemide vs furosemide)?
+2. Role of SGLT2 inhibitor (empagliflozin — EMPEROR-Preserved)?
+3. ICD / CRT indication assessment?
+4. Is patient a candidate for advanced HF therapies?
+5. Structured HF programme enrolment?
+
+Referring Physician: Dr. Linda Park, MD
+NPI: 8392017483 | Phone: (555) 866-3300

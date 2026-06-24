@@ -1,0 +1,51 @@
+referral_id: REF-2025-051234
+specialty: Pulmonology
+urgency: SOON
+patient_name: Nathan Brooks
+patient_dob: 1957-02-14
+patient_sex: Male
+patient_mrn: MRN-2938471
+insurance: Medicare Part B
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — PULMONOLOGY
+Date: 2025-03-10    Referral ID: REF-2025-051234
+Urgency: SOON — Appointment within 2 weeks
+
+TO: Pulmonology Department, Lung Disease Center
+FROM: Dr. Alan Foster, MD — Internal Medicine, NPI 3847291038
+      Primary Care Partners, Phone: (555) 600-5500, Fax: (555) 600-5501
+
+PATIENT: Nathan Brooks | DOB: 1957-02-14 | Age: 68 | Sex: Male
+MRN: MRN-2938471 | Insurance: Medicare Part B
+
+REASON FOR REFERRAL: Severe COPD (GOLD III, FEV1 38%) with frequent exacerbations (2 in 6 months),
+persistent dyspnoea despite maximum inhaled therapy. Evaluation for pulmonary rehabilitation and
+advanced therapies (LVRS, bronchoscopic lung volume reduction eligibility assessment).
+
+CLINICAL SUMMARY:
+Mr. Brooks is a 68-year-old male with severe COPD diagnosed 8 years ago on background of 45 pack-year
+smoking history (quit 3 years ago). He is on maximum inhaled therapy (LAMA + LABA + ICS) and home
+oxygen (2L/min continuous). Two exacerbations in the past 6 months — one requiring ICU admission
+(ventilation-related hypercapnia).
+
+Spirometry (3 months ago): FEV1 38% predicted | FEV1/FVC 0.52 | RV 185% (hyperinflation) | DLCO 40%
+6MWT: 220m (significant limitation)
+Exacerbation history: Hospital 2024-09 (4 days), ICU 2024-11 (3 days NIV)
+CAT Score: 24 (highly symptomatic) | mMRC: 3 (limited to house)
+
+Comorbidities: Pulmonary HTN (mPAP 28 — mild), T2DM, OSA (CPAP non-adherent), HTN.
+Current medications: Tiotropium 18mcg QD, Salmeterol/Fluticasone 50/500mcg BID, Albuterol PRN,
+Home O2 2L/min, Metformin 500mg BID, Lisinopril 10mg QD.
+Allergies: Penicillin (GI intolerance).
+
+QUESTIONS FOR PULMONOLOGY:
+1. Does patient qualify for pulmonary rehabilitation programme?
+2. Eligibility for LVRS or bronchoscopic valve placement?
+3. Optimise NIV settings at home?
+4. What is survival prognosis and should palliative care be introduced?
+
+PRIOR AUTHORISATION: Auth PA-915273 | Authorised for pulmonology consultation and PFTs.
+
+Referring Physician: Dr. Alan Foster, MD
+NPI: 3847291038 | Phone: (555) 600-5500 | Fax: (555) 600-5501

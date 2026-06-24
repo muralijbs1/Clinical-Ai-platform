@@ -1,0 +1,48 @@
+referral_id: REF-2025-056491
+specialty: Oncology
+urgency: URGENT
+patient_name: Harold Fisher
+patient_dob: 1951-09-14
+patient_sex: Male
+patient_mrn: MRN-3847291
+insurance: Medicare Advantage — Humana
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — THORACIC ONCOLOGY
+Date: 2025-06-05    Referral ID: REF-2025-056491
+Urgency: URGENT — Seen within 1 week
+
+TO: Thoracic Oncology, Cancer Centre
+FROM: Dr. Janet Kim, MD — Pulmonology, NPI 4839201738
+
+PATIENT: Harold Fisher | DOB: 1951-09-14 | Age: 73 | Sex: Male
+MRN: MRN-3847291 | Insurance: Medicare Advantage
+
+REASON FOR REFERRAL: New 4.2cm right upper lobe lung mass with mediastinal lymphadenopathy
+and right-sided pleural effusion on CT chest. High suspicion for non-small cell lung cancer.
+
+CLINICAL SUMMARY:
+Mr. Fisher is a 73-year-old male, 50 pack-year smoker (quit 5 years ago), presenting with 8-week
+progressive dyspnoea, 7kg unintentional weight loss, and right-sided chest discomfort.
+
+CT Chest/Abdomen/Pelvis: 4.2cm irregular spiculated RUL mass with satellite nodule (1.2cm).
+Enlarged right paratracheal (1.8cm) and subcarinal (1.4cm) nodes. Right pleural effusion (small).
+No definitive bone metastases on this CT.
+
+PET-CT: Ordered — pending.
+Brain MRI: Ordered — pending.
+
+Laboratory: CBC normal | Na 131 (low) | Ca 11.4 (HIGH — hypercalcaemia of malignancy??)
+LDH 348 (elevated) | Albumin 2.8 (depleted)
+
+Bronchoscopy planned — EBUS-TBNA of mediastinal nodes arranged for next week.
+
+QUESTIONS FOR ONCOLOGY:
+1. Confirm staging once PET/brain MRI available
+2. Tissue diagnosis (EBUS first vs CT-guided biopsy?)
+3. If NSCLC confirmed: molecular profiling (EGFR, ALK, PD-L1)?
+4. Is patient fit for treatment? PS assessment?
+5. Early palliative care integration?
+
+Referring Physician: Dr. Janet Kim, MD
+NPI: 4839201738 | Phone: (555) 644-8810

@@ -1,0 +1,41 @@
+referral_id: REF-2025-060284
+specialty: Urology
+urgency: ROUTINE
+patient_name: Patrick O'Brien
+patient_dob: 1962-01-20
+patient_sex: Male
+patient_mrn: MRN-4728390
+insurance: BCBS Federal Employee
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — UROLOGY
+Date: 2025-10-08    Referral ID: REF-2025-060284
+Urgency: ROUTINE — 4 weeks
+
+TO: Urology Department
+FROM: Dr. Thomas Reed, MD — Internal Medicine, NPI 2847391028
+
+PATIENT: Patrick O'Brien | DOB: 1962-01-20 | Age: 63 | Sex: Male
+MRN: MRN-4728390 | Insurance: BCBS Federal Employee
+
+REASON FOR REFERRAL: Gross haematuria x2 episodes — microhaematuria persistent on repeat UA.
+CT urogram ordered. Requesting urological evaluation to rule out bladder malignancy.
+
+CLINICAL SUMMARY:
+Mr. O'Brien is a 63-year-old male ex-smoker (30 pack-years, quit 5 years ago) with two
+episodes of gross haematuria in the past 2 months (painless). Repeat urinalysis confirms
+persistent microhaematuria (>25 RBC/hpf on two occasions). No UTI. No traumatic cause.
+No anticoagulation.
+
+CT Urogram: Irregular filling defect posterior wall bladder (1.4cm) — suspicious for bladder
+lesion. No upper tract abnormality. No hydroureteronephrosis.
+
+PSA 2.8 ng/mL (age-adjusted normal). Cr 1.0.
+
+QUESTIONS FOR UROLOGY:
+1. Cystoscopy with possible TURBT?
+2. Does CT finding require urgent evaluation vs standard outpatient?
+3. If transitional cell carcinoma confirmed — staging and treatment?
+
+Referring Physician: Dr. Thomas Reed, MD
+NPI: 2847391028 | Phone: (555) 488-6200

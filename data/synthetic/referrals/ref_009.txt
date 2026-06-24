@@ -1,0 +1,42 @@
+referral_id: REF-2025-055382
+specialty: Rheumatology
+urgency: ROUTINE
+patient_name: Angela Moore
+patient_dob: 1970-06-22
+patient_sex: Female
+patient_mrn: MRN-7238490
+insurance: UnitedHealthcare Select
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — RHEUMATOLOGY
+Date: 2025-04-28    Referral ID: REF-2025-055382
+Urgency: ROUTINE — Appointment within 4-6 weeks
+
+TO: Rheumatology Department
+FROM: Dr. Michael Bennett, MD — Primary Care, NPI 6382910473
+
+PATIENT: Angela Moore | DOB: 1970-06-22 | Age: 54 | Sex: Female
+MRN: MRN-7238490 | Insurance: UnitedHealthcare Select
+
+REASON FOR REFERRAL: Positive ANA (1:320, homogenous pattern), arthralgia, fatigue, and new
+discoid rash — possible SLE. Needs expert evaluation, disease confirmation, and treatment initiation.
+
+CLINICAL SUMMARY:
+Ms. Moore is a 54-year-old female with 8-month history of joint pain (MCPs, PIPs, wrists, bilateral),
+morning stiffness >1h, fatigue, hair thinning, and new butterfly-shaped facial rash. CXR normal.
+ESR 72 mm/h (elevated). CRP 28 mg/L. CBC: mild leukopenia (WBC 3.4k) with lymphopenia.
+
+Autoimmune labs: ANA 1:320 homogenous | anti-dsDNA: 48 IU/mL (elevated) | C3 68 (LOW) | C4 8 (LOW)
+Urinalysis: 2+ protein, 10-15 RBC/hpf — proteinuria and haematuria concerning for lupus nephritis.
+
+SLICC criteria: Rash (1), Arthritis (1), CBC (leukopenia 1), ANA positive (1), anti-dsDNA (1),
+low complement (1), renal (proteinuria 1) — 7/11 met (threshold ≥4).
+
+QUESTIONS FOR RHEUMATOLOGY:
+1. Confirm SLE diagnosis and assess activity/organ involvement?
+2. Should hydroxychloroquine be started empirically?
+3. Is kidney biopsy indicated (proteinuria + haematuria)?
+4. Management if lupus nephritis confirmed?
+
+Referring Physician: Dr. Michael Bennett, MD
+NPI: 6382910473 | Phone: (555) 744-2200

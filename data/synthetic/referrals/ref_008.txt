@@ -1,0 +1,46 @@
+referral_id: REF-2025-054201
+specialty: Haematology
+urgency: SOON
+patient_name: Jessica Brown
+patient_dob: 1985-11-03
+patient_sex: Female
+patient_mrn: MRN-6741830
+insurance: Cigna HMO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — HAEMATOLOGY
+Date: 2025-05-01    Referral ID: REF-2025-054201
+Urgency: SOON — Appointment within 2 weeks
+
+TO: Haematology / Thrombosis Clinic
+FROM: Dr. Ama Asante, MD — Vascular Medicine, NPI 8374920183
+      Vascular & Thrombosis Centre, Phone: (555) 922-3300
+
+PATIENT: Jessica Brown | DOB: 1985-11-03 | Age: 39 | Sex: Female
+MRN: MRN-6741830 | Insurance: Cigna HMO
+
+REASON FOR REFERRAL: Unprovoked proximal DVT (popliteal + femoral) in a 39-year-old female.
+Evaluation for inherited thrombophilia, malignancy screen, and anticoagulation duration discussion.
+
+CLINICAL SUMMARY:
+Ms. Brown presented with a 3-day history of right leg swelling confirmed as proximal DVT on Doppler US.
+No clear provoking factor identified (no recent travel, surgery, immobility, or hormonal contraception).
+No prior VTE. No family history of thrombosis initially reported.
+
+Started on Apixaban 10mg BID x7 days → 5mg BID.
+
+Labs to date: D-dimer 4.8 µg/mL (elevated). CBC/CMP normal. No malignancy identified on CXR or CT Chest/Abdomen (ordered in ED).
+
+Thrombophilia screen ordered but NOT yet performed. Awaiting haematology guidance.
+
+Family history update: Mother had DVT in pregnancy. Maternal aunt had "blood clot in lung."
+
+QUESTIONS FOR HAEMATOLOGY:
+1. What thrombophilia screen is appropriate while on anticoagulation?
+2. When to test (after stopping anticoagulation vs on drug)?
+3. Should anticardiolipin antibody / lupus anticoagulant be checked?
+4. Duration of anticoagulation: 3 months vs extended therapy?
+5. Genetic counselling for factor V Leiden?
+
+Referring Physician: Dr. Ama Asante, MD
+NPI: 8374920183 | Phone: (555) 922-3300

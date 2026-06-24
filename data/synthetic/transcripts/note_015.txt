@@ -1,0 +1,46 @@
+encounter_id: transcript-015
+encounter_type: Inpatient — Cardiology
+condition: Acute Decompensated Heart Failure (HFrEF)
+icd10_primary: I50.21
+data_tag: SYNTHETIC
+---
+DATE: 2025-11-05   TIME: 09:30   PROVIDER: Dr. Charles Lambert, MD (Heart Failure / Cardiology)
+
+CC: Worsening dyspnoea, bilateral leg oedema, orthopnoea x 5 days
+
+HPI: 72 yo M with known HFrEF (EF 30%) admitted for acute decompensation. States dyspnoea
+on exertion worsening x5 days — now SOB at rest. Orthopnoea (3-pillow). PND x2 nights.
+Weight gain 6kg in 5 days. Self-discontinued furosemide 5 days ago (felt "too much urination").
+Dietary: admits large salty meal Thanksgiving. BNP last check 3 months ago was 410 pg/mL.
+
+PMH: HFrEF (EF 30%) | Ischaemic CM — prior MI 2020 | T2DM | CKD 3a | AF (on apixaban)
+
+Meds: Carvedilol 25mg BID | Lisinopril 10mg BID | Spironolactone 25mg QD | Furosemide 80mg QD
+      Apixaban 5mg BID | Empagliflozin 10mg QD | Atorvastatin 40mg QHS | Metformin 500mg BID
+
+VS: BP 144/88 | HR 94 irregular (AF) | RR 22 | SpO2 89% RA | Wt 98kg (dry wt ~92kg)
+On 6L: SpO2 94%.
+
+LABS:
+BNP: 2,840 pg/mL [MARKEDLY ELEVATED]
+Cr 1.8 [elevated — from baseline 1.2 — cardiorenal syndrome]
+Na 129 [LOW — dilutional] | K 5.1 | Hgb 10.8 [LOW — CKD/HF anaemia]
+Lactate: 1.9 [mildly elevated — low-output state]
+Troponin: 0.04 ng/mL [borderline — demand ischaemia]
+
+CXR: Cardiomegaly. Bilateral pulmonary oedema (bat-wing). Bilateral pleural effusions. KL-B lines.
+
+ASSESSMENT:
+1. Acute Decompensated HFrEF — I50.21 — wet/warm haemodynamic profile
+2. Cardiorenal syndrome — AKI on CKD — Cr 1.8 from 1.2
+3. Dilutional hyponatraemia — Na 129
+4. Precipitants: diuretic non-compliance, dietary indiscretion
+
+PLAN:
+1. IV diuretics: Furosemide 80mg IV BID (switch from PO — poor absorption in gut oedema)
+   Target UO 1-2L/day net negative. Daily weights.
+2. Fluid restriction: 1.5L/day. Low-sodium diet.
+3. Continue Carvedilol, Lisinopril (hold if systolic <90), Spironolactone, Empagliflozin
+4. Telemetry: AF rate monitoring. Digoxin if rate poorly controlled.
+5. Swan-Ganz catheter if haemodynamic deterioration (PCWP, CO, SVR)
+6. Discharge planning: Home health, structured HF programme, diuretic compliance.

@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundle-ENC-2025-011482" />
+  <type value="collection" />
+  <timestamp value="2025-06-14T00:00:00+00:00" />
+  <entry>
+    <resource>
+      <Patient>
+        <id value="MRN-8374020" />
+        <identifier>
+          <system value="urn:hospital:mrn" />
+          <value value="MRN-8374020" />
+        </identifier>
+        <name>
+          <text value="Dylan Reed" />
+        </name>
+        <birthDate value="1990-04-22" />
+        <gender value="male" />
+        <extension url="urn:poc:race">
+          <valueString value="White / Non-Hispanic" />
+        </extension>
+        <extension url="urn:poc:language">
+          <valueString value="English" />
+        </extension>
+        <extension url="urn:poc:insurance">
+          <valueString value="Cigna PPO" />
+        </extension>
+        <extension url="urn:poc:member-id">
+          <valueString value="CI-8374020-1" />
+        </extension>
+      </Patient>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Encounter>
+        <id value="ENC-2025-011482" />
+        <status value="finished" />
+        <class>
+          <coding>
+            <code value="AMB" />
+            <display value="Emergency Department" />
+          </coding>
+        </class>
+        <period>
+          <start value="2025-06-14" />
+        </period>
+        <serviceProvider>
+          <display value="Emergency Department" />
+        </serviceProvider>
+        <participant>
+          <individual>
+            <display value="Dr. Jordan Lee, MD (Emergency Medicine)" />
+          </individual>
+        </participant>
+        <reasonCode>
+          <text value="Anaphylaxis — penicillin" />
+        </reasonCode>
+        <extension url="urn:poc:data-tag">
+          <valueString value="SYNTHETIC" />
+        </extension>
+        <extension url="urn:poc:follow-up">
+          <valueString value="Immunology/Allergy clinic in 4 weeks. Anaphylaxis action plan provided." />
+        </extension>
+      </Encounter>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-011482-1" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Primary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="T78.2XXA" />
+          </coding>
+          <text value="Anaphylaxis — penicillin-induced" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-bp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="55284-4" />
+            <display value="Blood pressure" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8480-6" />
+              <display value="Systolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="84" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8462-4" />
+              <display value="Diastolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="52" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-heart_rate_bpm" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8867-4" />
+            <display value="Heart rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="118" />
+          <unit value="bpm" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-rr" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="9279-1" />
+            <display value="Respiratory rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="24" />
+          <unit value="/min" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-temp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8310-5" />
+            <display value="Body temperature" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="37.3" />
+          <unit value="Cel" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-spo2" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="59408-5" />
+            <display value="Oxygen saturation" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="91" />
+          <unit value="%" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-weight" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="29463-7" />
+            <display value="Body weight" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="78.0" />
+          <unit value="kg" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-bmi" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="39156-5" />
+            <display value="Body mass index" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="24.1" />
+          <unit value="kg/m2" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-lab-tryptase_ug_l" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="tryptase_ug_l" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="42" />
+        </valueQuantity>
+        <interpretation>
+          <text value="HIGH" />
+        </interpretation>
+        <referenceRange>
+          <text value="&lt;11.4" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-lab-wbc_k_ul" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="wbc_k_ul" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="10.2" />
+        </valueQuantity>
+        <referenceRange>
+          <text value="4.5-11.0" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-011482-lab-glucose_mg_dl" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="glucose_mg_dl" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <valueQuantity>
+          <value value="118" />
+        </valueQuantity>
+        <interpretation>
+          <text value="HIGH" />
+        </interpretation>
+        <referenceRange>
+          <text value="70-100" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-011482-at--1" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="EpiPen 0.3mg 0.3 mg IM PRN anaphylaxis" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="0.3 mg IM PRN anaphylaxis" />
+          <additionalInstruction>
+            <text value="Self-administration — 2 devices" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-011482-at--2" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Diphenhydramine 25 mg PO PRN urticaria" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="25 mg PO PRN urticaria" />
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-011482-at--3" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-8374020" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-011482" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Prednisone 40 mg PO QD x3d" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="40 mg PO QD x3d" />
+          <additionalInstruction>
+            <text value="Biphasic reaction prevention" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <AllergyIntolerance>
+        <id value="allergy-ENC-2025-011482-1" />
+        <patient>
+          <reference value="Patient/MRN-8374020" />
+        </patient>
+        <code>
+          <text value="Penicillin" />
+        </code>
+        <reaction>
+          <severity value="severe" />
+          <manifestation>
+            <text value="Anaphylaxis (IgE-mediated — systemic)" />
+          </manifestation>
+        </reaction>
+      </AllergyIntolerance>
+    </resource>
+  </entry>
+</Bundle>

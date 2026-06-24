@@ -1,0 +1,43 @@
+referral_id: REF-2025-053918
+specialty: Gastroenterology
+urgency: SOON
+patient_name: Victor Chen
+patient_dob: 1961-04-15
+patient_sex: Male
+patient_mrn: MRN-5839201
+insurance: Aetna PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — GASTROENTEROLOGY
+Date: 2025-08-10    Referral ID: REF-2025-053918
+Urgency: SOON — Appointment within 1 week
+
+TO: Gastroenterology Department
+FROM: Dr. Priya Nair, MD — Emergency Medicine / Hospitalist, NPI 9283740192
+      City Medical Center, Phone: (555) 811-2200
+
+PATIENT: Victor Chen | DOB: 1961-04-15 | Age: 64 | Sex: Male
+MRN: MRN-5839201 | Insurance: Aetna PPO
+
+REASON FOR REFERRAL: Recent hospitalisation for upper GIB (haematemesis, melena). Now stable.
+Requesting urgent outpatient upper endoscopy with H. pylori testing and GIB source identification.
+
+CLINICAL SUMMARY:
+Mr. Chen was hospitalised 5 days ago for upper GIB (haematemesis and melaena) in the setting of
+chronic NSAID use (naproxen 500mg BID) and significant alcohol use (6-8 drinks/day). Hgb nadir
+7.4g/dL. Received 2u pRBC with Hgb rise to 11.8. Haemodynamically stabilised with IV PPIs.
+Endoscopy NOT done during admission (patient declined inpatient procedure; agreed to outpatient).
+
+Risk factors: NSAID use, alcohol, age 64, Hgb decline 7g/dL, haemodynamic instability on admission.
+Glasgow-Blatchford Score: 14 (high-risk).
+
+Current outpatient status: Haemodynamically stable. Hgb 11.8. Stools normal colour.
+Medications changed: NSAIDs STOPPED, Pantoprazole 40mg BID initiated, Alcohol cessation counselled.
+
+QUESTIONS FOR GASTROENTEROLOGY:
+1. EGD with H. pylori biopsy — identify bleeding source (peptic ulcer most likely).
+2. Assess for varices/portal hypertension given alcohol history.
+3. Should PPI be continued indefinitely?
+
+Referring Physician: Dr. Priya Nair, MD
+NPI: 9283740192 | Phone: (555) 811-2200

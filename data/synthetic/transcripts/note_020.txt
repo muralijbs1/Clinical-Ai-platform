@@ -1,0 +1,44 @@
+encounter_id: transcript-020
+encounter_type: Inpatient — Cardiology
+condition: Deep Vein Thrombosis — Proximal
+icd10_primary: I82.401
+data_tag: SYNTHETIC
+---
+DATE: 2025-05-29   TIME: 11:00   PROVIDER: Dr. Ama Asante, MD (Haematology / Vascular Medicine)
+
+CC: Right leg swelling, pain, and redness x 3 days
+
+HPI: 48 yo M with 3-day h/o right lower leg swelling, pain (aching, 5/10), and erythema.
+Worsening with weight-bearing. Recent flight from Los Angeles to London (11h) 1 week ago. BMI 31.
+No trauma. No malignancy history. No prior VTE. No family history of DVT. Non-smoker.
+No dyspnoea or pleuritic chest pain (PE excluded clinically today).
+
+VS: BP 132/82 | HR 74 | RR 16 | SpO2 99% RA
+
+EXAM: Right calf circumference 4cm > left. Pitting oedema right calf to mid-thigh. Erythema
+extending from ankle to mid-calf. Tenderness along course of popliteal and femoral veins.
+No skin ulceration.
+
+LABS:
+D-dimer: 2.8 µg/mL [ELEVATED] | CBC: WBC 8.2 | Hgb 15.0 | Plt 264 [all normal]
+CMP: Cr 0.9 | all normal
+Thrombophilia screen: ordered — to be done AFTER stopping anticoagulation
+
+Doppler Ultrasound Right Leg: Acute DVT — right popliteal + superficial femoral veins (proximal DVT).
+CTPA: Negative for pulmonary embolism.
+
+Wells DVT Score: 5 (high probability) → confirmed by US.
+
+ASSESSMENT:
+1. Proximal Deep Vein Thrombosis — right popliteal + femoral veins — I82.401
+   Provoked: post-long-haul flight. No PE on CT.
+2. Risk assessment: CHA2DS2-VASc-equivalent: isolated provoked VTE — 3-month anticoagulation plan
+
+PLAN:
+1. Anticoagulation: Apixaban 10mg PO BID x7 days → 5mg PO BID x3 months (provoked DVT standard)
+2. Graduated compression stockings (30-40mmHg) right leg
+3. Ambulate with stockings — bed rest NOT indicated (early mobilisation preferred)
+4. Thrombophilia testing: defer to 3 months post-anticoagulation (avoid false results)
+5. Oncology screen (age-appropriate + new VTE): PSA, CBC, CXR, colonoscopy referral
+6. Return if dyspnoea, chest pain, coughing blood — PE instructions given
+7. Follow-up haematology clinic at 3 months to reassess anticoagulation duration

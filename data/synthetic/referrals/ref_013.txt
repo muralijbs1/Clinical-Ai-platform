@@ -1,0 +1,42 @@
+referral_id: REF-2025-059182
+specialty: Endocrinology
+urgency: ROUTINE
+patient_name: Sandra Kim
+patient_dob: 1979-08-15
+patient_sex: Female
+patient_mrn: MRN-5837290
+insurance: Kaiser Permanente
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — ENDOCRINOLOGY / THYROID
+Date: 2025-09-22    Referral ID: REF-2025-059182
+Urgency: ROUTINE — 4 weeks
+
+TO: Endocrinology Department
+FROM: Dr. Marcus Williams, MD — OBGYN, NPI 7283910473
+
+PATIENT: Sandra Kim | DOB: 1979-08-15 | Age: 45 | Sex: Female
+MRN: MRN-5837290 | Insurance: Kaiser
+
+REASON FOR REFERRAL: Thyroid nodule — 2.2cm right lobe, Bethesda Category III (atypia of
+undetermined significance) on FNA. Endocrinology evaluation for management.
+
+CLINICAL SUMMARY:
+Ms. Kim was found to have a right thyroid nodule on routine neck ultrasound (ordered for neck pain).
+Subsequent US showed 2.2cm, hypoechoic, irregular margins, microcalcifications — ACR TIRADS 5.
+FNA biopsy: Bethesda Category III (AUS/FLUS). Repeat FNA in 3 months vs molecular testing
+vs surgery — requires endocrinology expertise.
+
+TSH 1.8 (normal) | T4 normal | Thyroglobulin normal | Anti-TPO antibodies elevated (Hashimoto's).
+No symptoms of hyper/hypothyroidism. No cervical lymphadenopathy palpable.
+
+No family history of thyroid cancer. No neck irradiation history.
+
+QUESTIONS FOR ENDOCRINOLOGY:
+1. Repeat FNA vs molecular marker testing (ThyroSeq, Afirma)?
+2. If molecular testing: what is malignancy risk with Bethesda III and TIRADS 5?
+3. Surgery consultation indicated?
+4. Manage Hashimoto's thyroiditis?
+
+Referring Physician: Dr. Marcus Williams, MD
+NPI: 7283910473 | Phone: (555) 977-5500

@@ -20,7 +20,7 @@ random.seed(42)
 
 _OUT_FILE = Path(__file__).parent.parent / "vitals.csv"
 
-_N_PATIENTS = 8
+_N_PATIENTS = 32
 _READINGS_PER_PATIENT = 24
 
 _FIELDNAMES = [
