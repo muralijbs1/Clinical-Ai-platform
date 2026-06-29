@@ -1,0 +1,48 @@
+referral_id: REF-2025-073812
+specialty: Orthopaedic Surgery
+urgency: EMERGENCY
+patient_name: Daniel Okonkwo
+patient_dob: 1991-07-30
+patient_sex: Male
+patient_mrn: MRN-7291038
+insurance: Aetna Commercial
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — ORTHOPAEDIC SURGERY — EMERGENCY
+Date: 2025-10-14    Referral ID: REF-2025-073812
+Urgency: EMERGENCY — Immediate surgical assessment required
+
+TO: On-Call Orthopaedic Surgery
+FROM: Dr. Amara Diallo, MD — Emergency Medicine, NPI 6293847102
+
+PATIENT: Daniel Okonkwo | DOB: 1991-07-30 | Age: 34 | Sex: Male
+MRN: MRN-7291038 | Insurance: Aetna Commercial
+
+REASON FOR REFERRAL: Suspected acute compartment syndrome — left lower leg following
+tibial fracture. 6 hours post-injury. EMERGENCY orthopaedic assessment and fasciotomy.
+
+CLINICAL SUMMARY:
+Mr. Okonkwo is a 34-year-old male presenting via ambulance following a motorbike accident at
+moderate speed. Mechanism: direct impact to left lower leg. X-ray: closed mid-shaft tibial
+fracture with minimal displacement.
+
+COMPARTMENT SYNDROME SIGNS (6 HOURS POST-INJURY):
+Pain: severe, disproportionate to injury — 9/10, unrelieved by IV morphine 10mg
+Pain with passive stretch: markedly positive (passive dorsiflexion and toe extension)
+Paresthesia: tingling in dorsum of left foot (anterior compartment)
+Compartment pressures (handheld device): anterior compartment 48 mmHg, diastolic BP 78 mmHg
+→ Delta-P = 30 mmHg (threshold for fasciotomy ≤30 mmHg)
+Pulses: dorsalis pedis weak but present. Capillary refill 3 seconds.
+
+Neurovascular: early anterior compartment involvement; peroneal nerve at risk.
+
+IV ACCESS: 2x large-bore peripheral. Morphine 10mg IV given — inadequate analgesia.
+IV fluid resuscitation ongoing.
+
+ACTIONS REQUIRED:
+1. EMERGENCY fasciotomy — four-compartment decompression
+2. Fracture stabilisation (ex-fix vs definitive fixation at time of fasciotomy)
+3. Repeat neurovascular checks q30min until theatre
+
+Referring Physician: Dr. Amara Diallo, MD
+NPI: 6293847102 | Phone: ED Direct Line (555) 911-0100

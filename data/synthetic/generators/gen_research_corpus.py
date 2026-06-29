@@ -85,7 +85,7 @@ _ABSTRACTS = [
         "authors": ["Schuetz P", "Wirz Y", "Sager R", "Müller B"],
         "journal": "Lancet Infectious Diseases",
         "journal_abbr": "Lancet Infect Dis",
-        "year": 2024, "volume": "24", "issue": "3", "pages": "289-301",
+        "year": 2023, "volume": "24", "issue": "3", "pages": "289-301",
         "doi": "10.1016/S1473-3099(23)00512-8",
         "publication_type": "META-ANALYSIS",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
@@ -170,7 +170,7 @@ _ABSTRACTS = [
         "authors": ["Whelton PK", "Carey RM", "Aronow WS", "Wright JT Jr"],
         "journal": "Hypertension",
         "journal_abbr": "Hypertension",
-        "year": 2024, "volume": "81", "issue": "5", "pages": "1042-1055",
+        "year": 2022, "volume": "81", "issue": "5", "pages": "1042-1055",
         "doi": "10.1161/HYPERTENSIONAHA.123.22981",
         "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level II", "evidence_grade": "Grade A",
@@ -224,7 +224,7 @@ _ABSTRACTS = [
         "authors": ["Lamontagne F", "Meade MO", "Hébert PC", "Asfar P"],
         "journal": "Critical Care Medicine",
         "journal_abbr": "Crit Care Med",
-        "year": 2024, "volume": "52", "issue": "6", "pages": "878-890",
+        "year": 2023, "volume": "52", "issue": "6", "pages": "878-890",
         "doi": "10.1097/CCM.0000000000006231",
         "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level II", "evidence_grade": "Grade A",
@@ -280,7 +280,7 @@ _ABSTRACTS = [
         "authors": ["Strasberg SM", "Pucci MJ", "Brunt LM", "Deziel DJ"],
         "journal": "Annals of Surgery",
         "journal_abbr": "Ann Surg",
-        "year": 2024, "volume": "279", "issue": "3", "pages": "442-451",
+        "year": 2022, "volume": "279", "issue": "3", "pages": "442-451",
         "doi": "10.1097/SLA.0000000000006089",
         "publication_type": "JOURNAL ARTICLE",
         "evidence_level": "Level II", "evidence_grade": "Grade B",
@@ -333,7 +333,7 @@ _ABSTRACTS = [
         "authors": ["Seymour CW", "Liu VX", "Iwashyna TJ", "Shankar-Hari M"],
         "journal": "Critical Care",
         "journal_abbr": "Crit Care",
-        "year": 2024, "volume": "28", "issue": "1", "pages": "89",
+        "year": 2022, "volume": "28", "issue": "1", "pages": "89",
         "doi": "10.1186/s13054-024-04872-z",
         "publication_type": "JOURNAL ARTICLE",
         "evidence_level": "Level III", "evidence_grade": "Grade B",
@@ -387,7 +387,7 @@ _ABSTRACTS = [
         "authors": ["Rhee C", "Dantes R", "Epstein L", "Murphy DJ"],
         "journal": "Journal of Hospital Medicine",
         "journal_abbr": "J Hosp Med",
-        "year": 2024, "volume": "19", "issue": "3", "pages": "211-219",
+        "year": 2023, "volume": "19", "issue": "3", "pages": "211-219",
         "doi": "10.1002/jhm.13292",
         "publication_type": "JOURNAL ARTICLE",
         "evidence_level": "Level III", "evidence_grade": "Grade C",
@@ -442,7 +442,7 @@ _ABSTRACTS = [
     {
         "pmid": "39201847", "title": "Apixaban versus Enoxaparin for VTE Treatment in Cancer Patients: CARAVAGGIO Trial 3-Year Follow-Up",
         "authors": ["Agnelli G", "Becattini C", "Meyer G", "Munoz A", "Nishida T"],
-        "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
+        "journal": "Lancet", "journal_abbr": "Lancet",
         "year": "2024", "volume": "391", "issue": "8", "pages": "712-724",
         "doi": "10.1056/NEJMoa2024847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
@@ -463,7 +463,7 @@ _ABSTRACTS = [
         "pmid": "39312847", "title": "Pulmonary Embolism Response Team (PERT) Outcomes: National Registry Analysis",
         "authors": ["Kabrhel C", "Rosovsky R", "Channick R", "Jaff MR", "Weinberg I"],
         "journal": "JACC: Cardiovascular Interventions", "journal_abbr": "JACC Cardiovasc Interv",
-        "year": "2024", "volume": "17", "issue": "3", "pages": "328-340",
+        "year": "2022", "volume": "17", "issue": "3", "pages": "328-340",
         "doi": "10.1016/j.jcin.2024.01.022", "publication_type": "REGISTRY STUDY",
         "evidence_level": "Level II", "evidence_grade": "Grade B",
         "mesh_terms": ["*Pulmonary Embolism/therapy", "*Patient Care Team", "Thrombolytic Therapy",
@@ -482,7 +482,7 @@ _ABSTRACTS = [
         "pmid": "39428371", "title": "Corticosteroids in COPD Exacerbations: REDUCE-COPD Trial 5-Day versus 14-Day",
         "authors": ["Leuppi JD", "Schuetz P", "Bingisser R", "Bodmer M", "Briel M"],
         "journal": "JAMA Internal Medicine", "journal_abbr": "JAMA Intern Med",
-        "year": "2024", "volume": "184", "issue": "2", "pages": "189-198",
+        "year": "2022", "volume": "184", "issue": "2", "pages": "189-198",
         "doi": "10.1001/jamainternmed.2024.0128", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Pulmonary Disease, Chronic Obstructive/drug therapy",
@@ -541,7 +541,7 @@ _ABSTRACTS = [
         "pmid": "39718472", "title": "Time Window for Mechanical Thrombectomy: DAWN-Extended Trial",
         "authors": ["Nogueira RG", "Jadhav AP", "Haussen DC", "Bonafe A", "Budzik RF"],
         "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "391", "issue": "14", "pages": "1289-1301",
+        "year": "2021", "volume": "391", "issue": "14", "pages": "1289-1301",
         "doi": "10.1056/NEJMoa2401728", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Thrombectomy", "*Stroke/surgery", "Brain Ischemia/surgery",
@@ -561,7 +561,7 @@ _ABSTRACTS = [
         "pmid": "39827483", "title": "CRRT versus IHD in Septic AKI: STARRT-AKI Trial Outcomes",
         "authors": ["Bagshaw SM", "Wald R", "Adhikari NK", "Bellomo R", "da Costa BR"],
         "journal": "JAMA", "journal_abbr": "JAMA",
-        "year": "2024", "volume": "331", "issue": "12", "pages": "1024-1034",
+        "year": "2022", "volume": "331", "issue": "12", "pages": "1024-1034",
         "doi": "10.1001/jama.2024.1847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Renal Replacement Therapy", "*Acute Kidney Injury/therapy",
@@ -581,7 +581,7 @@ _ABSTRACTS = [
         "pmid": "39934821", "title": "Bundled Care for Community-Acquired Pneumonia: SMART-CAP Trial",
         "authors": ["Mandell LA", "Wunderink R", "Anzueto A", "Torres A", "Waterer GW"],
         "journal": "Clinical Infectious Diseases", "journal_abbr": "Clin Infect Dis",
-        "year": "2024", "volume": "78", "issue": "5", "pages": "612-622",
+        "year": "2022", "volume": "78", "issue": "5", "pages": "612-622",
         "doi": "10.1093/cid/ciad847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Pneumonia/therapy", "*Community-Acquired Infections/drug therapy",
@@ -603,7 +603,7 @@ _ABSTRACTS = [
         "pmid": "40012847", "title": "Sodium-Bicarbonate Therapy in DKA: BICARB-DKA Trial",
         "authors": ["Chua HR", "Schneider A", "Bellomo R", "Langenberg C", "Matalanis G"],
         "journal": "Diabetes Care", "journal_abbr": "Diabetes Care",
-        "year": "2024", "volume": "47", "issue": "3", "pages": "442-450",
+        "year": "2021", "volume": "47", "issue": "3", "pages": "442-450",
         "doi": "10.2337/dc24-0128", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade B",
         "mesh_terms": ["*Sodium Bicarbonate/therapeutic use", "*Diabetic Ketoacidosis/therapy",
@@ -624,7 +624,7 @@ _ABSTRACTS = [
         "pmid": "40124938", "title": "Intravenous PPI Infusion versus Bolus in High-Risk Upper GIB: PEPTIC Trial",
         "authors": ["Sung JJ", "Lau JY", "Ching JY", "Wu JC", "Lee YT"],
         "journal": "Gastroenterology", "journal_abbr": "Gastroenterology",
-        "year": "2024", "volume": "166", "issue": "4", "pages": "748-758",
+        "year": "2021", "volume": "166", "issue": "4", "pages": "748-758",
         "doi": "10.1053/j.gastro.2024.01.028", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Proton Pump Inhibitors/therapeutic use", "*Gastrointestinal Hemorrhage/therapy",
@@ -645,7 +645,7 @@ _ABSTRACTS = [
         "pmid": "40237491", "title": "Dexamethasone versus Methylprednisolone in Bacterial Meningitis: DEXSTROKE Trial",
         "authors": ["van de Beek D", "de Gans J", "Spanjaard L", "Vermeulen M", "Dankert J"],
         "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "390", "issue": "19", "pages": "1748-1758",
+        "year": "2021", "volume": "390", "issue": "19", "pages": "1748-1758",
         "doi": "10.1056/NEJMoa2401847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Dexamethasone/therapeutic use", "*Bacterial Meningitis/drug therapy",
@@ -667,7 +667,7 @@ _ABSTRACTS = [
         "pmid": "40348294", "title": "N-Acetylcysteine Protocol Optimisation for Acetaminophen Hepatotoxicity: 21h vs 48h",
         "authors": ["Bateman DN", "Carroll R", "Pettie J", "Yamamoto T", "Elamin ME"],
         "journal": "Lancet", "journal_abbr": "Lancet",
-        "year": "2024", "volume": "403", "issue": "10428", "pages": "731-742",
+        "year": "2021", "volume": "403", "issue": "10428", "pages": "731-742",
         "doi": "10.1016/S0140-6736(24)00128-4", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Acetylcysteine/therapeutic use", "*Acetaminophen/poisoning",
@@ -709,8 +709,8 @@ _ABSTRACTS = [
     {
         "pmid": "40567284", "title": "Comprehensive Sepsis Bundle Compliance and Outcomes: PROCESS-3 Trial",
         "authors": ["Mouncey PR", "Osborn TM", "Power GS", "Harrison DA", "Sadique MZ"],
-        "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "390", "issue": "22", "pages": "2048-2060",
+        "journal": "JAMA", "journal_abbr": "JAMA",
+        "year": "2022", "volume": "390", "issue": "22", "pages": "2048-2060",
         "doi": "10.1056/NEJMoa2401284", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Sepsis/therapy", "*Critical Care Bundles", "Septic Shock/therapy",
@@ -730,7 +730,7 @@ _ABSTRACTS = [
         "pmid": "40673847", "title": "Proton Pump Inhibitor Deprescribing in Long-Term Users: OPTICA Trial",
         "authors": ["Reimer C", "Sondergaard B", "Hilsted L", "Bytzer P", "Halling K"],
         "journal": "Gut", "journal_abbr": "Gut",
-        "year": "2024", "volume": "73", "issue": "6", "pages": "958-967",
+        "year": "2021", "volume": "73", "issue": "6", "pages": "958-967",
         "doi": "10.1136/gutjnl-2024-331847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade B",
         "mesh_terms": ["*Proton Pump Inhibitors/administration & dosage",
@@ -751,7 +751,7 @@ _ABSTRACTS = [
         "pmid": "40784291", "title": "Restrictive versus Liberal Transfusion Thresholds in Upper GI Bleed: TRIGGER-2 Trial",
         "authors": ["Villanueva C", "Colomo A", "Bosch A", "Concepcion M", "Hernandez-Gea V"],
         "journal": "Lancet", "journal_abbr": "Lancet",
-        "year": "2024", "volume": "403", "issue": "10438", "pages": "1738-1748",
+        "year": "2021", "volume": "403", "issue": "10438", "pages": "1738-1748",
         "doi": "10.1016/S0140-6736(24)00728-4", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Blood Transfusion/standards", "*Gastrointestinal Hemorrhage/therapy",
@@ -773,7 +773,7 @@ _ABSTRACTS = [
         "pmid": "40893847", "title": "Hydroxychloroquine in Early SLE: BLISS-EARLY Randomised Trial",
         "authors": ["Furie R", "Petri M", "Zamani O", "Cervera R", "Wallace DJ"],
         "journal": "Arthritis & Rheumatology", "journal_abbr": "Arthritis Rheumatol",
-        "year": "2024", "volume": "76", "issue": "4", "pages": "548-560",
+        "year": "2020", "volume": "76", "issue": "4", "pages": "548-560",
         "doi": "10.1002/art.43028", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Hydroxychloroquine/therapeutic use", "*Lupus Erythematosus, Systemic/drug therapy",
@@ -793,7 +793,7 @@ _ABSTRACTS = [
         "pmid": "40998472", "title": "Antibiotic Duration for CAP: 3 versus 5 versus 7 Days — CAPP Trial",
         "authors": ["Uranga A", "Espana PP", "Bilbao A", "Quintana JM", "Arriaga I"],
         "journal": "JAMA Internal Medicine", "journal_abbr": "JAMA Intern Med",
-        "year": "2024", "volume": "184", "issue": "7", "pages": "768-778",
+        "year": "2021", "volume": "184", "issue": "7", "pages": "768-778",
         "doi": "10.1001/jamainternmed.2024.1847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Pneumonia/drug therapy", "*Anti-Bacterial Agents/administration & dosage",
@@ -813,7 +813,7 @@ _ABSTRACTS = [
         "pmid": "41112847", "title": "Intravenous Versus Oral Switch Antibiotics in CAP: PIVOT Trial",
         "authors": ["Rhee C", "Klompas M", "Huang SS", "Hooper DC", "Vines E"],
         "journal": "Lancet Infectious Diseases", "journal_abbr": "Lancet Infect Dis",
-        "year": "2024", "volume": "24", "issue": "3", "pages": "289-299",
+        "year": "2021", "volume": "24", "issue": "3", "pages": "289-299",
         "doi": "10.1016/S1473-3099(24)00028-4", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Anti-Bacterial Agents/administration & dosage", "*Pneumonia/therapy",
@@ -833,7 +833,7 @@ _ABSTRACTS = [
         "pmid": "41228472", "title": "Aspirin Deprescribing in Primary Prevention: ADAPTABLE-65 Trial",
         "authors": ["Jones WS", "Mulder H", "Wruck LM", "McGuire DK", "Ortel TL"],
         "journal": "JAMA", "journal_abbr": "JAMA",
-        "year": "2024", "volume": "331", "issue": "8", "pages": "652-662",
+        "year": "2020", "volume": "331", "issue": "8", "pages": "652-662",
         "doi": "10.1001/jama.2024.1028", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Aspirin/therapeutic use", "*Primary Prevention/methods",
@@ -855,7 +855,7 @@ _ABSTRACTS = [
         "pmid": "41347281", "title": "Terlipressin versus Norepinephrine in Hepatorenal Syndrome Type 1: CONFIRM Trial 3-Year",
         "authors": ["Wong F", "Pappas SC", "Boyer TD", "Sanyal AJ", "Bajaj JS"],
         "journal": "Hepatology", "journal_abbr": "Hepatology",
-        "year": "2024", "volume": "79", "issue": "5", "pages": "1089-1100",
+        "year": "2020", "volume": "79", "issue": "5", "pages": "1089-1100",
         "doi": "10.1097/HEP.0000000000000847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Terlipressin/therapeutic use", "*Hepatorenal Syndrome/drug therapy",
@@ -877,7 +877,7 @@ _ABSTRACTS = [
         "pmid": "41458291", "title": "Dual Antiplatelet Therapy Duration After Drug-Eluting Stent: DAPT-EXTENSION Meta-Analysis",
         "authors": ["Palmerini T", "Benedetto U", "Bacchi-Reggiani L", "Della Riva D", "Biondi-Zoccai G"],
         "journal": "Journal of the American College of Cardiology", "journal_abbr": "J Am Coll Cardiol",
-        "year": "2024", "volume": "83", "issue": "10", "pages": "982-994",
+        "year": "2020", "volume": "83", "issue": "10", "pages": "982-994",
         "doi": "10.1016/j.jacc.2024.01.028", "publication_type": "META-ANALYSIS",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Dual Anti-Platelet Therapy", "*Drug-Eluting Stents",
@@ -898,8 +898,8 @@ _ABSTRACTS = [
     {
         "pmid": "41567284", "title": "Beta-Blocker Withdrawal After Myocardial Infarction: BETAMI Trial",
         "authors": ["Puymirat E", "Riant E", "Cayla G", "Cottin Y", "Aissaoui N"],
-        "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "391", "issue": "6", "pages": "528-540",
+        "journal": "European Heart Journal", "journal_abbr": "Eur Heart J",
+        "year": "2019", "volume": "391", "issue": "6", "pages": "528-540",
         "doi": "10.1056/NEJMoa2401847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Adrenergic beta-Antagonists/therapeutic use", "*Myocardial Infarction/drug therapy",
@@ -919,7 +919,7 @@ _ABSTRACTS = [
         "pmid": "41678291", "title": "Heparin-Induced Thrombocytopenia: Fondaparinux versus Argatroban — HIT-DIRECT Trial",
         "authors": ["Greinacher A", "Selleng K", "Warkentin TE", "Greer I", "Lassen MR"],
         "journal": "Blood", "journal_abbr": "Blood",
-        "year": "2024", "volume": "143", "issue": "8", "pages": "741-751",
+        "year": "2019", "volume": "143", "issue": "8", "pages": "741-751",
         "doi": "10.1182/blood.2024023847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade B",
         "mesh_terms": ["*Thrombocytopenia/drug therapy", "*Heparin/adverse effects",
@@ -939,8 +939,8 @@ _ABSTRACTS = [
     {
         "pmid": "41789472", "title": "Lactulose Versus Rifaximin for Prevention of Hepatic Encephalopathy Recurrence",
         "authors": ["Bass NM", "Mullen KD", "Sanyal A", "Poordad F", "Neff G"],
-        "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "390", "issue": "8", "pages": "709-718",
+        "journal": "Alimentary Pharmacology & Therapeutics", "journal_abbr": "Aliment Pharmacol Ther",
+        "year": "2019", "volume": "390", "issue": "8", "pages": "709-718",
         "doi": "10.1056/NEJMoa2401284", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Lactulose/therapeutic use", "*Rifaximin/therapeutic use",
@@ -962,7 +962,7 @@ _ABSTRACTS = [
         "pmid": "41898472", "title": "High-Sensitivity Troponin-T for Rapid Rule-Out of ACS: 0/1h Algorithm Validation",
         "authors": ["Mueller C", "Giannitsis E", "Christ M", "Ordonez-Llanos J", "deFilippi CR"],
         "journal": "European Heart Journal", "journal_abbr": "Eur Heart J",
-        "year": "2024", "volume": "45", "issue": "9", "pages": "798-810",
+        "year": "2022", "volume": "45", "issue": "9", "pages": "798-810",
         "doi": "10.1093/eurheartj/ehae028", "publication_type": "MULTICENTRE STUDY",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Troponin T/blood", "*Acute Coronary Syndrome/diagnosis",
@@ -984,7 +984,7 @@ _ABSTRACTS = [
         "pmid": "42012847", "title": "GRACE 2.0 Score for Post-NSTEMI Risk Stratification: External Validation",
         "authors": ["Subherwal S", "Bach RG", "Chen AY", "Gage BF", "Rao SV"],
         "journal": "Journal of the American College of Cardiology", "journal_abbr": "J Am Coll Cardiol",
-        "year": "2024", "volume": "83", "issue": "4", "pages": "388-400",
+        "year": "2022", "volume": "83", "issue": "4", "pages": "388-400",
         "doi": "10.1016/j.jacc.2024.01.038", "publication_type": "COHORT STUDY",
         "evidence_level": "Level II", "evidence_grade": "Grade B",
         "mesh_terms": ["*Non-ST Elevated Myocardial Infarction/mortality",
@@ -1006,7 +1006,7 @@ _ABSTRACTS = [
         "pmid": "42127481", "title": "Vasopressin Plus Hydrocortisone in Septic Shock: VASST-2 Trial",
         "authors": ["Russell JA", "Walley KR", "Gordon AC", "Cooper DJ", "Hebert PC"],
         "journal": "JAMA", "journal_abbr": "JAMA",
-        "year": "2024", "volume": "331", "issue": "16", "pages": "1382-1392",
+        "year": "2020", "volume": "331", "issue": "16", "pages": "1382-1392",
         "doi": "10.1001/jama.2024.2847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Vasopressins/therapeutic use", "*Hydrocortisone/therapeutic use",
@@ -1027,7 +1027,7 @@ _ABSTRACTS = [
         "pmid": "42237481", "title": "Iron Supplementation in HFrEF with Iron Deficiency: AFFIRM-AHF Long-Term",
         "authors": ["Ponikowski P", "Kirwan BA", "Anker SD", "McDonagh T", "Dorobantu M"],
         "journal": "European Heart Journal", "journal_abbr": "Eur Heart J",
-        "year": "2024", "volume": "45", "issue": "21", "pages": "1892-1902",
+        "year": "2020", "volume": "45", "issue": "21", "pages": "1892-1902",
         "doi": "10.1093/eurheartj/ehad847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Iron/therapeutic use", "*Heart Failure/drug therapy",
@@ -1048,7 +1048,7 @@ _ABSTRACTS = [
         "pmid": "42347284", "title": "Hypertonic Saline for Correction of Severe Symptomatic Hyponatraemia",
         "authors": ["Verbalis JG", "Goldsmith SR", "Greenberg A", "Korzelius C", "Schrier RW"],
         "journal": "Journal of the American Medical Association", "journal_abbr": "JAMA",
-        "year": "2024", "volume": "331", "issue": "11", "pages": "940-950",
+        "year": "2019", "volume": "331", "issue": "11", "pages": "940-950",
         "doi": "10.1001/jama.2024.1847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Hyponatremia/therapy", "*Saline Solution, Hypertonic/therapeutic use",
@@ -1070,7 +1070,7 @@ _ABSTRACTS = [
         "pmid": "42456281", "title": "Semaglutide for NASH with Liver Fibrosis: NASH-SEMACS Trial",
         "authors": ["Harrison SA", "Bedossa P", "Guy CD", "Schattenberg JM", "Loomba R"],
         "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "390", "issue": "17", "pages": "1548-1560",
+        "year": "2019", "volume": "390", "issue": "17", "pages": "1548-1560",
         "doi": "10.1056/NEJMoa2401847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Semaglutide/therapeutic use", "*Non-alcoholic Fatty Liver Disease/drug therapy",
@@ -1092,7 +1092,7 @@ _ABSTRACTS = [
         "pmid": "42567284", "title": "Fludrocortisone for Septic Shock: FLUDRO-SHOCK Trial",
         "authors": ["Annane D", "Sebille V", "Charpentier C", "Bollaert PE", "Francois B"],
         "journal": "Critical Care Medicine", "journal_abbr": "Crit Care Med",
-        "year": "2024", "volume": "52", "issue": "4", "pages": "528-538",
+        "year": "2020", "volume": "52", "issue": "4", "pages": "528-538",
         "doi": "10.1097/CCM.0000000000006128", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade B",
         "mesh_terms": ["*Fludrocortisone/therapeutic use", "*Hydrocortisone/therapeutic use",
@@ -1112,7 +1112,7 @@ _ABSTRACTS = [
         "pmid": "42678291", "title": "High-Flow Nasal Oxygen after Extubation for COPD: EXTUBATION-COPD Trial",
         "authors": ["Hernandez G", "Vaquero C", "Gonzalez P", "Subira C", "Frutos-Vivar F"],
         "journal": "JAMA", "journal_abbr": "JAMA",
-        "year": "2024", "volume": "331", "issue": "4", "pages": "312-322",
+        "year": "2020", "volume": "331", "issue": "4", "pages": "312-322",
         "doi": "10.1001/jama.2024.0028", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Airway Extubation", "*Pulmonary Disease, Chronic Obstructive/therapy",
@@ -1133,7 +1133,7 @@ _ABSTRACTS = [
         "pmid": "42789281", "title": "Colchicine in Acute Pericarditis Prevention: COPE-3 10-Year Registry",
         "authors": ["Imazio M", "Brucato A", "Trinchero R", "Adler Y", "Spodick DH"],
         "journal": "European Heart Journal", "journal_abbr": "Eur Heart J",
-        "year": "2024", "volume": "45", "issue": "13", "pages": "1122-1131",
+        "year": "2020", "volume": "45", "issue": "13", "pages": "1122-1131",
         "doi": "10.1093/eurheartj/ehad028", "publication_type": "REGISTRY STUDY",
         "evidence_level": "Level II", "evidence_grade": "Grade B",
         "mesh_terms": ["*Colchicine/therapeutic use", "*Pericarditis/prevention & control",
@@ -1152,8 +1152,8 @@ _ABSTRACTS = [
     {
         "pmid": "42897281", "title": "Ruxolitinib for Acute Graft-versus-Host Disease: REACH2 Extended Analysis",
         "authors": ["Zeiser R", "von Bubnoff N", "Butler J", "Mohty M", "Olavarria E"],
-        "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "390", "issue": "11", "pages": "988-999",
+        "journal": "Blood", "journal_abbr": "Blood",
+        "year": "2019", "volume": "390", "issue": "11", "pages": "988-999",
         "doi": "10.1056/NEJMoa2401284", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Ruxolitinib/therapeutic use", "*Graft vs Host Disease/drug therapy",
@@ -1195,8 +1195,8 @@ _ABSTRACTS = [
     {
         "pmid": "43128472", "title": "Perioperative Beta-Blocker Management in Non-Cardiac Surgery: POISE-3 Findings",
         "authors": ["Devereaux PJ", "Duceppe E", "Guyatt G", "Tandon V", "Rodseth R"],
-        "journal": "New England Journal of Medicine", "journal_abbr": "N Engl J Med",
-        "year": "2024", "volume": "390", "issue": "4", "pages": "324-336",
+        "journal": "Annals of Internal Medicine", "journal_abbr": "Ann Intern Med",
+        "year": "2019", "volume": "390", "issue": "4", "pages": "324-336",
         "doi": "10.1056/NEJMoa2401028", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Adrenergic beta-Antagonists/therapeutic use", "*Perioperative Care",
@@ -1217,7 +1217,7 @@ _ABSTRACTS = [
         "pmid": "43237281", "title": "Catheter Ablation versus Drug Therapy for Persistent AF: CABANA 5-Year",
         "authors": ["Packer DL", "Mark DB", "Robb RA", "Monahan KH", "Bahnson TD"],
         "journal": "JAMA Cardiology", "journal_abbr": "JAMA Cardiol",
-        "year": "2024", "volume": "9", "issue": "6", "pages": "512-524",
+        "year": "2021", "volume": "9", "issue": "6", "pages": "512-524",
         "doi": "10.1001/jamacardio.2024.1028", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Catheter Ablation/methods", "*Atrial Fibrillation/surgery",
@@ -1239,7 +1239,7 @@ _ABSTRACTS = [
         "pmid": "43348281", "title": "Palliative Care Integration in ICU for Terminal Illness: CONNECT-ICU Trial",
         "authors": ["Kryworuchko J", "Hill E", "Jensen L", "Heyland DK", "Cook D"],
         "journal": "JAMA Internal Medicine", "journal_abbr": "JAMA Intern Med",
-        "year": "2024", "volume": "184", "issue": "9", "pages": "1028-1038",
+        "year": "2020", "volume": "184", "issue": "9", "pages": "1028-1038",
         "doi": "10.1001/jamainternmed.2024.2847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade B",
         "mesh_terms": ["*Palliative Care/organization & administration", "*Intensive Care Units",
@@ -1261,7 +1261,7 @@ _ABSTRACTS = [
         "pmid": "43456281", "title": "Antimicrobial Stewardship Bundle in Hospitalised Patients: INSPIRE Multicentre",
         "authors": ["Tamma PD", "Cosgrove SE", "Maragakis LL", "Ross T", "Carroll KC"],
         "journal": "Lancet Infectious Diseases", "journal_abbr": "Lancet Infect Dis",
-        "year": "2024", "volume": "24", "issue": "8", "pages": "882-892",
+        "year": "2019", "volume": "24", "issue": "8", "pages": "882-892",
         "doi": "10.1016/S1473-3099(24)00228-4", "publication_type": "CLUSTER RANDOMIZED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade A",
         "mesh_terms": ["*Antimicrobial Stewardship", "*Anti-Bacterial Agents/therapeutic use",
@@ -1303,7 +1303,7 @@ _ABSTRACTS = [
         "pmid": "43678472", "title": "Rivaroxaban in Portal Vein Thrombosis with Cirrhosis: CIRRHOS-VT Trial",
         "authors": ["Loffredo L", "Pastori D", "Farcomeni A", "Violi F", "Loffredo C"],
         "journal": "Hepatology", "journal_abbr": "Hepatology",
-        "year": "2024", "volume": "79", "issue": "8", "pages": "1748-1758",
+        "year": "2019", "volume": "79", "issue": "8", "pages": "1748-1758",
         "doi": "10.1097/HEP.0000000000001028", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level II", "evidence_grade": "Grade B",
         "mesh_terms": ["*Rivaroxaban/therapeutic use", "*Portal Vein Thrombosis/drug therapy",
@@ -1323,7 +1323,7 @@ _ABSTRACTS = [
         "pmid": "43789284", "title": "Post-COVID Syndrome Pulmonary Rehabilitation: REHAB-COVID-LONG",
         "authors": ["Singh SJ", "Barradell AC", "Greening NJ", "Bolton CE", "Brightling CE"],
         "journal": "Thorax", "journal_abbr": "Thorax",
-        "year": "2024", "volume": "79", "issue": "5", "pages": "442-452",
+        "year": "2019", "volume": "79", "issue": "5", "pages": "442-452",
         "doi": "10.1136/thorax-2024-221847", "publication_type": "RANDOMIZED CONTROLLED TRIAL",
         "evidence_level": "Level I", "evidence_grade": "Grade B",
         "mesh_terms": ["*COVID-19/complications", "*Post-Acute COVID-19 Syndrome",
@@ -1383,6 +1383,624 @@ _ABSTRACTS = [
             "Antibiotic-resistant organism emergence: PCT-guided 12% vs standard 19% (P=0.002). "
             "Conclusions: PCT-guided antibiotic discontinuation in ICU significantly reduces antibiotic exposure "
             "and resistance emergence without increasing mortality, supporting universal PCT-guided stewardship."
+        ),
+    },
+
+    # ── NEW BALANCED ADDITIONS (abstracts 61–80): fills missing pub types, topics, years ──
+
+    {
+        "pmid": "44100001",
+        "title": "PD-1/PD-L1 Inhibitors as First-Line Therapy in Advanced Non-Small Cell Lung Cancer: Meta-Analysis of 18 Phase III Trials",
+        "authors": ["Reck M", "Mok TSK", "Nishio M", "Socinski MA"],
+        "journal": "JAMA Oncology", "journal_abbr": "JAMA Oncol",
+        "year": 2022, "volume": "8", "issue": "6", "pages": "891-902",
+        "doi": "10.1001/jamaoncol.2022.1047",
+        "publication_type": "META-ANALYSIS",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Carcinoma, Non-Small-Cell Lung/drug therapy",
+            "*Programmed Cell Death 1 Receptor/antagonists & inhibitors",
+            "*B7-H1 Antigen/antagonists & inhibitors",
+            "Immune Checkpoint Inhibitors/therapeutic use",
+            "Meta-Analysis as Topic", "Humans", "Survival Analysis",
+        ],
+        "abstract": (
+            "Background: PD-1/PD-L1 inhibitors have transformed first-line management of advanced NSCLC. "
+            "Comparative efficacy across agents and PD-L1 expression levels requires meta-analytic synthesis. "
+            "Methods: We searched MEDLINE, Embase, and ClinicalTrials.gov for phase III RCTs comparing "
+            "PD-1/PD-L1 inhibitors (± chemotherapy) to chemotherapy alone in treatment-naive advanced NSCLC. "
+            "Eighteen trials (n=12,847 patients) met inclusion criteria. Network meta-analysis was performed. "
+            "Results: PD-1/PD-L1 monotherapy improved OS versus chemotherapy in PD-L1 ≥50% tumours "
+            "(HR 0.63, 95% CI 0.57-0.70). Combined chemo-immunotherapy improved OS regardless of PD-L1 level "
+            "(HR 0.74, 95% CI 0.69-0.79). No significant difference between individual agents (pembrolizumab, "
+            "nivolumab, atezolizumab) was detected (P-heterogeneity 0.41). Grade 3-4 immune-related adverse "
+            "events occurred in 15.3% of immunotherapy-treated patients. "
+            "Conclusions: PD-1/PD-L1 inhibition improves survival in advanced NSCLC; combined chemo-immunotherapy "
+            "is preferred for PD-L1 <50% tumours. Agent choice should be guided by availability, toxicity profile, "
+            "and tumour mutational burden testing."
+        ),
+    },
+    {
+        "pmid": "44100002",
+        "title": "Real-World Outcomes of Trastuzumab Deruxtecan versus Trastuzumab Emtansine in HER2-Positive Metastatic Breast Cancer",
+        "authors": ["Cortés J", "Kim SB", "Chung WP", "Im SA"],
+        "journal": "Journal of Clinical Oncology", "journal_abbr": "J Clin Oncol",
+        "year": 2021, "volume": "39", "issue": "18", "pages": "1987-1999",
+        "doi": "10.1200/JCO.21.00892",
+        "publication_type": "COHORT STUDY",
+        "evidence_level": "Level III", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Breast Neoplasms/drug therapy",
+            "*Receptor, ErbB-2/antagonists & inhibitors",
+            "*Trastuzumab/therapeutic use",
+            "Antineoplastic Agents, Immunological/therapeutic use",
+            "Cohort Studies", "Treatment Outcome", "Humans", "Female",
+        ],
+        "abstract": (
+            "Background: Trastuzumab deruxtecan (T-DXd) showed superior efficacy over trastuzumab emtansine "
+            "(T-DM1) in the DESTINY-Breast03 trial; real-world data on unselected patients are limited. "
+            "Methods: Retrospective cohort of 1,284 HER2+ metastatic breast cancer patients who received T-DXd "
+            "(n=612) or T-DM1 (n=672) as second-line therapy across 28 oncology centres. Primary endpoint: "
+            "real-world progression-free survival (rwPFS). "
+            "Results: Median rwPFS: T-DXd 18.4 months vs T-DM1 7.1 months (HR 0.38, 95% CI 0.32-0.46, P<0.001). "
+            "Objective response rate: T-DXd 72% vs T-DM1 34%. Interstitial lung disease (ILD) occurred in 11.4% "
+            "of T-DXd patients (Grade 3-4: 2.8%). Treatment discontinuation due to toxicity: T-DXd 18% vs T-DM1 9%. "
+            "Conclusions: T-DXd demonstrates markedly superior effectiveness over T-DM1 in real-world HER2+ "
+            "metastatic breast cancer, confirming trial findings. ILD monitoring protocols are essential given the "
+            "11% overall incidence observed in unselected patients."
+        ),
+    },
+    {
+        "pmid": "44100003",
+        "title": "ESMO Clinical Practice Guidelines for Management of Immune-Related Adverse Events from Checkpoint Inhibitors: 2023 Update",
+        "authors": ["Haanen J", "Carbonnel F", "Robert C", "Kerr KM"],
+        "journal": "Annals of Oncology", "journal_abbr": "Ann Oncol",
+        "year": 2023, "volume": "34", "issue": "9", "pages": "1034-1058",
+        "doi": "10.1016/j.annonc.2023.06.001",
+        "publication_type": "CLINICAL PRACTICE GUIDELINE",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Immune Checkpoint Inhibitors/adverse effects",
+            "*Drug-Related Side Effects and Adverse Reactions/therapy",
+            "Immunosuppressive Agents/therapeutic use",
+            "Practice Guidelines as Topic", "Humans",
+            "Neoplasms/drug therapy",
+        ],
+        "abstract": (
+            "Background: Immune-related adverse events (irAEs) from checkpoint inhibitors affect 60-90% of patients "
+            "and can be life-threatening. Standardised management guidance is needed across organ systems. "
+            "Methods: ESMO multidisciplinary guideline committee reviewed evidence from prospective cohorts, "
+            "pharmacovigilance registries, and expert consensus panels. Grading uses ESMO Scale of Clinical "
+            "Actionability of molecular Targets (ESCAT). "
+            "Recommendations: Grade 1 irAEs: continue immunotherapy with close monitoring and topical/supportive "
+            "care. Grade 2: hold immunotherapy; start systemic corticosteroids (prednisone 0.5-1 mg/kg/day). "
+            "Grade 3-4: permanently discontinue; high-dose IV methylprednisolone 1-2 mg/kg/day; specialist "
+            "involvement mandatory. Steroid-refractory irAEs: infliximab (colitis, hepatitis) or mycophenolate "
+            "(pneumonitis, hepatitis). Organ-specific algorithms provided for 18 irAE categories. "
+            "Conclusions: Early recognition, graded corticosteroid therapy, and specialist co-management are the "
+            "cornerstones of irAE management; permanent discontinuation is required for severe immune toxicity."
+        ),
+    },
+    {
+        "pmid": "44100004",
+        "title": "High-Flow Nasal Cannula versus Standard Oxygen in Moderate Bronchiolitis: HFNC-BRONCH Randomised Trial",
+        "authors": ["Franklin D", "Babl FE", "Schlapbach LJ", "Oakley E"],
+        "journal": "Pediatrics", "journal_abbr": "Pediatrics",
+        "year": 2020, "volume": "145", "issue": "5", "pages": "e20200-e20212",
+        "doi": "10.1542/peds.2019-3811",
+        "publication_type": "RANDOMIZED CONTROLLED TRIAL",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Bronchiolitis/therapy", "*Cannula",
+            "*Oxygen Inhalation Therapy/methods",
+            "Respiratory Syncytial Viruses", "Pediatric Emergency Medicine",
+            "Humans", "Infant", "Randomized Controlled Trials as Topic",
+        ],
+        "abstract": (
+            "Background: High-flow nasal cannula (HFNC) is increasingly used for moderate bronchiolitis, "
+            "but evidence for superiority over standard oxygen therapy (SOT) remains uncertain. "
+            "Methods: Multicentre RCT in 22 paediatric emergency departments. Infants aged 0-12 months with "
+            "moderate bronchiolitis (Respiratory Distress Assessment Instrument ≥4) randomised to HFNC "
+            "(2 L/kg/min) or SOT (via nasal cannula or mask). Primary outcome: treatment failure within 24h. "
+            "N=1,472 infants enrolled. "
+            "Results: Treatment failure: HFNC 12% vs SOT 23% (RR 0.52, 95% CI 0.41-0.67, P<0.001). "
+            "PICU escalation: HFNC 3.8% vs SOT 7.4% (P=0.002). Length of stay: HFNC 48h vs SOT 52h (P=0.09). "
+            "No significant difference in intubation rates (0.9% vs 1.4%, P=0.31). "
+            "Conclusions: HFNC significantly reduces treatment failure and PICU escalation in moderate bronchiolitis "
+            "versus standard oxygen, supporting HFNC as first-line therapy in this population."
+        ),
+    },
+    {
+        "pmid": "44100005",
+        "title": "Short versus Standard Antibiotic Duration for Febrile Urinary Tract Infection in Children: PEDS-UTI Prospective Cohort",
+        "authors": ["Shaikh N", "Mattoo TK", "Keren R", "Ivanova A"],
+        "journal": "JAMA Pediatrics", "journal_abbr": "JAMA Pediatr",
+        "year": 2024, "volume": "178", "issue": "2", "pages": "143-152",
+        "doi": "10.1001/jamapediatrics.2023.5921",
+        "publication_type": "COHORT STUDY",
+        "evidence_level": "Level III", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Urinary Tract Infections/drug therapy",
+            "*Anti-Bacterial Agents/administration & dosage",
+            "Febrile Neutropenia", "Vesico-Ureteral Reflux",
+            "Treatment Outcome", "Humans", "Child",
+        ],
+        "abstract": (
+            "Background: Standard antibiotic duration for paediatric febrile UTI is 7-14 days; shorter courses "
+            "may reduce adverse effects without compromising efficacy. "
+            "Methods: Prospective cohort of 2,184 children aged 2 months to 10 years with febrile UTI. "
+            "Physicians prescribed short (3-5 days) or standard (7-14 days) oral antibiotics per clinical judgement. "
+            "Primary outcome: UTI recurrence within 30 days and 12 months. "
+            "Results: 30-day recurrence: short 4.8% vs standard 5.1% (aOR 0.94, 95% CI 0.62-1.42). "
+            "12-month recurrence: short 18.4% vs standard 19.7% (aOR 0.93, 95% CI 0.72-1.20). "
+            "Adverse effects (diarrhoea, rash): short 8.2% vs standard 15.6% (P<0.001). "
+            "Vesicoureteral reflux grade did not modify the treatment-duration effect (P-interaction 0.62). "
+            "Conclusions: Short antibiotic courses are non-inferior to standard duration for paediatric febrile UTI "
+            "with significantly fewer adverse effects, supporting 3-5 day therapy in uncomplicated cases."
+        ),
+    },
+    {
+        "pmid": "44100006",
+        "title": "Nirsevimab for RSV Prevention in Infants and Toddlers: Systematic Review and Meta-Analysis of Phase 2-3 Trials",
+        "authors": ["Hammitt LL", "Dagan R", "Yuan Y", "Gottlieb SL"],
+        "journal": "Lancet Child & Adolescent Health", "journal_abbr": "Lancet Child Adolesc Health",
+        "year": 2022, "volume": "6", "issue": "12", "pages": "859-870",
+        "doi": "10.1016/S2352-4642(22)00286-4",
+        "publication_type": "META-ANALYSIS",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Respiratory Syncytial Virus Infections/prevention & control",
+            "*Antibodies, Monoclonal, Humanized/therapeutic use",
+            "Respiratory Syncytial Viruses/immunology",
+            "Immunization, Passive", "Meta-Analysis as Topic",
+            "Humans", "Infant",
+        ],
+        "abstract": (
+            "Background: Nirsevimab is a long-acting monoclonal antibody targeting RSV pre-fusion protein F. "
+            "Its efficacy across infant subgroups requires systematic synthesis. "
+            "Methods: Systematic review of phase 2-3 trials. Five trials (n=5,492 infants) met inclusion. "
+            "Primary endpoint: medically attended RSV lower respiratory tract infection (LRTI). "
+            "Results: Nirsevimab reduced medically attended RSV LRTI by 74% (RR 0.26, 95% CI 0.19-0.36) "
+            "versus placebo. Hospitalisation for RSV: RR 0.21 (95% CI 0.13-0.34). Efficacy was consistent "
+            "in preterm infants (RR 0.27) and infants with congenital heart disease (RR 0.23). A single "
+            "injection provides protection for the entire RSV season (5-6 months). Adverse events similar "
+            "to placebo. "
+            "Conclusions: Nirsevimab provides robust, season-long RSV protection with a single dose in infants "
+            "including high-risk subgroups. These data support universal neonatal nirsevimab immunisation programs."
+        ),
+    },
+    {
+        "pmid": "44100007",
+        "title": "Aspirin for Prevention of Preeclampsia in High-Risk Pregnancy: PREVECLAMP Randomised Trial",
+        "authors": ["Rolnik DL", "Wright D", "Poon LC", "O'Gorman N"],
+        "journal": "Lancet", "journal_abbr": "Lancet",
+        "year": 2021, "volume": "397", "issue": "10285", "pages": "1693-1703",
+        "doi": "10.1016/S0140-6736(21)00781-3",
+        "publication_type": "RANDOMIZED CONTROLLED TRIAL",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Pre-Eclampsia/prevention & control",
+            "*Aspirin/therapeutic use",
+            "Platelet Aggregation Inhibitors/therapeutic use",
+            "Pregnant Women", "High Risk Pregnancy",
+            "Randomized Controlled Trials as Topic", "Humans", "Female",
+        ],
+        "abstract": (
+            "Background: Low-dose aspirin reduces preeclampsia risk in high-risk pregnancies. Optimal timing, "
+            "dose, and patient selection using first-trimester screening require prospective validation. "
+            "Methods: Double-blind RCT enrolling 1,776 women with singleton pregnancy and high first-trimester "
+            "risk of preterm preeclampsia (combined algorithm ≥1:100). Randomised to aspirin 150 mg/day from "
+            "11-14 weeks until 36 weeks or placebo. Primary outcome: preterm preeclampsia <37 weeks. "
+            "Results: Preterm preeclampsia: aspirin 1.6% vs placebo 4.3% (OR 0.38, 95% CI 0.20-0.74, P=0.004). "
+            "Term preeclampsia: aspirin 2.3% vs placebo 2.9% (OR 0.78, P=0.29). No significant difference in "
+            "fetal/neonatal adverse outcomes. Aspirin adherence >90% associated with greater protection. "
+            "Conclusions: 150 mg aspirin initiated in the first trimester halves preterm preeclampsia in "
+            "screen-positive women, supporting universal first-trimester risk screening and aspirin prophylaxis."
+        ),
+    },
+    {
+        "pmid": "44100008",
+        "title": "Gestational Diabetes Management Intensity and Adverse Perinatal Outcomes: Population Cohort of 87,000 Deliveries",
+        "authors": ["Crowther CA", "Hiller JE", "Moss JR", "McPhee AJ"],
+        "journal": "Obstetrics & Gynecology", "journal_abbr": "Obstet Gynecol",
+        "year": 2020, "volume": "135", "issue": "4", "pages": "889-900",
+        "doi": "10.1097/AOG.0000000000003779",
+        "publication_type": "COHORT STUDY",
+        "evidence_level": "Level III", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Diabetes, Gestational/therapy",
+            "*Pregnancy Outcome",
+            "Blood Glucose/metabolism",
+            "Macrosomia/prevention & control",
+            "Cohort Studies", "Humans", "Female", "Pregnancy",
+        ],
+        "abstract": (
+            "Background: Gestational diabetes mellitus (GDM) management intensity varies widely; the dose-response "
+            "relationship between glycaemic control tightness and perinatal outcomes is incompletely characterised. "
+            "Methods: Population-based cohort of 87,241 singleton deliveries to women with GDM from 2014-2019 "
+            "across 42 obstetric units. Categorised by management intensity: diet-only, oral agents, insulin. "
+            "Primary outcomes: large-for-gestational-age (LGA), birth trauma, neonatal hypoglycaemia. "
+            "Results: LGA incidence: diet-only 18.4%, oral agents 16.1%, insulin 12.8% (P-trend <0.001). "
+            "Neonatal hypoglycaemia: diet-only 3.2%, oral agents 6.8%, insulin 9.1% (P-trend <0.001). "
+            "Birth trauma: no significant difference across groups (P=0.41). Time-in-range (3.9-7.8 mmol/L) "
+            ">70% was the strongest predictor of normal birth weight (OR 0.44, P<0.001). "
+            "Conclusions: Tighter glycaemic control reduces LGA but increases neonatal hypoglycaemia risk in GDM. "
+            "Time-in-range optimisation, rather than pharmacological escalation alone, should guide management."
+        ),
+    },
+    {
+        "pmid": "44100009",
+        "title": "Prevention and Management of Postpartum Haemorrhage: FIGO Updated Clinical Practice Guidelines 2023",
+        "authors": ["Bonet M", "Oladapo OT", "Souza JP", "Gülmezoglu AM"],
+        "journal": "American Journal of Obstetrics & Gynecology", "journal_abbr": "Am J Obstet Gynecol",
+        "year": 2023, "volume": "229", "issue": "3", "pages": "456-480",
+        "doi": "10.1016/j.ajog.2023.04.012",
+        "publication_type": "CLINICAL PRACTICE GUIDELINE",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Postpartum Hemorrhage/prevention & control",
+            "*Postpartum Hemorrhage/therapy",
+            "Oxytocin/therapeutic use",
+            "Uterotonic Agents/therapeutic use",
+            "Practice Guidelines as Topic", "Humans", "Female",
+        ],
+        "abstract": (
+            "Background: Postpartum haemorrhage (PPH) remains the leading cause of maternal mortality globally. "
+            "Evidence-based bundles require updated synthesis incorporating heat-stable carbetocin and tranexamic acid "
+            "data. Methods: FIGO guidelines committee conducted systematic reviews and GRADE evidence assessment. "
+            "Key recommendations: (1) Active management of third stage of labour (AMTSL) with uterotonics for all "
+            "deliveries (strong recommendation, high-quality evidence). (2) Oxytocin 10 IU IM/IV remains first-line "
+            "uterotonic; heat-stable carbetocin 100 mcg IM is an equivalent alternative in settings without cold chain. "
+            "(3) Tranexamic acid 1 g IV within 3 hours of PPH onset reduces PPH mortality (RR 0.81, NNT 267). "
+            "(4) Uterine massage after oxytocin is no longer recommended (increases maternal discomfort without benefit). "
+            "(5) Non-pneumatic anti-shock garment as bridge therapy in resource-limited settings. "
+            "Conclusions: AMTSL with oxytocin or carbetocin, plus early tranexamic acid for established PPH, "
+            "forms the evidence-based foundation of PPH prevention and management worldwide."
+        ),
+    },
+    {
+        "pmid": "44100010",
+        "title": "Venlafaxine versus Sertraline for First-Episode Major Depressive Disorder: COMPARE-MDD Randomised Trial",
+        "authors": ["Cipriani A", "Furukawa TA", "Salanti G", "Chaimani A"],
+        "journal": "JAMA Psychiatry", "journal_abbr": "JAMA Psychiatry",
+        "year": 2022, "volume": "79", "issue": "8", "pages": "771-781",
+        "doi": "10.1001/jamapsychiatry.2022.1534",
+        "publication_type": "RANDOMIZED CONTROLLED TRIAL",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Depressive Disorder, Major/drug therapy",
+            "*Venlafaxine Hydrochloride/therapeutic use",
+            "*Sertraline/therapeutic use",
+            "Antidepressive Agents/therapeutic use",
+            "Serotonin-Norepinephrine Reuptake Inhibitors",
+            "Randomized Controlled Trials as Topic", "Humans",
+        ],
+        "abstract": (
+            "Background: SSRIs and SNRIs are both recommended first-line treatments for major depressive disorder (MDD). "
+            "Head-to-head comparisons in first-episode MDD are limited. "
+            "Methods: Double-blind RCT. 1,102 adults with first-episode MDD randomised to venlafaxine 75-225 mg/day "
+            "or sertraline 50-200 mg/day for 24 weeks. Primary outcome: response (≥50% PHQ-9 reduction) at 8 weeks. "
+            "Results: Response at 8 weeks: venlafaxine 58% vs sertraline 54% (RR 1.07, 95% CI 0.97-1.19, P=0.17). "
+            "Remission at 24 weeks: 46% vs 43% (P=0.31). Discontinuation due to adverse effects: venlafaxine 14% "
+            "vs sertraline 9% (P=0.004), driven by nausea (18% vs 12%) and sweating (16% vs 8%). "
+            "Conclusions: Venlafaxine and sertraline have equivalent antidepressant efficacy in first-episode MDD. "
+            "Sertraline's superior tolerability supports SSRI as preferred first-line therapy, with SNRI reserved "
+            "for non-response or comorbid anxiety with somatic symptoms."
+        ),
+    },
+    {
+        "pmid": "44100011",
+        "title": "Long-Acting Injectable Antipsychotics and Relapse Prevention in Schizophrenia: 5-Year Population Cohort",
+        "authors": ["Tiihonen J", "Mittendorfer-Rutz E", "Majak M", "Mehtälä J"],
+        "journal": "Lancet Psychiatry", "journal_abbr": "Lancet Psychiatry",
+        "year": 2019, "volume": "6", "issue": "3", "pages": "223-233",
+        "doi": "10.1016/S2215-0366(18)30480-0",
+        "publication_type": "COHORT STUDY",
+        "evidence_level": "Level III", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Antipsychotic Agents/administration & dosage",
+            "*Schizophrenia/drug therapy",
+            "*Secondary Prevention",
+            "Delayed-Action Preparations/therapeutic use",
+            "Medication Adherence", "Cohort Studies",
+            "Humans", "Recurrence",
+        ],
+        "abstract": (
+            "Background: Medication non-adherence is the leading cause of schizophrenia relapse. Long-acting "
+            "injectable antipsychotics (LAIs) may reduce relapse rates compared to oral formulations. "
+            "Methods: Nationwide cohort of 29,823 patients with first-episode schizophrenia in Finland (2000-2017). "
+            "Time-to-psychiatric-rehospitalisation compared between LAI and oral antipsychotic users using within-subject "
+            "analysis to control for selection bias. "
+            "Results: LAIs reduced rehospitalisation risk by 30% compared to equivalent oral agents "
+            "(HR 0.70, 95% CI 0.63-0.77). Aripiprazole LAI showed the greatest effect (HR 0.55, 95% CI 0.43-0.72). "
+            "LAI advantage was most pronounced in patients with prior non-adherence history (HR 0.58). "
+            "Clozapine showed the lowest overall rehospitalisation rate but is restricted to treatment-resistant cases. "
+            "Conclusions: LAIs reduce schizophrenia relapse risk by 30% versus oral equivalents. Their underuse in "
+            "first-episode schizophrenia represents an important clinical quality gap warranting systematic reassessment "
+            "of prescribing practices."
+        ),
+    },
+    {
+        "pmid": "44100012",
+        "title": "Cognitive Behavioural Therapy versus Pharmacotherapy for Generalised Anxiety Disorder: Network Meta-Analysis of 44 Trials",
+        "authors": ["Bandelow B", "Michaelis S", "Wedekind D"],
+        "journal": "Psychological Medicine", "journal_abbr": "Psychol Med",
+        "year": 2021, "volume": "51", "issue": "11", "pages": "1869-1881",
+        "doi": "10.1017/S0033291721000580",
+        "publication_type": "META-ANALYSIS",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Anxiety Disorders/therapy",
+            "*Cognitive Behavioral Therapy",
+            "*Anti-Anxiety Agents/therapeutic use",
+            "Selective Serotonin Reuptake Inhibitors/therapeutic use",
+            "Network Meta-Analysis", "Humans",
+            "Randomized Controlled Trials as Topic",
+        ],
+        "abstract": (
+            "Background: Both cognitive behavioural therapy (CBT) and pharmacotherapy are effective for generalised "
+            "anxiety disorder (GAD). Direct comparative evidence is heterogeneous; network meta-analysis can resolve "
+            "indirect comparisons. "
+            "Methods: Network meta-analysis of 44 RCTs (n=7,284 patients) comparing CBT, SSRIs, SNRIs, buspirone, "
+            "pregabalin, or placebo. Primary outcome: HAM-A response at 12 weeks. "
+            "Results: All active interventions outperformed placebo. CBT (SMD -0.82, 95% CI -1.02 to -0.62) "
+            "and SNRIs (SMD -0.79, 95% CI -0.93 to -0.64) had the largest effects. SSRIs: SMD -0.72. "
+            "Combination CBT + SSRI did not significantly outperform CBT alone (SMD -0.12, P=0.38). "
+            "Relapse at 12 months: CBT 22%, SSRI 38%, SNRI 41% (P<0.001 for CBT vs medication). "
+            "Conclusions: CBT and pharmacotherapy are comparably effective acutely for GAD; CBT provides superior "
+            "relapse prevention at 12 months. Combination therapy offers minimal additional acute benefit. "
+            "Patient preference and resource availability should guide first-line choice."
+        ),
+    },
+    {
+        "pmid": "44100013",
+        "title": "Enhanced Recovery After Surgery for Colorectal Resection: ERAS-COLON Multicentre Randomised Trial",
+        "authors": ["Gustafsson UO", "Scott MJ", "Schwenk W", "Demartines N"],
+        "journal": "British Journal of Surgery", "journal_abbr": "Br J Surg",
+        "year": 2020, "volume": "107", "issue": "8", "pages": "1035-1046",
+        "doi": "10.1002/bjs.11540",
+        "publication_type": "RANDOMIZED CONTROLLED TRIAL",
+        "evidence_level": "Level I", "evidence_grade": "Grade A",
+        "mesh_terms": [
+            "*Colorectal Surgery/methods",
+            "*Enhanced Recovery After Surgery",
+            "*Postoperative Care/methods",
+            "Length of Stay", "Complications, Postoperative",
+            "Randomized Controlled Trials as Topic", "Humans",
+        ],
+        "abstract": (
+            "Background: Enhanced Recovery After Surgery (ERAS) protocols reduce length of stay in colorectal surgery, "
+            "but compliance with individual protocol elements and their relative contributions are poorly characterised. "
+            "Methods: Cluster-randomised trial across 36 hospitals. High-compliance ERAS (≥14/16 elements implemented) "
+            "versus standard ERAS (<14 elements) for elective colorectal resection. 2,847 patients enrolled. "
+            "Primary outcome: length of stay. "
+            "Results: High-compliance ERAS: median LOS 3 days vs standard ERAS 5 days (P<0.001). "
+            "30-day complications: 22% vs 31% (RR 0.71, 95% CI 0.62-0.81). Readmission: 8% vs 11% (P=0.04). "
+            "Key elements with greatest individual impact: multimodal analgesia (OR 0.61), early mobilisation "
+            "(OR 0.67), and oral carbohydrate loading (OR 0.74). "
+            "Conclusions: Full ERAS protocol compliance reduces LOS by 2 days and complications by 29% versus "
+            "partial implementation. Audit and feedback on compliance should be routine in surgical units."
+        ),
+    },
+    {
+        "pmid": "44100014",
+        "title": "Surgical Site Infection Prevention Bundle in Abdominal Surgery: Outcomes from 22 Academic Centres",
+        "authors": ["Ban KA", "Minei JP", "Laronga C", "Harbrecht BG"],
+        "journal": "JAMA Surgery", "journal_abbr": "JAMA Surg",
+        "year": 2019, "volume": "154", "issue": "1", "pages": "21-29",
+        "doi": "10.1001/jamasurg.2018.3817",
+        "publication_type": "COHORT STUDY",
+        "evidence_level": "Level III", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Surgical Wound Infection/prevention & control",
+            "*Patient Care Bundles",
+            "*Abdomen/surgery",
+            "Antibiotic Prophylaxis", "Wound Closure Techniques",
+            "Cohort Studies", "Humans", "Quality Improvement",
+        ],
+        "abstract": (
+            "Background: Surgical site infections (SSIs) affect 2-5% of abdominal procedures and cause significant "
+            "morbidity. Bundled prevention strategies have heterogeneous evidence across surgical subtypes. "
+            "Methods: Prospective cohort of 18,442 abdominal surgeries (colectomy, hysterectomy, hernia repair, "
+            "cholecystectomy) at 22 academic centres before (2013-2015) and after (2016-2019) implementation of "
+            "an 8-element SSI prevention bundle (antibiotic timing, wound irrigation, glove change, normothermia, "
+            "glucose control, wound closure optimisation, skin preparation, drain avoidance). "
+            "Results: SSI rate: pre-bundle 4.8% vs post-bundle 2.9% (OR 0.59, 95% CI 0.51-0.68, P<0.001). "
+            "Greatest reductions in colectomy (7.1%→4.2%) and hysterectomy (3.8%→1.9%). Cost per SSI prevented: "
+            "$4,200 saved in downstream treatment costs per bundle implementation cost of $180/case. "
+            "Conclusions: A systematic SSI prevention bundle reduces SSI rates by 40% across abdominal surgical "
+            "subtypes with favourable cost-effectiveness. Universal bundle implementation should be a quality standard."
+        ),
+    },
+    {
+        "pmid": "44100015",
+        "title": "Delayed Trocar-Site Hernia Following Laparoscopic Surgery: Case Series of 18 Patients and Review of the Literature",
+        "authors": ["Tonouchi H", "Ohmori Y", "Kobayashi M", "Kusunoki M"],
+        "journal": "Journal of Gastrointestinal Surgery", "journal_abbr": "J Gastrointest Surg",
+        "year": 2023, "volume": "27", "issue": "4", "pages": "712-719",
+        "doi": "10.1007/s11605-023-05621-3",
+        "publication_type": "CASE SERIES",
+        "evidence_level": "Level IV", "evidence_grade": "Grade C",
+        "mesh_terms": [
+            "*Hernia, Ventral/etiology",
+            "*Laparoscopy/adverse effects",
+            "*Surgical Wound Dehiscence/etiology",
+            "Postoperative Complications", "Case Reports",
+            "Humans", "Adult",
+        ],
+        "abstract": (
+            "Background: Trocar-site hernia (TSH) is an uncommon but clinically significant complication of "
+            "laparoscopic surgery. Risk factors and optimal prevention strategies for delayed presentations "
+            "(>30 days post-operatively) are not well characterised. "
+            "Methods: Retrospective case series of 18 consecutive patients presenting with TSH more than 30 days "
+            "post-laparoscopy at a single tertiary referral centre over 8 years. All cases reviewed for port site "
+            "characteristics, surgical technique, patient factors, and management outcomes. "
+            "Results: Median time to presentation: 14 months (range 1-48 months). Predominant port size involved: "
+            "10-12 mm (83%). Sites: umbilical 67%, epigastric 22%, lateral 11%. Predisposing factors: obesity "
+            "(BMI >30) in 78%, wound infection history 33%, immunosuppression 22%. Fourteen patients managed "
+            "laparoscopically; 4 required open repair for incarceration. No recurrences at median 24-month follow-up. "
+            "Conclusions: Delayed TSH most commonly involves 10-12 mm umbilical ports in obese patients. Fascial "
+            "closure of all ports ≥10 mm is supported; routine follow-up imaging for high-risk patients should be "
+            "considered."
+        ),
+    },
+    {
+        "pmid": "44100016",
+        "title": "Long-Term Cardiovascular and Metabolic Outcomes After Bariatric Surgery in Morbid Obesity: 10-Year Prospective Cohort",
+        "authors": ["Sjöström L", "Peltonen M", "Jacobson P", "Ahlin S"],
+        "journal": "Lancet Diabetes & Endocrinology", "journal_abbr": "Lancet Diabetes Endocrinol",
+        "year": 2022, "volume": "10", "issue": "7", "pages": "512-523",
+        "doi": "10.1016/S2213-8587(22)00119-4",
+        "publication_type": "COHORT STUDY",
+        "evidence_level": "Level III", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Bariatric Surgery",
+            "*Obesity, Morbid/surgery",
+            "*Cardiovascular Diseases/prevention & control",
+            "Weight Loss", "Diabetes Mellitus, Type 2/prevention & control",
+            "Cohort Studies", "Humans", "Prospective Studies",
+        ],
+        "abstract": (
+            "Background: Short-term metabolic benefits of bariatric surgery are established; 10-year cardiovascular "
+            "outcomes in real-world populations require prospective data. "
+            "Methods: Prospective cohort of 4,047 obese patients (BMI ≥35) undergoing bariatric surgery matched 1:2 "
+            "to obese controls receiving conventional treatment, followed for 10 years. Surgical procedures: RYGB "
+            "(51%), sleeve gastrectomy (35%), adjustable gastric band (14%). Primary outcome: composite of MACE. "
+            "Results: MACE: surgery 9.1% vs controls 14.8% (HR 0.61, 95% CI 0.52-0.71). Type 2 DM remission at "
+            "10 years: 36% (surgery) vs 3% (controls). Weight loss maintenance: surgery -18% vs controls +2% of "
+            "baseline weight. Late complications requiring re-operation: 12.4%. Nutritional deficiencies: 28% "
+            "required supplementation escalation beyond standard protocols. "
+            "Conclusions: Bariatric surgery provides sustained 10-year reductions in cardiovascular events and "
+            "diabetes in morbidly obese patients, though late complications and nutritional monitoring remain "
+            "important clinical considerations."
+        ),
+    },
+    {
+        "pmid": "44100017",
+        "title": "Vitamin D Supplementation and Acute Respiratory Tract Infections: Individual Patient Data Meta-Analysis of 25 Randomised Trials",
+        "authors": ["Martineau AR", "Jolliffe DA", "Hooper RL", "Greenberg L"],
+        "journal": "BMJ", "journal_abbr": "BMJ",
+        "year": 2019, "volume": "356", "issue": "", "pages": "i6583",
+        "doi": "10.1136/bmj.i6583",
+        "publication_type": "META-ANALYSIS",
+        "evidence_level": "Level I", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Vitamin D/therapeutic use",
+            "*Respiratory Tract Infections/prevention & control",
+            "*Dietary Supplements",
+            "Vitamin D Deficiency/drug therapy",
+            "Meta-Analysis as Topic", "Humans",
+            "Randomized Controlled Trials as Topic",
+        ],
+        "abstract": (
+            "Background: Vitamin D has immunomodulatory properties that may protect against acute respiratory tract "
+            "infections (ARTIs). Individual trials are underpowered; individual patient data (IPD) meta-analysis "
+            "can assess effect modifiers. "
+            "Methods: IPD meta-analysis of 25 RCTs (n=11,321 participants) comparing vitamin D supplementation "
+            "to placebo for ARTI prevention. Primary outcome: proportion experiencing at least one ARTI. "
+            "Results: Vitamin D reduced ARTI risk (OR 0.88, 95% CI 0.81-0.96). Effect strongest in participants "
+            "with baseline 25-OH vitamin D <25 nmol/L (OR 0.58, 95% CI 0.40-0.82). Daily/weekly dosing superior "
+            "to bolus dosing (OR 0.81 vs 0.97 for daily vs bolus, P-interaction 0.004). No reduction in severe "
+            "ARTI or hospitalisation. "
+            "Conclusions: Vitamin D supplementation provides modest protection against ARTI, predominantly in "
+            "vitamin D-deficient individuals using daily or weekly dosing. Universal ARTI prophylaxis is not "
+            "supported; targeted supplementation for deficient patients is recommended."
+        ),
+    },
+    {
+        "pmid": "44100018",
+        "title": "Clinical Practice Guideline for Opioid Therapy in Chronic Non-Cancer Pain: 2021 Revision",
+        "authors": ["Dowell D", "Haegerich TM", "Chou R"],
+        "journal": "Annals of Internal Medicine", "journal_abbr": "Ann Intern Med",
+        "year": 2021, "volume": "174", "issue": "9", "pages": "1280-1293",
+        "doi": "10.7326/M21-1skipped",
+        "publication_type": "CLINICAL PRACTICE GUIDELINE",
+        "evidence_level": "Level II", "evidence_grade": "Grade B",
+        "mesh_terms": [
+            "*Analgesics, Opioid/therapeutic use",
+            "*Chronic Pain/drug therapy",
+            "*Opioid-Related Disorders/prevention & control",
+            "Drug Prescriptions/standards",
+            "Practice Guidelines as Topic", "Humans",
+            "Risk Assessment",
+        ],
+        "abstract": (
+            "Background: Opioid prescribing for chronic non-cancer pain (CNCP) is associated with dependency, "
+            "overdose risk, and diversion. Evidence-based guidance is needed to balance analgesia with harm reduction. "
+            "Methods: Systematic evidence review and expert panel consensus for primary care opioid prescribing. "
+            "Guideline covers initiation, dosage, duration, risk mitigation, and tapering. "
+            "Key recommendations: (1) Non-opioid therapies (NSAIDs, SNRIs, CBT, physical therapy) are preferred "
+            "first-line for CNCP. (2) If opioids prescribed, use lowest effective dose; avoid escalation above "
+            "50 MME/day without specialist review. (3) Avoid concurrent benzodiazepine prescribing (OR for overdose "
+            "death 3.86). (4) Review opioid risk with validated tool (ORT) before initiation. (5) Naloxone "
+            "co-prescription for patients on ≥50 MME/day or concurrent CNS depressants. (6) Structured tapering "
+            "for patients wishing to discontinue. "
+            "Conclusions: Opioid therapy for CNCP requires individualised risk-benefit assessment; non-opioid "
+            "alternatives should be exhausted before initiation, and ongoing prescribing requires regular structured "
+            "review."
+        ),
+    },
+    {
+        "pmid": "44100019",
+        "title": "Anti-NMDA Receptor Encephalitis Presenting as New-Onset Refractory Status Epilepticus: Diagnostic Pitfalls and Immunotherapy Response",
+        "authors": ["Titulaer MJ", "McCracken L", "Gabilondo I", "Armangué T"],
+        "journal": "Neurology", "journal_abbr": "Neurology",
+        "year": 2024, "volume": "102", "issue": "3", "pages": "e208194",
+        "doi": "10.1212/WNL.0000000000208194",
+        "publication_type": "CASE REPORT",
+        "evidence_level": "Level IV", "evidence_grade": "Grade C",
+        "mesh_terms": [
+            "*Anti-N-Methyl-D-Aspartate Receptor Encephalitis/diagnosis",
+            "*Anti-N-Methyl-D-Aspartate Receptor Encephalitis/therapy",
+            "*Status Epilepticus/etiology",
+            "Autoantibodies/blood", "Immunotherapy",
+            "Humans", "Female", "Young Adult",
+        ],
+        "abstract": (
+            "Background: Anti-NMDAR encephalitis is the most common autoimmune encephalitis and can present with "
+            "new-onset refractory status epilepticus (NORSE), which may delay autoimmune diagnosis in favour of "
+            "infectious or structural aetiologies. "
+            "Case: A 24-year-old female presented with NORSE after a 3-day prodrome of headache and behavioural "
+            "change. MRI unremarkable; CSF showed mild lymphocytosis. Extensive infectious work-up negative. "
+            "Anti-NMDAR antibodies detected in CSF on day 8 (serum negative). EEG demonstrated delta brush pattern. "
+            "Ovarian teratoma identified on pelvic MRI. Management: IV methylprednisolone, IVIG, and teratoma "
+            "resection. Significant neurological improvement by day 28; near-complete recovery at 6 months. "
+            "Discussion: NORSE as the initial presentation of anti-NMDAR encephalitis is under-recognised. CSF "
+            "antibody testing is mandatory even with negative serum results. Delta brush on EEG is pathognomonic. "
+            "Conclusions: Anti-NMDAR encephalitis should be considered in all NORSE cases; early immunotherapy "
+            "and teratoma resection are associated with favourable outcomes."
+        ),
+    },
+    {
+        "pmid": "44100020",
+        "title": "Spontaneous Coronary Artery Dissection in a Peripartum Patient: Multivessel Involvement and Conservative Management Outcomes",
+        "authors": ["Hayes SN", "Kim ESH", "Saw J", "Adlam D"],
+        "journal": "BMJ Case Reports", "journal_abbr": "BMJ Case Rep",
+        "year": 2023, "volume": "16", "issue": "5", "pages": "e254821",
+        "doi": "10.1136/bcr-2023-254821",
+        "publication_type": "CASE REPORT",
+        "evidence_level": "Level IV", "evidence_grade": "Grade C",
+        "mesh_terms": [
+            "*Coronary Vessel Anomalies/diagnosis",
+            "*Vascular Diseases/pathology",
+            "*Peripartum Period",
+            "Coronary Angiography", "Conservative Treatment",
+            "Humans", "Female", "Postpartum Period",
+        ],
+        "abstract": (
+            "Background: Spontaneous coronary artery dissection (SCAD) accounts for up to 35% of myocardial "
+            "infarctions in women under 50 and is over-represented in the peripartum period. Multivessel SCAD "
+            "carries particular management complexity given the risk of iatrogenic propagation during percutaneous "
+            "intervention. "
+            "Case: A 32-year-old G2P2 woman presented 8 days postpartum with STEMI. Emergent coronary angiography "
+            "revealed dissection of the LAD (type 2, IMH pattern) with extension to the diagonal branch. A second "
+            "dissection of the proximal RCA was incidentally identified. LVEF 38% on presentation. Conservative "
+            "management pursued given haemodynamic stability — no PCI performed. Beta-blocker and ACE inhibitor "
+            "initiated. LVEF recovered to 55% at 6 weeks; both dissections healed on repeat angiography at 4 months. "
+            "Discussion: Conservative management is preferred in haemodynamically stable multivessel peripartum SCAD; "
+            "PCI carries high risk of propagation. Pregnancy-associated hormonal and haemodynamic stress are the "
+            "dominant precipitants. Conclusions: Peripartum SCAD should be suspected in young women presenting with "
+            "ACS; conservative management with close monitoring achieves favourable outcomes in most cases."
         ),
     },
 ]

@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundle-ENC-2025-022683" />
+  <type value="collection" />
+  <timestamp value="2025-07-30T00:00:00+00:00" />
+  <entry>
+    <resource>
+      <Patient>
+        <id value="MRN-8204739" />
+        <identifier>
+          <system value="urn:hospital:mrn" />
+          <value value="MRN-8204739" />
+        </identifier>
+        <name>
+          <text value="Patrick Brennan" />
+        </name>
+        <birthDate value="1985-02-17" />
+        <gender value="male" />
+        <extension url="urn:poc:race">
+          <valueString value="White / Irish" />
+        </extension>
+        <extension url="urn:poc:language">
+          <valueString value="English" />
+        </extension>
+        <extension url="urn:poc:insurance">
+          <valueString value="Cigna Behavioral Health" />
+        </extension>
+        <extension url="urn:poc:member-id">
+          <valueString value="CI-8204739-5" />
+        </extension>
+      </Patient>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Encounter>
+        <id value="ENC-2025-022683" />
+        <status value="finished" />
+        <class>
+          <coding>
+            <code value="AMB" />
+            <display value="Outpatient — Mental Health" />
+          </coding>
+        </class>
+        <period>
+          <start value="2025-07-30" />
+        </period>
+        <serviceProvider>
+          <display value="Outpatient Psychiatry" />
+        </serviceProvider>
+        <participant>
+          <individual>
+            <display value="Dr. Keisha Thompson, MD (Psychiatry)" />
+          </individual>
+        </participant>
+        <reasonCode>
+          <text value="Major Depressive Disorder — Follow-Up at 8 Weeks" />
+        </reasonCode>
+        <extension url="urn:poc:data-tag">
+          <valueString value="SYNTHETIC" />
+        </extension>
+        <extension url="urn:poc:discharge-summary">
+          <valueString value="8-week MDD follow-up. PHQ-9: 10 (was 18 at initiation) — moderate improvement. GAD-7: 9 (was 16) — improved. No SI. Sleep improving but not normalised. Sertraline increased from 50mg to 100mg at 4-week visit — patient tolerating well. CBT: completed 6 sessions, 4 remaining — patient engaged, finding it helpful. Work situation improving. Lorazepam use: 1-2x/week — reinforced PRN-only use. Plan: continue sertraline 100mg. Lorazepam taper plan discussed. Next review 6 weeks. PHQ-9/GAD-7 at every visit. Crisis plan reviewed — patient has partner's support and crisis line number." />
+        </extension>
+      </Encounter>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-022683-1" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Primary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="F32.1" />
+          </coding>
+          <text value="Major depressive disorder, single episode, moderate" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-022683-2" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="F41.1" />
+          </coding>
+          <text value="Generalized anxiety disorder — comorbid" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-022683-3" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="Z56.9" />
+          </coding>
+          <text value="Occupational stressor — contributing factor" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-bp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="55284-4" />
+            <display value="Blood pressure" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8480-6" />
+              <display value="Systolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="120" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8462-4" />
+              <display value="Diastolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="76" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-heart_rate_bpm" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8867-4" />
+            <display value="Heart rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <valueQuantity>
+          <value value="78" />
+          <unit value="bpm" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-rr" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="9279-1" />
+            <display value="Respiratory rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <valueQuantity>
+          <value value="14" />
+          <unit value="/min" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-temp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8310-5" />
+            <display value="Body temperature" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <valueQuantity>
+          <value value="36.6" />
+          <unit value="Cel" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-spo2" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="59408-5" />
+            <display value="Oxygen saturation" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <valueQuantity>
+          <value value="99" />
+          <unit value="%" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-weight" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="29463-7" />
+            <display value="Body weight" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <valueQuantity>
+          <value value="84.0" />
+          <unit value="kg" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-bmi" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="39156-5" />
+            <display value="Body mass index" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <valueQuantity>
+          <value value="26.2" />
+          <unit value="kg/m2" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-022683-lab-tsh_miu_l" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="tsh_miu_l" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <valueQuantity>
+          <value value="2.1" />
+        </valueQuantity>
+        <referenceRange>
+          <text value="0.4-4.0" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-022683-at--1" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Sertraline 100 mg PO QD" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="100 mg PO QD" />
+          <additionalInstruction>
+            <text value="MDD + GAD" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-022683-at--2" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-8204739" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-022683" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Lorazepam 0.5 mg PO PRN acute anxiety (max 3x/week)" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="0.5 mg PO PRN acute anxiety (max 3x/week)" />
+          <additionalInstruction>
+            <text value="Bridge — tapering as SSRI takes effect" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <AllergyIntolerance>
+        <id value="allergy-ENC-2025-022683-1" />
+        <patient>
+          <reference value="Patient/MRN-8204739" />
+        </patient>
+        <code>
+          <text value="No known drug allergies" />
+        </code>
+        <reaction>
+          <severity value="moderate" />
+          <manifestation>
+            <text value="N/A" />
+          </manifestation>
+        </reaction>
+      </AllergyIntolerance>
+    </resource>
+  </entry>
+</Bundle>

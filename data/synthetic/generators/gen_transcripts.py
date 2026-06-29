@@ -1144,6 +1144,397 @@ PLAN:
 7. Follow-up haematology clinic at 3 months to reassess anticoagulation duration
 """,
     },
+
+    # ── NEW BALANCED ADDITIONS (notes 21–26): outpatient, preventive, paediatric, OB, geriatric, mental health ──
+
+    {
+        "id": "transcript-021",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Annual Wellness Visit — Preventive Care",
+        "icd10_primary": "Z00.00",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-04-10   TIME: 09:30   PROVIDER: Dr. Rachel Torres, MD (Family Medicine)
+
+CC: Annual wellness visit
+
+HPI: 42 yo F presents for annual health maintenance. No acute complaints. Last physical 18 months ago.
+Reports mild fatigue over the past 3 months, improved with better sleep hygiene. Regular menses.
+No chest pain, palpitations, dyspnoea, GI complaints, or urinary symptoms.
+
+ROS: Positive: mild fatigue (improved). Negative: all systems otherwise negative on 14-system review.
+
+PMH: Migraine (well-controlled) | Mild depression (in remission x2 years, no medications)
+PSH: Appendectomy 2015
+FHx: Mother: breast cancer (dx age 58, BRCA unknown). Father: HTN, DM2.
+SHx: Teacher. Married, 2 children. Non-smoker. Occasional alcohol (2 units/week). No illicit drugs.
+Meds: Sumatriptan 50mg PRN (used <2x/month). Multivitamin.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 118/74 | HR 68 | RR 14 | Temp 36.6°C | SpO2 99% | Wt 64kg | BMI 23.8
+
+PHYSICAL EXAM:
+General: Well-appearing, healthy female in no distress.
+HEENT: Normal. Thyroid non-palpable.
+Cardiovascular: RRR, no murmurs. Peripheral pulses intact.
+Respiratory: Clear bilaterally.
+Abdomen: Soft, non-tender. No organomegaly.
+Breast: No discrete masses, no axillary lymphadenopathy.
+Pelvic: Deferred — last PAP 14 months ago (normal).
+Skin: No suspicious lesions. SPF counselled.
+Neurological: No focal deficits.
+
+INVESTIGATIONS (ordered today):
+Fasting lipid panel: TC 188, LDL 112, HDL 58, TG 90 — within target, no action.
+HbA1c: 5.4% — normal.
+TSH: 2.1 — normal.
+Mammogram: due (age 42, maternal FHx) — ordered.
+Cervical smear: up-to-date (next due 2026).
+Colorectal cancer screen: deferred — age 42, screen at 45 per USPSTF.
+Skin self-examination: counselled; dermatology referral offered (maternal FHx melanoma? — no, breast cancer).
+
+ASSESSMENT:
+1. Healthy adult female — preventive care visit
+2. Migraine — well-controlled
+3. Depression — sustained remission, no medications required
+4. Maternal FHx breast cancer — genetic counselling offered; BRCA testing discussed
+
+PLAN:
+1. Mammogram ordered — results to follow up in 2 weeks
+2. Continue sumatriptan PRN — review if frequency increases
+3. PHQ-9 completed: score 2 — minimal depression; no treatment change
+4. Genetic counselling referral offered for BRCA testing — patient will consider
+5. Diet and exercise counselled — Mediterranean diet encouraged
+6. Vaccines: Tdap booster (due), influenza (seasonal), COVID-19 booster — administered today
+7. Follow-up: annual wellness visit in 12 months or sooner PRN
+""",
+    },
+    {
+        "id": "transcript-022",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Chronic Disease Management — Asthma Review",
+        "icd10_primary": "J45.40",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-05-19   TIME: 14:15   PROVIDER: Dr. Mark Chen, MD (Internal Medicine)
+
+CC: Asthma routine review — 6-month check
+
+HPI: 31 yo M with moderate persistent asthma presents for scheduled 6-month review. Overall good
+control over the past 3 months since step-up to ICS/LABA. Reports 1-2 SABA uses/week (down from
+daily), no night-time symptoms. One mild exacerbation 4 months ago — managed by GP with 5-day
+prednisolone, no hospitalisation. Exercise tolerance improved — back to gym 3x/week.
+
+ROS: Positive: mild rhinitis (seasonal). Negative: no wheeze at rest, no chest tightness at night,
+no cough productive of sputum, no recent viral URTI.
+
+PMH: Moderate persistent asthma (dx age 12) | Allergic rhinitis
+PSH: None
+FHx: Mother: asthma. Father: eczema.
+SHx: Software developer. Non-smoker. No pets. Dust mite allergy confirmed (RAST +++).
+Meds: Fluticasone/salmeterol 250/25 BD (Accuhaler) | Salbutamol MDI PRN | Cetirizine 10mg QD
+Allergies: Aspirin (bronchospasm) — NSAIDs AVOIDED.
+
+VITAL SIGNS: BP 122/78 | HR 72 | RR 15 | Temp 36.7°C | SpO2 99% | Peak flow: 540 L/min (pred 560)
+
+SPIROMETRY (today):
+FEV1: 84% predicted (prev 79% — improved) | FVC: 96% | FEV1/FVC: 0.81
+Post-bronchodilator reversibility: +8% — mild residual reversibility
+FeNO: 24 ppb (previously 38 — improved with ICS adherence)
+
+PHYSICAL EXAM:
+Chest: Good air entry bilaterally. Mild end-expiratory wheeze on forced expiration. No recession.
+Nose: Inferior turbinate hypertrophy. No polyps.
+
+ASTHMA CONTROL TEST (ACT): Score 20/25 — well-controlled.
+INHALER TECHNIQUE: Checked — adequate. Spacer used with MDI.
+
+ASSESSMENT:
+1. Moderate persistent asthma — well-controlled on Step 3 therapy
+2. Allergic rhinitis — seasonally active
+3. Improved lung function with ICS adherence
+
+PLAN:
+1. Continue fluticasone/salmeterol 250/25 BD — do not step down yet (one exacerbation 4 months ago)
+2. Intranasal fluticasone spray for rhinitis — added
+3. Dust mite avoidance measures reinforced (mattress covers, HEPA filters)
+4. Written asthma action plan updated
+5. Allergen immunotherapy: discussed, patient declines for now
+6. Salbutamol prescription renewed — use <3x/week target
+7. Flu vaccine administered today (asthma indication)
+8. Review in 6 months or if ACT <16 or 2+ SABA uses/week
+""",
+    },
+    {
+        "id": "transcript-023",
+        "encounter_type": "Outpatient — Paediatrics",
+        "condition": "Paediatric Febrile UTI — 4-year-old Female",
+        "icd10_primary": "N10",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-06-04   TIME: 10:00   PROVIDER: Dr. Alicia Nwosu, MD (Paediatrics)
+
+CC: Fever and crying on urination — 3 days
+
+HPI: 4 yo F brought by mother with 3-day history of high-grade fever (max 39.2°C at home), crying
+during urination, increased urinary frequency, and two episodes of bedwetting (previously dry for 18
+months). No vomiting. Mild abdominal pain (suprapubic). No rash.
+
+ROS: Positive: fever, dysuria, frequency, bedwetting, suprapubic pain. Negative: no diarrhoea,
+no flank pain, no skin rash, no joint swelling.
+
+PMH: None. Fully vaccinated per schedule. No prior UTI.
+FHx: No known vesicoureteral reflux in family.
+SHx: Attends nursery. Non-potty-trained sibling at home.
+Meds: Paracetamol PRN. No antibiotics.
+Allergies: NKDA.
+
+VITAL SIGNS: Temp 38.8°C | HR 128 | RR 26 | BP 96/58 | SpO2 98% | Wt 16.4kg
+
+PHYSICAL EXAM:
+General: Febrile, mildly uncomfortable. Alert and interactive.
+Abdomen: Soft. Mild suprapubic tenderness. No costovertebral angle tenderness. No organomegaly.
+Genitalia: Normal external genitalia. No vulvovaginitis.
+CNS: Alert, appropriate for age. No neck stiffness.
+
+INVESTIGATIONS:
+Urine dipstick (MSU): Leukocytes +++, Nitrites +, Blood +
+Urine microscopy: WBC 50/hpf, RBC 10/hpf, bacteria seen
+Urine C&S: sent (Escherichia coli 10⁵ cfu/mL, pan-sensitive — confirmed 48h)
+FBC: WBC 14.2, Neutrophils 11.8 | CRP: 64 mg/L
+Renal function: Normal (eGFR adequate for age)
+Renal ultrasound: Normal — no hydronephrosis, normal bladder (no post-void residual)
+
+ASSESSMENT:
+1. Febrile urinary tract infection (pyelonephritis) — 4-year-old female
+2. E. coli — pan-sensitive
+
+PLAN:
+1. Oral trimethoprim-sulfamethoxazole (per weight-based dosing) x 7 days — first-line per local guidelines
+2. Antipyretics: paracetamol 15mg/kg q6h PRN; ibuprofen alternating if needed
+3. Adequate oral fluids — ensure hydration; monitor for vomiting
+4. Repeat MSU after completion to confirm clearance
+5. VCUG (voiding cystourethrogram): NOT routinely indicated post-first UTI per current AAP/NICE guidelines
+   — defer unless recurrent or atypical features
+6. DMSA scan: consider if recurrent or evidence of scarring at follow-up
+7. Return if worsening, persistent fever >48h on antibiotics, or unable to tolerate oral medications
+8. Parental education: perineal hygiene, adequate voiding habits, hydration
+""",
+    },
+    {
+        "id": "transcript-024",
+        "encounter_type": "Inpatient — Obstetrics",
+        "condition": "Gestational Hypertension — 34 Weeks Gestation",
+        "icd10_primary": "O13.4",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-07-14   TIME: 16:40   PROVIDER: Dr. Angela Foster, MD (Obstetrics & Gynaecology)
+
+CC: Elevated blood pressure — 34 weeks gestation, referred from community midwife
+
+HPI: 29 yo G1P0 at 34+2 weeks gestation presents following two elevated BP readings at community
+midwife appointment (158/98 and 162/101 at 30-minute interval). No headache, visual disturbance,
+epigastric pain, or facial oedema. Fetal movements normal. No vaginal bleeding or fluid loss.
+No prior hypertension. BP at 16-week booking visit: 110/70.
+
+ROS: Positive: ankle swelling (bilateral, mild — 2 weeks). Negative: no headache, no visual changes,
+no right upper quadrant pain, no nausea/vomiting, no dyspnoea.
+
+PMH: None. No pre-existing hypertension. No diabetes.
+PSH: None. This is first pregnancy.
+FHx: Mother: gestational hypertension in 2 pregnancies. No cardiac history.
+SHx: Accountant. Lives with partner. Non-smoker. No alcohol in pregnancy.
+Meds: Folic acid (stopped at 12 weeks), Vitamin D 400 IU QD. Low-dose aspirin 75mg (started 13 weeks).
+Allergies: NKDA.
+
+VITAL SIGNS: BP 160/100 (confirmed on second reading) | HR 84 | RR 16 | Temp 36.8°C | SpO2 99%
+
+PHYSICAL EXAM:
+General: Alert, comfortable. No facial oedema.
+Cardiovascular: Normal heart sounds. BP bilateral arms equal.
+Respiratory: Clear.
+Abdomen: Gravid uterus — fundal height 33cm. Fetal presentation: cephalic, 2/5 palpable.
+No uterine tenderness.
+Extremities: 1+ pitting oedema bilateral ankles — non-pitting on pressure.
+Reflexes: Normal — no clonus.
+
+INVESTIGATIONS:
+Urine dipstick: Protein trace (repeat MSU sent)
+Spot urinary protein:creatinine ratio: 24 mg/mmol (below 30 threshold for proteinuria)
+FBC: Hb 11.8, Platelets 198K, WBC 9.2
+LFTs: ALT 22, AST 18, Bilirubin 0.4 — normal
+Urea & electrolytes: Normal. Creatinine 62.
+Uric acid: 0.38 mmol/L (mildly elevated, non-specific)
+LDH: 182 U/L — normal
+CTG: Reactive — normal fetal heart rate pattern
+Fetal USS: BPP 8/8. Estimated fetal weight 2,180g (30th centile — appropriate for gestation).
+Umbilical artery Dopplers: Normal flow.
+
+ASSESSMENT:
+1. Gestational hypertension at 34 weeks — BP ≥140/90 without proteinuria
+2. Fetal growth appropriate; no fetal compromise
+
+PLAN:
+1. Admit for observation and BP monitoring q4h
+2. Antihypertensive therapy: Labetalol 200mg BD oral — initiate (target BP 130-150/80-100)
+3. Antenatal corticosteroids: Betamethasone 12mg IM x2 doses (24h apart) — fetal lung maturity (34 weeks)
+4. Magnesium sulphate: NOT indicated currently (no severe features, no preeclampsia)
+5. Continuous CTG monitoring x6h, then intermittent if stable
+6. Repeat bloods (FBC, LFTs, renal, LDH) in 24h
+7. Consultant review: if BP refractory, if proteinuria develops, or if fetal concerns
+8. Delivery plan: aim 37 weeks if stable; expedited if severe hypertension, HELLP criteria, or fetal compromise
+9. Aspirin continued until delivery
+""",
+    },
+    {
+        "id": "transcript-025",
+        "encounter_type": "Outpatient — Geriatrics",
+        "condition": "Comprehensive Geriatric Assessment — Recurrent Falls",
+        "icd10_primary": "Z87.39",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-08-20   TIME: 11:00   PROVIDER: Dr. Priya Anand, MD (Geriatric Medicine)
+
+CC: Comprehensive Geriatric Assessment — referred by GP for recurrent falls and functional decline
+
+HPI: 82 yo M referred by his GP following 3 falls in the past 4 months. One fall resulted in a right
+wrist fracture (treated conservatively). Lives alone since wife's death 8 months ago. Family reports
+increased confusion over the past 6 months. Previously independent for all ADLs; now requires help
+with shopping and meal preparation. No LOC during falls.
+
+ROS: Positive: falls, functional decline, mild confusion, fatigue, reduced appetite, constipation.
+Negative: no chest pain, no syncope, no dyspnoea, no urinary incontinence.
+
+PMH: Hypertension (30 years) | CKD stage 3a (eGFR 52) | BPH | Osteoporosis (DEXA confirmed)
+Ischaemic heart disease (PCI 2018) | Hearing impairment (bilateral, moderate)
+PSH: CABG 2009, right knee arthroplasty 2020
+FHx: Father: dementia. Mother: osteoporosis.
+SHx: Retired teacher. Lives alone, ground floor flat. No steps. One adult son — visits weekly.
+Meds (12 total): Amlodipine 10mg | Bisoprolol 5mg | Ramipril 5mg | Furosemide 40mg
+  Aspirin 75mg | Atorvastatin 40mg | Tamsulosin 0.4mg | Alendronate 70mg weekly
+  Calcium + Vit D | Omeprazole 20mg | Zopiclone 7.5mg (nightly — GP started 3 months ago)
+  Ferrous sulfate 200mg BD (new, iron-deficiency anaemia)
+Allergies: Penicillin (rash).
+
+VITAL SIGNS: BP 144/84 sitting, 128/76 standing (orthostatic drop 16/8 — significant)
+HR 58 (bradycardia on bisoprolol) | RR 14 | Temp 36.5°C | SpO2 97% | Wt 68kg | BMI 22.1
+
+FUNCTIONAL ASSESSMENT:
+Barthel Index: 65/100 (bathing, dressing partially dependent)
+Timed Up and Go (TUG): 22 seconds (>12s = high fall risk) — uses walking stick
+Grip strength (dynamometer): 18kg right, 20kg left (below threshold for age)
+Gait: Wide-based, shortened stride. No festination. No parkinsonian features.
+
+COGNITIVE ASSESSMENT:
+MMSE: 22/30 — deficits: orientation to date (-2), delayed recall (-3), visuospatial (-1)
+Clock Drawing Test: 3/4 — minor spatial error
+MoCA: 20/30 (referred for formal neuropsychology)
+
+VISION: Bilateral cataracts — reduced visual acuity corrected to 6/18. Ophthalmology referral pending.
+HEARING: Bilateral moderate hearing loss — wearing aids inadequately (sizing issue).
+
+INVESTIGATIONS:
+FBC: Hb 11.2 (mild anaemia — iron deficiency on treatment) | Platelets 198 | WBC 6.8
+Renal: Creatinine 118, eGFR 52, Na 138, K 4.1 (stable CKD)
+Calcium: 2.28 (normal on supplementation) | Vitamin D 25-OH: 52 nmol/L (sufficient)
+TSH: 2.8 (normal) | HbA1c: 5.6% (no diabetes)
+
+POLYPHARMACY REVIEW:
+HIGH-RISK MEDICATIONS IDENTIFIED:
+⚠ Zopiclone: benzodiazepine-receptor agonist — fall risk +++ in elderly; STOP (started 3 months ago)
+⚠ Tamsulosin: alpha-blocker — orthostatic hypotension; orthostatic drop 16mmHg confirmed; REVIEW dose
+⚠ Bisoprolol 5mg: HR 58 — bradycardia may contribute to fall risk; cardiology review for dose reduction
+⚠ Furosemide: orthostatic risk; check if still indicated (no current HF decompensation signs)
+⚠ Alendronate: CKD eGFR 52 — borderline; acceptable but monitor renal function
+
+ASSESSMENT:
+1. Recurrent falls — multifactorial: orthostatic hypotension, polypharmacy (zopiclone, tamsulosin),
+   visual impairment, reduced muscle strength, cognitive impairment
+2. Mild cognitive impairment — possible early dementia (formal assessment pending)
+3. Frailty — Clinical Frailty Scale: 5/9 (mildly frail)
+4. Osteoporosis — continue alendronate; ensure calcium/Vit D adequate
+
+PLAN:
+1. STOP zopiclone — taper over 2 weeks to avoid withdrawal; offer sleep hygiene advice
+2. REDUCE tamsulosin to 0.4mg QD (was BD? — confirm with GP); review in 4 weeks for orthostatic BP
+3. Cardiology referral — bisoprolol dose review (HR 58 on 5mg)
+4. PHYSIOTHERAPY referral — strength and balance programme (evidence: reduces falls 35%)
+5. OCCUPATIONAL THERAPY — home hazard assessment, bathroom grab rails, shower chair
+6. Ophthalmology — fast-track cataract assessment (visual impairment is modifiable fall risk)
+7. Hearing aid review — ENT/audiology for resizing
+8. Nutrition: dietitian referral — BMI 22.1 declining (1 year ago BMI 24.3); high-protein diet
+9. Neuropsychology referral — formal cognitive assessment for dementia workup
+10. Advance care planning discussion initiated — patient agreeable to GP-held anticipatory care plan
+11. DEXA repeat in 2 years; fracture liaison service notification for wrist fracture
+12. Review in 3 months post-medication changes and physio assessment
+""",
+    },
+    {
+        "id": "transcript-026",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Major Depressive Disorder — Moderate Severity",
+        "icd10_primary": "F32.1",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-09-09   TIME: 15:30   PROVIDER: Dr. Samuel Adeyemi, MD (Family Medicine / Mental Health)
+
+CC: Persistent low mood, fatigue, and difficulty functioning at work — 8 weeks
+
+HPI: 39 yo F presents with 8-week history of persistent low mood, anhedonia, fatigue, poor sleep
+(early morning waking), reduced appetite (4kg weight loss), difficulty concentrating at work, and
+feelings of hopelessness. Reports being passed over for a promotion 9 weeks ago. No history of mania,
+psychosis, or mixed episodes. No hallucinations. PHQ-9 today: 16/27 (moderately severe depression).
+Denies suicidal ideation currently — has had passive thoughts of "not wanting to be here" but no
+plans, intent, or means. Has a supportive partner and two children.
+
+ROS: Positive: depressed mood, anhedonia, fatigue, insomnia (early waking), poor appetite,
+weight loss 4kg, poor concentration. Negative: no mania, no psychosis, no substance use.
+
+PMH: Anxiety disorder (treated with CBT 4 years ago — good response) | Hypothyroidism (well-controlled)
+PSH: None
+FHx: Mother: depression (treated). No family history of bipolar disorder or suicide.
+SHx: Marketing manager. Married. 2 children (ages 7 and 10). Non-smoker. Occasional alcohol (4 units/week).
+Meds: Levothyroxine 75mcg QD.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 116/74 | HR 76 | RR 14 | Temp 36.6°C | SpO2 99% | Wt 61kg (was 65kg 2 months ago)
+
+PHYSICAL EXAM:
+General: Well-dressed, soft-spoken. Mildly restricted affect. Appropriate eye contact.
+Psychomotor: No agitation or retardation. Speech rate and volume normal.
+No physical findings contributory.
+
+INVESTIGATIONS:
+TSH: 1.6 (well-controlled hypothyroidism on current levothyroxine dose)
+FBC: Normal. Hb 12.8. No anaemia.
+Ferritin: 42 (normal). Vitamin D: 48 nmol/L (low — supplementation started).
+HbA1c: 5.5% (no diabetes).
+
+RISK ASSESSMENT:
+Suicidal ideation: Passive — "not wanting to be here" but NO plan, NO intent, NO means identified.
+Protective factors: Supportive partner, children, engaged in assessment, help-seeking.
+Risk level: MODERATE — outpatient management appropriate with safety planning.
+Safety plan documented — agreed with patient. Emergency contact: partner (notified and engaged).
+
+ASSESSMENT:
+1. Major depressive disorder — moderate severity (PHQ-9 16, 8-week duration, functional impairment)
+2. Hypothyroidism — well-controlled (not contributing to depression)
+3. Vitamin D insufficiency — secondary
+4. Moderate suicide risk — outpatient safe with safety plan
+
+PLAN:
+1. Sertraline 50mg QD — start today. Review in 4 weeks (increase to 100mg if partial response).
+   Counselled: 2-4 weeks for effect; may feel more anxious initially; do NOT stop abruptly.
+2. Referral to CBT (individual therapy) — prior good response; psychological therapy + medication
+   evidence superior to either alone for moderate MDD.
+3. Vitamin D 1,000 IU QD supplementation
+4. Safety planning: crisis line number given. Partner engaged. Return to ED if thoughts become active.
+5. Sick note provided for 2 weeks — reduce work stress while initiating treatment.
+6. Sleep hygiene education: fixed wake time, limit screen use after 9pm, avoid daytime napping.
+7. Follow-up: 4 weeks (response assessment PHQ-9), sooner if worsening.
+8. PHQ-9 tracking at every visit. Escalation plan if no response at 8 weeks.
+""",
+    },
 ]
 
 

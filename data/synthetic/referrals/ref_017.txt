@@ -1,0 +1,45 @@
+referral_id: REF-2025-071384
+specialty: Obstetrics & Maternal-Fetal Medicine
+urgency: SOON
+patient_name: Priya Sharma
+patient_dob: 1999-04-12
+patient_sex: Female
+patient_mrn: MRN-6173829
+insurance: Medicaid
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — OBSTETRICS / MATERNAL-FETAL MEDICINE
+Date: 2025-10-03    Referral ID: REF-2025-071384
+Urgency: SOON — within 1 week
+
+TO: Maternal-Fetal Medicine / High-Risk Obstetrics
+FROM: Dr. Janet Osei, MD — Family Medicine / Primary Care, NPI 5829301746
+
+PATIENT: Priya Sharma | DOB: 1999-04-12 | Age: 26 | Sex: Female
+MRN: MRN-6173829 | Insurance: Medicaid
+
+REASON FOR REFERRAL: First trimester — 11 weeks gestation. High-risk preeclampsia screen positive
+(combined algorithm risk 1:48). Requesting MFM evaluation and aspirin prophylaxis initiation.
+
+CLINICAL SUMMARY:
+Ms. Sharma is a 26-year-old primigravida at 11+2 weeks gestation. First-trimester combined risk
+screening for preterm preeclampsia was performed using the FMF algorithm (MAP, UtA-PI, PAPP-A,
+PlGF). Combined risk: 1:48 (>1:100 threshold). Nulliparity, South Asian ethnicity, and BMI 32
+are additional risk factors.
+
+BP at booking: 122/78 mmHg. Urine dipstick: negative. Renal function normal.
+No history of autoimmune disease, diabetes, or chronic hypertension.
+
+ULTRASOUND: Crown-rump length 55mm, consistent with dates. Normal fetal anatomy for gestation.
+Uterine artery PI: 1.84 (elevated, >95th percentile).
+
+MEDICATIONS: Folic acid 5mg QD. No current medications.
+
+QUESTIONS FOR MFM:
+1. Confirm high-risk status and aspirin prophylaxis (150mg nocte from 12 weeks)?
+2. Additional surveillance protocol — uterine artery Dopplers, serial growth scans?
+3. PlGF-based surveillance plan in third trimester?
+4. Anaesthetic review timing given preeclampsia risk?
+
+Referring Physician: Dr. Janet Osei, MD
+NPI: 5829301746 | Phone: (555) 482-9300

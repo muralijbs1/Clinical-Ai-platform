@@ -825,6 +825,214 @@ Referring Physician: Dr. Rosa Mendez, MD
 NPI: 4738291048 | Phone: (555) 211-7700
 """,
     },
+
+    # ── NEW BALANCED ADDITIONS (refs 17–20): young patient, EMERGENCY, paediatric, rehab ──
+
+    {
+        "referral_id": "REF-2025-071384",
+        "specialty": "Obstetrics & Maternal-Fetal Medicine",
+        "urgency": "SOON",
+        "patient_name": "Priya Sharma",
+        "patient_dob": "1999-04-12",
+        "patient_sex": "Female",
+        "patient_mrn": "MRN-6173829",
+        "insurance": "Medicaid",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — OBSTETRICS / MATERNAL-FETAL MEDICINE
+Date: 2025-10-03    Referral ID: REF-2025-071384
+Urgency: SOON — within 1 week
+
+TO: Maternal-Fetal Medicine / High-Risk Obstetrics
+FROM: Dr. Janet Osei, MD — Family Medicine / Primary Care, NPI 5829301746
+
+PATIENT: Priya Sharma | DOB: 1999-04-12 | Age: 26 | Sex: Female
+MRN: MRN-6173829 | Insurance: Medicaid
+
+REASON FOR REFERRAL: First trimester — 11 weeks gestation. High-risk preeclampsia screen positive
+(combined algorithm risk 1:48). Requesting MFM evaluation and aspirin prophylaxis initiation.
+
+CLINICAL SUMMARY:
+Ms. Sharma is a 26-year-old primigravida at 11+2 weeks gestation. First-trimester combined risk
+screening for preterm preeclampsia was performed using the FMF algorithm (MAP, UtA-PI, PAPP-A,
+PlGF). Combined risk: 1:48 (>1:100 threshold). Nulliparity, South Asian ethnicity, and BMI 32
+are additional risk factors.
+
+BP at booking: 122/78 mmHg. Urine dipstick: negative. Renal function normal.
+No history of autoimmune disease, diabetes, or chronic hypertension.
+
+ULTRASOUND: Crown-rump length 55mm, consistent with dates. Normal fetal anatomy for gestation.
+Uterine artery PI: 1.84 (elevated, >95th percentile).
+
+MEDICATIONS: Folic acid 5mg QD. No current medications.
+
+QUESTIONS FOR MFM:
+1. Confirm high-risk status and aspirin prophylaxis (150mg nocte from 12 weeks)?
+2. Additional surveillance protocol — uterine artery Dopplers, serial growth scans?
+3. PlGF-based surveillance plan in third trimester?
+4. Anaesthetic review timing given preeclampsia risk?
+
+Referring Physician: Dr. Janet Osei, MD
+NPI: 5829301746 | Phone: (555) 482-9300
+""",
+    },
+    {
+        "referral_id": "REF-2025-073812",
+        "specialty": "Orthopaedic Surgery",
+        "urgency": "EMERGENCY",
+        "patient_name": "Daniel Okonkwo",
+        "patient_dob": "1991-07-30",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-7291038",
+        "insurance": "Aetna Commercial",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — ORTHOPAEDIC SURGERY — EMERGENCY
+Date: 2025-10-14    Referral ID: REF-2025-073812
+Urgency: EMERGENCY — Immediate surgical assessment required
+
+TO: On-Call Orthopaedic Surgery
+FROM: Dr. Amara Diallo, MD — Emergency Medicine, NPI 6293847102
+
+PATIENT: Daniel Okonkwo | DOB: 1991-07-30 | Age: 34 | Sex: Male
+MRN: MRN-7291038 | Insurance: Aetna Commercial
+
+REASON FOR REFERRAL: Suspected acute compartment syndrome — left lower leg following
+tibial fracture. 6 hours post-injury. EMERGENCY orthopaedic assessment and fasciotomy.
+
+CLINICAL SUMMARY:
+Mr. Okonkwo is a 34-year-old male presenting via ambulance following a motorbike accident at
+moderate speed. Mechanism: direct impact to left lower leg. X-ray: closed mid-shaft tibial
+fracture with minimal displacement.
+
+COMPARTMENT SYNDROME SIGNS (6 HOURS POST-INJURY):
+Pain: severe, disproportionate to injury — 9/10, unrelieved by IV morphine 10mg
+Pain with passive stretch: markedly positive (passive dorsiflexion and toe extension)
+Paresthesia: tingling in dorsum of left foot (anterior compartment)
+Compartment pressures (handheld device): anterior compartment 48 mmHg, diastolic BP 78 mmHg
+→ Delta-P = 30 mmHg (threshold for fasciotomy ≤30 mmHg)
+Pulses: dorsalis pedis weak but present. Capillary refill 3 seconds.
+
+Neurovascular: early anterior compartment involvement; peroneal nerve at risk.
+
+IV ACCESS: 2x large-bore peripheral. Morphine 10mg IV given — inadequate analgesia.
+IV fluid resuscitation ongoing.
+
+ACTIONS REQUIRED:
+1. EMERGENCY fasciotomy — four-compartment decompression
+2. Fracture stabilisation (ex-fix vs definitive fixation at time of fasciotomy)
+3. Repeat neurovascular checks q30min until theatre
+
+Referring Physician: Dr. Amara Diallo, MD
+NPI: 6293847102 | Phone: ED Direct Line (555) 911-0100
+""",
+    },
+    {
+        "referral_id": "REF-2025-076291",
+        "specialty": "Paediatrics",
+        "urgency": "SOON",
+        "patient_name": "Ethan Clarke",
+        "patient_dob": "2013-02-14",
+        "patient_sex": "Male",
+        "patient_mrn": "MRN-8374920",
+        "insurance": "CHIP",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — PAEDIATRICS / PAEDIATRIC RESPIRATORY MEDICINE
+Date: 2025-10-20    Referral ID: REF-2025-076291
+Urgency: SOON — within 1-2 weeks
+
+TO: Paediatric Respiratory Medicine
+FROM: Dr. Susan Park, MD — Primary Care Paediatrics, NPI 7384920173
+
+PATIENT: Ethan Clarke | DOB: 2013-02-14 | Age: 12 | Sex: Male
+MRN: MRN-8374920 | Insurance: CHIP
+
+REASON FOR REFERRAL: Poorly controlled asthma — 4 exacerbations requiring oral steroids
+in the past 12 months. Step 3 therapy (ICS + LABA) inadequate. Requesting specialist review
+for step-up and possible biologics assessment.
+
+CLINICAL SUMMARY:
+Ethan is a 12-year-old male with a 6-year history of atopic asthma (diagnosed age 6). Also has
+allergic rhinitis and mild eczema. Currently on fluticasone/salmeterol 250/25 BD + salbutamol PRN.
+
+EXACERBATIONS (PAST 12 MONTHS):
+February 2025: ED visit, PO prednisolone 5 days
+May 2025: ED visit, 2-day hospitalisation, IV hydrocortisone, O2 required
+August 2025: GP — PO prednisolone 5 days
+October 2025: ED visit this week — PO prednisolone 5 days (ongoing)
+
+LUNG FUNCTION (spirometry last month):
+FEV1: 72% predicted | FVC: 88% | FEV1/FVC: 0.68 | Bronchodilator response: +14%
+FeNO: 48 ppb (elevated — eosinophilic inflammation)
+Blood eosinophils: 0.58 × 10⁹/L (elevated)
+Total IgE: 320 IU/mL | RAST: house dust mite +++, grass pollen ++
+
+Trigger assessment: house dust mite primary trigger, exercise-induced component.
+Inhaler technique checked — adequate.
+
+QUESTIONS FOR PAEDIATRIC RESPIRATORY:
+1. Step-up to Step 4 (high-dose ICS/LABA + LTRA) or consider biologics?
+2. Eligibility for mepolizumab or dupilumab (eosinophilic phenotype, FeNO 48)?
+3. Allergen immunotherapy for HDM — appropriate at age 12?
+4. Structured asthma action plan revision
+
+Referring Physician: Dr. Susan Park, MD
+NPI: 7384920173 | Phone: (555) 629-4400
+""",
+    },
+    {
+        "referral_id": "REF-2025-078473",
+        "specialty": "Rehabilitation Medicine",
+        "urgency": "ROUTINE",
+        "patient_name": "Helen Beaumont",
+        "patient_dob": "1955-11-22",
+        "patient_sex": "Female",
+        "patient_mrn": "MRN-9283741",
+        "insurance": "Medicare",
+        "data_tag": "SYNTHETIC",
+        "text": """REFERRAL LETTER — REHABILITATION MEDICINE / PHYSICAL MEDICINE
+Date: 2025-10-28    Referral ID: REF-2025-078473
+Urgency: ROUTINE — 4-6 weeks
+
+TO: Physical Medicine & Rehabilitation
+FROM: Dr. Kevin Obi, MD — Neurology, NPI 8293746102
+
+PATIENT: Helen Beaumont | DOB: 1955-11-22 | Age: 69 | Sex: Female
+MRN: MRN-9283741 | Insurance: Medicare
+
+REASON FOR REFERRAL: Post-stroke rehabilitation needs assessment — 8 weeks post right MCA
+ischaemic stroke with residual left hemiparesis and expressive aphasia. Outpatient rehab plan.
+
+CLINICAL SUMMARY:
+Mrs. Beaumont is a 69-year-old woman admitted 8 weeks ago with right MCA territory ischaemic
+stroke (NIHSS 14 on admission). Treated with IV thrombolysis at 3.5 hours. MRI: right frontal
+and parietal cortical infarction with involvement of Broca's area homologue. No haemorrhagic
+transformation.
+
+CURRENT NEUROLOGICAL STATUS (8 weeks post-stroke):
+Motor: Left arm — proximal power MRC 3/5, distal 2/5. Left leg — MRC 4/5 (ambulatory with AFO).
+Speech: Expressive aphasia — non-fluent, word-finding difficulty. Comprehension largely intact.
+Cognition: MoCA 22/30 (attention, language domain deficits). No significant memory impairment.
+Swallowing: FEES performed — safe with modified texture 3. Progressing towards normal diet.
+ADL: Requires assistance with dressing, bathing. Independent for feeding with adapted utensils.
+
+INPATIENT REHAB (weeks 2-6): Physical therapy, occupational therapy, speech therapy — good
+engagement. Discharged to home with carer support.
+
+CURRENT MEDICATIONS: Aspirin 75mg, atorvastatin 80mg, ramipril 5mg, metoprolol 25mg BD.
+Secondary prevention risk factors: hypertension (controlled), dyslipidaemia (LDL 1.8 on statin).
+
+GOALS: Return to independent living, communication improvement, driving assessment.
+
+QUESTIONS FOR REHABILITATION MEDICINE:
+1. Outpatient therapy intensity and modality plan (PT, OT, SLT)?
+2. Constraint-induced movement therapy for left arm?
+3. Aphasia therapy programme — individual vs group?
+4. Driving assessment timeline and process?
+5. Vocational rehabilitation — was employed part-time as librarian pre-stroke
+
+Referring Physician: Dr. Kevin Obi, MD
+NPI: 8293746102 | Phone: (555) 744-8800
+""",
+    },
 ]
 
 

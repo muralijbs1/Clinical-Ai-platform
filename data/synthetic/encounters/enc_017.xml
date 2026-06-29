@@ -1,0 +1,649 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundle-ENC-2025-019350" />
+  <type value="collection" />
+  <timestamp value="2025-04-22T00:00:00+00:00" />
+  <entry>
+    <resource>
+      <Patient>
+        <id value="MRN-2938471" />
+        <identifier>
+          <system value="urn:hospital:mrn" />
+          <value value="MRN-2938471" />
+        </identifier>
+        <name>
+          <text value="Carlos Rivera" />
+        </name>
+        <birthDate value="1968-09-14" />
+        <gender value="male" />
+        <extension url="urn:poc:race">
+          <valueString value="Hispanic / Latino" />
+        </extension>
+        <extension url="urn:poc:language">
+          <valueString value="Spanish" />
+        </extension>
+        <extension url="urn:poc:insurance">
+          <valueString value="Medicaid Managed Care" />
+        </extension>
+        <extension url="urn:poc:member-id">
+          <valueString value="MC-2938471-7" />
+        </extension>
+      </Patient>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Encounter>
+        <id value="ENC-2025-019350" />
+        <status value="finished" />
+        <class>
+          <coding>
+            <code value="AMB" />
+            <display value="Outpatient — Primary Care" />
+          </coding>
+        </class>
+        <period>
+          <start value="2025-04-22" />
+        </period>
+        <serviceProvider>
+          <display value="Family Medicine" />
+        </serviceProvider>
+        <participant>
+          <individual>
+            <display value="Dr. Nina Osei, MD (Family Medicine)" />
+          </individual>
+        </participant>
+        <reasonCode>
+          <text value="Hypertension — routine follow-up" />
+        </reasonCode>
+        <extension url="urn:poc:data-tag">
+          <valueString value="SYNTHETIC" />
+        </extension>
+        <extension url="urn:poc:discharge-summary">
+          <valueString value="Routine HTN/DM2 outpatient review. BP 134/82 — at goal on lisinopril. HbA1c 7.2% — mildly above target; insulin glargine dose increased from 14u to 18u. LDL 88 — atorvastatin dose increased to 40mg. Foot exam: normal. Annual eye exam due. Retinal screening referral placed. Urine microalbumin:creatinine ratio 28 (high normal). Education: low-carbohydrate diet, glucose self-monitoring technique reviewed. Follow-up 3 months." />
+        </extension>
+      </Encounter>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-019350-1" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Primary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="I10" />
+          </coding>
+          <text value="Essential hypertension — stable, on medication" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-019350-2" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="E11.9" />
+          </coding>
+          <text value="Type 2 diabetes mellitus — HbA1c 7.2%, controlled" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-019350-3" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="Z79.4" />
+          </coding>
+          <text value="Long-term use of insulin" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-bp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="55284-4" />
+            <display value="Blood pressure" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8480-6" />
+              <display value="Systolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="134" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8462-4" />
+              <display value="Diastolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="82" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-heart_rate_bpm" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8867-4" />
+            <display value="Heart rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="72" />
+          <unit value="bpm" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-rr" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="9279-1" />
+            <display value="Respiratory rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="14" />
+          <unit value="/min" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-temp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8310-5" />
+            <display value="Body temperature" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="36.7" />
+          <unit value="Cel" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-spo2" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="59408-5" />
+            <display value="Oxygen saturation" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="99" />
+          <unit value="%" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-weight" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="29463-7" />
+            <display value="Body weight" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="88.0" />
+          <unit value="kg" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-bmi" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="39156-5" />
+            <display value="Body mass index" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="28.4" />
+          <unit value="kg/m2" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-lab-hba1c_percent" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="hba1c_percent" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="7.2" />
+        </valueQuantity>
+        <interpretation>
+          <text value="ABOVE TARGET" />
+        </interpretation>
+        <referenceRange>
+          <text value="&lt;7.0 (target)" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-lab-creatinine_mg_dl" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="creatinine_mg_dl" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="1.0" />
+        </valueQuantity>
+        <referenceRange>
+          <text value="0.7-1.3" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-lab-ldl_mg_dl" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="ldl_mg_dl" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="88" />
+        </valueQuantity>
+        <interpretation>
+          <text value="ABOVE TARGET" />
+        </interpretation>
+        <referenceRange>
+          <text value="&lt;70 (DM target)" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-019350-lab-potassium_meq_l" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="potassium_meq_l" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <valueQuantity>
+          <value value="4.2" />
+        </valueQuantity>
+        <referenceRange>
+          <text value="3.5-5.0" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-019350-at--1" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Lisinopril 10 mg PO QD" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="10 mg PO QD" />
+          <additionalInstruction>
+            <text value="HTN + DM2 nephroprotection" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-019350-at--2" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Metformin 1000 mg PO BID" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="1000 mg PO BID" />
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-019350-at--3" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Insulin Glargine 18 units SC QHS" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="18 units SC QHS" />
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-019350-at--4" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Atorvastatin 40 mg PO QHS" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="40 mg PO QHS" />
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-019350-at--5" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-2938471" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-019350" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Aspirin 75 mg PO QD" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="75 mg PO QD" />
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <AllergyIntolerance>
+        <id value="allergy-ENC-2025-019350-1" />
+        <patient>
+          <reference value="Patient/MRN-2938471" />
+        </patient>
+        <code>
+          <text value="No known drug allergies" />
+        </code>
+        <reaction>
+          <severity value="moderate" />
+          <manifestation>
+            <text value="N/A" />
+          </manifestation>
+        </reaction>
+      </AllergyIntolerance>
+    </resource>
+  </entry>
+</Bundle>

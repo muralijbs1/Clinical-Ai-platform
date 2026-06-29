@@ -1254,6 +1254,193 @@ _ENCOUNTERS = [
             "Psychiatry follow-up. Social work support. Acetaminophen permanently contraindicated."
         ),
     },
+
+    # ── NEW BALANCED ADDITIONS (encounters 17–20): outpatient, preventive, chronic disease ──
+
+    {
+        "encounter_id": "ENC-2025-019350",
+        "mrn": "MRN-2938471",
+        "encounter_type": "Outpatient — Primary Care",
+        "encounter_date": "2025-04-22",
+        "department": "Family Medicine",
+        "attending": "Dr. Nina Osei, MD (Family Medicine)",
+        "admitting_diagnosis": "Hypertension — routine follow-up",
+        "demographics": {
+            "name": "Carlos Rivera", "dob": "1968-09-14", "age": 56,
+            "sex": "Male", "race": "Hispanic / Latino", "language": "Spanish",
+            "mrn": "MRN-2938471", "insurance": "Medicaid Managed Care",
+            "member_id": "MC-2938471-7",
+        },
+        "diagnoses": [
+            {"code": "I10", "description": "Essential hypertension — stable, on medication", "type": "Primary"},
+            {"code": "E11.9", "description": "Type 2 diabetes mellitus — HbA1c 7.2%, controlled", "type": "Secondary"},
+            {"code": "Z79.4", "description": "Long-term use of insulin", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 134, "bp_diastolic": 82, "heart_rate": 72,
+            "respiratory_rate": 14, "temperature_c": 36.7, "spo2_percent": 99,
+            "weight_kg": 88.0, "bmi": 28.4,
+        },
+        "labs": {
+            "hba1c_percent": {"value": 7.2, "ref": "<7.0 (target)", "flag": "ABOVE TARGET"},
+            "creatinine_mg_dl": {"value": 1.0, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "ldl_mg_dl": {"value": 88, "ref": "<70 (DM target)", "flag": "ABOVE TARGET"},
+            "potassium_meq_l": {"value": 4.2, "ref": "3.5-5.0", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Lisinopril", "dose": "10 mg", "route": "PO", "frequency": "QD", "indication": "HTN + DM2 nephroprotection"},
+            {"drug": "Metformin", "dose": "1000 mg", "route": "PO", "frequency": "BID"},
+            {"drug": "Insulin Glargine", "dose": "18 units", "route": "SC", "frequency": "QHS"},
+            {"drug": "Atorvastatin", "dose": "40 mg", "route": "PO", "frequency": "QHS"},
+            {"drug": "Aspirin", "dose": "75 mg", "route": "PO", "frequency": "QD"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "N/A"},
+        ],
+        "discharge_summary": (
+            "Routine HTN/DM2 outpatient review. BP 134/82 — at goal on lisinopril. "
+            "HbA1c 7.2% — mildly above target; insulin glargine dose increased from 14u to 18u. "
+            "LDL 88 — atorvastatin dose increased to 40mg. Foot exam: normal. Annual eye exam due. "
+            "Retinal screening referral placed. Urine microalbumin:creatinine ratio 28 (high normal). "
+            "Education: low-carbohydrate diet, glucose self-monitoring technique reviewed. "
+            "Follow-up 3 months."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-020461",
+        "mrn": "MRN-5029384",
+        "encounter_type": "Outpatient — Obstetrics",
+        "encounter_date": "2025-05-08",
+        "department": "Obstetrics & Gynaecology",
+        "attending": "Dr. Amanda Walsh, MD (Obstetrics & Gynaecology)",
+        "admitting_diagnosis": "Routine Antenatal Visit — 20 Weeks Gestation",
+        "demographics": {
+            "name": "Aisha Nkemdirim", "dob": "1993-07-21", "age": 31,
+            "sex": "Female", "race": "Black / African American", "language": "English",
+            "mrn": "MRN-5029384", "insurance": "Aetna PPO",
+            "member_id": "AE-5029384-3",
+        },
+        "diagnoses": [
+            {"code": "Z34.20", "description": "Encounter for supervision of normal pregnancy, second trimester", "type": "Primary"},
+            {"code": "Z82.49", "description": "Family history of ischaemic heart disease — counselled", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 114, "bp_diastolic": 70, "heart_rate": 80,
+            "respiratory_rate": 14, "temperature_c": 36.8, "spo2_percent": 99,
+            "weight_kg": 69.0, "bmi": 24.8,
+        },
+        "labs": {
+            "hemoglobin_g_dl": {"value": 11.6, "ref": "≥11.0 (pregnancy)", "flag": "NORMAL"},
+            "glucose_mg_dl": {"value": 84, "ref": "70-100 (fasting)", "flag": "NORMAL"},
+            "ferritin_ng_ml": {"value": 18, "ref": ">20 recommended in pregnancy", "flag": "LOW-NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Folic acid", "dose": "400 mcg", "route": "PO", "frequency": "QD", "indication": "Neural tube defect prevention"},
+            {"drug": "Ferrous sulfate", "dose": "200 mg", "route": "PO", "frequency": "QD", "indication": "Iron supplementation (borderline ferritin)"},
+            {"drug": "Vitamin D", "dose": "400 IU", "route": "PO", "frequency": "QD"},
+            {"drug": "Low-dose Aspirin", "dose": "75 mg", "route": "PO", "frequency": "QD", "indication": "Preeclampsia prevention (risk factor: FHx CVD)"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "N/A"},
+        ],
+        "discharge_summary": (
+            "G2P1, 20+2 weeks, uncomplicated pregnancy. Anatomy scan: normal — no structural anomalies. "
+            "Placenta anterior, not low-lying. Fetal biometry on track (50th centile). "
+            "Haemoglobin 11.6 — borderline; ferritin 18 — oral iron started. "
+            "GDM screen (OGTT) booked at 24-28 weeks. "
+            "Group B Strep screen booked 35-37 weeks. "
+            "Preeclampsia risk: low-dose aspirin continued (FHx cardiovascular disease). "
+            "Next visit 24 weeks. Patient reassured. Birth plan discussion initiated."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-021572",
+        "mrn": "MRN-7193820",
+        "encounter_type": "Outpatient — Paediatrics",
+        "encounter_date": "2025-06-18",
+        "department": "Paediatrics",
+        "attending": "Dr. Brendan Murphy, MD (Paediatrics)",
+        "admitting_diagnosis": "Well Child Visit — 9-Month-Old Male",
+        "demographics": {
+            "name": "Lucas Graham", "dob": "2024-09-11", "age_months": 9,
+            "sex": "Male", "race": "White / Non-Hispanic", "language": "English",
+            "mrn": "MRN-7193820", "insurance": "United Healthcare CHIP",
+            "member_id": "UH-7193820-1",
+        },
+        "diagnoses": [
+            {"code": "Z00.129", "description": "Encounter for routine child health examination, 9 months", "type": "Primary"},
+            {"code": "Z23", "description": "Encounter for immunization", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "heart_rate": 118, "respiratory_rate": 32, "temperature_c": 37.0,
+            "weight_kg": 8.9, "bmi": None,
+        },
+        "labs": {
+            "hemoglobin_g_dl": {"value": 11.2, "ref": "≥11.0", "flag": "NORMAL"},
+            "lead_blood_ug_dl": {"value": 1.4, "ref": "<3.5", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Vitamin D drops", "dose": "400 IU", "route": "PO", "frequency": "QD", "indication": "Supplementation per AAP"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "N/A"},
+        ],
+        "discharge_summary": (
+            "9-month well child visit. Weight 8.9kg (40th centile), length 72cm (50th centile), "
+            "HC 45.2cm (50th centile) — all on track. No developmental red flags: sits independently, "
+            "babbles, pincer grasp emerging, stranger anxiety appropriate. "
+            "Vaccinations administered today: IPV, Hib, PCV15 (4th dose), MMR not yet due. "
+            "Hb 11.2 — normal. Lead screen: 1.4 (normal). "
+            "Feeding: on solids 2x/day plus breastfeeding — counselled on iron-rich foods. "
+            "Anticipatory guidance: baby-proofing, car seat, no honey before 12 months. "
+            "Next visit: 12-month well child check."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-022683",
+        "mrn": "MRN-8204739",
+        "encounter_type": "Outpatient — Mental Health",
+        "encounter_date": "2025-07-30",
+        "department": "Outpatient Psychiatry",
+        "attending": "Dr. Keisha Thompson, MD (Psychiatry)",
+        "admitting_diagnosis": "Major Depressive Disorder — Follow-Up at 8 Weeks",
+        "demographics": {
+            "name": "Patrick Brennan", "dob": "1985-02-17", "age": 40,
+            "sex": "Male", "race": "White / Irish", "language": "English",
+            "mrn": "MRN-8204739", "insurance": "Cigna Behavioral Health",
+            "member_id": "CI-8204739-5",
+        },
+        "diagnoses": [
+            {"code": "F32.1", "description": "Major depressive disorder, single episode, moderate", "type": "Primary"},
+            {"code": "F41.1", "description": "Generalized anxiety disorder — comorbid", "type": "Secondary"},
+            {"code": "Z56.9", "description": "Occupational stressor — contributing factor", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 120, "bp_diastolic": 76, "heart_rate": 78,
+            "respiratory_rate": 14, "temperature_c": 36.6, "spo2_percent": 99,
+            "weight_kg": 84.0, "bmi": 26.2,
+        },
+        "labs": {
+            "tsh_miu_l": {"value": 2.1, "ref": "0.4-4.0", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Sertraline", "dose": "100 mg", "route": "PO", "frequency": "QD", "indication": "MDD + GAD"},
+            {"drug": "Lorazepam", "dose": "0.5 mg", "route": "PO", "frequency": "PRN acute anxiety (max 3x/week)", "indication": "Bridge — tapering as SSRI takes effect"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "N/A"},
+        ],
+        "discharge_summary": (
+            "8-week MDD follow-up. PHQ-9: 10 (was 18 at initiation) — moderate improvement. "
+            "GAD-7: 9 (was 16) — improved. No SI. Sleep improving but not normalised. "
+            "Sertraline increased from 50mg to 100mg at 4-week visit — patient tolerating well. "
+            "CBT: completed 6 sessions, 4 remaining — patient engaged, finding it helpful. "
+            "Work situation improving. Lorazepam use: 1-2x/week — reinforced PRN-only use. "
+            "Plan: continue sertraline 100mg. Lorazepam taper plan discussed. "
+            "Next review 6 weeks. PHQ-9/GAD-7 at every visit. "
+            "Crisis plan reviewed — patient has partner's support and crisis line number."
+        ),
+    },
 ]
 
 

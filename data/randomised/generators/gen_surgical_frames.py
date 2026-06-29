@@ -19,7 +19,7 @@ random.seed(42)
 
 _OUT_FILE = Path(__file__).parent.parent / "surgical_frames.json"
 
-_N_FRAMES = 240
+_N_FRAMES = 300
 _PROCEDURE = "Laparoscopic Cholecystectomy"
 _FPS = 25
 
@@ -28,7 +28,10 @@ _PHASES = [
     "GallbladderDissection", "GallbladderPackaging",
     "CleaningCoagulation", "GallbladderRetraction",
 ]
-_PHASE_WEIGHTS = [0.06, 0.25, 0.10, 0.35, 0.08, 0.10, 0.06]
+# Rebalanced from original [0.06, 0.25, 0.10, 0.35, 0.08, 0.10, 0.06]:
+# Preparation, GallbladderPackaging, GallbladderRetraction boosted to 0.10;
+# GallbladderDissection reduced from dominant 0.35 → 0.22 to reduce skew.
+_PHASE_WEIGHTS = [0.10, 0.20, 0.13, 0.22, 0.13, 0.12, 0.10]
 _TOOL_CLASSES = ["Grasper", "Clipper", "Coagulator", "Scissors", "Irrigator", "SpecimenBag"]
 _ANATOMY_CLASSES = ["Gallbladder", "Liver", "CalotTriangle", "CysticDuct", "CysticArtery", "Clip"]
 _PHASE_CONFIDENCE = {
@@ -104,7 +107,7 @@ def write_files() -> None:
     with open(_OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2)
 
-    print(f"surgical_frames: {_N_FRAMES} frames → {_OUT_FILE}")
+    print(f"surgical_frames: {_N_FRAMES} frames (rebalanced phases) → {_OUT_FILE}")
 
 
 if __name__ == "__main__":

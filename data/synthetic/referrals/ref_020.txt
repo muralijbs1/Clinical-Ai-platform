@@ -1,0 +1,53 @@
+referral_id: REF-2025-078473
+specialty: Rehabilitation Medicine
+urgency: ROUTINE
+patient_name: Helen Beaumont
+patient_dob: 1955-11-22
+patient_sex: Female
+patient_mrn: MRN-9283741
+insurance: Medicare
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — REHABILITATION MEDICINE / PHYSICAL MEDICINE
+Date: 2025-10-28    Referral ID: REF-2025-078473
+Urgency: ROUTINE — 4-6 weeks
+
+TO: Physical Medicine & Rehabilitation
+FROM: Dr. Kevin Obi, MD — Neurology, NPI 8293746102
+
+PATIENT: Helen Beaumont | DOB: 1955-11-22 | Age: 69 | Sex: Female
+MRN: MRN-9283741 | Insurance: Medicare
+
+REASON FOR REFERRAL: Post-stroke rehabilitation needs assessment — 8 weeks post right MCA
+ischaemic stroke with residual left hemiparesis and expressive aphasia. Outpatient rehab plan.
+
+CLINICAL SUMMARY:
+Mrs. Beaumont is a 69-year-old woman admitted 8 weeks ago with right MCA territory ischaemic
+stroke (NIHSS 14 on admission). Treated with IV thrombolysis at 3.5 hours. MRI: right frontal
+and parietal cortical infarction with involvement of Broca's area homologue. No haemorrhagic
+transformation.
+
+CURRENT NEUROLOGICAL STATUS (8 weeks post-stroke):
+Motor: Left arm — proximal power MRC 3/5, distal 2/5. Left leg — MRC 4/5 (ambulatory with AFO).
+Speech: Expressive aphasia — non-fluent, word-finding difficulty. Comprehension largely intact.
+Cognition: MoCA 22/30 (attention, language domain deficits). No significant memory impairment.
+Swallowing: FEES performed — safe with modified texture 3. Progressing towards normal diet.
+ADL: Requires assistance with dressing, bathing. Independent for feeding with adapted utensils.
+
+INPATIENT REHAB (weeks 2-6): Physical therapy, occupational therapy, speech therapy — good
+engagement. Discharged to home with carer support.
+
+CURRENT MEDICATIONS: Aspirin 75mg, atorvastatin 80mg, ramipril 5mg, metoprolol 25mg BD.
+Secondary prevention risk factors: hypertension (controlled), dyslipidaemia (LDL 1.8 on statin).
+
+GOALS: Return to independent living, communication improvement, driving assessment.
+
+QUESTIONS FOR REHABILITATION MEDICINE:
+1. Outpatient therapy intensity and modality plan (PT, OT, SLT)?
+2. Constraint-induced movement therapy for left arm?
+3. Aphasia therapy programme — individual vs group?
+4. Driving assessment timeline and process?
+5. Vocational rehabilitation — was employed part-time as librarian pre-stroke
+
+Referring Physician: Dr. Kevin Obi, MD
+NPI: 8293746102 | Phone: (555) 744-8800

@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundle-ENC-2025-021572" />
+  <type value="collection" />
+  <timestamp value="2025-06-18T00:00:00+00:00" />
+  <entry>
+    <resource>
+      <Patient>
+        <id value="MRN-7193820" />
+        <identifier>
+          <system value="urn:hospital:mrn" />
+          <value value="MRN-7193820" />
+        </identifier>
+        <name>
+          <text value="Lucas Graham" />
+        </name>
+        <birthDate value="2024-09-11" />
+        <gender value="male" />
+        <extension url="urn:poc:race">
+          <valueString value="White / Non-Hispanic" />
+        </extension>
+        <extension url="urn:poc:language">
+          <valueString value="English" />
+        </extension>
+        <extension url="urn:poc:insurance">
+          <valueString value="United Healthcare CHIP" />
+        </extension>
+        <extension url="urn:poc:member-id">
+          <valueString value="UH-7193820-1" />
+        </extension>
+      </Patient>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Encounter>
+        <id value="ENC-2025-021572" />
+        <status value="finished" />
+        <class>
+          <coding>
+            <code value="AMB" />
+            <display value="Outpatient — Paediatrics" />
+          </coding>
+        </class>
+        <period>
+          <start value="2025-06-18" />
+        </period>
+        <serviceProvider>
+          <display value="Paediatrics" />
+        </serviceProvider>
+        <participant>
+          <individual>
+            <display value="Dr. Brendan Murphy, MD (Paediatrics)" />
+          </individual>
+        </participant>
+        <reasonCode>
+          <text value="Well Child Visit — 9-Month-Old Male" />
+        </reasonCode>
+        <extension url="urn:poc:data-tag">
+          <valueString value="SYNTHETIC" />
+        </extension>
+        <extension url="urn:poc:discharge-summary">
+          <valueString value="9-month well child visit. Weight 8.9kg (40th centile), length 72cm (50th centile), HC 45.2cm (50th centile) — all on track. No developmental red flags: sits independently, babbles, pincer grasp emerging, stranger anxiety appropriate. Vaccinations administered today: IPV, Hib, PCV15 (4th dose), MMR not yet due. Hb 11.2 — normal. Lead screen: 1.4 (normal). Feeding: on solids 2x/day plus breastfeeding — counselled on iron-rich foods. Anticipatory guidance: baby-proofing, car seat, no honey before 12 months. Next visit: 12-month well child check." />
+        </extension>
+      </Encounter>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-021572-1" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Primary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="Z00.129" />
+          </coding>
+          <text value="Encounter for routine child health examination, 9 months" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-021572-2" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="Z23" />
+          </coding>
+          <text value="Encounter for immunization" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-021572-bp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="55284-4" />
+            <display value="Blood pressure" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8480-6" />
+              <display value="Systolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8462-4" />
+              <display value="Diastolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-021572-heart_rate_bpm" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8867-4" />
+            <display value="Heart rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <valueQuantity>
+          <value value="118" />
+          <unit value="bpm" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-021572-rr" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="9279-1" />
+            <display value="Respiratory rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <valueQuantity>
+          <value value="32" />
+          <unit value="/min" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-021572-temp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8310-5" />
+            <display value="Body temperature" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <valueQuantity>
+          <value value="37.0" />
+          <unit value="Cel" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-021572-weight" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="29463-7" />
+            <display value="Body weight" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <valueQuantity>
+          <value value="8.9" />
+          <unit value="kg" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-021572-lab-hemoglobin_g_dl" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="hemoglobin_g_dl" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <valueQuantity>
+          <value value="11.2" />
+        </valueQuantity>
+        <referenceRange>
+          <text value="≥11.0" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-021572-lab-lead_blood_ug_dl" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="lead_blood_ug_dl" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <valueQuantity>
+          <value value="1.4" />
+        </valueQuantity>
+        <referenceRange>
+          <text value="&lt;3.5" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-021572-at--1" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="at-discharge" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-7193820" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-021572" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Vitamin D drops 400 IU PO QD" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="400 IU PO QD" />
+          <additionalInstruction>
+            <text value="Supplementation per AAP" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <AllergyIntolerance>
+        <id value="allergy-ENC-2025-021572-1" />
+        <patient>
+          <reference value="Patient/MRN-7193820" />
+        </patient>
+        <code>
+          <text value="No known drug allergies" />
+        </code>
+        <reaction>
+          <severity value="moderate" />
+          <manifestation>
+            <text value="N/A" />
+          </manifestation>
+        </reaction>
+      </AllergyIntolerance>
+    </resource>
+  </entry>
+</Bundle>
