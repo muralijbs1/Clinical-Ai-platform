@@ -1,0 +1,57 @@
+referral_id: REF-2025-089381
+specialty: Transplant Nephrology
+urgency: SOON
+patient_name: Mei-Ling Tan
+patient_dob: 1969-02-07
+patient_sex: Female
+patient_mrn: MRN-7130492
+insurance: BlueCross BlueShield HMO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — TRANSPLANT NEPHROLOGY
+Date: 2025-11-26    Referral ID: REF-2025-089381
+Urgency: SOON — Appointment within 2-3 weeks
+
+TO: Transplant Nephrology / Pre-Transplant Evaluation Programme
+FROM: Dr. Samuel Adeyemi, MD — Nephrology, NPI 9040201938
+      Kidney Disease Associates, Phone: (555) 010-3344, Fax: (555) 010-3345
+
+PATIENT: Mei-Ling Tan | DOB: 1969-02-07 | Age: 56 | Sex: Female
+MRN: MRN-7130492 | Insurance: BlueCross BlueShield HMO | Member ID: BS-7130492-11
+
+REASON FOR REFERRAL: CKD Stage 4 (eGFR 18 mL/min/1.73m²) approaching ESRD. Requesting
+pre-transplant evaluation, listing assessment, and dialysis access planning.
+
+CLINICAL SUMMARY:
+Ms. Tan is a 56-year-old female with a 15-year history of CKD secondary to IgA nephropathy
+(biopsy-confirmed 2010). Progressive decline despite optimal RAAS blockade, dietary restriction,
+and anaemia management.
+
+Current labs (this week): Creatinine 3.8 mg/dL | eGFR 18 mL/min/1.73m² (CKD Stage 4)
+Potassium 5.2 mEq/L | Phosphorus 5.8 mg/dL (elevated — on phosphate binders)
+Haemoglobin 9.6 g/dL (anaemia of CKD — on Epoetin alfa 10,000 units 3x/week)
+Bicarbonate 18 mEq/L (metabolic acidosis — on sodium bicarbonate 650mg BID)
+PTH: 248 pg/mL (secondary hyperparathyroidism) | 25-OH Vit D: 14 ng/mL (deficient)
+Albumin 3.4 g/dL | BUN 68 mg/dL
+
+Symptoms: progressive fatigue, decreased exercise tolerance, mild ankle oedema, reduced
+appetite. No encephalopathy, no pericardial rub, no pulmonary oedema.
+
+Medical history: IgA nephropathy, HTN (Amlodipine 10mg, Lisinopril 40mg), anaemia CKD,
+secondary hyperparathyroidism, hypothyroidism (Levothyroxine 125mcg QD), no diabetes,
+no malignancy. No prior kidney transplant. Blood group: A positive.
+Allergies: Erythromycin (GI intolerance).
+
+QUESTIONS FOR TRANSPLANT NEPHROLOGY:
+1. Pre-transplant evaluation — cardiac, vascular, infectious disease, psychosocial workup?
+2. Waitlist candidacy — deceased donor listing and living donor discussion?
+3. Dialysis access planning — AVF creation now vs haemodialysis vs peritoneal dialysis?
+4. Immunological workup — PRA, HLA typing, crossmatch?
+5. Expected waiting time — expedited listing considerations for pre-emptive transplant?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-101938 | Insurance: BlueCross BlueShield HMO
+Authorised for: Transplant nephrology consultation and pre-transplant workup
+
+Referring Physician: Dr. Samuel Adeyemi, MD
+NPI: 9040201938 | Phone: (555) 010-3344 | Fax Results To: (555) 010-3345

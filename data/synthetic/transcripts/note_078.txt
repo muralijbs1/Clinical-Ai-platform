@@ -1,0 +1,49 @@
+encounter_id: transcript-003
+encounter_type: Outpatient — Primary Care
+condition: Hypertension Management
+icd10_primary: I10
+data_tag: SYNTHETIC
+---
+DATE: 2025-04-20   TIME: 19:15   PROVIDER: Dr. Angela Foster, MD (Internal Medicine)
+
+CC: Hypertension follow-up, BP medication refill
+
+HPI: 4 yo M for routine HTN management at 6-month interval. Home BP log (last 4 weeks):
+morning readings 128-142/78-88, evening 118-134/72-82. Average 133/82.
+Takes medications consistently. Increased aerobic exercise from 2x to 3x/week.
+Occasional occipital headaches on awakening (new, monthly). Denies chest pain, visual changes.
+
+PMH: Essential HTN x 18 years | Hyperlipidemia x 12 years | BPH (mild) | Ex-smoker
+
+Meds: Amlodipine 10mg QD | Lisinopril 20mg QD | Hydrochlorothiazide 25mg QAM
+      Atorvastatin 20mg QHS | Tamsulosin 0.4mg QHS | Aspirin 81mg QD
+
+ALLERGIES: NKDA
+
+OBJECTIVE:
+VS: BP 128/84 (repeat 136/84) | HR 69 | SpO2 93% | Wt 88kg | BMI 24.5
+
+Fundoscopy: A/V ratio ~2:3 (mild arteriovenous nipping — consistent with chronic HTN).
+EKG: NSR at 68. Borderline LVH by Sokolow-Lyon criteria (S V1 + R V5 = 38mm — voltage only).
+
+LABS:
+CMP: Na 140 | K 3.7 | Cr 0.9 | eGFR >90 [all normal]
+Lipids: LDL 121 | HDL 52 | TG 92 [well controlled]
+Urine microalbumin/Cr: negative | Fasting glucose: 94 [normal]
+
+ASSESSMENT:
+1. Essential Hypertension — partially controlled — I10
+   Average 137/85. At JNC-8 goal but above ACC/AHA 2017 (<130/80). Voltage LVH on ECG (unchanged).
+2. Hyperlipidemia — adequately controlled — E78.5
+3. BPH — stable on tamsulosin — N40.0
+4. Alcohol use — 5-7 units/week — Z72.1
+
+PLAN:
+1. Patient prefers lifestyle intensification x3 months before adding spironolactone.
+   Low-sodium diet (<2g/day). DASH diet referral. Alcohol reduction (<14 units/week).
+2. If BP still >130/80 at 3 months: add spironolactone 25mg.
+3. Annual fundoscopy. Continue strict BP control re: voltage LVH.
+4. Brief alcohol counselling provided.
+5. Refills: Amlodipine x180d, Lisinopril x180d, HCTZ x180d, Atorvastatin x180d.
+
+F/U: 3 months. Return if severe headache, visual changes, chest pain, or BP >160/100.

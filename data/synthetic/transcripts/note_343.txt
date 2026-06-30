@@ -1,0 +1,43 @@
+encounter_id: transcript-030
+encounter_type: Emergency Department
+condition: Diabetic Ketoacidosis — New Diagnosis Type 1 DM
+icd10_primary: E10.10
+data_tag: SYNTHETIC
+---
+DATE: 2024-09-12   TIME: 07:45   PROVIDER: Dr. Nina Osei, MD (Emergency Medicine)
+
+CC: Nausea, vomiting, polyuria, polydipsia — 3 days. Confused tonight.
+
+HPI: 4 yo F brought by housemate. 3 days of polyuria, polydipsia, nausea and vomiting.
+Worsening confusion over last 4 hours. No prior diabetes diagnosis. No recent illness.
+Fruity breath noted by housemate.
+
+ROS: Positive: polyuria, polydipsia, nausea, vomiting, confusion, weight loss 3kg.
+Negative: no fever, no diarrhoea, no trauma.
+
+PMH: None | PSH: None | FHx: Father: Type 1 DM. SHx: University student. Non-smoker.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 101/61 | HR 115 | RR 25 | Temp 39.5°C | SpO2 100% | Wt 58kg | BMI 20.4
+
+PHYSICAL EXAM: Drowsy (GCS 14). Dry mucous membranes. Kussmaul breathing.
+Fruity acetone breath. Abdomen: mild diffuse tenderness. No peritonism.
+
+INVESTIGATIONS:
+VBG: pH 7.24, HCO3 12, BE -14, glucose 28.4 mmol/L, ketones 4.8 mmol/L.
+Na 128 (corrected 134), K 5.8 (total body depleted), Creatinine 1.4.
+HbA1c: 11.2%. C-peptide: undetectable. Anti-GAD antibodies: positive.
+ECG: sinus tachycardia. No peaked T-waves (K+ 5.8 — monitor closely).
+
+ASSESSMENT:
+1. Diabetic ketoacidosis — new diagnosis Type 1 DM
+2. Severe dehydration (estimated 5-8% deficit)
+
+PLAN:
+1. Fixed-rate IV insulin infusion 0.1 units/kg/h (6 units/h). Check glucose hourly.
+2. IV fluids: 0.9% NaCl 1L over 1h, then 500mL/h × 4h per DKA protocol
+3. Potassium replacement: add K+ to IV fluids once urine output confirmed and K <5.5
+4. Glucose: add 10% dextrose when glucose <14 mmol/L (do not stop insulin)
+5. Cardiac monitoring — hypokalaemia risk as insulin shifts K intracellularly
+6. Endocrinology consult — Type 1 DM initiation; insulin education
+7. Switch to SC insulin when pH >7.3, HCO3 >18, ketones <0.6

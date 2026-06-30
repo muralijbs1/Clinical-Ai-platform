@@ -1,0 +1,59 @@
+referral_id: REF-2025-084182
+specialty: Allergy/Immunology
+urgency: ROUTINE
+patient_name: Claire Nguyen
+patient_dob: 1996-04-03
+patient_sex: Female
+patient_mrn: MRN-2847391
+insurance: BlueCross BlueShield PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — ALLERGY / IMMUNOLOGY
+Date: 2025-11-14    Referral ID: REF-2025-084182
+Urgency: ROUTINE — Appointment within 4 weeks
+
+TO: Allergy & Immunology Department
+FROM: Dr. Rebecca Stone, MD — Respiratory Medicine, NPI 4829301748
+      Respiratory Health Partners, Phone: (555) 560-7788, Fax: (555) 560-7789
+
+PATIENT: Claire Nguyen | DOB: 1996-04-03 | Age: 29 | Sex: Female
+MRN: MRN-2847391 | Insurance: BlueCross BlueShield PPO | Member ID: BS-2847391-6
+
+REASON FOR REFERRAL: Poorly controlled allergic asthma (Step 3, uncontrolled) and suspected
+Hymenoptera venom allergy following local large reaction after wasp sting. Requesting allergen
+testing, asthma phenotyping, and venom allergy evaluation.
+
+CLINICAL SUMMARY:
+Ms. Nguyen is a 29-year-old female with a 12-year history of atopic asthma and allergic
+rhinitis. Despite step 3 therapy (fluticasone/formoterol 250/10 BID + montelukast 10mg QD),
+asthma remains poorly controlled — ACQ-6 score 2.4 (uncontrolled). Two ED visits in the past
+12 months for acute exacerbations, both requiring systemic corticosteroids.
+
+Three weeks ago, she suffered a wasp sting on her left forearm with a large local reaction
+(15cm erythema and induration, persisting >24h). No systemic symptoms on this occasion. She
+reports a previous sting 2 years ago that caused urticaria (generalised), throat tightness,
+and required a single dose of IM adrenaline in primary care. The risk of venom anaphylaxis
+is therefore considered significant.
+
+Spirometry: FEV1 78% predicted | FVC 96% | FEV1/FVC 0.68 | BD response +16% (significant).
+FeNO: 62 ppb (markedly elevated — T2/eosinophilic inflammation). Blood eosinophils 0.72×10⁹/L.
+Total IgE: 485 IU/mL. Allergen sensitisation screen (RAST): grass pollen +++, cat dander ++,
+HDM ++, wasp venom (Vespula) +++ (sIgE 8.4 kUA/L).
+
+No epinephrine auto-injector (EAI) currently prescribed. Lives alone. Outdoor occupation (park ranger).
+
+Allergies: Aspirin (urticaria and bronchospasm — not to be given).
+
+QUESTIONS FOR ALLERGY / IMMUNOLOGY:
+1. Venom-specific immunotherapy (VIT) — eligibility, target venom, duration?
+2. Prescribe epinephrine auto-injector and action plan pending VIT?
+3. Asthma phenotyping — eligibility for biologic therapy (dupilumab, benralizumab)?
+4. Step up asthma therapy while awaiting biologic assessment?
+5. Skin prick testing and component-resolved diagnosis for venom allergy?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-556493 | Insurance: BlueCross BlueShield PPO
+Authorised for: Allergy/immunology consultation and allergen testing
+
+Referring Physician: Dr. Rebecca Stone, MD
+NPI: 4829301748 | Phone: (555) 560-7788 | Fax Results To: (555) 560-7789

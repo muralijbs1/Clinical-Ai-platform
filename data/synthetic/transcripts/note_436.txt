@@ -1,0 +1,45 @@
+encounter_id: transcript-039
+encounter_type: Inpatient — General Medicine
+condition: Community-Acquired Pneumonia — Moderate (CURB-65: 3)
+icd10_primary: J15.9
+data_tag: SYNTHETIC
+---
+DATE: 2023-05-12   TIME: 04:15   PROVIDER: Dr. Angela Foster, MD (General Medicine)
+
+CC: Cough, fever, confusion — family brought in after found unwell at home
+
+HPI: 64 yo F admitted with 4-day history of productive cough (rust-coloured sputum), fever, and
+confusion today. Lives alone — found by daughter slumped in chair. Declined GP appointment 3 days ago.
+Background: COPD, Parkinson's disease (stable).
+
+ROS: Positive: fever, productive cough, confusion. Negative: no chest pain, no haemoptysis.
+
+PMH: COPD (GOLD II) | Parkinson's disease (stable, on levodopa) | PSH: Hip replacement 2019.
+FHx: Not relevant. SHx: Retired. Lives alone. Meds: Salbutamol MDI | Tiotropium | Levodopa 100mg TDS.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 108/65 | HR 113 | RR 24 | Temp 39.8°C | SpO2 83% on air | BMI 22.6
+
+PHYSICAL EXAM: Confused (AMTS 5/10). Reduced air entry left base with coarse crackles.
+No bronchial breathing. No pleuritic rub. Mild peripheral oedema.
+
+INVESTIGATIONS:
+WBC 22.4, CRP 388. PCT 8.4. Creatinine 1.6 (baseline 1.0).
+CXR: left lower lobe consolidation. CURB-65: 3 (confusion, urea 12, RR 24) → inpatient admission.
+Blood cultures × 2: drawn. Urine pneumococcal antigen: positive.
+Sputum: sent for C&S.
+
+ASSESSMENT:
+1. CAP — left lower lobe, moderate-severe (CURB-65 3)
+2. Streptococcus pneumoniae — pneumococcal antigen positive
+3. Confusion — likely sepsis-related, not Parkinson's decompensation
+4. Acute kidney injury — prerenal (sepsis + reduced intake)
+
+PLAN:
+1. IV co-amoxiclav 1.2g TDS + clarithromycin 500mg BD (dual therapy, CURB-65 ≥3)
+2. Controlled O2: 28% Venturi, target SpO2 88-92% (COPD risk — hypercapnia)
+3. IV fluids: 500mL 0.9% NaCl cautiously (peripheral oedema — likely cor pulmonale)
+4. Continue levodopa (do NOT stop in Parkinson's — rigidity/NMS risk)
+5. Thromboprophylaxis: LMWH (confusion + reduced mobility)
+6. Confusion: 1:1 nursing, non-pharmacological delirium prevention
+7. Review 48h — de-escalate to oral amoxicillin if improving

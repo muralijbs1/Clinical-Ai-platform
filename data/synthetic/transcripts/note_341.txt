@@ -1,0 +1,42 @@
+encounter_id: transcript-029
+encounter_type: Emergency Department
+condition: Acute Pancreatitis — Gallstone Aetiology
+icd10_primary: K85.10
+data_tag: SYNTHETIC
+---
+DATE: 2024-04-03   TIME: 00:30   PROVIDER: Dr. Samuel Adeyemi, MD (Emergency Medicine)
+
+CC: Severe epigastric and back pain, nausea, vomiting — 8 hours
+
+HPI: 48 yo M presents with 8-hour history of severe constant epigastric pain radiating to the back,
+nausea, and 3 episodes of vomiting. Onset after a heavy fatty meal. Pain severity 9/10.
+Known cholelithiasis on USS 2 years ago — not followed up.
+
+ROS: Positive: epigastric pain, back radiation, nausea, vomiting. Negative: no jaundice, no fever.
+
+PMH: Cholelithiasis | BMI 31 | PSH: None | FHx: Father: gallstones. SHx: Lorry driver. Alcohol: 14 units/week.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 133/85 | HR 100 | RR 17 | Temp 37.3°C | SpO2 100% | BMI 30.8
+
+PHYSICAL EXAM: Distressed. Abdomen: epigastric tenderness with guarding. Bowel sounds present.
+No jaundice. No Cullen's or Grey Turner's signs.
+
+INVESTIGATIONS:
+Amylase: 1,840 U/L. Lipase: 4,220 U/L. WBC 14.2. CRP 148 (will rise).
+ALT 288, ALP 312, bilirubin 2.1 — biliary pattern.
+Ultrasound: gallstones + CBD 9mm (borderline dilated). Pancreas not well-visualised.
+CT abdomen: pancreatic oedema — no necrosis. Revised Atlanta: moderately severe.
+
+ASSESSMENT:
+1. Acute pancreatitis — gallstone aetiology (Modified Glasgow score 2)
+2. Possible choledocholithiasis — CBD dilation, raised LFTs
+
+PLAN:
+1. Nil by mouth. IV fluids: Ringer's lactate 250mL/h × 48h (aggressive early resuscitation)
+2. Analgesia: morphine 5mg IV PRN + IV paracetamol
+3. Antiemetics: ondansetron IV
+4. MRCP within 48h — CBD stone assessment; ERCP if confirmed
+5. Surgery consult — laparoscopic cholecystectomy after recovery (same admission if mild)
+6. Alcohol assessment and brief intervention — 14 units/week is a secondary risk factor
+7. Strict NPO until pain resolves + lipase trending down

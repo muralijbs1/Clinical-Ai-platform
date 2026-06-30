@@ -1,0 +1,42 @@
+encounter_id: transcript-031
+encounter_type: Emergency Department
+condition: Vasovagal Syncope
+icd10_primary: R55
+data_tag: SYNTHETIC
+---
+DATE: 2024-05-18   TIME: 14:30   PROVIDER: Dr. Nguyen Van Minh, MD (Emergency Medicine)
+
+CC: Loss of consciousness — witnessed episode at work, fully recovered
+
+HPI: 29 yo M presents after witnessed syncopal episode at workplace. Colleague reports patient appeared
+pale and sweaty before slumping to ground. LOC for approximately 30 seconds. Rapid return to full
+consciousness. Preceding: prolonged standing (3 hours), skipped breakfast, anxious about meeting.
+No tonic-clonic activity observed. No tongue bite. No incontinence.
+
+ROS: Positive: LOC, pre-syncopal prodrome (sweating, nausea, dim vision). Negative: no palpitations,
+no chest pain, no confusion post-event.
+
+PMH: None | PSH: None | FHx: No family history sudden death or cardiac disease.
+SHx: Office manager. Non-smoker. Occasional alcohol. Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 118/80 (no orthostatic drop on lying/standing) | HR 73 | RR 14 | Temp 38.0°C | SpO2 100%
+
+PHYSICAL EXAM: Fully oriented, no residual neurological deficit. Cardiovascular: regular rhythm, no murmurs.
+No tongue bite. Pupils equal and reactive. No focal neuro signs.
+
+INVESTIGATIONS:
+ECG: Normal sinus rhythm. No long QT, no pre-excitation, no heart block.
+Glucose: 4.2 mmol/L (low-normal, skipped breakfast).
+FBC, U&E: Normal. Troponin: <3 ng/L.
+
+ASSESSMENT:
+1. Vasovagal syncope — clear precipitants, typical prodrome, rapid recovery
+2. Fasting hypoglycaemia as contributing factor
+
+PLAN:
+1. Reassure — benign prognosis. ROSE/SFSR scores: low risk
+2. Driving: advise DVLA guidance (may drive after 4-week symptom-free period)
+3. Avoidance strategies: adequate hydration, avoid prolonged standing, eat regular meals
+4. Sit/lie down immediately if prodrome recurs
+5. No further cardiac workup required (typical presentation, normal ECG, young healthy male)
+6. Return if recurrent episodes, chest pain, or palpitations precede syncope

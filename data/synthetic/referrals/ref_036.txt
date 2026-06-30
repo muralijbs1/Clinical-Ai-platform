@@ -1,0 +1,68 @@
+referral_id: REF-2025-100104
+specialty: General Surgery (Colorectal)
+urgency: SOON
+patient_name: Kwame Asante
+patient_dob: 1976-08-06
+patient_sex: Male
+patient_mrn: MRN-8180482
+insurance: UnitedHealthcare HMO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — GENERAL SURGERY (COLORECTAL)
+Date: 2025-12-16    Referral ID: REF-2025-100104
+Urgency: SOON — Appointment within 2 weeks
+
+TO: Colorectal Surgery / General Surgery Department
+FROM: Dr. Louise Pemberton, MD — Gastroenterology, NPI 1031202438
+      Digestive Health Associates, Phone: (555) 010-3355, Fax: (555) 010-3356
+
+PATIENT: Kwame Asante | DOB: 1976-08-06 | Age: 49 | Sex: Male
+MRN: MRN-8180482 | Insurance: UnitedHealthcare HMO | Member ID: UH-8180482-20
+
+REASON FOR REFERRAL: Colonoscopy-identified 2cm rectal polyp at 8cm from anal verge —
+sessile morphology, Paris classification IIa (flat elevated). Endoscopic resection not
+performed (size and location — felt to require surgical assessment). Requesting colorectal
+surgery evaluation for endoscopic mucosal resection (EMR) or surgical polypectomy.
+
+CLINICAL SUMMARY:
+Mr. Asante is a 49-year-old male who presented for diagnostic colonoscopy following 3 months
+of intermittent rectal bleeding (bright red blood per rectum, mixed with stool, no pain).
+Colonoscopy was performed last week by our gastroenterology unit.
+
+COLONOSCOPY FINDINGS (December 9, 2025):
+- Rectal polyp: 2.0cm, sessile, Paris IIa (flat elevated), at 8cm from anal verge, on posterior
+  wall. Narrow-band imaging (NBI): Kudo pit pattern IV (tubulo-villous — intermediate risk).
+  Lesion crossed two haustral folds — tattooed in 3 quadrants. Biopsy taken.
+- Remainder of colon: 3 diminutive (<5mm) hyperplastic polyps (sigmoid) — removed.
+  No diverticulosis. No additional significant lesions.
+
+PATHOLOGY (rectal polyp biopsy): Tubulovillous adenoma with low-grade dysplasia. No high-grade
+dysplasia or invasive carcinoma on biopsy sample (note: biopsy may under-sample).
+
+CT Abdomen/Pelvis (ordered post-colonoscopy to assess for lymphadenopathy): No peri-rectal
+adenopathy. No distant metastasis. No other intra-abdominal pathology. Normal.
+
+Rectal MRI: Not yet performed — requested in this referral for preoperative staging if polyp
+is concerning for submucosal invasion.
+
+Family history: Father with colon cancer aged 62 — increased risk. Recommends Lynch syndrome
+assessment.
+Personal history: No prior colonoscopy. No IBD. No prior colorectal surgery.
+
+Labs: HbA1c 5.9% (normal), eGFR 88, FBC normal, CEA 2.1 ng/mL (normal).
+Allergies: None known.
+
+QUESTIONS FOR COLORECTAL SURGERY:
+1. Is endoscopic mucosal resection (EMR) by experienced endoscopist feasible vs transanal
+   minimally invasive surgery (TAMIS) vs formal anterior resection?
+2. Should MRI rectum be performed pre-operatively to exclude T1 submucosal invasion?
+3. If low-grade TVA only (no invasion confirmed): observation vs resection?
+4. Lynch syndrome testing — MMR IHC on the biopsy — please request if not done?
+5. Post-resection surveillance colonoscopy interval?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-100926 | Insurance: UnitedHealthcare HMO
+Authorised for: Colorectal surgery consultation and rectal polyp resection planning
+
+Referring Physician: Dr. Louise Pemberton, MD
+NPI: 1031202438 | Phone: (555) 010-3355 | Fax Results To: (555) 010-3356

@@ -1,0 +1,64 @@
+encounter_id: transcript-009
+encounter_type: Inpatient — General Medicine
+condition: Acute Kidney Injury — Contrast Nephropathy
+icd10_primary: N17.9
+data_tag: SYNTHETIC
+---
+DATE: 2024-06-07   TIME: 12:30   PROVIDER: Dr. Nguyen Van Minh, MD (Internal Medicine / Nephrology Consult)
+
+CC: Rising creatinine post-contrast CT scan
+
+HPI: 63 yo M admitted for rising creatinine 48h after CT coronary angiography with contrast
+(iodinated contrast 120mL low-osmolar). Baseline Cr 1.4 (CKD 3a, diabetic nephropathy).
+Pre-contrast hydration protocol was administered (0.9% NS 500mL pre and 500mL post).
+Post-procedure day 1: Cr 1.8. Post-procedure day 2: Cr 2.6 (today). UO declining.
+RFs for CI-AKI: CKD, DM2, reduced EF, large contrast volume, NSAID use.
+
+Was taking ibuprofen 400mg TID at home for knee pain (not disclosed during pre-procedure assessment).
+
+PMH: CKD 3a (baseline Cr 1.4, eGFR 52) | DM2 x 15 years | HTN | CAD (PCI 2019) | HFrEF (EF 40%)
+
+Meds: Aspirin 81mg QD | Atorvastatin 80mg QHS | Metoprolol 50mg BID | Lisinopril 10mg QD
+      Furosemide 40mg QD | Metformin 500mg BID | Ibuprofen 400mg TID (undisclosed home use)
+
+ALLERGIES: Cephalosporins (rash)
+
+OBJECTIVE:
+VS: BP 159/83 | HR 79 | RR 17 | Temp 37.9°C | SpO2 99% RA | Wt 86kg (up 3kg from baseline)
+UO last 8h: 160mL (20mL/hr — oliguric threshold = 0.5mL/kg/hr = 43mL/hr)
+
+General: Alert, mildly puffy periorbital. No jaundice.
+CV: RRR. Mild elevated JVP ~5cm. Faint S3.
+Chest: Fine bibasilar crackles — new.
+Abdomen: Soft, NT. No bruits.
+Extremities: 2+ pitting oedema bilaterally to knee.
+
+LABS:
+Creatinine: 2.6 mg/dL [HIGH — was 1.4 baseline, 1.8 POD1, 2.6 today — 85% rise from baseline]
+eGFR: 27 mL/min [Stage 4 AKI on CKD]
+BUN: 44 mg/dL [HIGH] | BUN/Cr ratio: 16.9 [not pre-renal]
+Urine Na: 38 mEq/L | FENa: 2.1% [>1% — intrinsic AKI]
+UA: 2+ protein, rare granular casts, no blood — tubular injury pattern
+Urine myoglobin: negative
+K: 5.2 [HIGH] | HCO3: 18 [LOW — metabolic acidosis]
+CBC: all normal | BNP: 480 pg/mL [elevated — volume overloaded]
+LDH: 188 | Uric acid: 8.1 [elevated]
+
+ASSESSMENT:
+1. Contrast-Induced AKI — moderate severity — N17.9
+   85% Cr rise from baseline (1.4→2.6) meeting CI-AKI definition. Oliguric.
+   Contributing factors: undisclosed NSAID use, CKD baseline, volume overload.
+2. Volume overload — 3kg weight gain, bibasilar crackles, peripheral oedema — E87.70
+3. Hyperkalaemia — K 5.2 — E87.5
+4. Metabolic acidosis — HCO3 18 — E87.2
+
+PLAN:
+1. STOP: Metformin (lactic acidosis risk in AKI), Lisinopril (AKI, hyperkalaemia), NSAIDs (nephrotoxic), Furosemide (diuretic resistance in AKI — hold x48h)
+2. IV fluid: Normal saline 0.5mL/kg/hr (cautious in HFrEF) with strict fluid balance q4h
+3. Hyperkalaemia: Kayexalate 30g PO QD | Dietary K restriction
+4. Monitor BMP, magnesium, phosphorus q12h | Urine output q1h
+5. Nephrology consult — potential CRRT if Cr continues to rise, severe acidosis, K uncontrolled
+6. Re-evaluate Lisinopril at discharge if Cr returns toward baseline
+7. Post-AKI clinic — 3 months. CKD education re: contrast avoidance.
+
+DISPOSITION: Medicine floor with strict nephrology monitoring. Dialysis on standby.

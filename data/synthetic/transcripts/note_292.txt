@@ -1,0 +1,62 @@
+encounter_id: transcript-024
+encounter_type: Inpatient — Obstetrics
+condition: Gestational Hypertension — 34 Weeks Gestation
+icd10_primary: O13.4
+data_tag: SYNTHETIC
+---
+DATE: 2024-01-23   TIME: 23:45   PROVIDER: Dr. Sarah Mitchell, MD (Obstetrics & Gynaecology)
+
+CC: Elevated blood pressure — 34 weeks gestation, referred from community midwife
+
+HPI: 29 yo G1P0 at 34+2 weeks gestation presents following two elevated BP readings at community
+midwife appointment (158/98 and 162/101 at 30-minute interval). No headache, visual disturbance,
+epigastric pain, or facial oedema. Fetal movements normal. No vaginal bleeding or fluid loss.
+No prior hypertension. BP at 16-week booking visit: 110/70.
+
+ROS: Positive: ankle swelling (bilateral, mild — 2 weeks). Negative: no headache, no visual changes,
+no right upper quadrant pain, no nausea/vomiting, no dyspnoea.
+
+PMH: None. No pre-existing hypertension. No diabetes.
+PSH: None. This is first pregnancy.
+FHx: Mother: gestational hypertension in 2 pregnancies. No cardiac history.
+SHx: Accountant. Lives with partner. Non-smoker. No alcohol in pregnancy.
+Meds: Folic acid (stopped at 12 weeks), Vitamin D 400 IU QD. Low-dose aspirin 75mg (started 13 weeks).
+Allergies: NKDA.
+
+VITAL SIGNS: BP 160/105 (confirmed on second reading) | HR 77 | RR 16 | Temp 35.8°C | SpO2 100%
+
+PHYSICAL EXAM:
+General: Alert, comfortable. No facial oedema.
+Cardiovascular: Normal heart sounds. BP bilateral arms equal.
+Respiratory: Clear.
+Abdomen: Gravid uterus — fundal height 33cm. Fetal presentation: cephalic, 2/5 palpable.
+No uterine tenderness.
+Extremities: 1+ pitting oedema bilateral ankles — non-pitting on pressure.
+Reflexes: Normal — no clonus.
+
+INVESTIGATIONS:
+Urine dipstick: Protein trace (repeat MSU sent)
+Spot urinary protein:creatinine ratio: 24 mg/mmol (below 30 threshold for proteinuria)
+FBC: Hb 11.8, Platelets 198K, WBC 9.2
+LFTs: ALT 22, AST 18, Bilirubin 0.4 — normal
+Urea & electrolytes: Normal. Creatinine 62.
+Uric acid: 0.38 mmol/L (mildly elevated, non-specific)
+LDH: 182 U/L — normal
+CTG: Reactive — normal fetal heart rate pattern
+Fetal USS: BPP 8/8. Estimated fetal weight 2,180g (30th centile — appropriate for gestation).
+Umbilical artery Dopplers: Normal flow.
+
+ASSESSMENT:
+1. Gestational hypertension at 34 weeks — BP ≥140/90 without proteinuria
+2. Fetal growth appropriate; no fetal compromise
+
+PLAN:
+1. Admit for observation and BP monitoring q4h
+2. Antihypertensive therapy: Labetalol 200mg BD oral — initiate (target BP 130-150/80-100)
+3. Antenatal corticosteroids: Betamethasone 12mg IM x2 doses (24h apart) — fetal lung maturity (34 weeks)
+4. Magnesium sulphate: NOT indicated currently (no severe features, no preeclampsia)
+5. Continuous CTG monitoring x6h, then intermittent if stable
+6. Repeat bloods (FBC, LFTs, renal, LDH) in 24h
+7. Consultant review: if BP refractory, if proteinuria develops, or if fetal concerns
+8. Delivery plan: aim 37 weeks if stable; expedited if severe hypertension, HELLP criteria, or fetal compromise
+9. Aspirin continued until delivery

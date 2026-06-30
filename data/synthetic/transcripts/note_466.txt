@@ -1,0 +1,43 @@
+encounter_id: transcript-042
+encounter_type: Inpatient — Cardiology
+condition: New-Onset Atrial Fibrillation — Rapid Ventricular Rate
+icd10_primary: I48.0
+data_tag: SYNTHETIC
+---
+DATE: 2024-11-05   TIME: 00:30   PROVIDER: Dr. Elena Rossi, MD (Cardiology)
+
+CC: Palpitations and dyspnoea — 6 hours. ECG: AF with rapid ventricular response.
+
+HPI: 62 yo M referred from ED with 6h palpitations and exertional dyspnoea. No prior AF documented.
+No chest pain, no syncope. Thyroid disease excluded recently. Mild alcohol use (20 units/week).
+Haemodynamically stable on presentation.
+
+ROS: Positive: palpitations, mild dyspnoea, fatigue. Negative: no chest pain, no presyncope, no fever.
+
+PMH: Hypertension | Obstructive sleep apnoea (non-adherent CPAP) | PSH: None.
+FHx: Father: AF. SHx: Solicitor. Married. Alcohol 20 units/week.
+Meds: Amlodipine 10mg. Allergies: NKDA.
+
+VITAL SIGNS: BP 154/82 | HR 146 (irregular) | RR 19 | SpO2 99% | BMI 31.4
+
+PHYSICAL EXAM: Irregular pulse 142bpm. No JVP elevation. Chest: clear.
+No peripheral oedema. No thyromegaly.
+
+INVESTIGATIONS:
+ECG: AF — no delta waves, no aberrant conduction, no ST changes.
+Echo: mildly dilated LA (42mm). EF 55% — normal systolic function. No LVH.
+TFTs: TSH 1.8 (normal). HbA1c: 5.6%. U&E: normal. TTE: no pericardial effusion.
+CXR: mild cardiomegaly — consistent with LA dilation only.
+
+ASSESSMENT:
+1. New-onset AF — rapid ventricular rate (HR 142)
+2. Haemodynamically stable — rate control strategy first
+3. Onset unclear: not certain <48h → cardioversion not safe without TOE
+
+PLAN:
+1. Rate control: bisoprolol 2.5mg PO (titrate to HR <100), check BP response
+2. Anticoagulation: initiate apixaban 5mg BD immediately (CHA2DS2-VASc 2: HTN + male sex)
+3. TOE-guided cardioversion: if patient opts for rhythm control after anticoagulation established
+4. Sleep apnoea: CPAP adherence essential — OSA is independent AF trigger
+5. Alcohol counselling: 20 units/week — AF risk factor; refer to alcohol service
+6. Cardiology outpatient at 4-6 weeks — AF review and rhythm control decision

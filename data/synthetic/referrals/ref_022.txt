@@ -1,0 +1,60 @@
+referral_id: REF-2025-085093
+specialty: Sleep Medicine
+urgency: ROUTINE
+patient_name: Marcus Jefferson
+patient_dob: 1968-07-19
+patient_sex: Male
+patient_mrn: MRN-3920485
+insurance: Humana HMO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — SLEEP MEDICINE
+Date: 2025-11-17    Referral ID: REF-2025-085093
+Urgency: ROUTINE — Appointment within 4-6 weeks
+
+TO: Sleep Medicine Department, Sleep Disorders Centre
+FROM: Dr. Andrew Collins, MD — Primary Care, NPI 5839201746
+      Midtown Family Medicine, Phone: (555) 670-8899, Fax: (555) 670-8900
+
+PATIENT: Marcus Jefferson | DOB: 1968-07-19 | Age: 57 | Sex: Male
+MRN: MRN-3920485 | Insurance: Humana HMO | Member ID: HM-3920485-7
+
+REASON FOR REFERRAL: Suspected obstructive sleep apnoea (OSA) — Epworth Sleepiness Scale 14,
+BMI 34, witnessed apnoeas, and poorly controlled hypertension. Requesting polysomnography and
+management initiation.
+
+CLINICAL SUMMARY:
+Mr. Jefferson is a 57-year-old male presenting with a 3-year history of progressive daytime
+somnolence, loud habitual snoring, and witnessed apnoeas reported by his wife. He frequently
+falls asleep at the wheel (near-miss incident 3 months ago — reported to referring physician)
+and while watching television. He reports waking unrefreshed and experiencing morning headaches.
+
+Epworth Sleepiness Scale: 14/24 (abnormal — threshold >10). STOP-BANG score: 6/8 (HIGH risk).
+BP: 158/96 mmHg — poorly controlled despite three antihypertensives (Amlodipine 10mg, Lisinopril
+40mg, HCTZ 25mg). Neck circumference: 44cm (>40cm — risk factor). BMI: 34.1, weight 108kg.
+Oxygen saturation at rest: 96%. No cor pulmonale on CXR.
+
+ECG: Normal sinus rhythm, no LVH pattern. Echo (18 months ago): EF 62%, no significant
+valve disease, mild LV diastolic dysfunction.
+
+Comorbidities: HTN (as above), T2DM (HbA1c 7.4%), GORD (Omeprazole 20mg QD), depression
+(Sertraline 100mg QD — causes sedation, may contribute to daytime sleepiness).
+
+The near-miss driving incident raises a fitness-to-drive concern that requires urgent sleep
+assessment documentation.
+
+Allergies: Sulfonamides (rash). No CPAP experience.
+
+QUESTIONS FOR SLEEP MEDICINE:
+1. Overnight polysomnography or home sleep apnoea test (HSAT) — which is appropriate first?
+2. If OSA confirmed: CPAP initiation, auto-titration, or fixed pressure?
+3. Will CPAP therapy improve blood pressure control?
+4. Fitness to drive assessment — pending PSG results?
+5. Role of positional therapy given body habitus?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-665584 | Insurance: Humana HMO
+Authorised for: Sleep medicine consultation and overnight sleep study
+
+Referring Physician: Dr. Andrew Collins, MD
+NPI: 5839201746 | Phone: (555) 670-8899 | Fax Results To: (555) 670-8900

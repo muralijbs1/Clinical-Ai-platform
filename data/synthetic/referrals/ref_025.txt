@@ -1,0 +1,58 @@
+referral_id: REF-2025-088294
+specialty: ENT
+urgency: ROUTINE
+patient_name: Alicia Romero
+patient_dob: 1977-09-11
+patient_sex: Female
+patient_mrn: MRN-6039281
+insurance: UnitedHealthcare Select
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — EAR, NOSE & THROAT (ENT) / RHINOLOGY
+Date: 2025-11-24    Referral ID: REF-2025-088294
+Urgency: ROUTINE — Appointment within 4-6 weeks
+
+TO: ENT / Rhinology Department
+FROM: Dr. James Osei, MD — Primary Care, NPI 8940201837
+      Community Health Partners, Phone: (555) 900-2233, Fax: (555) 900-2234
+
+PATIENT: Alicia Romero | DOB: 1977-09-11 | Age: 48 | Sex: Female
+MRN: MRN-6039281 | Insurance: UnitedHealthcare Select | Member ID: UH-6039281-10
+
+REASON FOR REFERRAL: Recurrent chronic rhinosinusitis (CRS) with nasal polyps — 4 acute
+exacerbations per year requiring antibiotics. Failed maximal medical therapy. Requesting ENT
+evaluation for possible functional endoscopic sinus surgery (FESS).
+
+CLINICAL SUMMARY:
+Ms. Romero is a 48-year-old female with a 9-year history of CRS with nasal polyps (CRSwNP).
+She experiences persistent nasal obstruction, anosmia (complete for 2 years), post-nasal drip,
+facial pressure and headache, and purulent anterior rhinorrhoea. SNOT-22 score: 62/110 (severe).
+She has had 4 acute exacerbations in the past 12 months, each requiring antibiotics (amoxicillin-
+clavulanate or clarithromycin).
+
+Medical therapy to date: Mometasone furoate nasal spray 200mcg BID (ongoing 4 years), saline
+irrigations BD, oral prednisolone bursts x3 in 18 months (partial and short-lived improvement).
+Leukotriene antagonist (Montelukast 10mg QD) added 6 months ago — no significant benefit.
+
+CT Sinuses (3 months ago): Bilateral pansinusitis — Lund-Mackay score 18/24. Large bilateral
+ethmoid polyp burden. Mild mucosal thickening maxillary sinuses. No orbital or intracranial
+complications.
+
+Comorbidities: Asthma (Step 2 — ICS; well-controlled), allergic rhinitis.
+Note: Aspirin sensitivity NOT formally tested — refer for aspirin desensitisation assessment
+if Samter's triad suspected (asthma + CRSwNP + aspirin sensitivity).
+Allergies: No known drug allergies.
+
+QUESTIONS FOR ENT:
+1. Surgical candidacy for FESS — extent of surgery (ethmoidectomy, antrostomy, sphenoidotomy)?
+2. Should aspirin desensitisation be considered (Samter's triad)?
+3. Biologic therapy (dupilumab, mepolizumab) — is this patient a candidate before or instead of surgery?
+4. Post-operative maintenance therapy plan?
+5. Smell rehabilitation programme post-FESS?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-992804 | Insurance: UnitedHealthcare Select
+Authorised for: ENT consultation, nasal endoscopy, and FESS assessment
+
+Referring Physician: Dr. James Osei, MD
+NPI: 8940201837 | Phone: (555) 900-2233 | Fax Results To: (555) 900-2234

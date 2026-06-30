@@ -1,0 +1,45 @@
+encounter_id: transcript-052
+encounter_type: Inpatient — Neurology
+condition: Status Epilepticus — Refractory, Convulsive
+icd10_primary: G41.2
+data_tag: SYNTHETIC
+---
+DATE: 2024-08-03   TIME: 07:45   PROVIDER: Dr. Angela Foster, MD (Neurology / Neurocritical Care)
+
+CC: Ongoing generalised tonic-clonic seizure >30 minutes — status epilepticus
+
+HPI: 25 yo F with known idiopathic generalised epilepsy (levetiracetam 1000mg BD) brought by ambulance.
+Generalised tonic-clonic seizure started at 00:40 at home; ambulance arrived 00:55. Lorazepam 4mg IV
+given by paramedics — partial response then re-seizure. Arriving at ED at 01:12 — still seizing.
+Missed 2 days of levetiracetam (travelling). Concurrent febrile illness (URTI symptoms).
+
+ROS: Via parents — well until 3 days ago. No meningism symptoms. No recent medication change.
+
+PMH: Idiopathic generalised epilepsy (diagnosed age 16) | PSH: None.
+FHx: Maternal grandmother: epilepsy. SHx: University student. Non-smoker.
+Meds: Levetiracetam 1000mg BD. Allergies: NKDA.
+
+VITAL SIGNS: HR 143 | BP 152/91 | Temp 35.7°C | SpO2 88% on O2 15L NRB | GCS 8 (post-ictal)
+
+PHYSICAL EXAM: Active generalised tonic-clonic movements. Eyes deviated. No focal features.
+Post-ictal: GCS improving to 11 after midazolam. No neck stiffness.
+
+INVESTIGATIONS:
+BM glucose: 6.8 (normal). ABG: pH 7.22, pCO2 58 (respiratory acidosis — post-ictal hypoventilation).
+Na 136, K 4.0, Ca 2.28. CRP 18 (febrile illness — no meningitis).
+CT head: no haemorrhage, no focal lesion.
+EEG (bedside): generalised epileptiform discharges.
+
+ASSESSMENT:
+1. Refractory status epilepticus (>30min, 2nd-line benzodiazepine given)
+2. Respiratory acidosis — post-ictal + muscle activity
+3. Precipitants: levetiracetam non-adherence + febrile illness
+
+PLAN:
+1. IV levetiracetam 60mg/kg (max 4500mg) over 10 minutes — as 2nd anti-seizure medication
+2. If no response in 10 min: phenytoin 20mg/kg IV or sodium valproate 40mg/kg IV
+3. If refractory (>45min): anaesthetic team → RSI with midazolam/propofol infusion; ICU
+4. Airway: position patient, suction ready, anaesthetics on standby
+5. Oximetry continuous; consider intubation if SpO2 remains <92%
+6. Investigate cause: LP if CT clear (exclude meningitis); MRI brain post-stabilisation
+7. Epilepsy team review — levetiracetam adherence support, possible dose escalation

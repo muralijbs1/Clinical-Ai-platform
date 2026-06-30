@@ -1,0 +1,65 @@
+referral_id: REF-2025-097922
+specialty: Palliative Care
+urgency: ROUTINE
+patient_name: Edmund Carlisle
+patient_dob: 1947-02-11
+patient_sex: Male
+patient_mrn: MRN-6958260
+insurance: Medicare Part B
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — PALLIATIVE CARE / SUPPORTIVE MEDICINE
+Date: 2025-12-12    Referral ID: REF-2025-097922
+Urgency: ROUTINE — Appointment within 4 weeks (not an emergency)
+
+TO: Palliative Care & Supportive Medicine Team
+FROM: Dr. Caitlin Byrne, MD — Pulmonology, NPI 8811002218
+      Respiratory & COPD Clinic, Phone: (555) 890-1133, Fax: (555) 890-1134
+
+PATIENT: Edmund Carlisle | DOB: 1947-02-11 | Age: 78 | Sex: Male
+MRN: MRN-6958260 | Insurance: Medicare Part B | Medicare ID: 3CA-B8-6958
+
+REASON FOR REFERRAL: End-stage COPD (GOLD Stage IV, FEV1 22%) with multiple recent
+hospitalisations, declining performance status, and significant symptom burden. Goals of
+care discussion and advance care planning. Palliative symptom management optimisation.
+
+CLINICAL SUMMARY:
+Mr. Carlisle is a 78-year-old male with a 25-year history of COPD, former 60 pack-year smoker
+(quit 10 years ago). His disease has been on a relentless decline trajectory. He was hospitalised
+4 times in the past 12 months for acute exacerbations — two requiring ICU-level NIV.
+
+PULMONARY FUNCTION (last performed 4 months ago, limited cooperation):
+FEV1: 22% predicted | FEV1/FVC: 0.38 | DLCO: 24% (severely reduced)
+Post-bronchodilator response: minimal (<5% change)
+
+Current functional status: Housebound. Dyspnoeic at rest (mMRC grade 4). Cannot dress
+independently. Sleeps in recliner chair due to orthopnoea. CAT score: 32 (extremely high).
+Oxygen: Home O2 3L/min continuous, home NIV (BiPAP) nightly.
+
+Current maximum therapy: Tiotropium, Indacaterol/glycopyrronium/mometasone, Albuterol nebuliser
+PRN, oral morphine 2.5mg PRN for dyspnoea (commenced 1 month ago — good effect), Prednisolone
+5mg maintenance. Roflumilast 500mcg QD.
+
+Comorbidities: Ischaemic heart disease (EF 40%, stable — Bisoprolol, Ramipril, Furosemide),
+atrial fibrillation (Digoxin, Apixaban), T2DM (insulin), depression (Sertraline 50mg QD).
+BMI 19.2 (cachectic — weight loss 8kg over 12 months).
+
+Patient's expressed wishes (documented in recent clinic visit): He does not wish further ICU
+admissions or mechanical ventilation. He expressed a preference for "comfort-focused care."
+Family (wife, two adult children) are aware. Advance directive not yet formally completed.
+
+Allergies: Morphine — tolerated but causes nausea (manage with antiemetic); no allergy.
+
+QUESTIONS FOR PALLIATIVE CARE:
+1. Goals of care documentation — advance directive, POLST/MOLST completion?
+2. Optimise dyspnoea management — titrate oral morphine, add midazolam PRN?
+3. Nutritional support — dietitian referral, appetite stimulants?
+4. Hospice referral eligibility assessment — prognosis <6 months?
+5. Psychological support for patient and family?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-878704 | Insurance: Medicare Part B
+Authorised for: Palliative care consultation and advance care planning
+
+Referring Physician: Dr. Caitlin Byrne, MD
+NPI: 8811002218 | Phone: (555) 890-1133 | Fax Results To: (555) 890-1134

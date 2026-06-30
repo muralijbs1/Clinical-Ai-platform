@@ -1,0 +1,63 @@
+encounter_id: transcript-026
+encounter_type: Outpatient — Primary Care
+condition: Major Depressive Disorder — Moderate Severity
+icd10_primary: F32.1
+data_tag: SYNTHETIC
+---
+DATE: 2024-01-12   TIME: 01:45   PROVIDER: Dr. Nguyen Van Minh, MD (Family Medicine / Mental Health)
+
+CC: Persistent low mood, fatigue, and difficulty functioning at work — 8 weeks
+
+HPI: 42 yo F presents with 8-week history of persistent low mood, anhedonia, fatigue, poor sleep
+(early morning waking), reduced appetite (4kg weight loss), difficulty concentrating at work, and
+feelings of hopelessness. Reports being passed over for a promotion 9 weeks ago. No history of mania,
+psychosis, or mixed episodes. No hallucinations. PHQ-9 today: 16/27 (moderately severe depression).
+Denies suicidal ideation currently — has had passive thoughts of "not wanting to be here" but no
+plans, intent, or means. Has a supportive partner and two children.
+
+ROS: Positive: depressed mood, anhedonia, fatigue, insomnia (early waking), poor appetite,
+weight loss 4kg, poor concentration. Negative: no mania, no psychosis, no substance use.
+
+PMH: Anxiety disorder (treated with CBT 4 years ago — good response) | Hypothyroidism (well-controlled)
+PSH: None
+FHx: Mother: depression (treated). No family history of bipolar disorder or suicide.
+SHx: Marketing manager. Married. 2 children (ages 7 and 10). Non-smoker. Occasional alcohol (4 units/week).
+Meds: Levothyroxine 75mcg QD.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 114/71 | HR 77 | RR 13 | Temp 35.0°C | SpO2 100% | Wt 61kg (was 65kg 2 months ago)
+
+PHYSICAL EXAM:
+General: Well-dressed, soft-spoken. Mildly restricted affect. Appropriate eye contact.
+Psychomotor: No agitation or retardation. Speech rate and volume normal.
+No physical findings contributory.
+
+INVESTIGATIONS:
+TSH: 1.6 (well-controlled hypothyroidism on current levothyroxine dose)
+FBC: Normal. Hb 12.8. No anaemia.
+Ferritin: 42 (normal). Vitamin D: 48 nmol/L (low — supplementation started).
+HbA1c: 5.5% (no diabetes).
+
+RISK ASSESSMENT:
+Suicidal ideation: Passive — "not wanting to be here" but NO plan, NO intent, NO means identified.
+Protective factors: Supportive partner, children, engaged in assessment, help-seeking.
+Risk level: MODERATE — outpatient management appropriate with safety planning.
+Safety plan documented — agreed with patient. Emergency contact: partner (notified and engaged).
+
+ASSESSMENT:
+1. Major depressive disorder — moderate severity (PHQ-9 16, 8-week duration, functional impairment)
+2. Hypothyroidism — well-controlled (not contributing to depression)
+3. Vitamin D insufficiency — secondary
+4. Moderate suicide risk — outpatient safe with safety plan
+
+PLAN:
+1. Sertraline 50mg QD — start today. Review in 4 weeks (increase to 100mg if partial response).
+   Counselled: 2-4 weeks for effect; may feel more anxious initially; do NOT stop abruptly.
+2. Referral to CBT (individual therapy) — prior good response; psychological therapy + medication
+   evidence superior to either alone for moderate MDD.
+3. Vitamin D 1,000 IU QD supplementation
+4. Safety planning: crisis line number given. Partner engaged. Return to ED if thoughts become active.
+5. Sick note provided for 2 weeks — reduce work stress while initiating treatment.
+6. Sleep hygiene education: fixed wake time, limit screen use after 9pm, avoid daytime napping.
+7. Follow-up: 4 weeks (response assessment PHQ-9), sooner if worsening.
+8. PHQ-9 tracking at every visit. Escalation plan if no response at 8 weeks.

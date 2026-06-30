@@ -1,0 +1,42 @@
+encounter_id: transcript-019
+encounter_type: Inpatient — Nephrology
+condition: Hyponatraemia — SIADH
+icd10_primary: E22.2
+data_tag: SYNTHETIC
+---
+DATE: 2023-05-19   TIME: 13:00   PROVIDER: Dr. Meera Krishnaswamy, MD (Nephrology)
+
+CC: Confusion, nausea, and falls x 2 days
+
+HPI: 84 yo F with recent onset confusion, nausea, and two unwitnessed falls at home.
+Daughter reports gradual worsening over 2 days. Recently started sertraline (SSRI) 6 weeks ago
+for depression. Also takes hydrochlorothiazide for HTN. No vomiting, diarrhoea, or excess water
+intake. No known malignancy. Recent CXR 3 months ago normal.
+
+VS: BP 118/70 | HR 77 | RR 15 | Temp 36.8°C | SpO2 100% RA | Wt 58kg
+
+EXAM: Mildly confused — disoriented to date. Mucous membranes moist. No orthostasis. No oedema.
+No JVD. Euvolaemic on exam.
+
+LABS:
+Na: 118 mEq/L [CRITICALLY LOW] | K: 3.8 | Cl 82 | HCO3 22
+Plasma osmolality: 248 mOsm/kg [LOW] | Urine osmolality: 432 mOsm/kg [HIGH — inappropriate]
+Urine Na: 68 mEq/L [HIGH — renal Na wasting] | Urine Cl: 62
+TSH: 2.1 [normal] | Cortisol (AM): 22 µg/dL [normal]
+Cr 0.8 | Glu 92 | Albumin 3.8 | Liver function: normal
+
+ASSESSMENT:
+1. Severe Symptomatic Hyponatraemia — Na 118, symptomatic (confusion, falls) — E22.2
+2. SIADH — euvolaemic, urine Osm >plasma Osm, urine Na >40 mEq/L
+   Likely aetiology: SSRI (sertraline) — most common drug-induced SIADH in elderly
+   Secondary: thiazide diuretic (HCT contributing)
+
+PLAN:
+1. STOP SERTRALINE immediately. STOP HCTZ.
+2. Fluid restriction: 800-1000mL/day
+3. Correction target: raise Na 6-8 mEq/L per 24h ONLY (avoid osmotic demyelination — max 10 mEq/L/24h)
+4. Hypertonic saline (3% NaCl): 1mL/kg/hr for symptomatic hyponatraemia — check Na q2h
+5. Monitor q4h BMP. Urine Na and osmolality q6h.
+6. When Na >125 and asymptomatic: stop 3% saline, continue fluid restriction only.
+7. Psychiatry re: alternative antidepressant (mirtazapine — low SIADH risk)
+8. Neurology consult if rapid overcorrection occurs.

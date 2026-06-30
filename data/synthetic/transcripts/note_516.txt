@@ -1,0 +1,45 @@
+encounter_id: transcript-047
+encounter_type: Inpatient — Hepatology
+condition: Alcoholic Hepatitis — Severe (Maddrey's DF > 32)
+icd10_primary: K70.10
+data_tag: SYNTHETIC
+---
+DATE: 2024-05-25   TIME: 21:30   PROVIDER: Dr. Thomas Andersson, MD (Hepatology)
+
+CC: Jaundice, abdominal distension, confusion — 10 days
+
+HPI: 44 yo M with known alcohol use disorder presents with 10-day worsening jaundice, abdominal
+distension, and mild confusion over past 2 days. Drinking 20–30 units/day for 15 years.
+Last drink: this morning. No prior liver decompensation documented.
+
+ROS: Positive: jaundice, ascites, confusion, anorexia. Negative: no haematemesis, no melaena.
+
+PMH: Alcohol use disorder | PSH: None. FHx: Father: cirrhosis.
+SHx: Unemployed. Lives alone. Meds: Thiamine 100mg QD (inconsistent). Allergies: NKDA.
+
+VITAL SIGNS: BP 101/69 | HR 112 | RR 19 | Temp 39.9°C | SpO2 100% | BMI 23.8
+
+PHYSICAL EXAM: Icteric. Spider naevi × 5. Palmar erythema. Gynaecomastia.
+Abdomen: tense ascites, shifting dullness positive. Splenomegaly 16cm. Tender hepatomegaly 4cm.
+Confusion: AMTS 6/10.
+
+INVESTIGATIONS:
+Bilirubin: 18.4 mg/dL. PT 22s, INR 2.1. ALT 112, AST 228 (AST:ALT 2:1 — alcoholic pattern).
+Albumin 22. Creatinine 1.4 (MELD-Na score 28 — severe). WBC 18.4.
+Maddrey's Discriminant Function: 54 (>32 — severe, steroids indicated).
+USS abdomen: cirrhotic liver, large ascites, portal hypertension. No focal lesion.
+Diagnostic paracentesis: 0.4g/L protein, SAAG 1.2. WBC <250 — no SBP.
+
+ASSESSMENT:
+1. Severe alcoholic hepatitis (Maddrey DF 54, MELD-Na 28)
+2. Compensated cirrhosis decompensating (ascites, jaundice, encephalopathy grade I)
+3. No spontaneous bacterial peritonitis
+
+PLAN:
+1. Prednisolone 40mg QD × 28 days (Lille score at day 7 — stop if non-responder)
+2. Pentoxifylline: NOT first-line (STOPAH trial) — prednisolone monotherapy
+3. IV thiamine 200mg TDS × 3 days → oral (Wernicke prevention)
+4. Rifaximin 550mg BD + lactulose (hepatic encephalopathy prophylaxis)
+5. Diuretics for ascites: spironolactone 100mg → furosemide 40mg (stepwise)
+6. Alcohol liaison team referral: CAGE assessment, detox planning
+7. Liver transplant MDT: abstinence-based assessment at 6 months if MELD improves

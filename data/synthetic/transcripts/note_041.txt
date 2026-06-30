@@ -1,0 +1,44 @@
+encounter_id: transcript-041
+encounter_type: Inpatient — Cardiology
+condition: Acute Decompensated Heart Failure — HFrEF
+icd10_primary: I50.21
+data_tag: SYNTHETIC
+---
+DATE: 2025-03-18   TIME: 08:30   PROVIDER: Dr. Amanda Walsh, MD (Cardiology)
+
+CC: Worsening dyspnoea at rest, orthopnoea, ankle swelling — 5 days
+
+HPI: 69 yo F with known ischaemic cardiomyopathy (LVEF 30%) presents with 5-day worsening dyspnoea.
+Now breathless at rest and unable to lie flat (3-pillow orthopnoea). Bilateral ankle oedema worsening.
+Weight gain 5kg in past week. Non-adherent to fluid restriction over Christmas holiday.
+
+ROS: Positive: dyspnoea at rest, orthopnoea, ankle oedema, weight gain, fatigue.
+Negative: no chest pain, no fever, no palpitations.
+
+PMH: Ischaemic cardiomyopathy (LVEF 30%) | AF (on anticoagulation) | CKD3 | PSH: CABG 2014.
+SHx: Retired. Lives with husband. Meds: Furosemide 80mg BD | Carvedilol 25mg BD |
+Sacubitril-valsartan 97/103mg BD | Eplerenone 25mg | Apixaban 5mg BD. Allergies: NKDA.
+
+VITAL SIGNS: BP 108/68 | HR 82 (AF) | RR 22 | SpO2 91% on air | Wt 72kg (dry wt 67kg)
+
+PHYSICAL EXAM: JVP elevated to angle of jaw. Bilateral coarse basal crackles.
+Bilateral pitting oedema to knees. No murmurs beyond established findings.
+
+INVESTIGATIONS:
+BNP: 2,840 pg/mL (prev 480). Troponin: 28 ng/L (mildly raised, chronic). Creatinine 1.8 (prev 1.4).
+CXR: cardiomegaly, bilateral alveolar infiltrates, pleural effusions.
+Echo (today): LVEF 28%, dilated LV, no new wall motion abnormality.
+
+ASSESSMENT:
+1. Acute decompensated HFrEF — fluid overload (5kg above dry weight)
+2. Worsening renal function — cardiorenal syndrome type 1
+3. Non-adherence to fluid restriction — precipitating cause
+
+PLAN:
+1. IV furosemide 80mg BD (double oral dose) — target urine output >200mL/h for 2-3h
+2. Strict fluid restriction 1.5L/24h. Daily weights.
+3. Electrolytes monitoring BD (diuresis-related hypokalaemia risk)
+4. Continue sacubitril-valsartan and carvedilol (do not stop — beneficial even in decompensation)
+5. Cardiology MDT: consider SGLT2i initiation once stable
+6. Heart failure nurse specialist referral — fluid management education
+7. Discharge planning: home telemonitoring and daily weight diary

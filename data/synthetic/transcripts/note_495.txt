@@ -1,0 +1,42 @@
+encounter_id: transcript-045
+encounter_type: Emergency Department / Neurology
+condition: Transient Ischaemic Attack — High-Risk (ABCD2 Score 5)
+icd10_primary: G45.9
+data_tag: SYNTHETIC
+---
+DATE: 2025-10-23   TIME: 08:00   PROVIDER: Dr. Mark Chen, MD (Emergency Medicine / Neurology Liaison)
+
+CC: Transient left arm weakness and speech difficulty — 20 minutes, fully resolved
+
+HPI: 69 yo M presents with 20-minute episode of left arm weakness and dysarthria, fully resolved.
+Onset while watching television. No LOC. No headache. Symptoms resolved completely within 20min.
+Previous TIA 2 years ago — discharged on aspirin and statin. Non-adherent to statin.
+
+ROS: Positive: transient left arm weakness, dysarthria (resolved). Negative: no vision change, no LOC.
+
+PMH: HTN | AF (paroxysmal, NOT anticoagulated — patient declined) | Hypercholesterolaemia | Prior TIA.
+PSH: None. FHx: Father: stroke age 68. SHx: Retired plumber. Smoker 30 pack years. Current smoker.
+Meds: Aspirin 75mg | Amlodipine 10mg | Atorvastatin (not taking). Allergies: NKDA.
+
+VITAL SIGNS: BP 159/93 | HR 80 (regular) | RR 14 | Temp 38.7°C | SpO2 96%
+
+PHYSICAL EXAM: Fully resolved — no neurological deficit now. NIHSS 0.
+Carotid auscultation: right carotid bruit.
+
+INVESTIGATIONS:
+CT brain: no acute infarct. MRI DWI: small right hemisphere lacune on DWI (new — microinfarct).
+CT angiography: right ICA 68% stenosis. ECG: sinus rhythm today (not AF).
+Echocardiogram: mild LA dilation (40mm). LDL 3.4 mmol/L.
+
+ASSESSMENT:
+1. TIA — high risk (ABCD2 score 5: age 66 + BP 168 + unilateral weakness + duration 20min)
+2. Right ICA stenosis 68% — symptomatic — carotid endarterectomy indicated
+3. AF (paroxysmal) — not anticoagulated — major risk factor inadequately managed
+
+PLAN:
+1. Dual antiplatelet: add clopidogrel 75mg QD to aspirin for 21 days (POINT trial)
+2. Restart atorvastatin 80mg QHS — LDL 3.4 (must be on statin after TIA)
+3. Urgent neurology and vascular surgery referral — CEA within 14 days of TIA (symptomatic 68% stenosis)
+4. Anticoagulation counselling: paroxysmal AF — apixaban strongly recommended (patient education)
+5. Blood pressure: increase amlodipine + add losartan (target BP <130/80 post-TIA)
+6. Smoking cessation: NRT prescribed, QUIT referral placed

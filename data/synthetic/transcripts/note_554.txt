@@ -1,0 +1,47 @@
+encounter_id: transcript-051
+encounter_type: Outpatient — Geriatrics
+condition: Comprehensive Geriatric Assessment — Delirium Prevention Post-Elective Surgery
+icd10_primary: Z96.641
+data_tag: SYNTHETIC
+---
+DATE: 2024-06-03   TIME: 08:00   PROVIDER: Dr. David Okonkwo, MD (Geriatric Medicine)
+
+CC: Pre-operative CGA before elective right total hip replacement — 84-year-old
+
+HPI: 82 yo M referred by orthopaedics for pre-operative CGA before elective right THR
+(severe osteoarthritis, mobility limited to 50m, pain 8/10). NICE recommends CGA in frail patients
+before elective major surgery. Lives alone. Independent with basic ADLs.
+
+ROS: Positive: right hip pain, reduced mobility. Negative: no angina, no dyspnoea at rest.
+
+PMH: Osteoarthritis (bilateral hip/knee) | HTN | Parkinson's disease (mild, H&Y stage 2) | CKD3b (eGFR 42).
+PSH: CABG 1998. FHx: Not relevant. SHx: Retired GP. Lives alone. Drives short distances.
+Meds: Co-careldopa 12.5/50mg TDS | Amlodipine 10mg | Atorvastatin 40mg | Paracetamol 1g QDS.
+Allergies: NSAIDs (acute kidney injury).
+
+VITAL SIGNS: BP 138/81 sitting, 118/72 standing (orthostatic 20mmHg systolic) | HR 61 | SpO2 93% | BMI 24.2
+
+FUNCTIONAL ASSESSMENT:
+Barthel Index: 80/100 (independent with all ADLs, dressing takes longer).
+Timed Up and Go: 18s (moderate fall risk). 4-metre gait speed: 0.76 m/s (frailty threshold <0.8).
+Grip strength: 19kg (below age-norm — sarcopaenia risk).
+MMSE: 26/30 (mild cognitive impairment — attention -2, delayed recall -2).
+Clinical Frailty Scale: 4/9 (vulnerable — not frail, but at-risk).
+
+INVESTIGATIONS: Hb 11.6 (mild iron deficiency). eGFR 42. Creatinine 1.4. Na 138, K 4.0. HbA1c 5.6%.
+
+ASSESSMENT:
+1. Vulnerable frail older adult (CFS 4) — elevated peri-operative delirium risk
+2. Mild cognitive impairment — further elevates delirium risk
+3. Orthostatic hypotension — peri-operative fall risk; monitor antihypertensives
+4. Mild anaemia — correct pre-operatively
+
+PLAN:
+1. Pre-op IV iron (Ferinject) — Hb 11.6 with iron deficiency (ferritin 12)
+2. Anaesthesia communication: prefer spinal over general (lower delirium risk in elderly)
+3. Peri-op: avoid anticholinergic medications, benzodiazepines, opioid excess
+4. Delirium prevention protocol: reorientation, sensory aids, early mobilisation
+5. Co-careldopa: continue throughout — do NOT stop (rigidity/NMS risk in Parkinson's)
+6. Occupational therapy: home assessment for post-discharge aids (raised toilet seat, rails)
+7. Physiotherapy: commence pre-operative strength work; early post-op mobilisation same day
+8. Discharge planning: planned home with daily care package initially

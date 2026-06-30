@@ -1,0 +1,60 @@
+referral_id: REF-2025-093558
+specialty: Gynaecology (Oncology)
+urgency: URGENT
+patient_name: Eleanor Whitfield
+patient_dob: 1967-07-03
+patient_sex: Female
+patient_mrn: MRN-2514826
+insurance: Medicare Advantage — Humana
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — GYNAECOLOGICAL ONCOLOGY
+Date: 2025-12-04    Referral ID: REF-2025-093558
+Urgency: URGENT — Seen within 1 week
+
+TO: Gynaecological Oncology Department
+FROM: Dr. Harriet Johansson, MD — Obstetrics & Gynaecology, NPI 4470601978
+      Women's Health Specialists, Phone: (555) 450-7788, Fax: (555) 450-7789
+
+PATIENT: Eleanor Whitfield | DOB: 1967-07-03 | Age: 58 | Sex: Female
+MRN: MRN-2514826 | Insurance: Medicare Advantage — Humana | Member ID: MA-2514826-15
+
+REASON FOR REFERRAL: Postmenopausal bleeding (PMB) — two episodes in 6 weeks. Endometrial
+biopsy pending results. Transvaginal ultrasound shows significantly thickened endometrium.
+Requesting urgent gynaecological oncology assessment to exclude endometrial carcinoma.
+
+CLINICAL SUMMARY:
+Ms. Whitfield is a 58-year-old female, 7 years post-menopause, presenting with two episodes
+of painless per vaginal bleeding in the past 6 weeks (November 4 and November 28, 2025).
+She is NOT on hormone replacement therapy. Bleeding volume: approximately equivalent to a
+light menstrual day on each occasion. No pelvic pain. No dysuria. No bowel symptoms.
+
+Transvaginal Ultrasound (December 2, 2025): Endometrial thickness 18mm (abnormal — threshold
+>4mm post-menopause). Heterogeneous echogenicity. No intrauterine polyp definitively identified.
+No free fluid in pouch of Douglas. Ovaries: postmenopausal appearance, no masses.
+
+Endometrial Pipelle biopsy performed December 3, 2025 — specimen SENT FOR HISTOLOGY — result
+expected within 5-7 days. Patient has been advised of the referral urgency.
+
+Risk factor profile: BMI 37 (obesity — significant risk factor), nulliparous, early menarche
+(age 11), never used OCP, Type 2 diabetes (HbA1c 7.8%), hypertension (Amlodipine 5mg,
+Lisinopril 20mg). No personal or family history of gynaecological cancer. No BRCA status known.
+
+Recent bloods: HbA1c 7.8% | Cr 0.9 (eGFR 72) | FBC: Hgb 11.2 (mild anaemia — likely due to
+bleeding). CA-125: 28 U/mL (non-specifically elevated).
+Allergies: Codeine (nausea/vomiting).
+
+QUESTIONS FOR GYNAECOLOGICAL ONCOLOGY:
+1. Please review histology results when available — endometrial sampling adequate or hysteroscopy/
+   curettage required?
+2. Staging workup — CT chest/abdomen/pelvis, MRI pelvis for local staging?
+3. Is patient a candidate for robotic/laparoscopic hysterectomy + BSO + lymph node dissection?
+4. Pre-operative cardiac/metabolic optimisation given BMI 37 and T2DM?
+5. Molecular testing (MSI, MMR, POLE mutation) — Lynch syndrome assessment?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-545371 | Insurance: Medicare Advantage — Humana
+Authorised for: Urgent gynaecological oncology consultation and staging workup
+
+Referring Physician: Dr. Harriet Johansson, MD
+NPI: 4470601978 | Phone: (555) 450-7788 | Fax Results To: (555) 450-7789

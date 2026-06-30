@@ -1,0 +1,71 @@
+encounter_id: transcript-007
+encounter_type: Inpatient — General Medicine
+condition: COPD Acute Exacerbation
+icd10_primary: J44.1
+data_tag: SYNTHETIC
+---
+DATE: 2024-08-25   TIME: 04:30   PROVIDER: Dr. Alicia Nwosu, MD (Pulmonology)
+
+CC: Worsening dyspnoea, increased sputum production, cough
+
+HPI: 66 yo M with severe COPD (GOLD III, on home O2 at 2L/min) presenting with 5-day worsening
+dyspnoea, increased sputum production (greenish, more than usual), and increased cough. Was
+managing at home with frequent albuterol nebs (using 4-5x/day vs baseline 1-2x/day) without
+improvement. Last COPD exacerbation 6 months ago (required hospitalisation x4d). SpO2 at home
+dropping to 84-86%. No fever reported. Cannot say full sentences.
+
+Current exacerbation trigger: flu-like prodrome 1 week ago (fever, myalgias) — likely viral trigger.
+
+PMH: Severe COPD GOLD III (FEV1 38%) | Pack hx 45 pack-years (quit 3 years ago)
+     Hypertension | T2DM | Moderate-severe OSA (CPAP non-adherent) | Pulmonary HTN (mild)
+
+Meds: Tiotropium 18mcg inh QD | Salmeterol/Fluticasone 50/500mcg inh BID
+      Albuterol 2.5mg neb PRN | Home O2 2L/min continuous
+      Metformin 500mg BID | Lisinopril 10mg QD | Aspirin 81mg QD
+
+ALLERGIES: Penicillin (GI intolerance only — rash negative)
+
+OBJECTIVE:
+VS: BP 146/83 | HR 109 | RR 27 | Temp 37.9°C | SpO2 86% on 2L NC (home baseline 93%) | Wt 78kg
+On 4L NC: SpO2 91%. On Venturi 28%: SpO2 93%.
+
+General: Accessory muscle use, pursed-lip breathing, tripod positioning. Speaking in 3-4 word sentences.
+Respiratory: Hyperinflated chest. Barrel chest. Prolonged expiratory phase. Diffuse exp wheeze + crackles.
+             Reduced air entry bilaterally, worse at bases.
+CV: Tachycardic, regular. No murmurs. Mild elevated JVP.
+Extremities: Trace bilateral ankle oedema. No clubbing. Mild central cyanosis.
+
+LABS:
+ABG (2L NC): pH 7.32 | PaCO2 64 | PaO2 54 | HCO3 32 | BE +5 [acute-on-chronic hypercapnic failure]
+CBC: WBC 13.8 | Neutrophils 11.2 [HIGH] | Hgb 16.2 [elevated — polycythaemia] | Plt 298
+CMP: Na 138 | K 3.9 | Cr 1.0 | Glu 224 [HIGH — stress hyperglycaemia]
+CRP: 68 mg/L [elevated] | Procalcitonin: 0.18 ng/mL [low — viral/non-bacterial aetiology]
+BNP: 280 pg/mL [elevated — cor pulmonale contribution]
+
+Influenza A/B rapid: Influenza A POSITIVE
+
+CXR: Hyperinflated lungs, flattened diaphragms. No new consolidation. No PTX. Increased interstitial markings.
+ECG: Sinus tachycardia. P pulmonale. RAD. No RV hypertrophy pattern.
+
+Spirometry (baseline 6 months ago): FEV1 38% predicted, FEV1/FVC 0.52 — GOLD III
+
+ASSESSMENT:
+1. Acute Exacerbation of Severe COPD — J44.1
+   Triggering factor: Influenza A. pH 7.32, PaCO2 64 — acute-on-chronic hypercapnic failure.
+2. Influenza A infection — J10.1
+3. Hypercapnic respiratory failure — J96.01
+4. Stress hyperglycaemia — glucose 224 — R73.09
+5. Pulmonary hypertension — mild — I27.0
+
+PLAN:
+1. NIV (BiPAP) — S/T mode: IPAP 14 / EPAP 6 / RR backup 12 — titrate to CO2 and comfort
+2. Controlled oxygen therapy: Venturi 28% — target SpO2 88-92% (avoid hypercapnic drive suppression)
+3. Albuterol 2.5mg + Ipratropium 0.5mg nebs q20min x3 → q4h scheduled
+4. Methylprednisolone 125mg IV q8h x1 day → Prednisone 40mg PO QD x5 days
+5. Oseltamivir 75mg BID x5 days (positive Influenza A; within 48h of admission)
+6. Azithromycin 500mg IV QD x5d (cover atypical organisms despite low PCT — AECOPD protocol)
+7. Hold Metformin (lactic acidosis risk). Insulin sliding scale for glucose.
+8. Respiratory therapy in AM. Chest physiotherapy TID.
+9. VTE prophylaxis: Enoxaparin 40mg SC QD
+
+DISPOSITION: Pulmonary step-down unit. Close monitoring for NIV failure → intubation criteria.

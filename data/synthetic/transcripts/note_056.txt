@@ -1,0 +1,90 @@
+encounter_id: transcript-001
+encounter_type: Emergency Department
+condition: NSTEMI / Acute Coronary Syndrome
+icd10_primary: I21.4
+data_tag: SYNTHETIC
+---
+DATE: 2024-09-07   TIME: 19:45   PROVIDER: Dr. Marcus Lee, MD (Emergency Medicine)
+
+CC: Chest pain
+
+HPI: 62 yo M presents with 4-hour h/o substernal chest pain, onset while watching television at rest.
+Pain described as pressure-like, 7/10, radiating to L jaw and L arm. Associated with diaphoresis and
+mild SOB. Took 2 aspirin 325mg at home without relief. Denies syncope, palpitations, or cough.
+Similar episode 2 weeks ago lasting 20 min, resolved spontaneously — did not seek care. Significant
+cardiac RFs: HTN, DM2, hyperlipidemia, 35 pack-year tobacco history (quit 8 years ago), FHx of
+father with MI at age 59.
+
+ROS: Positive: CP, diaphoresis, SOB, jaw discomfort, L arm radiation.
+Negative: vomiting, abdominal pain, headache, visual changes, syncope, leg swelling, fever, cough.
+
+PMH: HTN x 14 years | Hyperlipidemia x 9 years | DM2 x 6 years | GERD
+
+PSH: Appendectomy 2001 | Right knee arthroscopy 2014
+
+FHx: Father: MI age 59, DM2. Mother: HTN. Brother: CAD, CABG age 62.
+
+SHx: Retired engineer. Lives with wife. Tobacco: quit 8 years ago (35 pack-years).
+Alcohol: 1-2 beers/weekend. No illicit drugs.
+
+Meds: Lisinopril 20mg QD | Atorvastatin 40mg QHS | Metformin 1000mg BID | Omeprazole 20mg QD
+      Aspirin 81mg QD (took 650mg additional at home this evening)
+
+ALLERGIES: Sulfa drugs (rash). NKDA to reported drug classes otherwise.
+
+OBJECTIVE:
+VS: BP 152/101 | HR 101 | RR 21 | Temp 36.8°C | SpO2 100% RA | Wt 91kg | Ht 5'10"
+
+General: Diaphoretic male, pale, holding chest, mild distress — not writhing.
+HEENT: Normocephalic, atraumatic. PERRL 3mm bilat. EOMI intact. Oropharynx clear, moist.
+Neck: Supple. JVD absent. Carotids 2+ without bruits. No LAD.
+CV: RRR, S1/S2 normal. No murmurs, rubs, or gallops audible. Radial and DP pulses 2+ bilat.
+Lungs: CTAB bilaterally. No crackles, wheezes, or rhonchi.
+Abdomen: Soft, NT/ND. Normoactive BS x4. No hepatosplenomegaly.
+Extremities: No clubbing, cyanosis, or edema. Capillary refill <2s.
+Neuro: A&Ox3. CN II-XII grossly intact. No focal deficits.
+
+LABS:
+hs-cTnT: 0.065 ng/mL at T=0 [ELEVATED; ref <0.014]
+hs-cTnT: 0.118 ng/mL at T=1h [RISING — delta 53 ng/L → meets NSTEMI rule-in]
+CK-MB: 9.4 ng/mL [elevated, ref <5]
+BNP: 148 pg/mL [mildly elevated, ref <100]
+CBC: WBC 9.8 | Hgb 14.6 | Plt 312 [all normal]
+CMP: Na 139 | K 4.2 | Cl 103 | CO2 24 | BUN 21 | Cr 1.1 | Glu 194
+Lipids: TC 241 | LDL 162 | HDL 38 | TG 198 [elevated LDL, low HDL]
+
+EKG: Sinus rhythm at 98 bpm. New T-wave inversions in V2-V4. Biphasic T-waves in V1.
+No ST elevation. QTc 441ms. Compared to prior EKG (PCP 6 months ago): new anterior changes.
+
+CXR: No acute cardiopulmonary process. Heart size upper-normal. No pulmonary oedema.
+No pleural effusion. Mediastinum not widened.
+
+ASSESSMENT:
+1. Non-ST-Elevation Myocardial Infarction (NSTEMI) — I21.4
+   Rising hs-cTnT with anterior T-wave changes; high pre-test probability given risk factors.
+   Differential: unstable angina (less likely given troponin rise), GERD, PE (less consistent).
+2. Hypertension — uncontrolled in setting of ACS stress — I10
+3. Hyperlipidemia — on statin, suboptimally controlled — E78.5
+4. DM2 — currently suboptimal; glucose 194 in stress setting — E11.9
+
+PLAN:
+1. NSTEMI Management:
+   - Aspirin 324mg loading dose given (patient had partial home dose) — continue 81mg QD
+   - Ticagrelor 180mg loading dose PO now → 90mg BID maintenance (P2Y12 inhibitor)
+   - Heparin IV: bolus 60 units/kg (5,460 units) → infusion 12 units/kg/hr → PTT goal 60-100s
+   - Atorvastatin uptitrated to 80mg QHS (high-intensity statin — ACS indication)
+   - Hold Metformin pending cardiac catheterisation (contrast nephropathy concern)
+   - Cardiology consult STAT — Dr. James Liu paged; response within 30 min
+   - Admit to Cardiac Telemetry; continuous rhythm monitoring
+   - Nitroglycerin 0.4mg SL q5min x3 PRN ongoing chest pain; start IV nitro drip if pain persists
+   - Serial hs-cTnT at 0, 1, 3, 6h — troponin rising, confirm peak
+   - Likely cardiac catheterisation within 24h (early invasive strategy for NSTEMI)
+
+2. Hypertension:
+   - Continue Lisinopril 20mg — do not hold (renoprotective, cardioprotective in ACS)
+
+3. General:
+   - NPO after midnight for likely cath AM
+   - O2 via NC at 2L/min (SpO2 95% — maintain >94%)
+
+DISPOSITION: Admitted to Cardiac Telemetry under Cardiology service. Stable condition.

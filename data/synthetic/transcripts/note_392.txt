@@ -1,0 +1,43 @@
+encounter_id: transcript-034
+encounter_type: Outpatient — Primary Care
+condition: Type 2 Diabetes — Routine 6-Month Review
+icd10_primary: E11.65
+data_tag: SYNTHETIC
+---
+DATE: 2024-06-14   TIME: 16:45   PROVIDER: Dr. Mark Chen, MD (Family Medicine)
+
+CC: Routine 6-month diabetes review
+
+HPI: 60 yo M with T2DM for 12 years presents for scheduled review. HbA1c was 8.4% at last visit.
+Reports improved dietary adherence over past 3 months — reduced refined carbohydrates. Home glucose
+monitoring average 9.2 mmol/L fasting. No hypoglycaemic episodes. Mild fatigue.
+
+ROS: Positive: mild fatigue. Negative: no polyuria, no foot pain, no visual changes, no chest pain.
+
+PMH: T2DM | HTN | Dyslipidaemia | PSH: None | FHx: Father: T2DM (died MI age 62).
+SHx: Bus driver. Married. Ex-smoker (5 years). Meds: Metformin 1g BD | Gliclazide 80mg BD |
+Lisinopril 10mg | Atorvastatin 40mg. Allergies: NKDA.
+
+VITAL SIGNS: BP 137/85 | HR 68 | Wt 89kg | BMI 30.2
+
+PHYSICAL EXAM: Foot exam: intact sensation (10g monofilament), normal pulses bilaterally.
+Peripheral neuropathy screening: absent ankle jerks — mild peripheral neuropathy.
+Eyes: awaiting retinal screening (overdue — scheduled).
+
+INVESTIGATIONS:
+HbA1c: 7.8% (improved from 8.4%). eGFR: 64 (stable CKD2). ACR: 38 mg/mmol (microalbuminuria).
+LDL: 2.4 mmol/L (above target <1.8). Foot vascular Doppler: normal ABI bilaterally.
+
+ASSESSMENT:
+1. T2DM — improving control (HbA1c 7.8%), microalbuminuria
+2. Mild diabetic peripheral neuropathy — ankle reflexes absent
+3. Dyslipidaemia — LDL above target
+
+PLAN:
+1. Increase atorvastatin to 80mg QHS (LDL above target — CVD primary prevention)
+2. Add empagliflozin 10mg QD (SGLT2i — renal protective, ACR 38, CKD2)
+3. Retinal screening: expedite booking
+4. Neuropathy: gabapentin available PRN if symptoms develop; avoid foot trauma
+5. ACE inhibitor: continue lisinopril (renoprotective — increase to 20mg if BP allows)
+6. DVLA notification: diabetes treated with insulin-secretagogue — check driving regulations
+7. Review 3 months with repeat HbA1c and ACR

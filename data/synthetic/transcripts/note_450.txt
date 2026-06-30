@@ -1,0 +1,43 @@
+encounter_id: transcript-040
+encounter_type: Inpatient — General Medicine
+condition: Acute Kidney Injury — Obstructive (Benign Prostatic Hyperplasia)
+icd10_primary: N17.0
+data_tag: SYNTHETIC
+---
+DATE: 2023-05-23   TIME: 12:15   PROVIDER: Dr. Meera Krishnaswamy, MD (General Internal Medicine)
+
+CC: Reduced urine output, lower abdominal discomfort, confusion — 2 days
+
+HPI: 71 yo M admitted with 2-day history of reduced urine output, suprapubic discomfort, and mild
+confusion. Wife noted patient was going to bathroom frequently but passing very little. History of
+BPH — declined TURP. No catheter in situ. Creatinine on admission 3.8 mg/dL (baseline 1.2 from 3 months ago).
+
+ROS: Positive: oliguria, suprapubic pain, confusion, nocturia. Negative: no haematuria, no fever.
+
+PMH: BPH (declined surgery) | HTN | CKD2 (baseline) | PSH: Appendicectomy.
+SHx: Retired farmer. Meds: Tamsulosin 0.4mg | Amlodipine 10mg. Allergies: Penicillin (rash).
+
+VITAL SIGNS: BP 157/89 | HR 78 | RR 16 | Temp 35.4°C | SpO2 90% | BMI 27.2
+
+PHYSICAL EXAM: Confused (AMTS 6/10). Distended bladder palpable 4cm above pubis.
+Abdomen: suprapubic dullness on percussion. DRE: markedly enlarged smooth prostate.
+
+INVESTIGATIONS:
+Creatinine 3.8 (AKI stage 3 on baseline 1.2). K+ 5.6. USS bladder: 680mL residual (acute retention).
+USS kidneys: bilateral mild hydronephrosis — obstructive uropathy.
+CXR: mild pulmonary venous congestion — fluid overload.
+
+ASSESSMENT:
+1. Acute kidney injury stage 3 — obstructive (BPH with acute urinary retention)
+2. Bilateral hydronephrosis — reversible
+3. Hyperkalaemia K+ 5.6 — AKI-related
+4. Mild pulmonary congestion — avoid aggressive IV fluids
+
+PLAN:
+1. Urethral catheterisation STAT — drain retention slowly (max 500mL/h to prevent haematuria)
+2. Post-obstructive diuresis expected — hourly fluid balance, replace output 1:1 until stable
+3. IV dextrose + insulin 10 units (K+ 5.6, ECG: peaked T waves)
+4. Calcium gluconate 10mL 10% IV — cardiac membrane stabilisation
+5. Hold: tamsulosin (alpha-blocker may worsen hypotension), ACEI if on
+6. Nephrology consult: AKI stage 3, creatinine 3.8
+7. Urology urgent referral: TURP or long-term catheter plan after recovery

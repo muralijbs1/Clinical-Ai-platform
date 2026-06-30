@@ -1,0 +1,42 @@
+encounter_id: transcript-036
+encounter_type: Outpatient — Primary Care
+condition: Hypertension — Annual Review, BP Suboptimal
+icd10_primary: I10
+data_tag: SYNTHETIC
+---
+DATE: 2023-01-06   TIME: 23:45   PROVIDER: Dr. Brendan Murphy, MD (Internal Medicine / Primary Care)
+
+CC: Annual hypertension review
+
+HPI: 67 yo M with 15-year history of hypertension presents for annual review. Home BP readings over
+past 2 weeks average 158/94 (morning). Admits poor medication adherence ("forgets evening dose").
+No chest pain, no shortness of breath, no visual disturbance. Mild headaches 2-3x/week.
+
+ROS: Positive: mild headaches, suboptimal BP at home. Negative: no chest pain, no dyspnoea, no focal neuro.
+
+PMH: HTN | AF (on warfarin, paroxysmal) | PSH: TURP 2018. FHx: Brother: stroke age 60.
+SHx: Retired teacher. Lives with wife. Ex-smoker (stopped age 55, 40pk history).
+Meds: Amlodipine 10mg QD | Losartan 100mg BD (poor adherence — takes once) | Warfarin (INR 2.4 today).
+Allergies: ACE inhibitors (dry cough — switched to ARB).
+
+VITAL SIGNS: BP 174/100 (average 3 readings) | HR 68 | BMI 27.8 | Wt 82kg
+
+PHYSICAL EXAM: No bruits. JVP normal. No oedema. Fundoscopy: AV nipping (grade 1 hypertensive retinopathy). No papilloedema.
+
+INVESTIGATIONS:
+U&E: Na 140, K 4.2, Creatinine 1.1 (eGFR 68 — CKD2). HbA1c: 5.8% (no DM).
+Echocardiogram (last year): mild LVH, EF 58%.
+
+ASSESSMENT:
+1. Hypertension — suboptimal control due to non-adherence
+2. Paroxysmal AF — adequately anticoagulated (INR 2.4)
+3. Grade 1 hypertensive retinopathy — no action change
+
+PLAN:
+1. Simplify regimen: change losartan to once-daily formulation (losartan 100mg QD)
+2. Consider adding indapamide 2.5mg QD (third agent, well-tolerated with AF)
+3. Home BP diary: 2 readings each morning × 7 days before next review
+4. Adherence: pill box, phone alarm system
+5. ABPM 24-hour recording if home readings remain elevated at 1-month review
+6. Continue warfarin; INR 2.4 is therapeutic
+7. Ophthalmology: refer for formal retinal assessment (hypertensive retinopathy grade 1)

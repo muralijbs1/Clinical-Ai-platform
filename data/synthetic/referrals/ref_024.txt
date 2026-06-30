@@ -1,0 +1,60 @@
+referral_id: REF-2025-087193
+specialty: Ophthalmology
+urgency: SOON
+patient_name: Benjamin Oduya
+patient_dob: 1953-05-28
+patient_sex: Male
+patient_mrn: MRN-5948302
+insurance: Medicare Advantage — AARP
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — OPHTHALMOLOGY
+Date: 2025-11-21    Referral ID: REF-2025-087193
+Urgency: SOON — Appointment within 2-3 weeks
+
+TO: Ophthalmology Department, Eye Care Centre
+FROM: Dr. Linda Kamara, MD — Primary Care / Geriatrics, NPI 7849201837
+      Senior Wellness Group, Phone: (555) 890-1122, Fax: (555) 890-1123
+
+PATIENT: Benjamin Oduya | DOB: 1953-05-28 | Age: 72 | Sex: Male
+MRN: MRN-5948302 | Insurance: Medicare Advantage — AARP | Member ID: MA-5948302-9
+
+REASON FOR REFERRAL: Bilateral cataracts with significantly reduced visual acuity (6/18 bilateral).
+Functional impairment affecting activities of daily living and driving. Requesting ophthalmology
+assessment for phacoemulsification and IOL implantation.
+
+CLINICAL SUMMARY:
+Mr. Oduya is a 72-year-old male who has reported progressive visual decline over 3 years.
+He describes difficulty reading, driving at night (significant glare and halos), and trouble
+recognising faces. He had a minor road traffic incident 6 months ago attributed to impaired
+vision. He no longer drives after dark.
+
+Vision assessment in primary care today:
+- Right eye: VA 6/18 with best correction. No pinhole improvement.
+- Left eye: VA 6/18 with best correction. No pinhole improvement.
+
+Ophthalmoscopic exam: Bilateral dense posterior subcapsular cataracts (right > left).
+No view of fundus due to cataract density. IOPs: Right 14mmHg, Left 13mmHg (assessed by
+non-contact tonometry).
+
+Medical history: T2DM (HbA1c 7.6% — note: increased surgical infection risk, advise pre-op
+optimisation if possible), HTN (Amlodipine 10mg, Valsartan 160mg QD), dyslipidaemia
+(Simvastatin 40mg QHS).
+
+Medications: Tamsulosin 0.4mg QD (alpha-1A antagonist — intra-operative floppy iris syndrome
+risk, IMPORTANT — inform surgeon). Aspirin 81mg QD (discuss peri-operative management).
+Allergies: Sulfonamides (Stevens-Johnson syndrome — SEVERE, document prominently).
+
+QUESTIONS FOR OPHTHALMOLOGY:
+1. Confirm bilateral cataract diagnosis and surgical eligibility?
+2. IOL selection — standard vs premium (toric given astigmatism TBD at pre-op biometry)?
+3. Staged bilateral surgery — which eye first, interval?
+4. Intra-operative floppy iris syndrome management plan (Tamsulosin)?
+5. Post-operative diabetic retinopathy screening plan once fundal view restored?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-883794 | Insurance: Medicare Advantage — AARP
+Authorised for: Ophthalmology consultation and bilateral cataract extraction planning
+
+Referring Physician: Dr. Linda Kamara, MD
+NPI: 7849201837 | Phone: (555) 890-1122 | Fax Results To: (555) 890-1123

@@ -1,0 +1,44 @@
+encounter_id: transcript-050
+encounter_type: Inpatient — Obstetrics
+condition: Preterm Labour — 32 Weeks Gestation
+icd10_primary: O60.10
+data_tag: SYNTHETIC
+---
+DATE: 2023-04-02   TIME: 15:00   PROVIDER: Dr. Sophie Hart, MD (Obstetrics & Gynaecology)
+
+CC: Regular contractions and lower back pain — 32+4 weeks gestation
+
+HPI: 27 yo G1P0 at 32+4 weeks presents with 2-hour history of regular painful contractions (every 5min)
+and lower back pain. Cervix 3cm dilated on examination. Intact membranes. No PV bleeding.
+Fetal movements normal. No fever.
+
+ROS: Positive: uterine contractions q5min, back pain, mild pelvic pressure. Negative: no bleeding, no SROM.
+
+PMH: None. PSH: None. This is first pregnancy. FHx: Mother: preterm birth at 30 weeks (herself).
+SHx: Nurse. Lives with partner. Non-smoker. Meds: Folic acid 400mcg | Vitamin D.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 121/72 | HR 85 | RR 16 | Temp 38.4°C | SpO2 100% | Uterine activity: q5min
+
+EXAMINATION: Cervix: 3cm dilated, 70% effaced, cephalic presentation 3/5 palpable.
+Speculum: no SROM (negative IGFBP-1 — negative fetal fibronectin). CTG: reactive — no decelerations.
+USS: EFW 1,680g (50th centile for 32 weeks). Liquor normal. Doppler: normal flow.
+
+INVESTIGATIONS:
+FBC: Hb 11.4, WBC 12.8, CRP 18 (mild — possible subclinical chorioamnionitis to monitor).
+High vaginal swab: sent. Urine C&S: sent.
+Cervical fibronectin: positive — confirms high risk of delivery within 7 days.
+
+ASSESSMENT:
+1. Preterm labour — 32+4 weeks, confirmed (regular contractions + 3cm dilated + positive fFN)
+2. Intact membranes — no PPROM
+3. No evidence of chorioamnionitis currently
+
+PLAN:
+1. Tocolysis: nifedipine 20mg stat → 10-20mg q4-6h (delay delivery 48h for steroids)
+2. Corticosteroids: betamethasone 12mg IM now + repeat in 24h (fetal lung maturity)
+3. Magnesium sulphate: 4g loading dose → 1g/h infusion (neuroprotection <34 weeks)
+4. Paediatrics (NICU) referral: anticipatory counselling with parents — 32-week prognosis
+5. Continuous CTG monitoring
+6. GBS prophylaxis: IV benzylpenicillin (pending GBS swab — started empirically)
+7. Transfer to tertiary obstetric centre with NICU if not already

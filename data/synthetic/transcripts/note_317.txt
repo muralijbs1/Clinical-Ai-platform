@@ -1,0 +1,43 @@
+encounter_id: transcript-027
+encounter_type: Emergency Department
+condition: Acute Pulmonary Embolism
+icd10_primary: I26.99
+data_tag: SYNTHETIC
+---
+DATE: 2025-08-14   TIME: 09:45   PROVIDER: Dr. Meera Krishnaswamy, MD (Emergency Medicine)
+
+CC: Sudden-onset dyspnoea and pleuritic chest pain — 4 hours
+
+HPI: 52 yo F presents with acute-onset right-sided pleuritic chest pain and dyspnoea starting 4h ago at
+rest. No trauma. Returned from 11-hour flight 36 hours ago. Mild right calf swelling noted for 3 days.
+No haemoptysis. Heart rate elevated on self-check at home.
+
+ROS: Positive: dyspnoea, pleuritic chest pain, right leg swelling. Negative: no fever, no cough productive.
+
+PMH: Oral contraceptive pill (10 years) | Hypertension | PSH: None | FHx: Mother: DVT.
+SHx: Accountant. Non-smoker. Long-haul flight 36h ago.
+Meds: Combined OCP | Amlodipine 5mg QD. Allergies: NKDA.
+
+VITAL SIGNS: BP 127/78 | HR 120 | RR 22 | Temp 35.0°C | SpO2 96% on air | BMI 26.4
+
+PHYSICAL EXAM: Tachycardic. Chest: reduced air entry right base, no wheeze. Right calf: warm,
+tender, 3cm circumference difference. No DVT erythema. JVP not elevated.
+
+INVESTIGATIONS:
+CTPA: Right lower lobe segmental and subsegmental PE. No RV strain.
+D-dimer: 6,400 ng/mL. Troponin: 18 ng/L (normal). BNP 42 pg/mL. ABG: pO2 8.2, pCO2 32.
+Doppler USS right leg: proximal DVT confirmed (popliteal–femoral).
+ECG: Sinus tachycardia. S1Q3T3 pattern.
+
+ASSESSMENT:
+1. Acute pulmonary embolism — segmental, haemodynamically stable (intermediate-low risk)
+2. Proximal DVT — right lower limb
+3. Predisposing factors: OCP + long-haul flight
+
+PLAN:
+1. Anticoagulation: rivaroxaban 15mg BD × 21 days → 20mg QD × 3 months minimum
+2. OCP: STOP immediately — switch to progesterone-only or non-hormonal contraception
+3. O2 via nasal cannula to maintain SpO2 >95%
+4. Admit — observe 24h (intermediate-low risk; RV function normal)
+5. Thrombophilia screen: defer 3 months post-anticoagulation
+6. Outpatient haematology follow-up at 3 months for duration decision

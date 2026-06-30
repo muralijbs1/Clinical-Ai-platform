@@ -1535,6 +1535,1208 @@ PLAN:
 8. PHQ-9 tracking at every visit. Escalation plan if no response at 8 weeks.
 """,
     },
+
+    # ── DOUBLING BATCH: transcripts 027–052 ──
+
+    {
+        "id": "transcript-027",
+        "encounter_type": "Emergency Department",
+        "condition": "Acute Pulmonary Embolism",
+        "icd10_primary": "I26.99",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-01-22   TIME: 14:30   PROVIDER: Dr. Aisha Nkemdirim, MD (Emergency Medicine)
+
+CC: Sudden-onset dyspnoea and pleuritic chest pain — 4 hours
+
+HPI: 48 yo F presents with acute-onset right-sided pleuritic chest pain and dyspnoea starting 4h ago at
+rest. No trauma. Returned from 11-hour flight 36 hours ago. Mild right calf swelling noted for 3 days.
+No haemoptysis. Heart rate elevated on self-check at home.
+
+ROS: Positive: dyspnoea, pleuritic chest pain, right leg swelling. Negative: no fever, no cough productive.
+
+PMH: Oral contraceptive pill (10 years) | Hypertension | PSH: None | FHx: Mother: DVT.
+SHx: Accountant. Non-smoker. Long-haul flight 36h ago.
+Meds: Combined OCP | Amlodipine 5mg QD. Allergies: NKDA.
+
+VITAL SIGNS: BP 118/76 | HR 112 | RR 22 | Temp 37.2°C | SpO2 93% on air | BMI 26.4
+
+PHYSICAL EXAM: Tachycardic. Chest: reduced air entry right base, no wheeze. Right calf: warm,
+tender, 3cm circumference difference. No DVT erythema. JVP not elevated.
+
+INVESTIGATIONS:
+CTPA: Right lower lobe segmental and subsegmental PE. No RV strain.
+D-dimer: 6,400 ng/mL. Troponin: 18 ng/L (normal). BNP 42 pg/mL. ABG: pO2 8.2, pCO2 32.
+Doppler USS right leg: proximal DVT confirmed (popliteal–femoral).
+ECG: Sinus tachycardia. S1Q3T3 pattern.
+
+ASSESSMENT:
+1. Acute pulmonary embolism — segmental, haemodynamically stable (intermediate-low risk)
+2. Proximal DVT — right lower limb
+3. Predisposing factors: OCP + long-haul flight
+
+PLAN:
+1. Anticoagulation: rivaroxaban 15mg BD × 21 days → 20mg QD × 3 months minimum
+2. OCP: STOP immediately — switch to progesterone-only or non-hormonal contraception
+3. O2 via nasal cannula to maintain SpO2 >95%
+4. Admit — observe 24h (intermediate-low risk; RV function normal)
+5. Thrombophilia screen: defer 3 months post-anticoagulation
+6. Outpatient haematology follow-up at 3 months for duration decision
+""",
+    },
+    {
+        "id": "transcript-028",
+        "encounter_type": "Emergency Department",
+        "condition": "Hypertensive Emergency with Acute End-Organ Damage",
+        "icd10_primary": "I16.1",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-02-08   TIME: 09:15   PROVIDER: Dr. Marcus Lee, MD (Emergency Medicine)
+
+CC: Severe headache, blurred vision, BP 230/138
+
+HPI: 63 yo M brought by wife with 6-hour history of severe occipital headache, blurred vision in both
+eyes, and one episode of vomiting. Known hypertension — non-adherent to medications for 3 months ("ran
+out"). Denied chest pain or focal neurological symptoms.
+
+ROS: Positive: severe headache, blurred vision, vomiting. Negative: no chest pain, no focal neuro deficit.
+
+PMH: HTN (10 years) | CKD stage 2 | PSH: None | FHx: Father: stroke. SHx: Retired mechanic. Smoker 20pk.
+Meds: Amlodipine 10mg + lisinopril 10mg (not taking). Allergies: NKDA.
+
+VITAL SIGNS: BP 230/138 | HR 88 | RR 16 | Temp 36.7°C | SpO2 97% | BMI 29.4
+
+PHYSICAL EXAM: Alert, distressed. Fundoscopy: bilateral papilloedema, flame haemorrhages.
+Neuro: grossly intact — no focal deficits. Chest: clear. No peripheral oedema.
+
+INVESTIGATIONS:
+ECG: LVH (Sokolow-Lyon 48mm). CT head: no haemorrhage, no infarct.
+Creatinine: 2.1 mg/dL (baseline 1.4 — acute rise). Urinalysis: protein 3+ (dysmorphic RBCs).
+BNP: 620. Troponin: 32 (mildly elevated).
+
+ASSESSMENT:
+1. Hypertensive emergency — malignant phase (papilloedema, AKI, proteinuria)
+2. Acute kidney injury on CKD2 — hypertensive nephropathy
+3. Non-adherence to antihypertensives — primary cause
+
+PLAN:
+1. IV labetalol infusion: reduce MAP by 20-25% over 2 hours (target ~170/100, avoid overcorrection)
+2. Avoid oral nifedipine (uncontrolled BP drop risk)
+3. Nephrology urgent consult — possible renal biopsy if AKI persists
+4. Resume amlodipine + lisinopril on discharge; add spironolactone
+5. Ophthalmology urgent review — papilloedema
+6. Smoking cessation counselling and medication prescribed
+""",
+    },
+    {
+        "id": "transcript-029",
+        "encounter_type": "Emergency Department",
+        "condition": "Acute Pancreatitis — Gallstone Aetiology",
+        "icd10_primary": "K85.10",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-03-14   TIME: 22:45   PROVIDER: Dr. Priya Patel, MD (Emergency Medicine)
+
+CC: Severe epigastric and back pain, nausea, vomiting — 8 hours
+
+HPI: 45 yo M presents with 8-hour history of severe constant epigastric pain radiating to the back,
+nausea, and 3 episodes of vomiting. Onset after a heavy fatty meal. Pain severity 9/10.
+Known cholelithiasis on USS 2 years ago — not followed up.
+
+ROS: Positive: epigastric pain, back radiation, nausea, vomiting. Negative: no jaundice, no fever.
+
+PMH: Cholelithiasis | BMI 31 | PSH: None | FHx: Father: gallstones. SHx: Lorry driver. Alcohol: 14 units/week.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 126/82 | HR 104 | RR 18 | Temp 38.0°C | SpO2 97% | BMI 30.8
+
+PHYSICAL EXAM: Distressed. Abdomen: epigastric tenderness with guarding. Bowel sounds present.
+No jaundice. No Cullen's or Grey Turner's signs.
+
+INVESTIGATIONS:
+Amylase: 1,840 U/L. Lipase: 4,220 U/L. WBC 14.2. CRP 148 (will rise).
+ALT 288, ALP 312, bilirubin 2.1 — biliary pattern.
+Ultrasound: gallstones + CBD 9mm (borderline dilated). Pancreas not well-visualised.
+CT abdomen: pancreatic oedema — no necrosis. Revised Atlanta: moderately severe.
+
+ASSESSMENT:
+1. Acute pancreatitis — gallstone aetiology (Modified Glasgow score 2)
+2. Possible choledocholithiasis — CBD dilation, raised LFTs
+
+PLAN:
+1. Nil by mouth. IV fluids: Ringer's lactate 250mL/h × 48h (aggressive early resuscitation)
+2. Analgesia: morphine 5mg IV PRN + IV paracetamol
+3. Antiemetics: ondansetron IV
+4. MRCP within 48h — CBD stone assessment; ERCP if confirmed
+5. Surgery consult — laparoscopic cholecystectomy after recovery (same admission if mild)
+6. Alcohol assessment and brief intervention — 14 units/week is a secondary risk factor
+7. Strict NPO until pain resolves + lipase trending down
+""",
+    },
+    {
+        "id": "transcript-030",
+        "encounter_type": "Emergency Department",
+        "condition": "Diabetic Ketoacidosis — New Diagnosis Type 1 DM",
+        "icd10_primary": "E10.10",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-04-19   TIME: 03:20   PROVIDER: Dr. James Okafor, MD (Emergency Medicine)
+
+CC: Nausea, vomiting, polyuria, polydipsia — 3 days. Confused tonight.
+
+HPI: 22 yo F brought by housemate. 3 days of polyuria, polydipsia, nausea and vomiting.
+Worsening confusion over last 4 hours. No prior diabetes diagnosis. No recent illness.
+Fruity breath noted by housemate.
+
+ROS: Positive: polyuria, polydipsia, nausea, vomiting, confusion, weight loss 3kg.
+Negative: no fever, no diarrhoea, no trauma.
+
+PMH: None | PSH: None | FHx: Father: Type 1 DM. SHx: University student. Non-smoker.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 102/64 | HR 124 | RR 26 | Temp 36.9°C | SpO2 98% | Wt 58kg | BMI 20.4
+
+PHYSICAL EXAM: Drowsy (GCS 14). Dry mucous membranes. Kussmaul breathing.
+Fruity acetone breath. Abdomen: mild diffuse tenderness. No peritonism.
+
+INVESTIGATIONS:
+VBG: pH 7.24, HCO3 12, BE -14, glucose 28.4 mmol/L, ketones 4.8 mmol/L.
+Na 128 (corrected 134), K 5.8 (total body depleted), Creatinine 1.4.
+HbA1c: 11.2%. C-peptide: undetectable. Anti-GAD antibodies: positive.
+ECG: sinus tachycardia. No peaked T-waves (K+ 5.8 — monitor closely).
+
+ASSESSMENT:
+1. Diabetic ketoacidosis — new diagnosis Type 1 DM
+2. Severe dehydration (estimated 5-8% deficit)
+
+PLAN:
+1. Fixed-rate IV insulin infusion 0.1 units/kg/h (6 units/h). Check glucose hourly.
+2. IV fluids: 0.9% NaCl 1L over 1h, then 500mL/h × 4h per DKA protocol
+3. Potassium replacement: add K+ to IV fluids once urine output confirmed and K <5.5
+4. Glucose: add 10% dextrose when glucose <14 mmol/L (do not stop insulin)
+5. Cardiac monitoring — hypokalaemia risk as insulin shifts K intracellularly
+6. Endocrinology consult — Type 1 DM initiation; insulin education
+7. Switch to SC insulin when pH >7.3, HCO3 >18, ketones <0.6
+""",
+    },
+    {
+        "id": "transcript-031",
+        "encounter_type": "Emergency Department",
+        "condition": "Vasovagal Syncope",
+        "icd10_primary": "R55",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-05-06   TIME: 11:00   PROVIDER: Dr. Rachel Torres, MD (Emergency Medicine)
+
+CC: Loss of consciousness — witnessed episode at work, fully recovered
+
+HPI: 31 yo M presents after witnessed syncopal episode at workplace. Colleague reports patient appeared
+pale and sweaty before slumping to ground. LOC for approximately 30 seconds. Rapid return to full
+consciousness. Preceding: prolonged standing (3 hours), skipped breakfast, anxious about meeting.
+No tonic-clonic activity observed. No tongue bite. No incontinence.
+
+ROS: Positive: LOC, pre-syncopal prodrome (sweating, nausea, dim vision). Negative: no palpitations,
+no chest pain, no confusion post-event.
+
+PMH: None | PSH: None | FHx: No family history sudden death or cardiac disease.
+SHx: Office manager. Non-smoker. Occasional alcohol. Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 118/74 (no orthostatic drop on lying/standing) | HR 68 | RR 14 | Temp 36.7°C | SpO2 99%
+
+PHYSICAL EXAM: Fully oriented, no residual neurological deficit. Cardiovascular: regular rhythm, no murmurs.
+No tongue bite. Pupils equal and reactive. No focal neuro signs.
+
+INVESTIGATIONS:
+ECG: Normal sinus rhythm. No long QT, no pre-excitation, no heart block.
+Glucose: 4.2 mmol/L (low-normal, skipped breakfast).
+FBC, U&E: Normal. Troponin: <3 ng/L.
+
+ASSESSMENT:
+1. Vasovagal syncope — clear precipitants, typical prodrome, rapid recovery
+2. Fasting hypoglycaemia as contributing factor
+
+PLAN:
+1. Reassure — benign prognosis. ROSE/SFSR scores: low risk
+2. Driving: advise DVLA guidance (may drive after 4-week symptom-free period)
+3. Avoidance strategies: adequate hydration, avoid prolonged standing, eat regular meals
+4. Sit/lie down immediately if prodrome recurs
+5. No further cardiac workup required (typical presentation, normal ECG, young healthy male)
+6. Return if recurrent episodes, chest pain, or palpitations precede syncope
+""",
+    },
+    {
+        "id": "transcript-032",
+        "encounter_type": "Emergency Department",
+        "condition": "Urosepsis — E. coli Bacteraemia",
+        "icd10_primary": "A41.51",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-06-01   TIME: 06:30   PROVIDER: Dr. Brendan Murphy, MD (Emergency Medicine)
+
+CC: Confusion, rigors, fever — 12 hours; family unable to rouse overnight
+
+HPI: 74 yo F brought by son. 12h history of rigors, high fever, confusion, and reduced oral intake.
+Son noticed increasing confusion overnight — patient normally independent. Resident reports 3-day
+history of offensive urine. Background DM2 and recurrent UTIs. Catheterised 2 months ago (removed).
+
+ROS: Positive: fever, rigors, confusion, offensive urine, reduced intake. Negative: no chest pain, no cough.
+
+PMH: DM2 (HbA1c 8.2) | CKD3a | Recurrent UTIs | PSH: Hysterectomy 1992.
+FHx: Not relevant. SHx: Lives alone, independent. Meds: Metformin 500mg BD | Amlodipine 5mg.
+Allergies: Trimethoprim (rash).
+
+VITAL SIGNS: BP 94/58 | HR 118 | RR 24 | Temp 39.4°C | SpO2 94% | BMI 24.2
+
+PHYSICAL EXAM: Confused (AMTS 4/10). Dry mucous membranes. CVA tenderness bilateral.
+Chest: clear. Abdomen: suprapubic tenderness. No peritonism.
+
+INVESTIGATIONS:
+WBC 21.4. CRP 312. PCT 18.6. Lactate 3.8 mmol/L. Creatinine 2.6 (baseline 1.3).
+Urine dip: leuk +++, nitrites +, blood +. Blood cultures × 2 drawn.
+Urinalysis microscopy: WBC >100/hpf, Gram-negative rods.
+CT KUB: No obstruction. Bilateral renal parenchymal changes consistent with pyelonephritis.
+
+ASSESSMENT:
+1. Sepsis — urosepsis (qSOFA 3, SOFA 5+)
+2. Acute kidney injury on CKD3a — septic + hypoperfusion
+3. Type 2 DM — glucose 24.2 (hyperosmolar not DKA)
+
+PLAN:
+1. Sepsis-3 bundle initiated within 1 hour: IV meropenem 1g TDS (ESBL risk in elderly DM)
+2. IV fluid resuscitation: 30mL/kg crystalloid bolus, then reassess MAP
+3. Vasopressors: noradrenaline if MAP <65 after 1L fluid
+4. Hold metformin (AKI)
+5. Urological USS — exclude obstruction
+6. Blood cultures × 2 — review sensitivities at 48h
+7. ICU/HDU referral — lactate 3.8, haemodynamic compromise
+""",
+    },
+    {
+        "id": "transcript-033",
+        "encounter_type": "Emergency Department",
+        "condition": "Anaphylaxis — Peanut Allergy",
+        "icd10_primary": "T78.01XA",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-07-12   TIME: 19:50   PROVIDER: Dr. Yuki Tanaka, MD (Emergency Medicine)
+
+CC: Anaphylaxis — urticaria, throat tightening, hypotension — 20 minutes after eating
+
+HPI: 29 yo M with known peanut allergy brought by ambulance. Ate a salad at restaurant — unaware of
+peanut oil in dressing. Developed urticaria within 5 minutes, then throat tightening, stridor, and
+dizziness. EpiPen not carried tonight. Ambulance gave IM adrenaline 0.5mg en route.
+
+ROS: Positive: urticaria, throat swelling, stridor, dizziness. Negative: post-adrenaline improving.
+
+PMH: Peanut allergy (anaphylaxis age 8 — hospitalised) | Eczema | PSH: None.
+SHx: Graphic designer. Non-smoker. Meds: Cetirizine PRN. Allergies: Peanut (severe anaphylaxis).
+
+VITAL SIGNS: BP 88/54 (improving to 110/72 post-adrenaline) | HR 118→96 | RR 20 | SpO2 96%→99%
+
+PHYSICAL EXAM: Urticaria resolving. Mild residual angioedema lips. Stridor resolved post-adrenaline.
+Chest: mild wheeze. Abdomen: soft.
+
+INVESTIGATIONS:
+Serum tryptase (at 1h): 48 μg/L (markedly elevated — confirms anaphylaxis).
+ECG: sinus tachycardia. FBC, U&E: unremarkable.
+
+ASSESSMENT:
+1. Anaphylaxis — peanut allergy (Resuscitation Council Grade 3)
+2. Initial cardiovascular compromise — responded to IM adrenaline
+
+PLAN:
+1. IV chlorphenamine 10mg and IV hydrocortisone 200mg (ongoing mediator suppression)
+2. Observe minimum 6 hours post-adrenaline (biphasic reaction risk — occurs up to 12h)
+3. Repeat tryptase at 2h and 24h for baseline comparison
+4. Prescribe EpiPen × 2 — patient counselled on self-administration technique
+5. Allergy/immunology outpatient referral — oral immunotherapy consideration
+6. MedicAlert bracelet strongly recommended
+7. Dietary advice: restaurant labelling, peanut avoidance strategy reinforced
+""",
+    },
+    {
+        "id": "transcript-034",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Type 2 Diabetes — Routine 6-Month Review",
+        "icd10_primary": "E11.65",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-02-18   TIME: 10:00   PROVIDER: Dr. Nina Osei, MD (Family Medicine)
+
+CC: Routine 6-month diabetes review
+
+HPI: 58 yo M with T2DM for 12 years presents for scheduled review. HbA1c was 8.4% at last visit.
+Reports improved dietary adherence over past 3 months — reduced refined carbohydrates. Home glucose
+monitoring average 9.2 mmol/L fasting. No hypoglycaemic episodes. Mild fatigue.
+
+ROS: Positive: mild fatigue. Negative: no polyuria, no foot pain, no visual changes, no chest pain.
+
+PMH: T2DM | HTN | Dyslipidaemia | PSH: None | FHx: Father: T2DM (died MI age 62).
+SHx: Bus driver. Married. Ex-smoker (5 years). Meds: Metformin 1g BD | Gliclazide 80mg BD |
+Lisinopril 10mg | Atorvastatin 40mg. Allergies: NKDA.
+
+VITAL SIGNS: BP 136/82 | HR 74 | Wt 89kg | BMI 30.2
+
+PHYSICAL EXAM: Foot exam: intact sensation (10g monofilament), normal pulses bilaterally.
+Peripheral neuropathy screening: absent ankle jerks — mild peripheral neuropathy.
+Eyes: awaiting retinal screening (overdue — scheduled).
+
+INVESTIGATIONS:
+HbA1c: 7.8% (improved from 8.4%). eGFR: 64 (stable CKD2). ACR: 38 mg/mmol (microalbuminuria).
+LDL: 2.4 mmol/L (above target <1.8). Foot vascular Doppler: normal ABI bilaterally.
+
+ASSESSMENT:
+1. T2DM — improving control (HbA1c 7.8%), microalbuminuria
+2. Mild diabetic peripheral neuropathy — ankle reflexes absent
+3. Dyslipidaemia — LDL above target
+
+PLAN:
+1. Increase atorvastatin to 80mg QHS (LDL above target — CVD primary prevention)
+2. Add empagliflozin 10mg QD (SGLT2i — renal protective, ACR 38, CKD2)
+3. Retinal screening: expedite booking
+4. Neuropathy: gabapentin available PRN if symptoms develop; avoid foot trauma
+5. ACE inhibitor: continue lisinopril (renoprotective — increase to 20mg if BP allows)
+6. DVLA notification: diabetes treated with insulin-secretagogue — check driving regulations
+7. Review 3 months with repeat HbA1c and ACR
+""",
+    },
+    {
+        "id": "transcript-035",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Hypothyroidism — Newly Diagnosed",
+        "icd10_primary": "E03.9",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-03-10   TIME: 14:30   PROVIDER: Dr. Samuel Adeyemi, MD (Family Medicine)
+
+CC: Fatigue, weight gain, hair loss, feeling cold — 5 months
+
+HPI: 44 yo F with 5-month history of progressive fatigue, 6kg weight gain without dietary change,
+hair thinning, cold intolerance, and constipation. Also notes slowing of speech noticed by husband.
+No known thyroid disease. No neck swelling or pain.
+
+ROS: Positive: fatigue, weight gain, hair loss, cold intolerance, constipation, bradylalia.
+Negative: no dysphagia, no palpitations, no neck pain.
+
+PMH: None | PSH: None | FHx: Mother: hypothyroidism. SHx: Nurse. Married. Non-smoker.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 126/80 | HR 54 | Temp 36.2°C | SpO2 99% | Wt 74kg | BMI 27.4
+
+PHYSICAL EXAM: Coarse, dry skin. Periorbital puffiness. Bradycardia HR 54.
+Thyroid: smooth, non-tender, slightly enlarged — no nodules. Ankle reflexes: slow relaxation phase.
+No lid lag or exophthalmos.
+
+INVESTIGATIONS:
+TSH: 42 mIU/L (markedly elevated). Free T4: 5.8 pmol/L (low).
+Anti-TPO: 1,240 IU/mL (strongly positive — Hashimoto's thyroiditis).
+FBC: mild normocytic anaemia Hb 10.8. Cholesterol: 6.8 mmol/L (hypothyroidism-associated).
+
+ASSESSMENT:
+1. Primary hypothyroidism — Hashimoto's thyroiditis
+2. Bradycardia secondary to hypothyroidism
+3. Secondary dyslipidaemia — hypothyroidism-related
+
+PLAN:
+1. Levothyroxine 50mcg QD (fasting, 30min before food). Start low — elderly/cardiac risk not present.
+2. Recheck TFTs at 6-8 weeks; target TSH 0.5-2.5 mIU/L
+3. Anaemia: repeat after thyroid replacement (often resolves)
+4. Cholesterol: review at 3 months — often resolves with euthyroid state, avoid premature statin
+5. Patient education: lifelong treatment, importance of adherence, symptoms of over-treatment
+6. Thyroid ultrasound: not routinely needed for Hashimoto's without nodule
+""",
+    },
+    {
+        "id": "transcript-036",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Hypertension — Annual Review, BP Suboptimal",
+        "icd10_primary": "I10",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-04-22   TIME: 09:30   PROVIDER: Dr. Mark Chen, MD (Internal Medicine / Primary Care)
+
+CC: Annual hypertension review
+
+HPI: 67 yo M with 15-year history of hypertension presents for annual review. Home BP readings over
+past 2 weeks average 158/94 (morning). Admits poor medication adherence ("forgets evening dose").
+No chest pain, no shortness of breath, no visual disturbance. Mild headaches 2-3x/week.
+
+ROS: Positive: mild headaches, suboptimal BP at home. Negative: no chest pain, no dyspnoea, no focal neuro.
+
+PMH: HTN | AF (on warfarin, paroxysmal) | PSH: TURP 2018. FHx: Brother: stroke age 60.
+SHx: Retired teacher. Lives with wife. Ex-smoker (stopped age 55, 40pk history).
+Meds: Amlodipine 10mg QD | Losartan 100mg BD (poor adherence — takes once) | Warfarin (INR 2.4 today).
+Allergies: ACE inhibitors (dry cough — switched to ARB).
+
+VITAL SIGNS: BP 162/96 (average 3 readings) | HR 72 | BMI 27.8 | Wt 82kg
+
+PHYSICAL EXAM: No bruits. JVP normal. No oedema. Fundoscopy: AV nipping (grade 1 hypertensive retinopathy). No papilloedema.
+
+INVESTIGATIONS:
+U&E: Na 140, K 4.2, Creatinine 1.1 (eGFR 68 — CKD2). HbA1c: 5.8% (no DM).
+Echocardiogram (last year): mild LVH, EF 58%.
+
+ASSESSMENT:
+1. Hypertension — suboptimal control due to non-adherence
+2. Paroxysmal AF — adequately anticoagulated (INR 2.4)
+3. Grade 1 hypertensive retinopathy — no action change
+
+PLAN:
+1. Simplify regimen: change losartan to once-daily formulation (losartan 100mg QD)
+2. Consider adding indapamide 2.5mg QD (third agent, well-tolerated with AF)
+3. Home BP diary: 2 readings each morning × 7 days before next review
+4. Adherence: pill box, phone alarm system
+5. ABPM 24-hour recording if home readings remain elevated at 1-month review
+6. Continue warfarin; INR 2.4 is therapeutic
+7. Ophthalmology: refer for formal retinal assessment (hypertensive retinopathy grade 1)
+""",
+    },
+    {
+        "id": "transcript-037",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Major Depression — Annual Review, Stable Remission",
+        "icd10_primary": "F33.0",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-05-14   TIME: 15:00   PROVIDER: Dr. Angela Foster, MD (Family Medicine / Mental Health)
+
+CC: Annual mental health review — depression in remission
+
+HPI: 36 yo F with recurrent depressive disorder, currently in remission for 14 months on sertraline.
+Reports stable mood, good sleep, no anhedonia. Returned to full-time work 10 months ago. No current
+suicidal ideation. Marriage stable. One stressor: caring for elderly parent (acknowledges this with equanimity).
+
+ROS: Positive: mild fatigue (sleep quality 6/10). Negative: no depressed mood, no anhedonia, no SI.
+
+PMH: Recurrent MDD (3 episodes since age 28) | PSH: None | FHx: Mother: bipolar disorder.
+SHx: Solicitor. Married. Non-smoker. Meds: Sertraline 100mg QD (3 years). Allergies: NKDA.
+
+VITAL SIGNS: BP 112/70 | HR 72 | Wt 63kg | BMI 23.4
+
+PHYSICAL EXAM: Euthymic, well-presented. Normal psychomotor. No agitation or retardation.
+
+INVESTIGATIONS:
+TSH: 1.8 (normal — checked annually). PHQ-9: 3 (minimal). GAD-7: 2 (minimal).
+Bloods: FBC, U&E, LFTs normal.
+
+ASSESSMENT:
+1. Recurrent MDD — currently in sustained remission (>12 months)
+2. Maternal history bipolar — no hypomanic features to date
+
+PLAN:
+1. Continue sertraline 100mg QD — minimum 2 years from last episode (risk of relapse if stopped early)
+2. Discuss future tapering plan: not before 2 years remission; slow taper if elected
+3. PHQ-9 monitoring every 6 months or with any mood change
+4. Discuss carer stress — offer carers' support resources and local authority carer assessment
+5. Return precautionary signs: poor sleep >1 week, withdrawal, anhedonia, missed work
+6. Next review: 12 months unless concerns arise sooner
+""",
+    },
+    {
+        "id": "transcript-038",
+        "encounter_type": "Outpatient — Primary Care",
+        "condition": "Chronic Low Back Pain — Non-Specific",
+        "icd10_primary": "M54.5",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-06-09   TIME: 11:30   PROVIDER: Dr. Keisha Thompson, MD (Family Medicine)
+
+CC: Chronic low back pain — review and management update
+
+HPI: 52 yo M with 3-year history of non-specific low back pain. Pain 4-6/10, worsens with prolonged
+sitting (office work), improves with movement. No radiation below knee. No red flags. Previous
+physiotherapy helped briefly. Currently using naproxen 500mg PRN (3-4x/week).
+
+ROS: Positive: chronic LBP. Negative: no radiculopathy, no bladder/bowel change, no saddle anaesthesia,
+no night sweats, no unexplained weight loss.
+
+PMH: Hypertension | PSH: Appendicectomy 2004. FHx: No malignancy. SHx: IT manager. Sedentary job.
+BMI 29. Meds: Amlodipine 5mg | Naproxen 500mg PRN. Allergies: NKDA.
+
+VITAL SIGNS: BP 132/82 | HR 70 | BMI 29.2 | Wt 88kg
+
+PHYSICAL EXAM: Lumbar: restricted flexion, full extension. Paravertebral tenderness L3-L5. No scoliosis.
+SLR: negative bilateral. Reflexes: intact. No focal weakness.
+
+INVESTIGATIONS:
+MRI lumbar spine: mild L4-L5 disc degeneration with posterior disc bulge — not impinging nerve root.
+PSA, ESR, CRP: normal (red flag exclusion done 18 months ago).
+
+ASSESSMENT:
+1. Chronic non-specific low back pain — mechanical, degenerative L4-L5
+2. NSAIDs overuse (3-4x/week) — GI risk counselling needed
+
+PLAN:
+1. Active exercise programme referral — supervised physiotherapy / back pain group class
+2. Cognitive-behavioural approach: address catastrophising (STarT Back score: medium risk)
+3. Reduce naproxen reliance: add omeprazole for GI protection; prescribe scheduled paracetamol 1g QDS
+4. Ergonomic assessment: standing desk, hourly movement breaks
+5. Weight management: 5% weight loss target (improves lumbar load)
+6. Acupuncture: offer via self-referral — modest evidence in chronic non-specific LBP
+7. Review 3 months. MRI not to be repeated without new symptoms.
+""",
+    },
+    {
+        "id": "transcript-039",
+        "encounter_type": "Inpatient — General Medicine",
+        "condition": "Community-Acquired Pneumonia — Moderate (CURB-65: 3)",
+        "icd10_primary": "J15.9",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-01-30   TIME: 16:00   PROVIDER: Dr. Jordan Lee, MD (General Medicine)
+
+CC: Cough, fever, confusion — family brought in after found unwell at home
+
+HPI: 71 yo F admitted with 4-day history of productive cough (rust-coloured sputum), fever, and
+confusion today. Lives alone — found by daughter slumped in chair. Declined GP appointment 3 days ago.
+Background: COPD, Parkinson's disease (stable).
+
+ROS: Positive: fever, productive cough, confusion. Negative: no chest pain, no haemoptysis.
+
+PMH: COPD (GOLD II) | Parkinson's disease (stable, on levodopa) | PSH: Hip replacement 2019.
+FHx: Not relevant. SHx: Retired. Lives alone. Meds: Salbutamol MDI | Tiotropium | Levodopa 100mg TDS.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 102/64 | HR 110 | RR 24 | Temp 38.9°C | SpO2 89% on air | BMI 22.6
+
+PHYSICAL EXAM: Confused (AMTS 5/10). Reduced air entry left base with coarse crackles.
+No bronchial breathing. No pleuritic rub. Mild peripheral oedema.
+
+INVESTIGATIONS:
+WBC 22.4, CRP 388. PCT 8.4. Creatinine 1.6 (baseline 1.0).
+CXR: left lower lobe consolidation. CURB-65: 3 (confusion, urea 12, RR 24) → inpatient admission.
+Blood cultures × 2: drawn. Urine pneumococcal antigen: positive.
+Sputum: sent for C&S.
+
+ASSESSMENT:
+1. CAP — left lower lobe, moderate-severe (CURB-65 3)
+2. Streptococcus pneumoniae — pneumococcal antigen positive
+3. Confusion — likely sepsis-related, not Parkinson's decompensation
+4. Acute kidney injury — prerenal (sepsis + reduced intake)
+
+PLAN:
+1. IV co-amoxiclav 1.2g TDS + clarithromycin 500mg BD (dual therapy, CURB-65 ≥3)
+2. Controlled O2: 28% Venturi, target SpO2 88-92% (COPD risk — hypercapnia)
+3. IV fluids: 500mL 0.9% NaCl cautiously (peripheral oedema — likely cor pulmonale)
+4. Continue levodopa (do NOT stop in Parkinson's — rigidity/NMS risk)
+5. Thromboprophylaxis: LMWH (confusion + reduced mobility)
+6. Confusion: 1:1 nursing, non-pharmacological delirium prevention
+7. Review 48h — de-escalate to oral amoxicillin if improving
+""",
+    },
+    {
+        "id": "transcript-040",
+        "encounter_type": "Inpatient — General Medicine",
+        "condition": "Acute Kidney Injury — Obstructive (Benign Prostatic Hyperplasia)",
+        "icd10_primary": "N17.0",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-02-25   TIME: 20:15   PROVIDER: Dr. Priya Anand, MD (General Internal Medicine)
+
+CC: Reduced urine output, lower abdominal discomfort, confusion — 2 days
+
+HPI: 77 yo M admitted with 2-day history of reduced urine output, suprapubic discomfort, and mild
+confusion. Wife noted patient was going to bathroom frequently but passing very little. History of
+BPH — declined TURP. No catheter in situ. Creatinine on admission 3.8 mg/dL (baseline 1.2 from 3 months ago).
+
+ROS: Positive: oliguria, suprapubic pain, confusion, nocturia. Negative: no haematuria, no fever.
+
+PMH: BPH (declined surgery) | HTN | CKD2 (baseline) | PSH: Appendicectomy.
+SHx: Retired farmer. Meds: Tamsulosin 0.4mg | Amlodipine 10mg. Allergies: Penicillin (rash).
+
+VITAL SIGNS: BP 162/94 | HR 82 | RR 16 | Temp 36.8°C | SpO2 97% | BMI 27.2
+
+PHYSICAL EXAM: Confused (AMTS 6/10). Distended bladder palpable 4cm above pubis.
+Abdomen: suprapubic dullness on percussion. DRE: markedly enlarged smooth prostate.
+
+INVESTIGATIONS:
+Creatinine 3.8 (AKI stage 3 on baseline 1.2). K+ 5.6. USS bladder: 680mL residual (acute retention).
+USS kidneys: bilateral mild hydronephrosis — obstructive uropathy.
+CXR: mild pulmonary venous congestion — fluid overload.
+
+ASSESSMENT:
+1. Acute kidney injury stage 3 — obstructive (BPH with acute urinary retention)
+2. Bilateral hydronephrosis — reversible
+3. Hyperkalaemia K+ 5.6 — AKI-related
+4. Mild pulmonary congestion — avoid aggressive IV fluids
+
+PLAN:
+1. Urethral catheterisation STAT — drain retention slowly (max 500mL/h to prevent haematuria)
+2. Post-obstructive diuresis expected — hourly fluid balance, replace output 1:1 until stable
+3. IV dextrose + insulin 10 units (K+ 5.6, ECG: peaked T waves)
+4. Calcium gluconate 10mL 10% IV — cardiac membrane stabilisation
+5. Hold: tamsulosin (alpha-blocker may worsen hypotension), ACEI if on
+6. Nephrology consult: AKI stage 3, creatinine 3.8
+7. Urology urgent referral: TURP or long-term catheter plan after recovery
+""",
+    },
+    {
+        "id": "transcript-041",
+        "encounter_type": "Inpatient — Cardiology",
+        "condition": "Acute Decompensated Heart Failure — HFrEF",
+        "icd10_primary": "I50.21",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-03-18   TIME: 08:30   PROVIDER: Dr. Amanda Walsh, MD (Cardiology)
+
+CC: Worsening dyspnoea at rest, orthopnoea, ankle swelling — 5 days
+
+HPI: 69 yo F with known ischaemic cardiomyopathy (LVEF 30%) presents with 5-day worsening dyspnoea.
+Now breathless at rest and unable to lie flat (3-pillow orthopnoea). Bilateral ankle oedema worsening.
+Weight gain 5kg in past week. Non-adherent to fluid restriction over Christmas holiday.
+
+ROS: Positive: dyspnoea at rest, orthopnoea, ankle oedema, weight gain, fatigue.
+Negative: no chest pain, no fever, no palpitations.
+
+PMH: Ischaemic cardiomyopathy (LVEF 30%) | AF (on anticoagulation) | CKD3 | PSH: CABG 2014.
+SHx: Retired. Lives with husband. Meds: Furosemide 80mg BD | Carvedilol 25mg BD |
+Sacubitril-valsartan 97/103mg BD | Eplerenone 25mg | Apixaban 5mg BD. Allergies: NKDA.
+
+VITAL SIGNS: BP 108/68 | HR 82 (AF) | RR 22 | SpO2 91% on air | Wt 72kg (dry wt 67kg)
+
+PHYSICAL EXAM: JVP elevated to angle of jaw. Bilateral coarse basal crackles.
+Bilateral pitting oedema to knees. No murmurs beyond established findings.
+
+INVESTIGATIONS:
+BNP: 2,840 pg/mL (prev 480). Troponin: 28 ng/L (mildly raised, chronic). Creatinine 1.8 (prev 1.4).
+CXR: cardiomegaly, bilateral alveolar infiltrates, pleural effusions.
+Echo (today): LVEF 28%, dilated LV, no new wall motion abnormality.
+
+ASSESSMENT:
+1. Acute decompensated HFrEF — fluid overload (5kg above dry weight)
+2. Worsening renal function — cardiorenal syndrome type 1
+3. Non-adherence to fluid restriction — precipitating cause
+
+PLAN:
+1. IV furosemide 80mg BD (double oral dose) — target urine output >200mL/h for 2-3h
+2. Strict fluid restriction 1.5L/24h. Daily weights.
+3. Electrolytes monitoring BD (diuresis-related hypokalaemia risk)
+4. Continue sacubitril-valsartan and carvedilol (do not stop — beneficial even in decompensation)
+5. Cardiology MDT: consider SGLT2i initiation once stable
+6. Heart failure nurse specialist referral — fluid management education
+7. Discharge planning: home telemonitoring and daily weight diary
+""",
+    },
+    {
+        "id": "transcript-042",
+        "encounter_type": "Inpatient — Cardiology",
+        "condition": "New-Onset Atrial Fibrillation — Rapid Ventricular Rate",
+        "icd10_primary": "I48.0",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-04-10   TIME: 23:00   PROVIDER: Dr. Nguyen Van Minh, MD (Cardiology)
+
+CC: Palpitations and dyspnoea — 6 hours. ECG: AF with rapid ventricular response.
+
+HPI: 58 yo M referred from ED with 6h palpitations and exertional dyspnoea. No prior AF documented.
+No chest pain, no syncope. Thyroid disease excluded recently. Mild alcohol use (20 units/week).
+Haemodynamically stable on presentation.
+
+ROS: Positive: palpitations, mild dyspnoea, fatigue. Negative: no chest pain, no presyncope, no fever.
+
+PMH: Hypertension | Obstructive sleep apnoea (non-adherent CPAP) | PSH: None.
+FHx: Father: AF. SHx: Solicitor. Married. Alcohol 20 units/week.
+Meds: Amlodipine 10mg. Allergies: NKDA.
+
+VITAL SIGNS: BP 146/88 | HR 142 (irregular) | RR 18 | SpO2 97% | BMI 31.4
+
+PHYSICAL EXAM: Irregular pulse 142bpm. No JVP elevation. Chest: clear.
+No peripheral oedema. No thyromegaly.
+
+INVESTIGATIONS:
+ECG: AF — no delta waves, no aberrant conduction, no ST changes.
+Echo: mildly dilated LA (42mm). EF 55% — normal systolic function. No LVH.
+TFTs: TSH 1.8 (normal). HbA1c: 5.6%. U&E: normal. TTE: no pericardial effusion.
+CXR: mild cardiomegaly — consistent with LA dilation only.
+
+ASSESSMENT:
+1. New-onset AF — rapid ventricular rate (HR 142)
+2. Haemodynamically stable — rate control strategy first
+3. Onset unclear: not certain <48h → cardioversion not safe without TOE
+
+PLAN:
+1. Rate control: bisoprolol 2.5mg PO (titrate to HR <100), check BP response
+2. Anticoagulation: initiate apixaban 5mg BD immediately (CHA2DS2-VASc 2: HTN + male sex)
+3. TOE-guided cardioversion: if patient opts for rhythm control after anticoagulation established
+4. Sleep apnoea: CPAP adherence essential — OSA is independent AF trigger
+5. Alcohol counselling: 20 units/week — AF risk factor; refer to alcohol service
+6. Cardiology outpatient at 4-6 weeks — AF review and rhythm control decision
+""",
+    },
+    {
+        "id": "transcript-043",
+        "encounter_type": "Inpatient — ICU",
+        "condition": "Moderate-Severe ARDS — Post-Viral Pneumonia",
+        "icd10_primary": "J80",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-05-21   TIME: 07:00   PROVIDER: Dr. Elena Rossi, MD (Intensive Care Medicine)
+
+CC: ICU admission — intubated for respiratory failure, ARDS criteria met
+
+HPI: 54 yo M transferred from respiratory ward day 3 of viral pneumonia (influenza A confirmed).
+Progressive hypoxia despite high-flow nasal oxygen (FiO2 0.8 — SpO2 84%). CPAP trial failed.
+Intubated and ventilated for refractory hypoxia. No significant prior lung disease.
+
+ROS: Assessed via family — no known comorbidities prior to acute illness.
+
+PMH: Hypertension | Obese (BMI 36) | PSH: None. FHx: Not relevant.
+SHx: Construction supervisor. Non-smoker. Alcohol 8 units/week.
+Meds: Amlodipine 5mg. Allergies: NKDA.
+
+VITAL SIGNS (intubated): HR 106 | BP 112/68 (noradrenaline 0.1mcg/kg/min) | Temp 38.6°C | SpO2 91%
+
+VENTILATOR: Mode: VCV | Vt 420mL (6mL/kg IBW) | PEEP 12cmH2O | FiO2 0.65 | P-plat 28cmH2O
+
+INVESTIGATIONS:
+ABG (on FiO2 0.65): pH 7.36, pO2 62, pCO2 44, HCO3 24. PaO2/FiO2: 95 → severe ARDS.
+CXR: bilateral diffuse alveolar opacification. No cardiomegaly.
+Echo: EF 55%, no LV dysfunction (excludes cardiogenic). PCWP not elevated.
+Bronchoalveolar lavage: inflammatory cells ++, influenza PCR positive.
+
+ASSESSMENT:
+1. Moderate-severe ARDS — influenza A pneumonia (PaO2/FiO2 95, Berlin criteria)
+2. Vasoplegic shock — vasopressors required
+3. Obesity — reduced chest wall compliance, challenging ventilation
+
+PLAN:
+1. Lung-protective ventilation: Vt 6mL/kg IBW, Pplat <30, PEEP titrated (12cmH2O currently)
+2. Prone positioning: 16h/day cycles — improves oxygenation in moderate-severe ARDS
+3. Neuromuscular blockade: cisatracurium 48h (improves synchrony, reduces barotrauma risk)
+4. Corticosteroids: methylprednisolone 1mg/kg/day (viral-ARDS, >14-day course)
+5. Antiviral: oseltamivir 150mg BD (influenza A, severe disease, immunocompromised obese patient)
+6. Vasopressors: target MAP >65; noradrenaline first-line
+7. Daily spontaneous awakening and breathing trials once FiO2 ≤0.4
+""",
+    },
+    {
+        "id": "transcript-044",
+        "encounter_type": "Outpatient — Surgical",
+        "condition": "Pre-Operative Assessment — Elective Right Hemicolectomy",
+        "icd10_primary": "Z01.818",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-06-23   TIME: 10:00   PROVIDER: Dr. Patrick Brennan, MD (Pre-Operative Assessment)
+
+CC: Pre-operative assessment before elective right hemicolectomy (colorectal cancer T2N0)
+
+HPI: 62 yo F scheduled for elective right hemicolectomy for T2N0M0 right-sided colon cancer
+(diagnosed on colonoscopy, confirmed histology). MDT: curative resection planned.
+Current functional status: NYHA I, no exercise limitation.
+
+ROS: Positive: mild fatigue (anaemia). Negative: no dyspnoea, no angina, no palpitations.
+
+PMH: Hypertension | T2DM (diet-controlled, HbA1c 6.2%) | Anaemia (pre-op Hb 10.4) | PSH: Appendicectomy, Caesarean x2.
+SHx: Retired teacher. Lives with husband. Non-smoker. Meds: Amlodipine 5mg | Aspirin 75mg.
+Allergies: Sulfa drugs (rash).
+
+VITAL SIGNS: BP 132/80 | HR 72 | SpO2 98% | BMI 26.4 | Hb 10.4
+
+PHYSICAL EXAM: Well-appearing. No cardiorespiratory findings. Surgical scar: right iliac fossa + lower midline.
+Abdomen: soft, no palpable mass.
+
+INVESTIGATIONS:
+Hb 10.4, MCV 72 (iron deficiency). Ferritin 8. Pre-op bloods: normal coagulation.
+ECG: normal sinus rhythm. Echo not required (NYHA I, no cardiac history).
+Creatinine 0.9 (eGFR 74). HbA1c 6.2%.
+Lung function: FVC 94%, FEV1 88% — no respiratory risk.
+
+ASSESSMENT:
+1. Pre-operative evaluation — low cardiac risk (Lee RCRI score 1)
+2. Iron deficiency anaemia — needs correction pre-operatively
+3. Aspirin: peri-operative management required
+
+PLAN:
+1. IV iron infusion: Ferinject 1000mg — target Hb >12 before surgery (book 3 weeks pre-op)
+2. Aspirin: continue until surgery (colorectal cancer — thrombotic risk > bleeding)
+3. Amlodipine: continue morning of surgery
+4. Anaesthetic pre-assessment: spinal vs GA discussion with anaesthetist
+5. Enhanced recovery after surgery (ERAS) protocol: carbohydrate drinks pre-op, early mobilisation
+6. VTE prophylaxis: LMWH for 28 days post-op (colorectal cancer — high VTE risk)
+7. Consent discussion: surgical risks documented, patient questions answered
+""",
+    },
+    {
+        "id": "transcript-045",
+        "encounter_type": "Emergency Department / Neurology",
+        "condition": "Transient Ischaemic Attack — High-Risk (ABCD2 Score 5)",
+        "icd10_primary": "G45.9",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-07-08   TIME: 15:20   PROVIDER: Dr. Elena Rossi, MD (Emergency Medicine / Neurology Liaison)
+
+CC: Transient left arm weakness and speech difficulty — 20 minutes, fully resolved
+
+HPI: 66 yo M presents with 20-minute episode of left arm weakness and dysarthria, fully resolved.
+Onset while watching television. No LOC. No headache. Symptoms resolved completely within 20min.
+Previous TIA 2 years ago — discharged on aspirin and statin. Non-adherent to statin.
+
+ROS: Positive: transient left arm weakness, dysarthria (resolved). Negative: no vision change, no LOC.
+
+PMH: HTN | AF (paroxysmal, NOT anticoagulated — patient declined) | Hypercholesterolaemia | Prior TIA.
+PSH: None. FHx: Father: stroke age 68. SHx: Retired plumber. Smoker 30 pack years. Current smoker.
+Meds: Aspirin 75mg | Amlodipine 10mg | Atorvastatin (not taking). Allergies: NKDA.
+
+VITAL SIGNS: BP 168/98 | HR 76 (regular) | RR 14 | Temp 36.7°C | SpO2 98%
+
+PHYSICAL EXAM: Fully resolved — no neurological deficit now. NIHSS 0.
+Carotid auscultation: right carotid bruit.
+
+INVESTIGATIONS:
+CT brain: no acute infarct. MRI DWI: small right hemisphere lacune on DWI (new — microinfarct).
+CT angiography: right ICA 68% stenosis. ECG: sinus rhythm today (not AF).
+Echocardiogram: mild LA dilation (40mm). LDL 3.4 mmol/L.
+
+ASSESSMENT:
+1. TIA — high risk (ABCD2 score 5: age 66 + BP 168 + unilateral weakness + duration 20min)
+2. Right ICA stenosis 68% — symptomatic — carotid endarterectomy indicated
+3. AF (paroxysmal) — not anticoagulated — major risk factor inadequately managed
+
+PLAN:
+1. Dual antiplatelet: add clopidogrel 75mg QD to aspirin for 21 days (POINT trial)
+2. Restart atorvastatin 80mg QHS — LDL 3.4 (must be on statin after TIA)
+3. Urgent neurology and vascular surgery referral — CEA within 14 days of TIA (symptomatic 68% stenosis)
+4. Anticoagulation counselling: paroxysmal AF — apixaban strongly recommended (patient education)
+5. Blood pressure: increase amlodipine + add losartan (target BP <130/80 post-TIA)
+6. Smoking cessation: NRT prescribed, QUIT referral placed
+""",
+    },
+    {
+        "id": "transcript-046",
+        "encounter_type": "Inpatient — Gastroenterology",
+        "condition": "Crohn's Disease — Moderate Flare, Ileocolonic",
+        "icd10_primary": "K50.10",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-08-05   TIME: 14:30   PROVIDER: Dr. Samuel Adeyemi, MD (Gastroenterology)
+
+CC: Abdominal cramping, bloody diarrhoea 8x/day, weight loss — 3 weeks
+
+HPI: 33 yo F with known ileocolonic Crohn's disease (diagnosed age 24, on azathioprine) presents with
+3-week history of increased diarrhoea (8 loose stools/day, blood-streaked), abdominal cramping,
+and 4kg weight loss. Recent URTI 4 weeks ago — possible trigger. Fevers at home (max 38.2°C).
+
+ROS: Positive: bloody diarrhoea, abdominal cramps, fever, weight loss.
+Negative: no oral ulcers this episode, no joint pains.
+
+PMH: Crohn's disease (ileocolonic, B1 Montreal classification) | PSH: None.
+FHx: Brother: ulcerative colitis. SHx: Graphic designer. Non-smoker.
+Meds: Azathioprine 150mg QD | Ferrous sulfate | Folic acid. Allergies: NKDA.
+
+VITAL SIGNS: BP 108/68 | HR 108 | RR 16 | Temp 38.2°C | SpO2 99% | Wt 54kg (was 58kg)
+
+PHYSICAL EXAM: Thin-appearing. RIF tenderness. No peritonism. No masses.
+Perianal: no fistula or abscess. Mouth: no aphthous ulcers.
+
+INVESTIGATIONS:
+CRP 128, WBC 14.2, ESR 64, Albumin 28 (low — malnutrition).
+Faecal calprotectin: 2,400 μg/g (markedly elevated — active mucosal inflammation).
+Stool: C. difficile negative, CMV negative (excluded immunosuppression-related).
+Harvey-Bradshaw Index: 11 (moderate-severe). MRI small bowel: ileocolonic inflammation, skip lesions.
+
+ASSESSMENT:
+1. Crohn's disease — moderate-severe flare (Harvey-Bradshaw 11)
+2. Hypoalbuminaemia — nutritional compromise
+3. Azathioprine failure — escalation required
+
+PLAN:
+1. IV methylprednisolone 40mg QD (induction)
+2. Nutritional support: dietitian review; consider enteral nutrition (NG feed)
+3. Thiopurine failure — initiate biologic therapy: infliximab 5mg/kg IV induction
+4. TB screening + IGRA, hepatitis B serology (before infliximab)
+5. VTE prophylaxis: LMWH (IBD flare + bedbound — high risk)
+6. Gastroenterology IBD nurse specialist involvement
+7. Switch to vedolizumab if infliximab antibodies develop or primary non-response
+""",
+    },
+    {
+        "id": "transcript-047",
+        "encounter_type": "Inpatient — Hepatology",
+        "condition": "Alcoholic Hepatitis — Severe (Maddrey's DF > 32)",
+        "icd10_primary": "K70.10",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-09-03   TIME: 10:00   PROVIDER: Dr. Marcus Williams, MD (Hepatology)
+
+CC: Jaundice, abdominal distension, confusion — 10 days
+
+HPI: 47 yo M with known alcohol use disorder presents with 10-day worsening jaundice, abdominal
+distension, and mild confusion over past 2 days. Drinking 20–30 units/day for 15 years.
+Last drink: this morning. No prior liver decompensation documented.
+
+ROS: Positive: jaundice, ascites, confusion, anorexia. Negative: no haematemesis, no melaena.
+
+PMH: Alcohol use disorder | PSH: None. FHx: Father: cirrhosis.
+SHx: Unemployed. Lives alone. Meds: Thiamine 100mg QD (inconsistent). Allergies: NKDA.
+
+VITAL SIGNS: BP 108/68 | HR 110 | RR 18 | Temp 38.1°C | SpO2 97% | BMI 23.8
+
+PHYSICAL EXAM: Icteric. Spider naevi × 5. Palmar erythema. Gynaecomastia.
+Abdomen: tense ascites, shifting dullness positive. Splenomegaly 16cm. Tender hepatomegaly 4cm.
+Confusion: AMTS 6/10.
+
+INVESTIGATIONS:
+Bilirubin: 18.4 mg/dL. PT 22s, INR 2.1. ALT 112, AST 228 (AST:ALT 2:1 — alcoholic pattern).
+Albumin 22. Creatinine 1.4 (MELD-Na score 28 — severe). WBC 18.4.
+Maddrey's Discriminant Function: 54 (>32 — severe, steroids indicated).
+USS abdomen: cirrhotic liver, large ascites, portal hypertension. No focal lesion.
+Diagnostic paracentesis: 0.4g/L protein, SAAG 1.2. WBC <250 — no SBP.
+
+ASSESSMENT:
+1. Severe alcoholic hepatitis (Maddrey DF 54, MELD-Na 28)
+2. Compensated cirrhosis decompensating (ascites, jaundice, encephalopathy grade I)
+3. No spontaneous bacterial peritonitis
+
+PLAN:
+1. Prednisolone 40mg QD × 28 days (Lille score at day 7 — stop if non-responder)
+2. Pentoxifylline: NOT first-line (STOPAH trial) — prednisolone monotherapy
+3. IV thiamine 200mg TDS × 3 days → oral (Wernicke prevention)
+4. Rifaximin 550mg BD + lactulose (hepatic encephalopathy prophylaxis)
+5. Diuretics for ascites: spironolactone 100mg → furosemide 40mg (stepwise)
+6. Alcohol liaison team referral: CAGE assessment, detox planning
+7. Liver transplant MDT: abstinence-based assessment at 6 months if MELD improves
+""",
+    },
+    {
+        "id": "transcript-048",
+        "encounter_type": "Inpatient — Nephrology",
+        "condition": "ESRD on Haemodialysis — AV Fistula Thrombosis",
+        "icd10_primary": "T82.49XA",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-06-17   TIME: 09:30   PROVIDER: Dr. Elena Rossi, MD (Nephrology)
+
+CC: Unable to dialyse — fistula not functioning since yesterday
+
+HPI: 65 yo F with ESRD on haemodialysis (3x/week via AVF left forearm, created 4 years ago) presents
+unable to attend dialysis session yesterday as fistula non-functioning. Missed last 2 sessions.
+Complaints of left forearm pain, swelling, and no thrill on palpation. Increasing dyspnoea and ankle oedema.
+
+ROS: Positive: fistula non-functioning, dyspnoea, ankle oedema, left forearm swelling.
+Negative: no chest pain, no fever.
+
+PMH: ESRD (IgA nephropathy) | DM2 | HTN | PSH: AVF creation left forearm 2019.
+SHx: Retired. Married. Meds: Darbepoetin 40mcg SC (HD days) | Calcium carbonate | Alfacalcidol |
+Amlodipine 10mg | Bisoprolol 5mg. Allergies: NKDA.
+
+VITAL SIGNS: BP 176/104 | HR 92 | RR 20 | SpO2 94% | Wt 68kg (dry wt 63kg) | BMI 26.8
+
+PHYSICAL EXAM: Left forearm AVF: no thrill, no bruit (on auscultation). Erythematous firm cord palpable.
+Chest: bilateral crackles. Bilateral pitting oedema to mid-thigh.
+
+INVESTIGATIONS:
+K+ 6.4 (dangerous — dialysis-dependent), BUN 148, Creatinine 14.8 (no residual renal function).
+ABG: pH 7.28, HCO3 14 — metabolic acidosis (uraemic + missed dialysis).
+CXR: bilateral pulmonary oedema. ECG: peaked T waves (hyperkalaemia).
+Doppler USS fistula: thrombosis left cephalic-radial junction — no flow.
+
+ASSESSMENT:
+1. AV fistula thrombosis — left forearm
+2. Fluid overload (5kg above dry weight) — 2 missed dialysis sessions
+3. Hyperkalaemia K+ 6.4 with ECG changes — medical emergency
+4. Metabolic acidosis — uraemic
+
+PLAN:
+1. Calcium gluconate 10mL IV STAT (ECG changes — membrane stabilisation)
+2. Salbutamol nebuliser 10mg + insulin-dextrose (K+ temporising)
+3. Emergency dialysis via temporary CVC (right jugular — inserted by nephrology fellow)
+4. Vascular surgery urgent referral: fistula thrombectomy or angioplasty within 24-48h
+5. Anticoagulation: IV heparin post-thrombectomy per vascular surgery plan
+6. Long-term: consider fistuloplasty surveillance programme
+""",
+    },
+    {
+        "id": "transcript-049",
+        "encounter_type": "Outpatient — Paediatrics",
+        "condition": "Simple Febrile Convulsion — 2-Year-Old",
+        "icd10_primary": "R56.00",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-07-29   TIME: 10:15   PROVIDER: Dr. Alicia Nwosu, MD (Paediatrics)
+
+CC: Witnessed tonic-clonic seizure during fever — outpatient follow-up next day
+
+HPI: 2 yo M brought by parents for next-day follow-up after a witnessed tonic-clonic seizure lasting
+90 seconds at home during fever. Parents called ambulance; by arrival, seizure had self-terminated.
+Child was febrile (39.2°C) with concurrent viral URTI (2-day runny nose). No prior seizures.
+Currently well — no fever, playing normally.
+
+ROS: Positive: fever (at time of event), viral URTI symptoms. Negative: no focal weakness, no regression.
+
+PMH: Fully vaccinated. No prior seizures. No neurodevelopmental issues.
+FHx: Maternal uncle: childhood febrile convulsions (resolved). SHx: Lives with parents. Attended nursery.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: Temp 36.8°C | HR 108 | RR 28 | SpO2 99% | Wt 12.4kg
+
+PHYSICAL EXAM: Alert, interactive, appropriate for age. Normal tone and reflexes. No focal neuro deficit.
+No meningism (neck supple, no Kernig's). Throat: red, no exudate. Ears: normal bilaterally. No rash.
+
+INVESTIGATIONS:
+FBC: WBC 11.4 (lymphocytosis — viral pattern). CRP 18 (low). Blood glucose: 4.8 (normal).
+Electrolytes: normal (Na 138, Ca 2.28, Glucose normal).
+No LP performed (simple febrile convulsion criteria met: age 6mo-5yr, <15min, generalised, single event).
+
+ASSESSMENT:
+1. Simple febrile convulsion — meets all criteria
+2. Viral URTI — likely precipitant
+3. Good neurological recovery — no concern for complex febrile seizure or structural cause
+
+PLAN:
+1. Reassure parents: excellent prognosis — 30% chance of recurrence, but resolves by age 6
+2. Fever management: antipyretics (paracetamol 15mg/kg q6h) — does NOT prevent febrile convulsions
+3. Safety: lay child on side if seizes, do not restrain, time episode, call 999 if >5 minutes
+4. EEG: NOT routinely indicated for simple febrile convulsion
+5. MRI: NOT required (simple presentation, normal neuro exam, normal development)
+6. Anticonvulsants: NOT started (single simple event — risk-benefit does not support prophylaxis)
+7. Return if: seizure >5 minutes, focal features, afebrile seizure, developmental regression
+""",
+    },
+    {
+        "id": "transcript-050",
+        "encounter_type": "Inpatient — Obstetrics",
+        "condition": "Preterm Labour — 32 Weeks Gestation",
+        "icd10_primary": "O60.10",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-08-19   TIME: 03:30   PROVIDER: Dr. Angela Foster, MD (Obstetrics & Gynaecology)
+
+CC: Regular contractions and lower back pain — 32+4 weeks gestation
+
+HPI: 27 yo G1P0 at 32+4 weeks presents with 2-hour history of regular painful contractions (every 5min)
+and lower back pain. Cervix 3cm dilated on examination. Intact membranes. No PV bleeding.
+Fetal movements normal. No fever.
+
+ROS: Positive: uterine contractions q5min, back pain, mild pelvic pressure. Negative: no bleeding, no SROM.
+
+PMH: None. PSH: None. This is first pregnancy. FHx: Mother: preterm birth at 30 weeks (herself).
+SHx: Nurse. Lives with partner. Non-smoker. Meds: Folic acid 400mcg | Vitamin D.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 118/72 | HR 88 | RR 16 | Temp 36.8°C | SpO2 99% | Uterine activity: q5min
+
+EXAMINATION: Cervix: 3cm dilated, 70% effaced, cephalic presentation 3/5 palpable.
+Speculum: no SROM (negative IGFBP-1 — negative fetal fibronectin). CTG: reactive — no decelerations.
+USS: EFW 1,680g (50th centile for 32 weeks). Liquor normal. Doppler: normal flow.
+
+INVESTIGATIONS:
+FBC: Hb 11.4, WBC 12.8, CRP 18 (mild — possible subclinical chorioamnionitis to monitor).
+High vaginal swab: sent. Urine C&S: sent.
+Cervical fibronectin: positive — confirms high risk of delivery within 7 days.
+
+ASSESSMENT:
+1. Preterm labour — 32+4 weeks, confirmed (regular contractions + 3cm dilated + positive fFN)
+2. Intact membranes — no PPROM
+3. No evidence of chorioamnionitis currently
+
+PLAN:
+1. Tocolysis: nifedipine 20mg stat → 10-20mg q4-6h (delay delivery 48h for steroids)
+2. Corticosteroids: betamethasone 12mg IM now + repeat in 24h (fetal lung maturity)
+3. Magnesium sulphate: 4g loading dose → 1g/h infusion (neuroprotection <34 weeks)
+4. Paediatrics (NICU) referral: anticipatory counselling with parents — 32-week prognosis
+5. Continuous CTG monitoring
+6. GBS prophylaxis: IV benzylpenicillin (pending GBS swab — started empirically)
+7. Transfer to tertiary obstetric centre with NICU if not already
+""",
+    },
+    {
+        "id": "transcript-051",
+        "encounter_type": "Outpatient — Geriatrics",
+        "condition": "Comprehensive Geriatric Assessment — Delirium Prevention Post-Elective Surgery",
+        "icd10_primary": "Z96.641",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-09-16   TIME: 11:00   PROVIDER: Dr. Priya Anand, MD (Geriatric Medicine)
+
+CC: Pre-operative CGA before elective right total hip replacement — 84-year-old
+
+HPI: 84 yo M referred by orthopaedics for pre-operative CGA before elective right THR
+(severe osteoarthritis, mobility limited to 50m, pain 8/10). NICE recommends CGA in frail patients
+before elective major surgery. Lives alone. Independent with basic ADLs.
+
+ROS: Positive: right hip pain, reduced mobility. Negative: no angina, no dyspnoea at rest.
+
+PMH: Osteoarthritis (bilateral hip/knee) | HTN | Parkinson's disease (mild, H&Y stage 2) | CKD3b (eGFR 42).
+PSH: CABG 1998. FHx: Not relevant. SHx: Retired GP. Lives alone. Drives short distances.
+Meds: Co-careldopa 12.5/50mg TDS | Amlodipine 10mg | Atorvastatin 40mg | Paracetamol 1g QDS.
+Allergies: NSAIDs (acute kidney injury).
+
+VITAL SIGNS: BP 138/80 sitting, 118/72 standing (orthostatic 20mmHg systolic) | HR 64 | SpO2 98% | BMI 24.2
+
+FUNCTIONAL ASSESSMENT:
+Barthel Index: 80/100 (independent with all ADLs, dressing takes longer).
+Timed Up and Go: 18s (moderate fall risk). 4-metre gait speed: 0.76 m/s (frailty threshold <0.8).
+Grip strength: 19kg (below age-norm — sarcopaenia risk).
+MMSE: 26/30 (mild cognitive impairment — attention -2, delayed recall -2).
+Clinical Frailty Scale: 4/9 (vulnerable — not frail, but at-risk).
+
+INVESTIGATIONS: Hb 11.6 (mild iron deficiency). eGFR 42. Creatinine 1.4. Na 138, K 4.0. HbA1c 5.6%.
+
+ASSESSMENT:
+1. Vulnerable frail older adult (CFS 4) — elevated peri-operative delirium risk
+2. Mild cognitive impairment — further elevates delirium risk
+3. Orthostatic hypotension — peri-operative fall risk; monitor antihypertensives
+4. Mild anaemia — correct pre-operatively
+
+PLAN:
+1. Pre-op IV iron (Ferinject) — Hb 11.6 with iron deficiency (ferritin 12)
+2. Anaesthesia communication: prefer spinal over general (lower delirium risk in elderly)
+3. Peri-op: avoid anticholinergic medications, benzodiazepines, opioid excess
+4. Delirium prevention protocol: reorientation, sensory aids, early mobilisation
+5. Co-careldopa: continue throughout — do NOT stop (rigidity/NMS risk in Parkinson's)
+6. Occupational therapy: home assessment for post-discharge aids (raised toilet seat, rails)
+7. Physiotherapy: commence pre-operative strength work; early post-op mobilisation same day
+8. Discharge planning: planned home with daily care package initially
+""",
+    },
+    {
+        "id": "transcript-052",
+        "encounter_type": "Inpatient — Neurology",
+        "condition": "Status Epilepticus — Refractory, Convulsive",
+        "icd10_primary": "G41.2",
+        "data_tag": "SYNTHETIC",
+        "text": """
+DATE: 2025-10-07   TIME: 01:15   PROVIDER: Dr. James Okafor, MD (Neurology / Neurocritical Care)
+
+CC: Ongoing generalised tonic-clonic seizure >30 minutes — status epilepticus
+
+HPI: 19 yo F with known idiopathic generalised epilepsy (levetiracetam 1000mg BD) brought by ambulance.
+Generalised tonic-clonic seizure started at 00:40 at home; ambulance arrived 00:55. Lorazepam 4mg IV
+given by paramedics — partial response then re-seizure. Arriving at ED at 01:12 — still seizing.
+Missed 2 days of levetiracetam (travelling). Concurrent febrile illness (URTI symptoms).
+
+ROS: Via parents — well until 3 days ago. No meningism symptoms. No recent medication change.
+
+PMH: Idiopathic generalised epilepsy (diagnosed age 16) | PSH: None.
+FHx: Maternal grandmother: epilepsy. SHx: University student. Non-smoker.
+Meds: Levetiracetam 1000mg BD. Allergies: NKDA.
+
+VITAL SIGNS: HR 148 | BP 144/92 | Temp 38.2°C | SpO2 88% on O2 15L NRB | GCS 8 (post-ictal)
+
+PHYSICAL EXAM: Active generalised tonic-clonic movements. Eyes deviated. No focal features.
+Post-ictal: GCS improving to 11 after midazolam. No neck stiffness.
+
+INVESTIGATIONS:
+BM glucose: 6.8 (normal). ABG: pH 7.22, pCO2 58 (respiratory acidosis — post-ictal hypoventilation).
+Na 136, K 4.0, Ca 2.28. CRP 18 (febrile illness — no meningitis).
+CT head: no haemorrhage, no focal lesion.
+EEG (bedside): generalised epileptiform discharges.
+
+ASSESSMENT:
+1. Refractory status epilepticus (>30min, 2nd-line benzodiazepine given)
+2. Respiratory acidosis — post-ictal + muscle activity
+3. Precipitants: levetiracetam non-adherence + febrile illness
+
+PLAN:
+1. IV levetiracetam 60mg/kg (max 4500mg) over 10 minutes — as 2nd anti-seizure medication
+2. If no response in 10 min: phenytoin 20mg/kg IV or sodium valproate 40mg/kg IV
+3. If refractory (>45min): anaesthetic team → RSI with midazolam/propofol infusion; ICU
+4. Airway: position patient, suction ready, anaesthetics on standby
+5. Oximetry continuous; consider intubation if SpO2 remains <92%
+6. Investigate cause: LP if CT clear (exclude meningitis); MRI brain post-stabilisation
+7. Epilepsy team review — levetiracetam adherence support, possible dose escalation
+""",
+    },
 ]
 
 

@@ -1,51 +1,58 @@
-referral_id: REF-2025-076291
-specialty: Paediatrics
+referral_id: REF-2025-082374
+specialty: Gynaecology
 urgency: SOON
-patient_name: Ethan Clarke
-patient_dob: 2013-02-14
-patient_sex: Male
-patient_mrn: MRN-8374920
-insurance: CHIP
+patient_name: Isabella Ferreira
+patient_dob: 1987-06-22
+patient_sex: Female
+patient_mrn: MRN-5920384
+insurance: Cigna PPO
 data_tag: SYNTHETIC
 ---
-REFERRAL LETTER — PAEDIATRICS / PAEDIATRIC RESPIRATORY MEDICINE
-Date: 2025-10-20    Referral ID: REF-2025-076291
-Urgency: SOON — within 1-2 weeks
+REFERRAL LETTER — GYNAECOLOGY
+Date: 2025-11-10    Referral ID: REF-2025-082374
+Urgency: SOON — Appointment within 2-3 weeks
 
-TO: Paediatric Respiratory Medicine
-FROM: Dr. Susan Park, MD — Primary Care Paediatrics, NPI 7384920173
+TO: Gynaecology Department, Women's Health Centre
+FROM: Dr. Aisha Mohammed, MD — Primary Care / Women's Health, NPI 2938471056
+      Community Women's Clinic, Phone: (555) 340-5566, Fax: (555) 340-5567
 
-PATIENT: Ethan Clarke | DOB: 2013-02-14 | Age: 12 | Sex: Male
-MRN: MRN-8374920 | Insurance: CHIP
+PATIENT: Isabella Ferreira | DOB: 1987-06-22 | Age: 38 | Sex: Female
+MRN: MRN-5920384 | Insurance: Cigna PPO | Member ID: CP-3847291-4
 
-REASON FOR REFERRAL: Poorly controlled asthma — 4 exacerbations requiring oral steroids
-in the past 12 months. Step 3 therapy (ICS + LABA) inadequate. Requesting specialist review
-for step-up and possible biologics assessment.
+REASON FOR REFERRAL: Endometriosis with chronic pelvic pain, dysmenorrhoea, and dyspareunia.
+Failed first-line medical management. Requesting specialist evaluation for surgical and/or
+advanced hormonal management.
 
 CLINICAL SUMMARY:
-Ethan is a 12-year-old male with a 6-year history of atopic asthma (diagnosed age 6). Also has
-allergic rhinitis and mild eczema. Currently on fluticasone/salmeterol 250/25 BD + salbutamol PRN.
+Ms. Ferreira is a 38-year-old female with a 6-year history of progressively worsening pelvic
+pain. Pain is cyclical (VAS 9/10 dysmenorrhoea, 7/10 intermenstrual), associated with
+dyspareunia (deep) and dyschezia during menstruation. She reports significant quality of life
+impairment affecting work and relationships (EHP-30 score 68/100).
 
-EXACERBATIONS (PAST 12 MONTHS):
-February 2025: ED visit, PO prednisolone 5 days
-May 2025: ED visit, 2-day hospitalisation, IV hydrocortisone, O2 required
-August 2025: GP — PO prednisolone 5 days
-October 2025: ED visit this week — PO prednisolone 5 days (ongoing)
+MRI Pelvis (last month): Findings consistent with deep infiltrating endometriosis (DIE) —
+left uterosacral ligament nodule (1.4cm), posterior cul-de-sac obliteration, left ovarian
+endometrioma 3.1cm. No bowel or ureteric involvement identified.
 
-LUNG FUNCTION (spirometry last month):
-FEV1: 72% predicted | FVC: 88% | FEV1/FVC: 0.68 | Bronchodilator response: +14%
-FeNO: 48 ppb (elevated — eosinophilic inflammation)
-Blood eosinophils: 0.58 × 10⁹/L (elevated)
-Total IgE: 320 IU/mL | RAST: house dust mite +++, grass pollen ++
+Previous treatments: Mefenamic acid + NSAIDs (partial relief), combined OCP (inadequate
+control, breakthrough pain), Norethisterone 5mg TID — stopped due to mood changes.
 
-Trigger assessment: house dust mite primary trigger, exercise-induced component.
-Inhaler technique checked — adequate.
+Fertility status: Patient is nulliparous and wishes to preserve fertility. Has not actively
+tried to conceive. Concerned about fertility implications.
 
-QUESTIONS FOR PAEDIATRIC RESPIRATORY:
-1. Step-up to Step 4 (high-dose ICS/LABA + LTRA) or consider biologics?
-2. Eligibility for mepolizumab or dupilumab (eosinophilic phenotype, FeNO 48)?
-3. Allergen immunotherapy for HDM — appropriate at age 12?
-4. Structured asthma action plan revision
+Bloods: CA-125: 48 U/mL (mildly elevated, non-specific). Normal FBC, renal, liver function.
+Cervical smear: up to date, normal (2024).
+Allergies: None known.
 
-Referring Physician: Dr. Susan Park, MD
-NPI: 7384920173 | Phone: (555) 629-4400
+QUESTIONS FOR GYNAECOLOGY:
+1. Laparoscopic excision of DIE nodule and drainage of endometrioma — surgical candidacy?
+2. Fertility implications — pre-operative AMH and antral follicle count assessment?
+3. Post-operative hormonal suppression — Dienogest vs progestogen IUS vs GnRH agonist?
+4. Does MRI suggest involvement of bowel/ureter — colorectal surgical opinion needed?
+5. Referral to endometriosis MDT if available?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-338492 | Insurance: Cigna PPO
+Authorised for: Gynaecology consultation and laparoscopic assessment
+
+Referring Physician: Dr. Aisha Mohammed, MD
+NPI: 2938471056 | Phone: (555) 340-5566 | Fax Results To: (555) 340-5567

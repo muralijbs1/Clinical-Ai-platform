@@ -1,0 +1,58 @@
+referral_id: REF-2025-090284
+specialty: Thoracic Surgery
+urgency: URGENT
+patient_name: Gerald Fitzpatrick
+patient_dob: 1962-12-03
+patient_sex: Male
+patient_mrn: MRN-8221503
+insurance: BCBS Federal Employee
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — THORACIC SURGERY
+Date: 2025-11-28    Referral ID: REF-2025-090284
+Urgency: URGENT — Seen within 1 week
+
+TO: Thoracic Surgery Department, Lung Cancer Programme
+FROM: Dr. Patricia Nkemdirim, MD — Pulmonology / Oncology, NPI 1140301948
+      Thoracic Oncology Associates, Phone: (555) 120-4455, Fax: (555) 120-4456
+
+PATIENT: Gerald Fitzpatrick | DOB: 1962-12-03 | Age: 63 | Sex: Male
+MRN: MRN-8221503 | Insurance: BCBS Federal Employee | Member ID: BE-8221503-12
+
+REASON FOR REFERRAL: Solitary pulmonary nodule 2.1cm, left upper lobe, PET-avid (SUVmax 6.8),
+no distant metastases on staging. Likely Stage IA2 NSCLC. Surgical consultation for curative
+intent lobectomy.
+
+CLINICAL SUMMARY:
+Mr. Fitzpatrick is a 63-year-old male, 40 pack-year smoker (currently smoking — cessation
+counselled), identified on low-dose CT lung cancer screening. Follow-up CT showed interval
+growth from 1.4cm (March 2025) to 2.1cm (October 2025). Nodule: solid, spiculated, left
+upper lobe, upper division subsegment.
+
+PET-CT (3 weeks ago): LUL nodule SUVmax 6.8 (highly metabolically active). No hilar or
+mediastinal adenopathy (N0). No distant metastasis. Stage: cT1cN0M0 (Stage IA2 — 8th edition).
+
+CT-guided needle biopsy (last week): Adenocarcinoma, acinar-predominant. PD-L1: 45%. EGFR: wild-type.
+ALK/ROS1: negative. KRAS G12C mutation detected. Molecular profile confirmed. No targetable
+driver mutation appropriate for adjuvant TKI at this stage.
+
+Pulmonary function: FEV1 72% predicted | DLCO 68% | FVC 88% — adequate for lobectomy.
+6MWT: 420m (adequate physiological reserve). CPET: VO2 max 16.2 mL/kg/min (borderline).
+Echocardiogram: EF 60%, no significant valve disease. Exercise ECG: no ischaemia.
+
+Comorbidities: COPD (moderate), HTN (Amlodipine 10mg QD), dyslipidaemia (Rosuvastatin 20mg QD).
+Allergies: Penicillin (rash).
+
+QUESTIONS FOR THORACIC SURGERY:
+1. VATS lobectomy (left upper lobe) vs RATS vs open — approach decision based on anatomy?
+2. Is mediastinal staging (EBUS/mediastinoscopy) required given PET-negative mediastinum?
+3. CPET borderline result — is patient safe for lobectomy vs sub-lobar resection (segmentectomy)?
+4. Adjuvant chemotherapy indication (Stage IA2 — borderline, discuss with MDT)?
+5. Post-operative smoking cessation plan?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-212048 | Insurance: BCBS Federal Employee
+Authorised for: Thoracic surgery consultation and lobectomy surgical planning
+
+Referring Physician: Dr. Patricia Nkemdirim, MD
+NPI: 1140301948 | Phone: (555) 120-4455 | Fax Results To: (555) 120-4456

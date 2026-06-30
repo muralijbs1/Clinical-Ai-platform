@@ -1,0 +1,42 @@
+encounter_id: transcript-014
+encounter_type: Emergency Department
+condition: Diabetic Ketoacidosis (DKA)
+icd10_primary: E11.10
+data_tag: SYNTHETIC
+---
+DATE: 2025-09-07   TIME: 22:30   PROVIDER: Dr. Rachel Torres, MD (Emergency Medicine)
+
+CC: Polyuria, polydipsia, nausea, abdominal pain x 2 days
+
+HPI: 21 yo F with T1DM (x 12 years, on insulin pump) presenting with 2 days of polyuria,
+polydipsia, nausea, and vague abdominal pain. Home CGM showing readings >400 mg/dL.
+Insulin pump malfunction 3 days ago — used MDI as backup inconsistently. No infection symptoms.
+Last ate 12h ago. Vomited x3 today.
+
+VS: BP 91/67 | HR 127 | RR 27 (Kussmaul) | Temp 36.0°C | SpO2 91% RA | Wt 58kg
+
+LABS:
+Glucose: 482 mg/dL [MARKEDLY ELEVATED]
+ABG: pH 7.12 | PaCO2 18 | HCO3 6 [severe anion-gap metabolic acidosis + respiratory compensation]
+Anion gap: 32 [MARKEDLY ELEVATED] | Na 131 [corrected Na 144]
+K: 5.8 [HIGH — total body K depletion masked] | Cr 1.2 [mildly elevated]
+Ketones: Serum 5.4 mmol/L [HIGH] | Urine ketones 4+
+CBC: WBC 18.4 (stress leukocytosis) | No infection source identified
+HbA1c: 11.8% [severely uncontrolled]
+Phosphate: 2.2 | Mg: 1.6 [low — deplete in DKA]
+
+ASSESSMENT:
+1. Diabetic Ketoacidosis — severe — E11.10
+   pH 7.12, AG 32, glucose 482, HCO3 6. Precipitated by pump malfunction.
+2. Type 1 DM — uncontrolled — E10.65
+
+PLAN:
+1. FLUID RESUSCITATION: 0.9% NS 1L over 1h → 500mL/hr x2h → reassess (target BP/HR)
+2. INSULIN PROTOCOL: Insulin drip 0.1 unit/kg/hr (5.8 units/hr); DO NOT bolus
+   Switch to D5/0.45NS when glucose <250, reduce infusion
+3. K REPLACEMENT: KCl 40mEq/L in IVF until K confirmed >3.5 before starting insulin
+4. Phosphate: K-Phos 20mEq in IVF if phosphate <1.0 (recheck q4h)
+5. Bicarbonate: hold unless pH <6.9 (risk cerebral oedema in T1DM)
+6. Monitor glucose, BMP, venous pH q1h
+7. ICU admission. Endocrinology consult.
+8. Diabetes educator — pump management review prior to discharge.

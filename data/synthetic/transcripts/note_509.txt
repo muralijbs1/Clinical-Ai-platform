@@ -1,0 +1,45 @@
+encounter_id: transcript-046
+encounter_type: Inpatient — Gastroenterology
+condition: Crohn's Disease — Moderate Flare, Ileocolonic
+icd10_primary: K50.10
+data_tag: SYNTHETIC
+---
+DATE: 2023-08-05   TIME: 16:30   PROVIDER: Dr. Angela Foster, MD (Gastroenterology)
+
+CC: Abdominal cramping, bloody diarrhoea 8x/day, weight loss — 3 weeks
+
+HPI: 39 yo F with known ileocolonic Crohn's disease (diagnosed age 24, on azathioprine) presents with
+3-week history of increased diarrhoea (8 loose stools/day, blood-streaked), abdominal cramping,
+and 4kg weight loss. Recent URTI 4 weeks ago — possible trigger. Fevers at home (max 38.2°C).
+
+ROS: Positive: bloody diarrhoea, abdominal cramps, fever, weight loss.
+Negative: no oral ulcers this episode, no joint pains.
+
+PMH: Crohn's disease (ileocolonic, B1 Montreal classification) | PSH: None.
+FHx: Brother: ulcerative colitis. SHx: Graphic designer. Non-smoker.
+Meds: Azathioprine 150mg QD | Ferrous sulfate | Folic acid. Allergies: NKDA.
+
+VITAL SIGNS: BP 105/64 | HR 102 | RR 17 | Temp 35.8°C | SpO2 100% | Wt 54kg (was 58kg)
+
+PHYSICAL EXAM: Thin-appearing. RIF tenderness. No peritonism. No masses.
+Perianal: no fistula or abscess. Mouth: no aphthous ulcers.
+
+INVESTIGATIONS:
+CRP 128, WBC 14.2, ESR 64, Albumin 28 (low — malnutrition).
+Faecal calprotectin: 2,400 μg/g (markedly elevated — active mucosal inflammation).
+Stool: C. difficile negative, CMV negative (excluded immunosuppression-related).
+Harvey-Bradshaw Index: 11 (moderate-severe). MRI small bowel: ileocolonic inflammation, skip lesions.
+
+ASSESSMENT:
+1. Crohn's disease — moderate-severe flare (Harvey-Bradshaw 11)
+2. Hypoalbuminaemia — nutritional compromise
+3. Azathioprine failure — escalation required
+
+PLAN:
+1. IV methylprednisolone 40mg QD (induction)
+2. Nutritional support: dietitian review; consider enteral nutrition (NG feed)
+3. Thiopurine failure — initiate biologic therapy: infliximab 5mg/kg IV induction
+4. TB screening + IGRA, hepatitis B serology (before infliximab)
+5. VTE prophylaxis: LMWH (IBD flare + bedbound — high risk)
+6. Gastroenterology IBD nurse specialist involvement
+7. Switch to vedolizumab if infliximab antibodies develop or primary non-response

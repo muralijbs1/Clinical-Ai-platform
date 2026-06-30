@@ -1,0 +1,55 @@
+encounter_id: transcript-002
+encounter_type: Outpatient — Primary Care
+condition: Type 2 Diabetes Follow-up
+icd10_primary: E11.9
+data_tag: SYNTHETIC
+---
+DATE: 2023-09-26   TIME: 14:15   PROVIDER: Dr. Samuel Adeyemi, MD (Internal Medicine)
+
+CC: Diabetes follow-up, medication refill
+
+HPI: 62 yo F here for routine DM2 management, 3-month interval visit. A1c at last visit 8.4%.
+States she has been trying to walk 20 min/day and reduce carbohydrates. Admits to inconsistent
+exercise due to work schedule (shift nurse). Home glucose log: fasting 140-190 range,
+post-meal spikes to 240-260 after dinner. Denies polyuria, polydipsia, blurred vision, foot pain
+or tingling. No hypoglycaemic episodes. Has not started Jardiance as discussed last visit — was
+waiting for insurance approval, which cleared 2 weeks ago.
+
+PMH: DM2 x 10 years | HTN x 15 years | Hyperlipidemia x 8 years | Obesity | GERD
+
+Meds: Metformin 1000mg BID | Lisinopril 20mg QD | Amlodipine 5mg QD | Atorvastatin 40mg QHS
+      Omeprazole 20mg QD | Naproxen 500mg PRN | Acetaminophen 1g PRN
+
+ALLERGIES: Penicillin (rash). Shellfish (urticaria).
+
+OBJECTIVE:
+VS: BP 144/83 | HR 75 | RR 16 | Temp 38.6°C | SpO2 100% RA | Wt 88kg | BMI 32.4
+
+HEENT: Fundi: small dot haemorrhage noted OD — new finding.
+CV: RRR, no murmurs. Mild pretibial pitting oedema 1+ bilat (new).
+Extremities: 10g monofilament: decreased sensation left plantar surface (4/10 sites) — new deficit.
+
+LABS:
+Fasting glucose: 178 mg/dL | HbA1c: 8.9% [worsened from 8.4%]
+Urine microalbumin/creatinine ratio: 68 mg/g [ref <30]
+CMP: Cr 1.0 | eGFR 68 | Na 138 | K 4.0
+Lipids: LDL 138 | HDL 44 | TG 176
+TSH: 2.4 [normal] | Ferritin: 18 ng/mL [low-normal]
+
+ASSESSMENT:
+1. DM2 — suboptimal control, worsening — E11.9
+2. Diabetic peripheral neuropathy — early — E11.40
+3. Diabetic kidney disease — early — E11.65 (microalbuminuria 68 mg/g)
+4. Hypertension — adequately controlled — I10
+5. Hyperlipidemia — LDL 138, goal <70 — E78.5
+6. Iron deficiency anaemia — mild — D50.9
+
+PLAN:
+1. START Empagliflozin (Jardiance) 10mg QD — renoprotective + cardioprotective
+2. Uptitrate Atorvastatin to 80mg QHS — target LDL <70
+3. Start Ferrous sulphate 325mg QD with vitamin C
+4. Ophthalmology referral URGENT — new dot haemorrhage
+5. Podiatry referral — baseline neuropathy evaluation
+6. NSAIDs contraindicated with DKD — switch to Acetaminophen 1g TID PRN
+
+F/U: 3 months for A1c recheck. Ophthalmology URGENT within 4 weeks.

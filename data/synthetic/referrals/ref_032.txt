@@ -1,0 +1,57 @@
+referral_id: REF-2025-095740
+specialty: Cardiothoracic Surgery
+urgency: EMERGENCY
+patient_name: Victor Salazar
+patient_dob: 1959-05-24
+patient_sex: Male
+patient_mrn: MRN-4736048
+insurance: Aetna PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — CARDIOTHORACIC SURGERY — EMERGENCY
+Date: 2025-12-08    Referral ID: REF-2025-095740
+Urgency: EMERGENCY — Immediate operative assessment required
+
+TO: On-Call Cardiothoracic Surgery / Aortic Emergency Team
+FROM: Dr. Marco Esposito, MD — Emergency Medicine / Critical Care, NPI 6690802098
+      University Hospital Emergency Department, Phone: (555) 670-9911 (ED Direct)
+
+PATIENT: Victor Salazar | DOB: 1959-05-24 | Age: 66 | Sex: Male
+MRN: MRN-4736048 | Insurance: Aetna PPO | Member ID: AP-4736048-16
+
+REASON FOR REFERRAL: ACUTE TYPE A AORTIC DISSECTION — CT AORTOGRAM CONFIRMED.
+EMERGENCY SURGICAL REPAIR REQUIRED. Patient is in resuscitation bay, haemodynamically
+marginal. IMMEDIATE CARDIOTHORACIC SURGICAL RESPONSE REQUESTED.
+
+CLINICAL SUMMARY:
+Mr. Salazar is a 66-year-old male presenting via ambulance with sudden-onset, severe tearing
+chest pain radiating to the interscapular region, onset approximately 2 hours ago. Initial BP:
+210/118 (right arm), 168/104 (left arm) — significant differential. HR 108, irregular.
+SpO2: 92% on 15L oxygen via non-rebreather mask.
+
+CT AORTOGRAM (completed 35 minutes ago — CONFIRMED):
+Type A aortic dissection — intimal tear at aortic root, extending to the descending thoracic
+aorta at the level of T8. Ascending aortic diameter: 5.8cm. Pericardial effusion — small, no
+tamponade physiology on CT (echo confirmed below). True and false lumen identified.
+No right coronary artery involvement on CT. No carotid artery involvement.
+No evidence of contained rupture. Right pleural effusion (haemothorax — small).
+
+BEDSIDE ECHO (ED physician performed): Aortic root 4.9cm. Small pericardial effusion without
+tamponade. Moderate AI seen on colour Doppler. EF estimated 45% (mildly reduced).
+
+EKG: Atrial fibrillation with rapid ventricular response (HR 108). No ST-elevation. No PR changes.
+Troponin T: 84 ng/L (mildly elevated — likely demand ischaemia / type 2 MI).
+Labs: Cr 1.4, Hgb 13.2, INR 1.1, Plt 188. Type and screen SENT — 4 units pRBC on order.
+
+Active management: IV Labetalol infusion targeting SBP 100-120mmHg. IV morphine 4mg boluses
+for pain. Anaesthesia team notified. ICU bed confirmed. Patient NBM. Two large-bore IVs + arterial
+line right radial. Foley catheter inserted.
+
+ACTIONS REQUIRED FROM CARDIOTHORACIC SURGERY:
+1. IMMEDIATE bedside assessment for emergent surgical repair
+2. Operative consent — patient alert and lucid (capacity confirmed by ED consultant)
+3. Cardiac anaesthesia team notification — urgent
+4. Heparin hold decision pre-operatively
+
+Referring Physician: Dr. Marco Esposito, MD
+NPI: 6690802098 | Phone: ED Direct (555) 670-9911

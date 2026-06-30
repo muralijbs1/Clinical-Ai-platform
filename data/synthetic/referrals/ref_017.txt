@@ -1,45 +1,57 @@
-referral_id: REF-2025-071384
-specialty: Obstetrics & Maternal-Fetal Medicine
-urgency: SOON
-patient_name: Priya Sharma
-patient_dob: 1999-04-12
-patient_sex: Female
-patient_mrn: MRN-6173829
-insurance: Medicaid
+referral_id: REF-2025-080193
+specialty: Dermatology
+urgency: ROUTINE
+patient_name: Omar Hassan
+patient_dob: 1980-03-17
+patient_sex: Male
+patient_mrn: MRN-1029384
+insurance: Aetna PPO
 data_tag: SYNTHETIC
 ---
-REFERRAL LETTER — OBSTETRICS / MATERNAL-FETAL MEDICINE
-Date: 2025-10-03    Referral ID: REF-2025-071384
-Urgency: SOON — within 1 week
+REFERRAL LETTER — DERMATOLOGY
+Date: 2025-11-04    Referral ID: REF-2025-080193
+Urgency: ROUTINE — Appointment within 4 weeks
 
-TO: Maternal-Fetal Medicine / High-Risk Obstetrics
-FROM: Dr. Janet Osei, MD — Family Medicine / Primary Care, NPI 5829301746
+TO: Dermatology Department, Skin & Rheumatology Centre
+FROM: Dr. Fatima Al-Rashid, MD — Rheumatology, NPI 1928374650
+      Rheumatology Associates, Phone: (555) 120-3344, Fax: (555) 120-3345
 
-PATIENT: Priya Sharma | DOB: 1999-04-12 | Age: 26 | Sex: Female
-MRN: MRN-6173829 | Insurance: Medicaid
+PATIENT: Omar Hassan | DOB: 1980-03-17 | Age: 45 | Sex: Male
+MRN: MRN-1029384 | Insurance: Aetna PPO | Member ID: AP-8374920-3
 
-REASON FOR REFERRAL: First trimester — 11 weeks gestation. High-risk preeclampsia screen positive
-(combined algorithm risk 1:48). Requesting MFM evaluation and aspirin prophylaxis initiation.
+REASON FOR REFERRAL: Psoriatic arthritis with prominent skin involvement. Joint disease
+is reasonably controlled on current biologic therapy; however, extensive scalp and body
+plaque psoriasis remains refractory, requiring dermatology co-management.
 
 CLINICAL SUMMARY:
-Ms. Sharma is a 26-year-old primigravida at 11+2 weeks gestation. First-trimester combined risk
-screening for preterm preeclampsia was performed using the FMF algorithm (MAP, UtA-PI, PAPP-A,
-PlGF). Combined risk: 1:48 (>1:100 threshold). Nulliparity, South Asian ethnicity, and BMI 32
-are additional risk factors.
+Mr. Hassan is a 45-year-old male with a 10-year history of psoriatic arthritis, currently
+managed on secukinumab 300mg monthly with good articular response (low DAS28). Despite
+adequate systemic IL-17A inhibition, he has extensive plaque psoriasis involving the scalp
+(>50% involvement), trunk, and extensor surfaces of both arms — estimated BSA involvement
+approximately 22%. PASI score: 16 (moderate-to-severe). Significant quality of life impact
+(DLQI 18/30). He reports marked pruritus, sleep disturbance, and social embarrassment.
 
-BP at booking: 122/78 mmHg. Urine dipstick: negative. Renal function normal.
-No history of autoimmune disease, diabetes, or chronic hypertension.
+Current topical regimen: clobetasol propionate 0.05% scalp solution and calcipotriol/
+betamethasone foam — partial response only (PASI reduced from 24 to current 16).
+No prior phototherapy. No biologics solely for skin disease.
 
-ULTRASOUND: Crown-rump length 55mm, consistent with dates. Normal fetal anatomy for gestation.
-Uterine artery PI: 1.84 (elevated, >95th percentile).
+Comorbidities: HTN (Ramipril 10mg QD), hyperlipidaemia (Rosuvastatin 20mg QD), obesity BMI 31.
+Allergies: NSAIDs (GI intolerance). No hepatic or renal impairment.
 
-MEDICATIONS: Folic acid 5mg QD. No current medications.
+Relevant labs: LFTs normal | FBC normal | CRP 8 mg/L (mildly elevated) | HbA1c 6.1%
 
-QUESTIONS FOR MFM:
-1. Confirm high-risk status and aspirin prophylaxis (150mg nocte from 12 weeks)?
-2. Additional surveillance protocol — uterine artery Dopplers, serial growth scans?
-3. PlGF-based surveillance plan in third trimester?
-4. Anaesthetic review timing given preeclampsia risk?
+QUESTIONS FOR DERMATOLOGY:
+1. Assess whether secukinumab dose optimisation (increase to 300mg 2-weekly) would benefit
+   skin disease, or whether a biologic with higher skin efficacy (e.g., ixekizumab, risankizumab)
+   should be considered?
+2. Role of topical calcineurin inhibitors (tacrolimus) for facial/flexural involvement?
+3. Phototherapy (NB-UVB) as adjunct to systemic biologic — feasibility and photosensitivity risk?
+4. Scalp management plan beyond clobetasol — tar shampoo, topical calcipotriene?
+5. PASI/DLQI target — define treat-to-target for skin in context of PsA management?
 
-Referring Physician: Dr. Janet Osei, MD
-NPI: 5829301746 | Phone: (555) 482-9300
+PRIOR AUTHORISATION:
+Auth Number: PA-112938 | Insurance: Aetna PPO
+Authorised for: Dermatology consultation and phototherapy assessment
+
+Referring Physician: Dr. Fatima Al-Rashid, MD
+NPI: 1928374650 | Phone: (555) 120-3344 | Fax Results To: (555) 120-3345

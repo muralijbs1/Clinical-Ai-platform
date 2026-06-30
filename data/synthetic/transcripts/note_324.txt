@@ -1,0 +1,41 @@
+encounter_id: transcript-028
+encounter_type: Emergency Department
+condition: Hypertensive Emergency with Acute End-Organ Damage
+icd10_primary: I16.1
+data_tag: SYNTHETIC
+---
+DATE: 2024-06-11   TIME: 08:15   PROVIDER: Dr. Hannah Kim, MD (Emergency Medicine)
+
+CC: Severe headache, blurred vision, BP 220/130
+
+HPI: 62 yo M brought by wife with 6-hour history of severe occipital headache, blurred vision in both
+eyes, and one episode of vomiting. Known hypertension — non-adherent to medications for 3 months ("ran
+out"). Denied chest pain or focal neurological symptoms.
+
+ROS: Positive: severe headache, blurred vision, vomiting. Negative: no chest pain, no focal neuro deficit.
+
+PMH: HTN (10 years) | CKD stage 2 | PSH: None | FHx: Father: stroke. SHx: Retired mechanic. Smoker 20pk.
+Meds: Amlodipine 10mg + lisinopril 10mg (not taking). Allergies: NKDA.
+
+VITAL SIGNS: BP 230/138 | HR 85 | RR 15 | Temp 38.6°C | SpO2 90% | BMI 29.4
+
+PHYSICAL EXAM: Alert, distressed. Fundoscopy: bilateral papilloedema, flame haemorrhages.
+Neuro: grossly intact — no focal deficits. Chest: clear. No peripheral oedema.
+
+INVESTIGATIONS:
+ECG: LVH (Sokolow-Lyon 48mm). CT head: no haemorrhage, no infarct.
+Creatinine: 2.1 mg/dL (baseline 1.4 — acute rise). Urinalysis: protein 3+ (dysmorphic RBCs).
+BNP: 620. Troponin: 32 (mildly elevated).
+
+ASSESSMENT:
+1. Hypertensive emergency — malignant phase (papilloedema, AKI, proteinuria)
+2. Acute kidney injury on CKD2 — hypertensive nephropathy
+3. Non-adherence to antihypertensives — primary cause
+
+PLAN:
+1. IV labetalol infusion: reduce MAP by 20-25% over 2 hours (target ~170/100, avoid overcorrection)
+2. Avoid oral nifedipine (uncontrolled BP drop risk)
+3. Nephrology urgent consult — possible renal biopsy if AKI persists
+4. Resume amlodipine + lisinopril on discharge; add spironolactone
+5. Ophthalmology urgent review — papilloedema
+6. Smoking cessation counselling and medication prescribed

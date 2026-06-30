@@ -1,0 +1,59 @@
+encounter_id: transcript-021
+encounter_type: Outpatient — Primary Care
+condition: Annual Wellness Visit — Preventive Care
+icd10_primary: Z00.00
+data_tag: SYNTHETIC
+---
+DATE: 2023-06-15   TIME: 12:45   PROVIDER: Dr. Yuki Tanaka, MD (Family Medicine)
+
+CC: Annual wellness visit
+
+HPI: 4 yo F presents for annual health maintenance. No acute complaints. Last physical 18 months ago.
+Reports mild fatigue over the past 3 months, improved with better sleep hygiene. Regular menses.
+No chest pain, palpitations, dyspnoea, GI complaints, or urinary symptoms.
+
+ROS: Positive: mild fatigue (improved). Negative: all systems otherwise negative on 14-system review.
+
+PMH: Migraine (well-controlled) | Mild depression (in remission x2 years, no medications)
+PSH: Appendectomy 2015
+FHx: Mother: breast cancer (dx age 58, BRCA unknown). Father: HTN, DM2.
+SHx: Teacher. Married, 2 children. Non-smoker. Occasional alcohol (2 units/week). No illicit drugs.
+Meds: Sumatriptan 50mg PRN (used <2x/month). Multivitamin.
+Allergies: NKDA.
+
+VITAL SIGNS: BP 121/74 | HR 64 | RR 13 | Temp 35.8°C | SpO2 100% | Wt 64kg | BMI 23.8
+
+PHYSICAL EXAM:
+General: Well-appearing, healthy female in no distress.
+HEENT: Normal. Thyroid non-palpable.
+Cardiovascular: RRR, no murmurs. Peripheral pulses intact.
+Respiratory: Clear bilaterally.
+Abdomen: Soft, non-tender. No organomegaly.
+Breast: No discrete masses, no axillary lymphadenopathy.
+Pelvic: Deferred — last PAP 14 months ago (normal).
+Skin: No suspicious lesions. SPF counselled.
+Neurological: No focal deficits.
+
+INVESTIGATIONS (ordered today):
+Fasting lipid panel: TC 188, LDL 112, HDL 58, TG 90 — within target, no action.
+HbA1c: 5.4% — normal.
+TSH: 2.1 — normal.
+Mammogram: due (age 42, maternal FHx) — ordered.
+Cervical smear: up-to-date (next due 2026).
+Colorectal cancer screen: deferred — age 42, screen at 45 per USPSTF.
+Skin self-examination: counselled; dermatology referral offered (maternal FHx melanoma? — no, breast cancer).
+
+ASSESSMENT:
+1. Healthy adult female — preventive care visit
+2. Migraine — well-controlled
+3. Depression — sustained remission, no medications required
+4. Maternal FHx breast cancer — genetic counselling offered; BRCA testing discussed
+
+PLAN:
+1. Mammogram ordered — results to follow up in 2 weeks
+2. Continue sumatriptan PRN — review if frequency increases
+3. PHQ-9 completed: score 2 — minimal depression; no treatment change
+4. Genetic counselling referral offered for BRCA testing — patient will consider
+5. Diet and exercise counselled — Mediterranean diet encouraged
+6. Vaccines: Tdap booster (due), influenza (seasonal), COVID-19 booster — administered today
+7. Follow-up: annual wellness visit in 12 months or sooner PRN

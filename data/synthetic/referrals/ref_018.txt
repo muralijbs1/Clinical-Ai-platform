@@ -1,48 +1,52 @@
-referral_id: REF-2025-073812
-specialty: Orthopaedic Surgery
-urgency: EMERGENCY
-patient_name: Daniel Okonkwo
-patient_dob: 1991-07-30
+referral_id: REF-2025-081047
+specialty: Vascular Surgery
+urgency: URGENT
+patient_name: Raymond Kowalski
+patient_dob: 1957-09-05
 patient_sex: Male
-patient_mrn: MRN-7291038
-insurance: Aetna Commercial
+patient_mrn: MRN-3847562
+insurance: Medicare Part B
 data_tag: SYNTHETIC
 ---
-REFERRAL LETTER — ORTHOPAEDIC SURGERY — EMERGENCY
-Date: 2025-10-14    Referral ID: REF-2025-073812
-Urgency: EMERGENCY — Immediate surgical assessment required
+REFERRAL LETTER — VASCULAR SURGERY
+Date: 2025-11-06    Referral ID: REF-2025-081047
+Urgency: URGENT — Seen within 48 hours
 
-TO: On-Call Orthopaedic Surgery
-FROM: Dr. Amara Diallo, MD — Emergency Medicine, NPI 6293847102
+TO: Vascular Surgery Department, Aortic Centre
+FROM: Dr. Kevin Drummond, MD — General Internal Medicine, NPI 8374920165
+      Lakeside Medical Group, Phone: (555) 230-4455, Fax: (555) 230-4456
 
-PATIENT: Daniel Okonkwo | DOB: 1991-07-30 | Age: 34 | Sex: Male
-MRN: MRN-7291038 | Insurance: Aetna Commercial
+PATIENT: Raymond Kowalski | DOB: 1957-09-05 | Age: 68 | Sex: Male
+MRN: MRN-3847562 | Insurance: Medicare Part B | Medicare ID: 1KW-A8-3847
 
-REASON FOR REFERRAL: Suspected acute compartment syndrome — left lower leg following
-tibial fracture. 6 hours post-injury. EMERGENCY orthopaedic assessment and fasciotomy.
+REASON FOR REFERRAL: Abdominal aortic aneurysm 5.2cm — annual surveillance CT showing growth
+of 0.6cm in 12 months (was 4.6cm, now 5.2cm). Approaching surgical threshold. Urgent vascular
+surgery assessment for elective repair planning.
 
 CLINICAL SUMMARY:
-Mr. Okonkwo is a 34-year-old male presenting via ambulance following a motorbike accident at
-moderate speed. Mechanism: direct impact to left lower leg. X-ray: closed mid-shaft tibial
-fracture with minimal displacement.
+Mr. Kowalski is a 68-year-old male with known AAA under surveillance since 2021. AAA was 3.8cm
+at initial diagnosis. Growth rate this year: 0.6cm in 12 months (threshold for referral ≥0.5cm/year
+or absolute diameter ≥5.5cm). Aneurysm is infrarenal. No symptoms — no abdominal or back pain.
 
-COMPARTMENT SYNDROME SIGNS (6 HOURS POST-INJURY):
-Pain: severe, disproportionate to injury — 9/10, unrelieved by IV morphine 10mg
-Pain with passive stretch: markedly positive (passive dorsiflexion and toe extension)
-Paresthesia: tingling in dorsum of left foot (anterior compartment)
-Compartment pressures (handheld device): anterior compartment 48 mmHg, diastolic BP 78 mmHg
-→ Delta-P = 30 mmHg (threshold for fasciotomy ≤30 mmHg)
-Pulses: dorsalis pedis weak but present. Capillary refill 3 seconds.
+CT Aortogram (this month): Infrarenal AAA 5.2cm maximum diameter. Aneurysm neck 2.8cm, length
+18mm, angulation 28 degrees. Bilateral iliac arteries: right CIA 1.8cm (mildly dilated), left
+CIA 1.4cm. No evidence of rupture. No contained haematoma.
 
-Neurovascular: early anterior compartment involvement; peroneal nerve at risk.
+Risk factors: 40 pack-year smoker (quit 3 years ago), hypertension (Amlodipine 10mg, Ramipril
+10mg), hyperlipidaemia (Atorvastatin 80mg), BMI 26.8. COPD (FEV1 68% — moderate). eGFR 62.
+Cardiac: stress echo 18 months ago — no inducible ischaemia. EF 58%.
+Allergies: Contrast dye (mild urticaria — pre-medication protocol required).
 
-IV ACCESS: 2x large-bore peripheral. Morphine 10mg IV given — inadequate analgesia.
-IV fluid resuscitation ongoing.
+QUESTIONS FOR VASCULAR SURGERY:
+1. Recommend elective repair now given 5.2cm diameter and rapid growth (0.6cm/year)?
+2. EVAR vs open repair — anatomy assessment (neck length/angulation/iliac access)?
+3. Pre-operative cardiac and pulmonary optimisation plan?
+4. Contrast allergy protocol for CT angiography/operative imaging?
+5. If watchful waiting: surveillance interval — 3 months vs 6 months?
 
-ACTIONS REQUIRED:
-1. EMERGENCY fasciotomy — four-compartment decompression
-2. Fracture stabilisation (ex-fix vs definitive fixation at time of fasciotomy)
-3. Repeat neurovascular checks q30min until theatre
+PRIOR AUTHORISATION:
+Auth Number: PA-229384 | Insurance: Medicare Part B
+Authorised for: Urgent vascular surgery consultation and pre-operative imaging
 
-Referring Physician: Dr. Amara Diallo, MD
-NPI: 6293847102 | Phone: ED Direct Line (555) 911-0100
+Referring Physician: Dr. Kevin Drummond, MD
+NPI: 8374920165 | Phone: (555) 230-4455 | Fax Results To: (555) 230-4456

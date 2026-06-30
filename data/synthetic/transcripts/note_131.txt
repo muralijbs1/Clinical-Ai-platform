@@ -1,0 +1,73 @@
+encounter_id: transcript-008
+encounter_type: Emergency Department / Stroke
+condition: Acute Ischaemic Stroke
+icd10_primary: I63.9
+data_tag: SYNTHETIC
+---
+DATE: 2024-06-12   TIME: 10:15   PROVIDER: Dr. Mark Chen, MD (Neurology — Stroke)
+Last Known Well: 09:05 today. Door-to-CT: 14 min. Door-to-IV tPA: 47 min.
+
+CC: Acute left-sided weakness, facial droop, slurred speech
+
+HPI: 64 yo M presenting via EMS — found by wife at 09:05 unable to lift left arm or leg, with
+left facial droop and dysarthria. Wife states was "completely normal" while having breakfast at
+09:00. No witnessed seizure. No headache at onset. No recent illness, trauma, or surgery.
+No prior TIA or stroke. RFs: HTN (poorly controlled), paroxysmal AFib on aspirin only
+(patient declining warfarin), DM2, hyperlipidemia, prior smoker.
+
+EMS at scene: FAST exam positive — facial droop, arm drift, speech abnormality.
+Stroke Code activated on arrival.
+
+PMH: Paroxysmal AFib | HTN | DM2 | Hyperlipidemia | Ex-smoker (quit 12 years ago)
+
+Meds: Aspirin 325mg QD | Metoprolol 50mg BID | Lisinopril 20mg QD | Atorvastatin 40mg QHS | Metformin 1000mg BID
+
+ALLERGIES: Codeine (nausea/vomiting)
+
+OBJECTIVE (09:28 arrival):
+VS: BP 192/96 | HR 83 irregular (AFib) | RR 17 | Temp 39.2°C | SpO2 100% RA | Wt 84kg
+
+NIHSS Score: 12
+  Level of consciousness: Alert (0) | Commands: Follows commands (0) | Gaze: Subtle R preference (1)
+  Visual fields: L homonymous hemianopia (2) | Facial palsy: Moderate L (2)
+  L arm motor: Drift (2) | R arm motor: Normal (0)
+  L leg motor: Drift (2) | R leg motor: Normal (0)
+  Ataxia: None (0) | Sensory: Mild L decrease (1) | Language: None (0) | Dysarthria: Mild (1)
+  Extinction/Neglect: None (0)
+
+Neurological Exam: Right hemiplegia noted. L gaze deviation. L facial droop. Dysarthria.
+                  Neglect: left extinction to double simultaneous stimulation.
+
+IMAGING:
+Non-contrast CT Head: No haemorrhage. No early infarct signs. ASPECTS 10/10.
+CT Perfusion: Mismatch ratio 1.7. Core infarct ~18mL (right MCA territory). Penumbra ~65mL.
+   Large ischaemic penumbra — amenable to both IV tPA and thrombectomy.
+CT Angiography: Right M1 MCA occlusion confirmed. No significant intracranial stenosis elsewhere.
+
+LABS:
+Glucose: 162 mg/dL [elevated]
+CBC: WBC 9.2 | Hgb 14.8 | Plt 334 | INR 1.0 (not on anticoagulation — aspirin only)
+CMP: Na 141 | K 4.0 | Cr 1.0 | all normal
+PT/INR: 1.0 | APTT: 26s [both normal — tPA eligible]
+
+ASSESSMENT:
+1. Acute Ischaemic Stroke — Right MCA territory, M1 occlusion — I63.9
+   Onset-to-door 23 minutes. NIHSS 12 (moderate-severe). ASPECTS 10. Core 18mL, penumbra 65mL.
+   Aetiology: Cardioembolic (AFib — was on aspirin only, not anticoagulated).
+2. Paroxysmal Atrial Fibrillation — I48.91 — thromboembolic source
+3. Hypertension — poorly controlled, BP 188/102 — I10
+
+PLAN:
+1. IV tPA (alteplase) given 09:52 — Door-to-needle 47 min ✓ (target <60 min)
+   Dose: 0.9 mg/kg (75.6 mg total): 10% bolus (7.6mg) → 90% over 60 min (68mg)
+   BP management: keep <185/110 during tPA infusion — Labetalol PRN
+2. Mechanical thrombectomy — IR activated — anticipated door-to-groin <90 min
+3. NPO. No nasogastric tube. Aspiration precautions.
+4. Glucose target 140-180 mg/dL — insulin PRN
+5. Stroke unit admission. Continuous telemetry.
+6. Anticoagulation for AFib: START Apixaban 2.5mg BID 48h post-tPA if imaging stable
+7. Statin uptitration to 80mg QHS (high-intensity post-stroke)
+8. Swallowing assessment prior to any oral intake
+9. PT/OT/Speech therapy consults
+
+DISPOSITION: Neuro ICU/Stroke Unit. Thrombectomy suite → Stroke Unit.

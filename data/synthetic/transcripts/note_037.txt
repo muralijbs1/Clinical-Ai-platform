@@ -1,0 +1,38 @@
+encounter_id: transcript-037
+encounter_type: Outpatient — Primary Care
+condition: Major Depression — Annual Review, Stable Remission
+icd10_primary: F33.0
+data_tag: SYNTHETIC
+---
+DATE: 2025-05-14   TIME: 15:00   PROVIDER: Dr. Angela Foster, MD (Family Medicine / Mental Health)
+
+CC: Annual mental health review — depression in remission
+
+HPI: 36 yo F with recurrent depressive disorder, currently in remission for 14 months on sertraline.
+Reports stable mood, good sleep, no anhedonia. Returned to full-time work 10 months ago. No current
+suicidal ideation. Marriage stable. One stressor: caring for elderly parent (acknowledges this with equanimity).
+
+ROS: Positive: mild fatigue (sleep quality 6/10). Negative: no depressed mood, no anhedonia, no SI.
+
+PMH: Recurrent MDD (3 episodes since age 28) | PSH: None | FHx: Mother: bipolar disorder.
+SHx: Solicitor. Married. Non-smoker. Meds: Sertraline 100mg QD (3 years). Allergies: NKDA.
+
+VITAL SIGNS: BP 112/70 | HR 72 | Wt 63kg | BMI 23.4
+
+PHYSICAL EXAM: Euthymic, well-presented. Normal psychomotor. No agitation or retardation.
+
+INVESTIGATIONS:
+TSH: 1.8 (normal — checked annually). PHQ-9: 3 (minimal). GAD-7: 2 (minimal).
+Bloods: FBC, U&E, LFTs normal.
+
+ASSESSMENT:
+1. Recurrent MDD — currently in sustained remission (>12 months)
+2. Maternal history bipolar — no hypomanic features to date
+
+PLAN:
+1. Continue sertraline 100mg QD — minimum 2 years from last episode (risk of relapse if stopped early)
+2. Discuss future tapering plan: not before 2 years remission; slow taper if elected
+3. PHQ-9 monitoring every 6 months or with any mood change
+4. Discuss carer stress — offer carers' support resources and local authority carer assessment
+5. Return precautionary signs: poor sleep >1 week, withdrawal, anhedonia, missed work
+6. Next review: 12 months unless concerns arise sooner

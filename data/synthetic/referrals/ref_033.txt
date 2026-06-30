@@ -1,0 +1,59 @@
+referral_id: REF-2025-096831
+specialty: Infectious Disease
+urgency: ROUTINE
+patient_name: Hannah MacLeod
+patient_dob: 1984-03-19
+patient_sex: Female
+patient_mrn: MRN-5847159
+insurance: Cigna PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — INFECTIOUS DISEASE (LATENT TB)
+Date: 2025-12-10    Referral ID: REF-2025-096831
+Urgency: ROUTINE — Appointment within 4 weeks
+
+TO: Infectious Disease / TB Clinic
+FROM: Dr. Claire Henderson, MD — Occupational Health / Primary Care, NPI 7700902108
+      Riverside Occupational Health, Phone: (555) 780-0011, Fax: (555) 780-0012
+
+PATIENT: Hannah MacLeod | DOB: 1984-03-19 | Age: 41 | Sex: Female
+MRN: MRN-5847159 | Insurance: Cigna PPO | Member ID: CP-5847159-17
+
+REASON FOR REFERRAL: Latent TB infection (LTBI) — positive IGRA (QuantiFERON-TB Gold Plus)
+on occupational health screening. No active TB. Requesting infectious disease assessment for
+treatment eligibility and INH prophylaxis protocol.
+
+CLINICAL SUMMARY:
+Ms. MacLeod is a 41-year-old female healthcare worker (registered nurse, ICU) who underwent
+routine annual TB screening as part of her occupational health programme. Previous TST (2022):
+negative. This year's IGRA (QuantiFERON-TB Gold Plus): POSITIVE — TB1 antigen response 0.84 IU/mL,
+TB2 antigen response 1.12 IU/mL (both above 0.35 IU/mL threshold).
+
+She has no symptoms of active TB: no cough, no haemoptysis, no unexplained weight loss, no
+fever, no night sweats, no fatigue. General health is excellent.
+
+Chest X-ray (December 8, 2025): No active pulmonary disease. No apical shadowing. No lymphadenopathy.
+No calcified granulomata. Normal CXR — active TB excluded.
+
+Risk factor history: Born in the UK, Caucasian. No TB contact identified outside the work
+environment. No recent travel to high-prevalence countries. Not immunocompromised. No HIV.
+No diabetes. Not pregnant (LMP 3 weeks ago, regular cycle, not planning pregnancy currently).
+No prior BCG vaccination documented. No prior TB treatment.
+
+Baseline labs: LFTs normal (ALT 18, AST 14, ALP 72, bilirubin 0.6). FBC normal.
+Renal function normal (eGFR 94). No peripheral neuropathy symptoms.
+Allergies: None known.
+
+QUESTIONS FOR INFECTIOUS DISEASE:
+1. Confirm LTBI diagnosis and treatment indication (occupational exposure risk)?
+2. INH 6-month prophylaxis (6H) vs 3HP (rifapentine + INH weekly x12) — which regimen preferred?
+3. Pyridoxine (B6) 25mg QD with INH — standard addition?
+4. Monitoring plan — LFTs at baseline, 1 month, 3 months?
+5. Occupational implications — return to ICU work during treatment?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-767593 | Insurance: Cigna PPO
+Authorised for: Infectious disease consultation and LTBI treatment initiation
+
+Referring Physician: Dr. Claire Henderson, MD
+NPI: 7700902108 | Phone: (555) 780-0011 | Fax Results To: (555) 780-0012

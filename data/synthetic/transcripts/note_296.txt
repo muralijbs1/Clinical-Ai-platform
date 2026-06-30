@@ -1,0 +1,80 @@
+encounter_id: transcript-025
+encounter_type: Outpatient — Geriatrics
+condition: Comprehensive Geriatric Assessment — Recurrent Falls
+icd10_primary: Z87.39
+data_tag: SYNTHETIC
+---
+DATE: 2025-07-08   TIME: 16:45   PROVIDER: Dr. David Okonkwo, MD (Geriatric Medicine)
+
+CC: Comprehensive Geriatric Assessment — referred by GP for recurrent falls and functional decline
+
+HPI: 4 yo M referred by his GP following 3 falls in the past 4 months. One fall resulted in a right
+wrist fracture (treated conservatively). Lives alone since wife's death 8 months ago. Family reports
+increased confusion over the past 6 months. Previously independent for all ADLs; now requires help
+with shopping and meal preparation. No LOC during falls.
+
+ROS: Positive: falls, functional decline, mild confusion, fatigue, reduced appetite, constipation.
+Negative: no chest pain, no syncope, no dyspnoea, no urinary incontinence.
+
+PMH: Hypertension (30 years) | CKD stage 3a (eGFR 52) | BPH | Osteoporosis (DEXA confirmed)
+Ischaemic heart disease (PCI 2018) | Hearing impairment (bilateral, moderate)
+PSH: CABG 2009, right knee arthroplasty 2020
+FHx: Father: dementia. Mother: osteoporosis.
+SHx: Retired teacher. Lives alone, ground floor flat. No steps. One adult son — visits weekly.
+Meds (12 total): Amlodipine 10mg | Bisoprolol 5mg | Ramipril 5mg | Furosemide 40mg
+  Aspirin 75mg | Atorvastatin 40mg | Tamsulosin 0.4mg | Alendronate 70mg weekly
+  Calcium + Vit D | Omeprazole 20mg | Zopiclone 7.5mg (nightly — GP started 3 months ago)
+  Ferrous sulfate 200mg BD (new, iron-deficiency anaemia)
+Allergies: Penicillin (rash).
+
+VITAL SIGNS: BP 135/86 sitting, 128/76 standing (orthostatic drop 16/8 — significant)
+HR 57 (bradycardia on bisoprolol) | RR 14 | Temp 35.1°C | SpO2 92% | Wt 68kg | BMI 22.1
+
+FUNCTIONAL ASSESSMENT:
+Barthel Index: 65/100 (bathing, dressing partially dependent)
+Timed Up and Go (TUG): 22 seconds (>12s = high fall risk) — uses walking stick
+Grip strength (dynamometer): 18kg right, 20kg left (below threshold for age)
+Gait: Wide-based, shortened stride. No festination. No parkinsonian features.
+
+COGNITIVE ASSESSMENT:
+MMSE: 22/30 — deficits: orientation to date (-2), delayed recall (-3), visuospatial (-1)
+Clock Drawing Test: 3/4 — minor spatial error
+MoCA: 20/30 (referred for formal neuropsychology)
+
+VISION: Bilateral cataracts — reduced visual acuity corrected to 6/18. Ophthalmology referral pending.
+HEARING: Bilateral moderate hearing loss — wearing aids inadequately (sizing issue).
+
+INVESTIGATIONS:
+FBC: Hb 11.2 (mild anaemia — iron deficiency on treatment) | Platelets 198 | WBC 6.8
+Renal: Creatinine 118, eGFR 52, Na 138, K 4.1 (stable CKD)
+Calcium: 2.28 (normal on supplementation) | Vitamin D 25-OH: 52 nmol/L (sufficient)
+TSH: 2.8 (normal) | HbA1c: 5.6% (no diabetes)
+
+POLYPHARMACY REVIEW:
+HIGH-RISK MEDICATIONS IDENTIFIED:
+⚠ Zopiclone: benzodiazepine-receptor agonist — fall risk +++ in elderly; STOP (started 3 months ago)
+⚠ Tamsulosin: alpha-blocker — orthostatic hypotension; orthostatic drop 16mmHg confirmed; REVIEW dose
+⚠ Bisoprolol 5mg: HR 58 — bradycardia may contribute to fall risk; cardiology review for dose reduction
+⚠ Furosemide: orthostatic risk; check if still indicated (no current HF decompensation signs)
+⚠ Alendronate: CKD eGFR 52 — borderline; acceptable but monitor renal function
+
+ASSESSMENT:
+1. Recurrent falls — multifactorial: orthostatic hypotension, polypharmacy (zopiclone, tamsulosin),
+   visual impairment, reduced muscle strength, cognitive impairment
+2. Mild cognitive impairment — possible early dementia (formal assessment pending)
+3. Frailty — Clinical Frailty Scale: 5/9 (mildly frail)
+4. Osteoporosis — continue alendronate; ensure calcium/Vit D adequate
+
+PLAN:
+1. STOP zopiclone — taper over 2 weeks to avoid withdrawal; offer sleep hygiene advice
+2. REDUCE tamsulosin to 0.4mg QD (was BD? — confirm with GP); review in 4 weeks for orthostatic BP
+3. Cardiology referral — bisoprolol dose review (HR 58 on 5mg)
+4. PHYSIOTHERAPY referral — strength and balance programme (evidence: reduces falls 35%)
+5. OCCUPATIONAL THERAPY — home hazard assessment, bathroom grab rails, shower chair
+6. Ophthalmology — fast-track cataract assessment (visual impairment is modifiable fall risk)
+7. Hearing aid review — ENT/audiology for resizing
+8. Nutrition: dietitian referral — BMI 22.1 declining (1 year ago BMI 24.3); high-protein diet
+9. Neuropsychology referral — formal cognitive assessment for dementia workup
+10. Advance care planning discussion initiated — patient agreeable to GP-held anticipatory care plan
+11. DEXA repeat in 2 years; fracture liaison service notification for wrist fracture
+12. Review in 3 months post-medication changes and physio assessment

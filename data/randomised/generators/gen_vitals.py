@@ -20,7 +20,7 @@ random.seed(42)
 
 _OUT_FILE = Path(__file__).parent.parent / "vitals.csv"
 
-_N_PATIENTS = 32
+_N_PATIENTS = 4000
 _READINGS_PER_PATIENT = 24
 
 _FIELDNAMES = [
@@ -37,13 +37,18 @@ def _normal(mu: float, sigma: float, lo: float, hi: float) -> float:
 
 
 def _reading(patient_id: str, offset_h: int) -> dict:
+    sbp = _normal(118, 22, 70, 220)
+    # Ensure DBP is always at least 20 mmHg below SBP (minimum pulse pressure)
+    dbp_max = max(40, sbp - 20)
+    dbp = _normal(72, 14, 40, dbp_max)
+    map_val = round((sbp + 2 * dbp) / 3, 1)
     return {
         "patient_id": patient_id,
         "timestamp_offset_hours": offset_h,
         "heart_rate_bpm": _normal(85, 18, 40, 180),
-        "systolic_bp_mmhg": _normal(118, 22, 70, 220),
-        "diastolic_bp_mmhg": _normal(72, 14, 40, 130),
-        "map_mmhg": _normal(82, 16, 50, 160),
+        "systolic_bp_mmhg": sbp,
+        "diastolic_bp_mmhg": dbp,
+        "map_mmhg": map_val,
         "respiratory_rate_per_min": _normal(18, 5, 8, 40),
         "temperature_celsius": _normal(37.1, 0.6, 35.0, 41.0),
         "spo2_percent": _normal(96.5, 2.5, 80.0, 100.0),

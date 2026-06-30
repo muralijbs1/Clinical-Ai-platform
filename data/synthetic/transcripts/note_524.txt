@@ -1,0 +1,45 @@
+encounter_id: transcript-048
+encounter_type: Inpatient — Nephrology
+condition: ESRD on Haemodialysis — AV Fistula Thrombosis
+icd10_primary: T82.49XA
+data_tag: SYNTHETIC
+---
+DATE: 2024-03-11   TIME: 04:30   PROVIDER: Dr. Fatima Al-Rashidi, MD (Nephrology)
+
+CC: Unable to dialyse — fistula not functioning since yesterday
+
+HPI: 62 yo F with ESRD on haemodialysis (3x/week via AVF left forearm, created 4 years ago) presents
+unable to attend dialysis session yesterday as fistula non-functioning. Missed last 2 sessions.
+Complaints of left forearm pain, swelling, and no thrill on palpation. Increasing dyspnoea and ankle oedema.
+
+ROS: Positive: fistula non-functioning, dyspnoea, ankle oedema, left forearm swelling.
+Negative: no chest pain, no fever.
+
+PMH: ESRD (IgA nephropathy) | DM2 | HTN | PSH: AVF creation left forearm 2019.
+SHx: Retired. Married. Meds: Darbepoetin 40mcg SC (HD days) | Calcium carbonate | Alfacalcidol |
+Amlodipine 10mg | Bisoprolol 5mg. Allergies: NKDA.
+
+VITAL SIGNS: BP 185/110 | HR 89 | RR 19 | SpO2 100% | Wt 68kg (dry wt 63kg) | BMI 26.8
+
+PHYSICAL EXAM: Left forearm AVF: no thrill, no bruit (on auscultation). Erythematous firm cord palpable.
+Chest: bilateral crackles. Bilateral pitting oedema to mid-thigh.
+
+INVESTIGATIONS:
+K+ 6.4 (dangerous — dialysis-dependent), BUN 148, Creatinine 14.8 (no residual renal function).
+ABG: pH 7.28, HCO3 14 — metabolic acidosis (uraemic + missed dialysis).
+CXR: bilateral pulmonary oedema. ECG: peaked T waves (hyperkalaemia).
+Doppler USS fistula: thrombosis left cephalic-radial junction — no flow.
+
+ASSESSMENT:
+1. AV fistula thrombosis — left forearm
+2. Fluid overload (5kg above dry weight) — 2 missed dialysis sessions
+3. Hyperkalaemia K+ 6.4 with ECG changes — medical emergency
+4. Metabolic acidosis — uraemic
+
+PLAN:
+1. Calcium gluconate 10mL IV STAT (ECG changes — membrane stabilisation)
+2. Salbutamol nebuliser 10mg + insulin-dextrose (K+ temporising)
+3. Emergency dialysis via temporary CVC (right jugular — inserted by nephrology fellow)
+4. Vascular surgery urgent referral: fistula thrombectomy or angioplasty within 24-48h
+5. Anticoagulation: IV heparin post-thrombectomy per vascular surgery plan
+6. Long-term: consider fistuloplasty surveillance programme

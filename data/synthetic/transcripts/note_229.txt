@@ -1,0 +1,40 @@
+encounter_id: transcript-018
+encounter_type: Emergency Department
+condition: Anaphylaxis
+icd10_primary: T78.2XXA
+data_tag: SYNTHETIC
+---
+DATE: 2023-08-28   TIME: 03:15   PROVIDER: Dr. Patrick Brennan, MD (Emergency Medicine)
+
+CC: Acute urticaria, throat swelling, hypotension 10 minutes after penicillin injection
+
+HPI: 35 yo M developed acute generalised urticaria, throat tightness, and stridor approximately
+10 minutes after receiving Amoxicillin 500mg IM at an urgent care clinic for suspected strep throat.
+EMS called. Epinephrine 0.3mg IM given by EMS en route — partial response.
+No prior anaphylaxis. No known penicillin allergy (first exposure). PMH: nil.
+
+EMS vitals: BP 75/45, HR 122, SpO2 90% on room air.
+
+On arrival: BP 84/52 | HR 118 | RR 26 | SpO2 91% | Temp 39.8°C
+
+EXAM: Generalised urticaria, angioedema of lips/tongue, stridor on inspiration.
+Lungs: diffuse bilateral wheezing. Extremities: flushed, warm. No signs of laryngeal closure.
+
+LABS: Tryptase 42 µg/L [ELEVATED — confirm anaphylaxis] | CBC/CMP normal | Glu 118
+
+ASSESSMENT:
+1. Anaphylaxis — penicillin-induced, grade III — T78.2XXA
+   Systemic: urticaria, bronchospasm, hypotension, angioedema. IgE-mediated.
+2. Anaphylactic shock — distributive
+
+PLAN:
+1. EPINEPHRINE 0.3mg IM (lateral thigh) — REPEAT DOSE immediately (EMS gave 1 dose)
+2. IV access x2. Normal saline 1L bolus STAT (distributive shock)
+3. Diphenhydramine 50mg IV + Ranitidine 50mg IV (H1+H2 blockade)
+4. Methylprednisolone 125mg IV (corticosteroid — prevent biphasic reaction)
+5. Salbutamol 2.5mg neb (bronchospasm)
+6. If further stridor: prepare for RSI/intubation (ENT on standby)
+7. Observe minimum 6h after last epinephrine dose (biphasic reaction risk)
+8. Prescribe Epinephrine autoinjector (EpiPen 0.3mg) x2 at discharge
+9. Document PENICILLIN ALLERGY (IgE-mediated anaphylaxis) permanently
+10. Immunology/allergy follow-up for penicillin desensitisation evaluation

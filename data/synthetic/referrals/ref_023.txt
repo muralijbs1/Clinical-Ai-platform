@@ -1,0 +1,58 @@
+referral_id: REF-2025-086284
+specialty: General Surgery
+urgency: URGENT
+patient_name: Brigitte Marceau
+patient_dob: 1964-01-14
+patient_sex: Female
+patient_mrn: MRN-4839201
+insurance: Aetna Commercial
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — GENERAL SURGERY
+Date: 2025-11-19    Referral ID: REF-2025-086284
+Urgency: URGENT — Assessment within 48 hours
+
+TO: General Surgery Department
+FROM: Dr. Nathan Owens, MD — Emergency Medicine, NPI 6849201738
+      City General Hospital ED, Phone: (555) 780-9911, Fax: (555) 780-9912
+
+PATIENT: Brigitte Marceau | DOB: 1964-01-14 | Age: 61 | Sex: Female
+MRN: MRN-4839201 | Insurance: Aetna Commercial | Member ID: AC-4839201-8
+
+REASON FOR REFERRAL: Symptomatic cholelithiasis with recurrent biliary colic — third ED
+presentation in 6 weeks. Requesting urgent surgical consultation for elective laparoscopic
+cholecystectomy before progression to acute cholecystitis or choledocholithiasis.
+
+CLINICAL SUMMARY:
+Ms. Marceau is a 61-year-old female presenting with her third episode of biliary colic in
+6 weeks. Episodes: right upper quadrant pain radiating to right shoulder, post-prandial,
+associated with nausea and vomiting, each lasting 4-8 hours and then self-resolving. No fever.
+No jaundice. No scleral icterus. Murphey's sign: negative on current presentation.
+
+Abdominal Ultrasound (confirmed in ED, 3 weeks ago): Multiple gallstones, largest 1.8cm.
+Gallbladder wall normal thickness (2mm). No pericholecystic fluid. CBD 5mm (not dilated).
+No hepatic abnormality.
+
+Current labs: WBC 9.2 (normal — no cholecystitis). Total bilirubin 0.9 (normal). ALP 88 (normal).
+ALT 22, AST 19 (normal — no CBD stone/Mirizzi). Amylase 48 (normal — no pancreatitis).
+CRP 12 mg/L (mildly elevated, post-pain). Haemoglobin 13.8, platelets 224 (normal).
+
+Medical history: HTN (Perindopril 8mg QD), hypothyroidism (Levothyroxine 100mcg QD),
+BMI 29.1. No prior abdominal surgery. No anticoagulation. No known bleeding disorder.
+Allergies: Aspirin (bronchospasm — NSAID-exacerbated respiratory disease).
+
+Pre-operative risk: ASA Class II. Cardiac clearance not anticipated to be required.
+
+QUESTIONS FOR GENERAL SURGERY:
+1. Schedule laparoscopic cholecystectomy — inpatient vs day-case?
+2. Pre-operative MRCP or EUS to exclude CBD stone before surgery?
+3. IOC (intra-operative cholangiogram) — routine or selective?
+4. Any concern regarding peri-operative Levothyroxine management?
+5. Preferred anaesthetic considerations given NSAID allergy (aspirin/bronchospasm)?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-774693 | Insurance: Aetna Commercial
+Authorised for: Urgent surgical consultation and laparoscopic cholecystectomy
+
+Referring Physician: Dr. Nathan Owens, MD
+NPI: 6849201738 | Phone: (555) 780-9911 | Fax Results To: (555) 780-9912

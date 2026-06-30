@@ -1,0 +1,47 @@
+encounter_id: transcript-017
+encounter_type: Inpatient — Hepatology
+condition: Acute Liver Failure — Drug-Induced (Acetaminophen)
+icd10_primary: K72.00
+data_tag: SYNTHETIC
+---
+DATE: 2024-08-07   TIME: 08:45   PROVIDER: Dr. Angela Foster, MD (Hepatology)
+
+CC: Jaundice, confusion, right upper quadrant pain following acetaminophen overdose
+
+HPI: 24 yo F transferred from OSH 3 days post-acetaminophen intentional overdose (estimated
+20g ingested in a single episode, activated charcoal given at 6h). Progressive jaundice,
+confusion (worsening), and right upper quadrant pain. Psychiatry involved at OSH.
+
+VS: BP 97/62 | HR 106 | RR 19 | Temp 37.1°C | SpO2 100% RA | Wt 62kg
+
+EXAM: Deeply jaundiced sclera and skin. Asterixis grade 2. Drowsy, disoriented to place/time.
+No Dupuytren's. No spider naevi (no chronic liver disease). Liver edge palpable 2cm below RCM.
+
+LABS:
+ALT: 8,240 U/L [MARKEDLY ELEVATED — acute hepatocellular necrosis]
+AST: 12,600 U/L [MARKEDLY ELEVATED]
+Total bilirubin: 14.2 mg/dL | ALP: 140 [relatively low — hepatocellular pattern]
+INR: 6.8 [MARKEDLY ELEVATED — synthetic failure]
+Creatinine: 2.4 [HIGH — hepatorenal syndrome or acetaminophen nephrotoxicity]
+Ammonia: 188 µmol/L [ELEVATED — hepatic encephalopathy]
+Lactate: 4.8 mmol/L [HIGH — hepatic lactate clearance failure]
+Phosphate: 1.2 [LOW — phosphate depletion]
+CBC: WBC 14.2 | Plt 78 [LOW]
+Acetaminophen level (now day 3): 6 µg/mL [residual]
+
+ASSESSMENT:
+1. Acetaminophen-induced Acute Liver Failure — Grade 3 hepatic encephalopathy — K72.00
+   King's College Criteria: INR>6.8, Cr>3.4 not yet met — monitor closely. ALF listing criteria met.
+2. Coagulopathy of ALF — INR 6.8
+3. AKI — Cr 2.4 — hepatorenal vs direct nephrotoxicity
+4. Hyperammonaemia + hepatic encephalopathy Grade 3 — G92.9
+
+PLAN:
+1. N-ACETYLCYSTEINE: Continue IV NAC 6.25mg/kg/hr (maintenance phase) — continue 72h post-ingestion
+2. Lactulose 20-30g PO/NG q6h — target 2-3 soft stools/day
+3. Rifaximin 550mg BID
+4. LIVER TRANSPLANT EVALUATION: IMMEDIATE referral — King's College criteria borderline
+5. Avoid hepatotoxic drugs. Avoid benzodiazepines.
+6. Nutrition: low-sodium diet, phosphate repletion
+7. Monitor q4h: INR, glucose, lactate, Cr, ammonia
+8. ICU. Hepatology + Transplant Surgery co-management.

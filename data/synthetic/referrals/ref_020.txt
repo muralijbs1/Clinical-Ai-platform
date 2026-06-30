@@ -1,53 +1,57 @@
-referral_id: REF-2025-078473
-specialty: Rehabilitation Medicine
-urgency: ROUTINE
-patient_name: Helen Beaumont
-patient_dob: 1955-11-22
-patient_sex: Female
-patient_mrn: MRN-9283741
-insurance: Medicare
+referral_id: REF-2025-083291
+specialty: Infectious Disease
+urgency: SOON
+patient_name: Darius Washington
+patient_dob: 1973-11-08
+patient_sex: Male
+patient_mrn: MRN-7483920
+insurance: Medicaid Managed Care
 data_tag: SYNTHETIC
 ---
-REFERRAL LETTER — REHABILITATION MEDICINE / PHYSICAL MEDICINE
-Date: 2025-10-28    Referral ID: REF-2025-078473
-Urgency: ROUTINE — 4-6 weeks
+REFERRAL LETTER — INFECTIOUS DISEASE
+Date: 2025-11-12    Referral ID: REF-2025-083291
+Urgency: SOON — Appointment within 2 weeks
 
-TO: Physical Medicine & Rehabilitation
-FROM: Dr. Kevin Obi, MD — Neurology, NPI 8293746102
+TO: Infectious Disease Department
+FROM: Dr. Tamara Blackwell, MD — Primary Care, NPI 3748201938
+      Urban Health Associates, Phone: (555) 450-6677, Fax: (555) 450-6678
 
-PATIENT: Helen Beaumont | DOB: 1955-11-22 | Age: 69 | Sex: Female
-MRN: MRN-9283741 | Insurance: Medicare
+PATIENT: Darius Washington | DOB: 1973-11-08 | Age: 52 | Sex: Male
+MRN: MRN-7483920 | Insurance: Medicaid Managed Care | Member ID: MC-7483920-5
 
-REASON FOR REFERRAL: Post-stroke rehabilitation needs assessment — 8 weeks post right MCA
-ischaemic stroke with residual left hemiparesis and expressive aphasia. Outpatient rehab plan.
+REASON FOR REFERRAL: Recurrent MRSA skin infections — fourth episode in 18 months. Requires
+expert management, decolonisation protocol, and assessment for underlying immunodeficiency.
 
 CLINICAL SUMMARY:
-Mrs. Beaumont is a 69-year-old woman admitted 8 weeks ago with right MCA territory ischaemic
-stroke (NIHSS 14 on admission). Treated with IV thrombolysis at 3.5 hours. MRI: right frontal
-and parietal cortical infarction with involvement of Broca's area homologue. No haemorrhagic
-transformation.
+Mr. Washington is a 52-year-old male with a history of recurrent MRSA skin and soft tissue
+infections (SSTIs). Episodes: August 2024 — right thigh abscess (I&D + TMP-SMX 10 days);
+November 2024 — left axillary abscess (I&D, hospital admission, IV vancomycin 5 days);
+March 2025 — neck abscess (I&D + doxycycline); November 2025 (current) — recurrent right
+thigh cellulitis with abscess (cultures MRSA, community-acquired, non-USA300 strain PVL+).
 
-CURRENT NEUROLOGICAL STATUS (8 weeks post-stroke):
-Motor: Left arm — proximal power MRC 3/5, distal 2/5. Left leg — MRC 4/5 (ambulatory with AFO).
-Speech: Expressive aphasia — non-fluent, word-finding difficulty. Comprehension largely intact.
-Cognition: MoCA 22/30 (attention, language domain deficits). No significant memory impairment.
-Swallowing: FEES performed — safe with modified texture 3. Progressing towards normal diet.
-ADL: Requires assistance with dressing, bathing. Independent for feeding with adapted utensils.
+The PVL-positive MRSA (community strain) is concerning for household transmission and
+ongoing reinfection from a nasal or skin reservoir.
 
-INPATIENT REHAB (weeks 2-6): Physical therapy, occupational therapy, speech therapy — good
-engagement. Discharged to home with carer support.
+Current social history: lives with partner and two children. No known healthcare worker
+exposure. No IV drug use. No recent hospital stay.
 
-CURRENT MEDICATIONS: Aspirin 75mg, atorvastatin 80mg, ramipril 5mg, metoprolol 25mg BD.
-Secondary prevention risk factors: hypertension (controlled), dyslipidaemia (LDL 1.8 on statin).
+HIV test: Negative (October 2025). CD4 not indicated. IgG quantification: IgG 840 mg/dL
+(normal). IgA, IgM normal. Neutrophil oxidative burst assay: pending. No diabetes (HbA1c 5.4%).
+Skin swabs (nares, axillae, groin): MRSA isolated from anterior nares bilaterally.
 
-GOALS: Return to independent living, communication improvement, driving assessment.
+Current antibiotics: TMP-SMX DS BID for 10 days (ongoing).
+Allergies: Penicillin (anaphylaxis — documented).
 
-QUESTIONS FOR REHABILITATION MEDICINE:
-1. Outpatient therapy intensity and modality plan (PT, OT, SLT)?
-2. Constraint-induced movement therapy for left arm?
-3. Aphasia therapy programme — individual vs group?
-4. Driving assessment timeline and process?
-5. Vocational rehabilitation — was employed part-time as librarian pre-stroke
+QUESTIONS FOR INFECTIOUS DISEASE:
+1. Decolonisation protocol — mupirocin nasal, chlorhexidine body wash, household decontamination?
+2. Household screening and decolonisation — partner and children?
+3. Is there underlying immunodeficiency requiring further work-up?
+4. Optimal antibiotic choice given penicillin anaphylaxis for future MRSA SSTIs?
+5. Duration of suppressive therapy — is long-term decolonisation indicated?
 
-Referring Physician: Dr. Kevin Obi, MD
-NPI: 8293746102 | Phone: (555) 744-8800
+PRIOR AUTHORISATION:
+Auth Number: PA-447382 | Insurance: Medicaid Managed Care
+Authorised for: Infectious disease consultation and decolonisation assessment
+
+Referring Physician: Dr. Tamara Blackwell, MD
+NPI: 3748201938 | Phone: (555) 450-6677 | Fax Results To: (555) 450-6678

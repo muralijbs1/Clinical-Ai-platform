@@ -1,0 +1,574 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundle-ENC-2025-036937" />
+  <type value="collection" />
+  <timestamp value="2025-09-18T00:00:00+00:00" />
+  <entry>
+    <resource>
+      <Patient>
+        <id value="MRN-6204819" />
+        <identifier>
+          <system value="urn:hospital:mrn" />
+          <value value="MRN-6204819" />
+        </identifier>
+        <name>
+          <text value="Priya Sharma" />
+        </name>
+        <birthDate value="1990-12-04" />
+        <gender value="female" />
+        <extension url="urn:poc:race">
+          <valueString value="South Asian" />
+        </extension>
+        <extension url="urn:poc:language">
+          <valueString value="English" />
+        </extension>
+        <extension url="urn:poc:insurance">
+          <valueString value="Aetna PPO" />
+        </extension>
+        <extension url="urn:poc:member-id">
+          <valueString value="AE-6204819-2" />
+        </extension>
+      </Patient>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Encounter>
+        <id value="ENC-2025-036937" />
+        <status value="finished" />
+        <class>
+          <coding>
+            <code value="AMB" />
+            <display value="Outpatient — Primary Care" />
+          </coding>
+        </class>
+        <period>
+          <start value="2025-09-18" />
+        </period>
+        <serviceProvider>
+          <display value="Obstetrics &amp; Gynaecology / Primary Care" />
+        </serviceProvider>
+        <participant>
+          <individual>
+            <display value="Dr. Sarah Connelly, MD (Obstetrics &amp; Gynaecology)" />
+          </individual>
+        </participant>
+        <reasonCode>
+          <text value="Postnatal 6-week check — vaginal delivery, uncomplicated" />
+        </reasonCode>
+        <extension url="urn:poc:data-tag">
+          <valueString value="SYNTHETIC" />
+        </extension>
+        <extension url="urn:poc:follow-up">
+          <valueString value="GP in 4 weeks — repeat Hb, PHQ-9 reassessment. If PHQ-9 worsens, initiate sertraline (safe in breastfeeding). Contraception counselling: POP or barrier discussed." />
+        </extension>
+      </Encounter>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-036937-1" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Primary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="Z39.1" />
+          </coding>
+          <text value="Encounter for care and examination of lactating mother" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-036937-2" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="Z39.2" />
+          </coding>
+          <text value="Encounter for routine postpartum follow-up" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-036937-3" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="O90.3" />
+          </coding>
+          <text value="Peripartum cardiomyopathy — ruled out" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Condition>
+        <id value="cond-ENC-2025-036937-4" />
+        <category>
+          <coding>
+            <code value="encounter-diagnosis" />
+          </coding>
+          <text value="Secondary" />
+        </category>
+        <code>
+          <coding>
+            <system value="http://hl7.org/fhir/sid/icd-10" />
+            <code value="F53.0" />
+          </coding>
+          <text value="Postpartum depression screening — PHQ-9 score 7" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+      </Condition>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-bp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="55284-4" />
+            <display value="Blood pressure" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8480-6" />
+              <display value="Systolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="118" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+        <component>
+          <code>
+            <coding>
+              <system value="http://loinc.org" />
+              <code value="8462-4" />
+              <display value="Diastolic BP" />
+            </coding>
+          </code>
+          <valueQuantity>
+            <value value="74" />
+            <unit value="mmHg" />
+          </valueQuantity>
+        </component>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-heart_rate_bpm" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8867-4" />
+            <display value="Heart rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="76" />
+          <unit value="bpm" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-rr" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="9279-1" />
+            <display value="Respiratory rate" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="14" />
+          <unit value="/min" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-temp" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="8310-5" />
+            <display value="Body temperature" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="36.7" />
+          <unit value="Cel" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-spo2" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="59408-5" />
+            <display value="Oxygen saturation" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="99" />
+          <unit value="%" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-weight" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="29463-7" />
+            <display value="Body weight" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="66.0" />
+          <unit value="kg" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-bmi" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="vital-signs" />
+            <display value="Vital Signs" />
+          </coding>
+        </category>
+        <code>
+          <coding>
+            <system value="http://loinc.org" />
+            <code value="39156-5" />
+            <display value="Body mass index" />
+          </coding>
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="24.8" />
+          <unit value="kg/m2" />
+        </valueQuantity>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-lab-hemoglobin_g_dl" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="hemoglobin_g_dl" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="11.8" />
+        </valueQuantity>
+        <interpretation>
+          <text value="LOW" />
+        </interpretation>
+        <referenceRange>
+          <text value="12.0-15.5" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-lab-ferritin_ng_ml" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="ferritin_ng_ml" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="14" />
+        </valueQuantity>
+        <interpretation>
+          <text value="LOW-NORMAL" />
+        </interpretation>
+        <referenceRange>
+          <text value="12-150" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <Observation>
+        <id value="obs-ENC-2025-036937-lab-tsh_miu_l" />
+        <status value="final" />
+        <category>
+          <coding>
+            <code value="laboratory" />
+            <display value="Laboratory" />
+          </coding>
+        </category>
+        <code>
+          <text value="tsh_miu_l" />
+        </code>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <valueQuantity>
+          <value value="2.2" />
+        </valueQuantity>
+        <referenceRange>
+          <text value="0.4-4.0" />
+        </referenceRange>
+      </Observation>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-036937-cur-1" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="current" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Ferrous sulphate 325 mg PO QD" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="325 mg PO QD" />
+          <additionalInstruction>
+            <text value="Postpartum iron repletion" />
+          </additionalInstruction>
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <MedicationRequest>
+        <id value="mr-ENC-2025-036937-cur-2" />
+        <status value="active" />
+        <intent value="order" />
+        <extension url="urn:poc:medication-timing">
+          <valueString value="current" />
+        </extension>
+        <subject>
+          <reference value="Patient/MRN-6204819" />
+        </subject>
+        <encounter>
+          <reference value="Encounter/ENC-2025-036937" />
+        </encounter>
+        <medicationCodeableConcept>
+          <text value="Postnatal multivitamin 1 tablet PO QD" />
+        </medicationCodeableConcept>
+        <dosageInstruction>
+          <text value="1 tablet PO QD" />
+        </dosageInstruction>
+      </MedicationRequest>
+    </resource>
+  </entry>
+  <entry>
+    <resource>
+      <AllergyIntolerance>
+        <id value="allergy-ENC-2025-036937-1" />
+        <patient>
+          <reference value="Patient/MRN-6204819" />
+        </patient>
+        <code>
+          <text value="No known drug allergies" />
+        </code>
+        <reaction>
+          <severity value="mild" />
+          <manifestation>
+            <text value="N/A" />
+          </manifestation>
+        </reaction>
+      </AllergyIntolerance>
+    </resource>
+  </entry>
+</Bundle>

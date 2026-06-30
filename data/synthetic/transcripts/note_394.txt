@@ -1,0 +1,43 @@
+encounter_id: transcript-035
+encounter_type: Outpatient — Primary Care
+condition: Hypothyroidism — Newly Diagnosed
+icd10_primary: E03.9
+data_tag: SYNTHETIC
+---
+DATE: 2023-07-04   TIME: 14:30   PROVIDER: Dr. Patrick Brennan, MD (Family Medicine)
+
+CC: Fatigue, weight gain, hair loss, feeling cold — 5 months
+
+HPI: 44 yo F with 5-month history of progressive fatigue, 6kg weight gain without dietary change,
+hair thinning, cold intolerance, and constipation. Also notes slowing of speech noticed by husband.
+No known thyroid disease. No neck swelling or pain.
+
+ROS: Positive: fatigue, weight gain, hair loss, cold intolerance, constipation, bradylalia.
+Negative: no dysphagia, no palpitations, no neck pain.
+
+PMH: None | PSH: None | FHx: Mother: hypothyroidism. SHx: Nurse. Married. Non-smoker.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: BP 131/74 | HR 52 | Temp 35.0°C | SpO2 99% | Wt 74kg | BMI 27.4
+
+PHYSICAL EXAM: Coarse, dry skin. Periorbital puffiness. Bradycardia HR 54.
+Thyroid: smooth, non-tender, slightly enlarged — no nodules. Ankle reflexes: slow relaxation phase.
+No lid lag or exophthalmos.
+
+INVESTIGATIONS:
+TSH: 42 mIU/L (markedly elevated). Free T4: 5.8 pmol/L (low).
+Anti-TPO: 1,240 IU/mL (strongly positive — Hashimoto's thyroiditis).
+FBC: mild normocytic anaemia Hb 10.8. Cholesterol: 6.8 mmol/L (hypothyroidism-associated).
+
+ASSESSMENT:
+1. Primary hypothyroidism — Hashimoto's thyroiditis
+2. Bradycardia secondary to hypothyroidism
+3. Secondary dyslipidaemia — hypothyroidism-related
+
+PLAN:
+1. Levothyroxine 50mcg QD (fasting, 30min before food). Start low — elderly/cardiac risk not present.
+2. Recheck TFTs at 6-8 weeks; target TSH 0.5-2.5 mIU/L
+3. Anaemia: repeat after thyroid replacement (often resolves)
+4. Cholesterol: review at 3 months — often resolves with euthyroid state, avoid premature statin
+5. Patient education: lifelong treatment, importance of adherence, symptoms of over-treatment
+6. Thyroid ultrasound: not routinely needed for Hashimoto's without nodule

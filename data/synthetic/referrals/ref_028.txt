@@ -1,0 +1,62 @@
+referral_id: REF-2025-091375
+specialty: Dermatology
+urgency: SOON
+patient_name: Natasha Ivanova
+patient_dob: 1991-08-14
+patient_sex: Female
+patient_mrn: MRN-9312604
+insurance: Cigna HMO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — DERMATOLOGY
+Date: 2025-11-30    Referral ID: REF-2025-091375
+Urgency: SOON — Appointment within 2 weeks
+
+TO: Dermatology Department (Pigmented Lesion Clinic)
+FROM: Dr. Steven Hartley, MD — Primary Care, NPI 2250401958
+      North Side Family Practice, Phone: (555) 230-5566, Fax: (555) 230-5567
+
+PATIENT: Natasha Ivanova | DOB: 1991-08-14 | Age: 34 | Sex: Female
+MRN: MRN-9312604 | Insurance: Cigna HMO | Member ID: CH-9312604-13
+
+REASON FOR REFERRAL: Suspicious pigmented skin lesion on right upper back — ABCDE criteria
+positive for 3/5 features (asymmetry, irregular border, colour variegation). Requesting urgent
+dermatological assessment with dermoscopy and excision biopsy if indicated.
+
+CLINICAL SUMMARY:
+Ms. Ivanova is a 34-year-old female of Eastern European descent with Fitzpatrick skin type II
+(fair skin, burns easily, tans minimally). She presented noting a pigmented lesion on her right
+upper back that has changed in appearance over the past 4-6 months — her partner brought this
+to her attention. She reports the lesion has darkened and become irregular in shape.
+
+ABCDE Assessment (primary care dermoscopy review):
+A — Asymmetry: YES — asymmetrical shape
+B — Border: YES — notched, irregular border at inferior pole
+C — Colour: YES — mixed tan, dark brown, and focal black area
+D — Diameter: 8mm (above 6mm threshold)
+E — Evolution: YES — change in colour reported over 4-6 months
+
+Total ABCDE positive: 3/5 (A, B, C, E positive — high clinical concern).
+
+Skin examination: Single lesion right upper back, no satellite lesions. No palpable
+regional lymphadenopathy (axillary, supraclavicular examined). No other concerning nevi.
+Total body nevi count: approximately 45 (mole mapping not previously performed).
+
+Risk factors: Family history of melanoma (maternal uncle, diagnosed age 52). Multiple
+childhood sunburns reported. No prior skin biopsy or malignancy. No immunosuppression.
+Not on photosensitising medications.
+Allergies: None known.
+
+QUESTIONS FOR DERMATOLOGY:
+1. Dermoscopy assessment — dermoscopic criteria for malignancy?
+2. Excision biopsy with 2mm margins — immediate or reflectance confocal microscopy first?
+3. If melanoma confirmed — Breslow thickness, ulceration, mitotic rate, and sentinel node biopsy threshold?
+4. Total body mole mapping — recommended given family history?
+5. Surveillance protocol for remaining nevi?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-323159 | Insurance: Cigna HMO
+Authorised for: Dermatology consultation and excision biopsy
+
+Referring Physician: Dr. Steven Hartley, MD
+NPI: 2250401958 | Phone: (555) 230-5566 | Fax Results To: (555) 230-5567

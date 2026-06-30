@@ -1,0 +1,53 @@
+encounter_id: transcript-023
+encounter_type: Outpatient — Paediatrics
+condition: Paediatric Febrile UTI — 4-year-old Female
+icd10_primary: N10
+data_tag: SYNTHETIC
+---
+DATE: 2025-02-27   TIME: 21:00   PROVIDER: Dr. Sophie Hart, MD (Paediatrics)
+
+CC: Fever and crying on urination — 3 days
+
+HPI: 18 yo F brought by mother with 3-day history of high-grade fever (max 39.2°C at home), crying
+during urination, increased urinary frequency, and two episodes of bedwetting (previously dry for 18
+months). No vomiting. Mild abdominal pain (suprapubic). No rash.
+
+ROS: Positive: fever, dysuria, frequency, bedwetting, suprapubic pain. Negative: no diarrhoea,
+no flank pain, no skin rash, no joint swelling.
+
+PMH: None. Fully vaccinated per schedule. No prior UTI.
+FHx: No known vesicoureteral reflux in family.
+SHx: Attends nursery. Non-potty-trained sibling at home.
+Meds: Paracetamol PRN. No antibiotics.
+Allergies: NKDA.
+
+VITAL SIGNS: Temp 40.2°C | HR 121 | RR 27 | BP 102/63 | SpO2 100% | Wt 16.4kg
+
+PHYSICAL EXAM:
+General: Febrile, mildly uncomfortable. Alert and interactive.
+Abdomen: Soft. Mild suprapubic tenderness. No costovertebral angle tenderness. No organomegaly.
+Genitalia: Normal external genitalia. No vulvovaginitis.
+CNS: Alert, appropriate for age. No neck stiffness.
+
+INVESTIGATIONS:
+Urine dipstick (MSU): Leukocytes +++, Nitrites +, Blood +
+Urine microscopy: WBC 50/hpf, RBC 10/hpf, bacteria seen
+Urine C&S: sent (Escherichia coli 10⁵ cfu/mL, pan-sensitive — confirmed 48h)
+FBC: WBC 14.2, Neutrophils 11.8 | CRP: 64 mg/L
+Renal function: Normal (eGFR adequate for age)
+Renal ultrasound: Normal — no hydronephrosis, normal bladder (no post-void residual)
+
+ASSESSMENT:
+1. Febrile urinary tract infection (pyelonephritis) — 4-year-old female
+2. E. coli — pan-sensitive
+
+PLAN:
+1. Oral trimethoprim-sulfamethoxazole (per weight-based dosing) x 7 days — first-line per local guidelines
+2. Antipyretics: paracetamol 15mg/kg q6h PRN; ibuprofen alternating if needed
+3. Adequate oral fluids — ensure hydration; monitor for vomiting
+4. Repeat MSU after completion to confirm clearance
+5. VCUG (voiding cystourethrogram): NOT routinely indicated post-first UTI per current AAP/NICE guidelines
+   — defer unless recurrent or atypical features
+6. DMSA scan: consider if recurrent or evidence of scarring at follow-up
+7. Return if worsening, persistent fever >48h on antibiotics, or unable to tolerate oral medications
+8. Parental education: perineal hygiene, adequate voiding habits, hydration

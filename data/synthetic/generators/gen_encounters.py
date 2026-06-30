@@ -1441,6 +1441,991 @@ _ENCOUNTERS = [
             "Crisis plan reviewed — patient has partner's support and crisis line number."
         ),
     },
+
+    # ── NEW BALANCED ADDITIONS (encounters 23-42): diverse types, sex, race, age ──
+
+    {
+        "encounter_id": "ENC-2025-023794",
+        "mrn": "MRN-9102837",
+        "encounter_type": "Inpatient Hospitalization — Stroke Unit",
+        "encounter_date": "2025-03-10",
+        "discharge_date": "2025-03-15",
+        "length_of_stay_days": 5,
+        "department": "Neurology / Stroke Unit",
+        "attending": "Dr. Priya Mehta, MD (Neurology — Stroke)",
+        "admitting_diagnosis": "Acute Ischaemic Stroke — left MCA, IV thrombolysis",
+        "demographics": {
+            "name": "Margaret Okonkwo", "dob": "1958-04-12", "age": 67,
+            "sex": "Female", "race": "Black / African American", "language": "English",
+            "mrn": "MRN-9102837", "insurance": "Medicare Advantage — Aetna",
+            "member_id": "AE-9102837-1",
+        },
+        "diagnoses": [
+            {"code": "I63.9", "description": "Acute ischaemic stroke, unspecified", "type": "Primary"},
+            {"code": "I10", "description": "Essential hypertension", "type": "Secondary"},
+            {"code": "E78.5", "description": "Hyperlipidemia, unspecified", "type": "Secondary"},
+            {"code": "I48.91", "description": "Unspecified atrial fibrillation", "type": "Secondary"},
+        ],
+        "procedures": [
+            {"code": "37215", "description": "IV thrombolysis — alteplase 0.9 mg/kg"},
+            {"code": "93000", "description": "Electrocardiogram, 12-lead"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 182, "bp_diastolic": 98, "heart_rate": 88,
+            "respiratory_rate": 18, "temperature_c": 37.1, "spo2_percent": 96,
+            "weight_kg": 78.0, "bmi": 29.4,
+        },
+        "labs": {
+            "wbc_k_ul": {"value": 8.6, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "hemoglobin_g_dl": {"value": 12.8, "ref": "12.0-15.5", "flag": "NORMAL"},
+            "platelets_k_ul": {"value": 228, "ref": "150-400", "flag": "NORMAL"},
+            "glucose_mg_dl": {"value": 148, "ref": "70-100", "flag": "HIGH"},
+            "creatinine_mg_dl": {"value": 0.9, "ref": "0.6-1.1", "flag": "NORMAL"},
+            "inr": {"value": 1.1, "ref": "<1.1", "flag": "NORMAL"},
+            "ldl_mg_dl": {"value": 152, "ref": "<70 (stroke goal)", "flag": "HIGH"},
+            "sodium_meq_l": {"value": 140, "ref": "136-145", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Apixaban", "dose": "5 mg", "route": "PO", "frequency": "BID", "indication": "AF stroke prevention"},
+            {"drug": "Atorvastatin", "dose": "80 mg", "route": "PO", "frequency": "QHS", "indication": "High-intensity post-stroke"},
+            {"drug": "Amlodipine", "dose": "5 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+            {"drug": "Lisinopril", "dose": "10 mg", "route": "PO", "frequency": "QD", "indication": "Post-stroke BP control"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Ms. Okonkwo presented with left MCA ischaemic stroke; NIHSS 10 on arrival. "
+            "IV tPA administered at 52 min door-to-needle; no haemorrhagic transformation on 24h CT. "
+            "NIHSS improved to 4 at discharge — mild right arm weakness and expressive dysphasia. "
+            "Anticoagulation with apixaban started 48h post-tPA; stroke rehab referral made."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-024805",
+        "mrn": "MRN-3748291",
+        "encounter_type": "Outpatient — Primary Care",
+        "encounter_date": "2025-04-15",
+        "department": "Neurology / Primary Care",
+        "attending": "Dr. Brian Sullivan, MD (General Practice)",
+        "admitting_diagnosis": "Chronic migraine — follow-up, preventive therapy review",
+        "demographics": {
+            "name": "Daniel Reyes", "dob": "1981-08-22", "age": 44,
+            "sex": "Male", "race": "Hispanic / Latino", "language": "English",
+            "mrn": "MRN-3748291", "insurance": "UnitedHealthcare Select Plus",
+            "member_id": "UH-3748291-2",
+        },
+        "diagnoses": [
+            {"code": "G43.909", "description": "Migraine, unspecified, not intractable, without status migrainosus", "type": "Primary"},
+            {"code": "G43.719", "description": "Chronic migraine without aura, not intractable", "type": "Secondary"},
+            {"code": "F41.1", "description": "Generalized anxiety disorder — contributing trigger", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 122, "bp_diastolic": 78, "heart_rate": 66,
+            "respiratory_rate": 14, "temperature_c": 36.8, "spo2_percent": 99,
+            "weight_kg": 81.0, "bmi": 26.0,
+        },
+        "labs": {
+            "tsh_miu_l": {"value": 1.8, "ref": "0.4-4.0", "flag": "NORMAL"},
+            "cbc_wbc_k_ul": {"value": 6.2, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "hemoglobin_g_dl": {"value": 15.0, "ref": "13.5-17.5", "flag": "NORMAL"},
+        },
+        "medications_current": [
+            {"drug": "Topiramate", "dose": "50 mg", "route": "PO", "frequency": "BID", "indication": "Migraine prevention"},
+            {"drug": "Sumatriptan", "dose": "100 mg", "route": "PO", "frequency": "PRN acute attack (max 2/week)", "indication": "Acute migraine"},
+            {"drug": "Sertraline", "dose": "50 mg", "route": "PO", "frequency": "QD", "indication": "GAD (comorbid)"},
+        ],
+        "allergies": [
+            {"allergen": "Ibuprofen", "reaction": "Worsens migraine (analgesic overuse)", "severity": "Mild"},
+        ],
+        "follow_up": "3 months — migraine diary review. Consider CGRP monoclonal antibody if frequency >15 days/month persists.",
+    },
+    {
+        "encounter_id": "ENC-2025-025816",
+        "mrn": "MRN-6203948",
+        "encounter_type": "Emergency Department",
+        "encounter_date": "2025-05-22",
+        "department": "Emergency Department / Obstetrics & Gynaecology",
+        "attending": "Dr. Fatima Al-Rashid, MD (Emergency Medicine)",
+        "admitting_diagnosis": "Ectopic pregnancy — right tubal",
+        "demographics": {
+            "name": "Sofia Espinoza", "dob": "1994-11-03", "age": 31,
+            "sex": "Female", "race": "Hispanic / Latino", "language": "Spanish",
+            "mrn": "MRN-6203948", "insurance": "Medicaid Managed Care",
+            "member_id": "MC-6203948-1",
+        },
+        "diagnoses": [
+            {"code": "O00.10", "description": "Tubal pregnancy, right fallopian tube", "type": "Primary"},
+            {"code": "O08.1", "description": "Delayed or excessive haemorrhage following ectopic pregnancy", "type": "Secondary"},
+        ],
+        "procedures": [
+            {"code": "59151", "description": "Laparoscopic salpingostomy for ectopic pregnancy"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 94, "bp_diastolic": 60, "heart_rate": 122,
+            "respiratory_rate": 22, "temperature_c": 37.2, "spo2_percent": 98,
+            "weight_kg": 62.0, "bmi": 23.4,
+        },
+        "labs": {
+            "bhcg_miu_ml": {"value": 4820, "ref": "Not pregnant: <5", "flag": "HIGH"},
+            "hemoglobin_g_dl": {"value": 8.6, "ref": "12.0-15.5", "flag": "LOW"},
+            "hematocrit_percent": {"value": 26.4, "ref": "36-44", "flag": "LOW"},
+            "wbc_k_ul": {"value": 11.4, "ref": "4.5-11.0", "flag": "HIGH"},
+            "creatinine_mg_dl": {"value": 0.7, "ref": "0.5-1.1", "flag": "NORMAL"},
+            "inr": {"value": 1.0, "ref": "<1.1", "flag": "NORMAL"},
+            "type_and_screen": {"value": "B positive", "ref": "N/A", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Ferrous sulphate", "dose": "325 mg", "route": "PO", "frequency": "QD", "indication": "Post-haemorrhage iron repletion"},
+            {"drug": "Folic acid", "dose": "400 mcg", "route": "PO", "frequency": "QD"},
+            {"drug": "Ibuprofen", "dose": "400 mg", "route": "PO", "frequency": "Q6h PRN pain"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Ms. Espinoza presented with 7-week amenorrhoea, pelvic pain, and haemodynamic compromise. "
+            "TVUS: right adnexal mass 3.2 cm with free fluid; β-hCG 4820. Emergency laparoscopic right salpingostomy performed. "
+            "Estimated blood loss 600 mL; 1 unit pRBC transfused intraoperatively. "
+            "Haemodynamically stable post-op; discharged day 2 with gynaecology follow-up in 1 week."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-026827",
+        "mrn": "MRN-8473012",
+        "encounter_type": "Inpatient Hospitalization",
+        "encounter_date": "2025-07-08",
+        "discharge_date": "2025-07-14",
+        "length_of_stay_days": 6,
+        "department": "Orthopaedic Surgery",
+        "attending": "Dr. George Nakamura, MD (Orthopaedic Surgery)",
+        "admitting_diagnosis": "Hip fracture — right neck of femur, surgical repair",
+        "demographics": {
+            "name": "William Harrington", "dob": "1952-02-28", "age": 73,
+            "sex": "Male", "race": "White / Non-Hispanic", "language": "English",
+            "mrn": "MRN-8473012", "insurance": "Medicare Part A/B",
+            "member_id": "MC-8473012-1",
+        },
+        "diagnoses": [
+            {"code": "S72.001A", "description": "Fracture of unspecified part of neck of right femur, initial encounter", "type": "Primary"},
+            {"code": "M81.0", "description": "Age-related osteoporosis without pathological fracture", "type": "Secondary"},
+            {"code": "I10", "description": "Essential hypertension", "type": "Secondary"},
+            {"code": "E11.9", "description": "Type 2 diabetes mellitus", "type": "Secondary"},
+        ],
+        "procedures": [
+            {"code": "27236", "description": "Open treatment of femoral neck fracture — hemiarthroplasty"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 148, "bp_diastolic": 86, "heart_rate": 84,
+            "respiratory_rate": 18, "temperature_c": 37.0, "spo2_percent": 96,
+            "weight_kg": 82.0, "bmi": 26.8,
+        },
+        "labs": {
+            "hemoglobin_g_dl": {"value": 11.2, "ref": "13.5-17.5", "flag": "LOW"},
+            "wbc_k_ul": {"value": 8.4, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 1.1, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "egfr_ml_min": {"value": 68, "ref": ">60", "flag": "NORMAL"},
+            "sodium_meq_l": {"value": 138, "ref": "136-145", "flag": "NORMAL"},
+            "potassium_meq_l": {"value": 4.0, "ref": "3.5-5.0", "flag": "NORMAL"},
+            "glucose_mg_dl": {"value": 142, "ref": "70-100", "flag": "HIGH"},
+            "inr": {"value": 1.1, "ref": "<1.1", "flag": "NORMAL"},
+            "albumin_g_dl": {"value": 3.4, "ref": "3.5-5.0", "flag": "LOW"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Enoxaparin", "dose": "40 mg", "route": "SC", "frequency": "QD x28d", "indication": "VTE prophylaxis post-hip surgery"},
+            {"drug": "Alendronate", "dose": "70 mg", "route": "PO", "frequency": "Weekly", "indication": "Osteoporosis treatment"},
+            {"drug": "Calcium carbonate + Vitamin D3", "dose": "1200 mg / 800 IU", "route": "PO", "frequency": "QD", "indication": "Bone health"},
+            {"drug": "Metformin", "dose": "500 mg", "route": "PO", "frequency": "BID", "indication": "DM2"},
+            {"drug": "Amlodipine", "dose": "5 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+            {"drug": "Paracetamol", "dose": "1 g", "route": "PO", "frequency": "Q6h PRN pain"},
+        ],
+        "allergies": [
+            {"allergen": "Aspirin", "reaction": "GI bleed (history)", "severity": "Severe"},
+        ],
+        "discharge_summary": (
+            "Mr. Harrington sustained a right NOF fracture after a mechanical fall at home. "
+            "Right hemiarthroplasty performed within 36 hours of admission; operative blood loss 400 mL. "
+            "Post-operative haemoglobin 11.2 — no transfusion required. "
+            "Mobilised with physiotherapy day 1 post-op; discharged to inpatient rehabilitation facility day 6. "
+            "DEXA scan ordered; alendronate and calcium/vitamin D3 initiated for osteoporosis."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-027838",
+        "mrn": "MRN-5039281",
+        "encounter_type": "Outpatient — Cardiology",
+        "encounter_date": "2025-02-11",
+        "department": "Cardiology",
+        "attending": "Dr. Sandra Kim, MD (Cardiology — Electrophysiology)",
+        "admitting_diagnosis": "Paroxysmal atrial fibrillation — rate vs. rhythm strategy discussion",
+        "demographics": {
+            "name": "Diane Foster", "dob": "1971-06-30", "age": 54,
+            "sex": "Female", "race": "White / Non-Hispanic", "language": "English",
+            "mrn": "MRN-5039281", "insurance": "Blue Cross Blue Shield PPO",
+            "member_id": "BC-5039281-3",
+        },
+        "diagnoses": [
+            {"code": "I48.0", "description": "Paroxysmal atrial fibrillation", "type": "Primary"},
+            {"code": "I10", "description": "Essential hypertension", "type": "Secondary"},
+            {"code": "E78.5", "description": "Hyperlipidemia", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 132, "bp_diastolic": 80, "heart_rate": 72,
+            "respiratory_rate": 14, "temperature_c": 36.9, "spo2_percent": 99,
+            "weight_kg": 70.0, "bmi": 26.2,
+        },
+        "labs": {
+            "tsh_miu_l": {"value": 1.6, "ref": "0.4-4.0", "flag": "NORMAL"},
+            "free_t4_ng_dl": {"value": 1.1, "ref": "0.8-1.8", "flag": "NORMAL"},
+            "potassium_meq_l": {"value": 4.1, "ref": "3.5-5.0", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 0.8, "ref": "0.6-1.1", "flag": "NORMAL"},
+            "egfr_ml_min": {"value": 88, "ref": ">60", "flag": "NORMAL"},
+            "bnp_pg_ml": {"value": 112, "ref": "<100", "flag": "HIGH"},
+            "ldl_mg_dl": {"value": 108, "ref": "<100", "flag": "HIGH"},
+        },
+        "medications_current": [
+            {"drug": "Apixaban", "dose": "5 mg", "route": "PO", "frequency": "BID", "indication": "AF stroke prevention — CHA2DS2-VASc 2"},
+            {"drug": "Metoprolol succinate", "dose": "50 mg", "route": "PO", "frequency": "QD", "indication": "Rate control"},
+            {"drug": "Lisinopril", "dose": "10 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+            {"drug": "Rosuvastatin", "dose": "20 mg", "route": "PO", "frequency": "QHS", "indication": "Hyperlipidemia"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "follow_up": "3 months — Holter monitor in 4 weeks to assess AF burden. Pulmonary vein isolation (PVI ablation) discussed; patient to consider.",
+    },
+    {
+        "encounter_id": "ENC-2025-028849",
+        "mrn": "MRN-4820193",
+        "encounter_type": "Outpatient — Oncology",
+        "encounter_date": "2025-06-05",
+        "department": "Gastrointestinal Oncology",
+        "attending": "Dr. Marcus Webb, MD (Medical Oncology)",
+        "admitting_diagnosis": "Colorectal cancer surveillance post-resection (stage III, 18 months post-op)",
+        "demographics": {
+            "name": "Leonard Jackson", "dob": "1963-03-17", "age": 62,
+            "sex": "Male", "race": "Black / African American", "language": "English",
+            "mrn": "MRN-4820193", "insurance": "UnitedHealthcare Medicare Advantage",
+            "member_id": "UH-4820193-2",
+        },
+        "diagnoses": [
+            {"code": "Z85.038", "description": "Personal history of colorectal cancer", "type": "Primary"},
+            {"code": "C18.7", "description": "Malignant neoplasm of sigmoid colon — prior primary", "type": "Secondary"},
+            {"code": "Z79.899", "description": "Long-term adjuvant chemotherapy — completed", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 128, "bp_diastolic": 78, "heart_rate": 70,
+            "respiratory_rate": 14, "temperature_c": 36.8, "spo2_percent": 99,
+            "weight_kg": 86.0, "bmi": 27.4,
+        },
+        "labs": {
+            "cea_ng_ml": {"value": 2.1, "ref": "<3.0 (non-smoker)", "flag": "NORMAL"},
+            "ca_19_9_u_ml": {"value": 18, "ref": "<37", "flag": "NORMAL"},
+            "hemoglobin_g_dl": {"value": 14.2, "ref": "13.5-17.5", "flag": "NORMAL"},
+            "wbc_k_ul": {"value": 6.8, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "platelets_k_ul": {"value": 298, "ref": "150-400", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 0.9, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "alt_u_l": {"value": 28, "ref": "7-56", "flag": "NORMAL"},
+            "ast_u_l": {"value": 22, "ref": "10-40", "flag": "NORMAL"},
+        },
+        "medications_current": [
+            {"drug": "Aspirin", "dose": "81 mg", "route": "PO", "frequency": "QD", "indication": "Colorectal cancer secondary prevention"},
+            {"drug": "Lisinopril", "dose": "5 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+        ],
+        "allergies": [
+            {"allergen": "Oxaliplatin", "reaction": "Peripheral neuropathy — completed course", "severity": "Moderate"},
+        ],
+        "follow_up": "6 months — colonoscopy booked at 3-year mark (12 months from now). CT chest/abdomen/pelvis in 6 months. CEA every 3 months x2 years remaining.",
+    },
+    {
+        "encounter_id": "ENC-2025-029860",
+        "mrn": "MRN-7304829",
+        "encounter_type": "Inpatient Hospitalization — ICU",
+        "encounter_date": "2025-09-02",
+        "discharge_date": "2025-09-09",
+        "length_of_stay_days": 7,
+        "department": "Obstetric High Dependency Unit / ICU",
+        "attending": "Dr. Yvonne Clarke, MD (Maternal-Fetal Medicine)",
+        "admitting_diagnosis": "Severe preeclampsia with HELLP syndrome",
+        "demographics": {
+            "name": "Kezia Mensah", "dob": "1987-07-14", "age": 38,
+            "sex": "Female", "race": "Black / African American", "language": "English",
+            "mrn": "MRN-7304829", "insurance": "Medicaid",
+            "member_id": "MD-7304829-1",
+        },
+        "diagnoses": [
+            {"code": "O14.13", "description": "Severe pre-eclampsia, third trimester", "type": "Primary"},
+            {"code": "O14.23", "description": "HELLP syndrome, third trimester", "type": "Secondary"},
+            {"code": "O36.4XX0", "description": "Intrauterine growth restriction", "type": "Secondary"},
+            {"code": "Z3A.34", "description": "34 weeks gestation", "type": "Secondary"},
+        ],
+        "procedures": [
+            {"code": "59515", "description": "Caesarean delivery — classical, with postpartum care"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 172, "bp_diastolic": 112, "heart_rate": 102,
+            "respiratory_rate": 22, "temperature_c": 37.3, "spo2_percent": 96,
+            "weight_kg": 78.0, "bmi": 30.1,
+        },
+        "labs": {
+            "hemoglobin_g_dl": {"value": 10.2, "ref": "≥11.0 (pregnancy)", "flag": "LOW"},
+            "platelets_k_ul": {"value": 62, "ref": "150-400", "flag": "LOW"},
+            "alt_u_l": {"value": 284, "ref": "7-40 (pregnancy)", "flag": "HIGH"},
+            "ast_u_l": {"value": 318, "ref": "10-35 (pregnancy)", "flag": "HIGH"},
+            "ldh_u_l": {"value": 680, "ref": "<200", "flag": "HIGH"},
+            "total_bilirubin_mg_dl": {"value": 2.1, "ref": "0.1-1.2", "flag": "HIGH"},
+            "creatinine_mg_dl": {"value": 1.4, "ref": "0.4-0.8 (pregnancy)", "flag": "HIGH"},
+            "urine_protein_creatinine_ratio": {"value": 4.8, "ref": "<0.3", "flag": "HIGH"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Labetalol", "dose": "200 mg", "route": "PO", "frequency": "BID", "indication": "Postpartum hypertension"},
+            {"drug": "Nifedipine XL", "dose": "30 mg", "route": "PO", "frequency": "QD", "indication": "Adjunct antihypertensive"},
+            {"drug": "Ferrous sulphate", "dose": "325 mg", "route": "PO", "frequency": "BID", "indication": "Post-partum anaemia"},
+            {"drug": "Low-dose aspirin (stopped)", "dose": "Discontinued", "route": "N/A", "frequency": "N/A"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Ms. Mensah admitted at 34+2 weeks with severe preeclampsia and HELLP syndrome (platelets nadir 58, AST 318). "
+            "Emergency caesarean section performed; male neonate 2.1 kg transferred to NICU. "
+            "Magnesium sulphate infusion x24h for seizure prophylaxis; IV labetalol for BP control. "
+            "Liver function and platelet count normalised by day 5; discharged day 7 on oral antihypertensives with obstetrics follow-up 1 week."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-030871",
+        "mrn": "MRN-2948301",
+        "encounter_type": "Emergency Department",
+        "encounter_date": "2025-10-14",
+        "department": "Emergency Department / Neurology",
+        "attending": "Dr. Alex Petrov, MD (Emergency Medicine)",
+        "admitting_diagnosis": "First unprovoked generalised tonic-clonic seizure",
+        "demographics": {
+            "name": "Marcus Chen", "dob": "2003-05-19", "age": 22,
+            "sex": "Male", "race": "Asian", "language": "English",
+            "mrn": "MRN-2948301", "insurance": "Parent employer insurance — Cigna",
+            "member_id": "CI-2948301-1",
+        },
+        "diagnoses": [
+            {"code": "R56.9", "description": "Unspecified convulsions — first unprovoked seizure", "type": "Primary"},
+            {"code": "G40.909", "description": "Epilepsy, unspecified, not intractable", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 136, "bp_diastolic": 84, "heart_rate": 104,
+            "respiratory_rate": 18, "temperature_c": 37.1, "spo2_percent": 97,
+            "weight_kg": 74.0, "bmi": 22.8,
+        },
+        "labs": {
+            "sodium_meq_l": {"value": 138, "ref": "136-145", "flag": "NORMAL"},
+            "potassium_meq_l": {"value": 3.9, "ref": "3.5-5.0", "flag": "NORMAL"},
+            "glucose_mg_dl": {"value": 88, "ref": "70-100", "flag": "NORMAL"},
+            "calcium_mg_dl": {"value": 9.2, "ref": "8.5-10.5", "flag": "NORMAL"},
+            "magnesium_meq_l": {"value": 2.0, "ref": "1.7-2.2", "flag": "NORMAL"},
+            "wbc_k_ul": {"value": 7.4, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 0.9, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "urine_drug_screen": {"value": "Negative", "ref": "Negative", "flag": "NORMAL"},
+            "prolactin_ng_ml": {"value": 48, "ref": "<25 (post-ictal elevation)", "flag": "HIGH"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Levetiracetam", "dose": "500 mg", "route": "PO", "frequency": "BID", "indication": "First-line anti-epileptic — neurology to confirm at follow-up"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Mr. Chen presented post first witnessed generalised tonic-clonic seizure lasting 90 seconds; no prior seizure history. "
+            "Metabolic and toxicology screens unremarkable; post-ictal prolactin elevated, consistent with true seizure. "
+            "MRI brain ordered (outpatient); EEG booked within 2 weeks. "
+            "Levetiracetam 500 mg BID initiated; advised not to drive until neurological clearance. Neurology outpatient follow-up in 2 weeks."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-031882",
+        "mrn": "MRN-6182930",
+        "encounter_type": "Outpatient — Rheumatology",
+        "encounter_date": "2025-03-28",
+        "department": "Rheumatology",
+        "attending": "Dr. Nadia Petersen, MD (Rheumatology)",
+        "admitting_diagnosis": "Rheumatoid arthritis — acute flare, medication review",
+        "demographics": {
+            "name": "Angela Morales", "dob": "1977-01-09", "age": 48,
+            "sex": "Female", "race": "Hispanic / Latino", "language": "English",
+            "mrn": "MRN-6182930", "insurance": "Aetna HMO",
+            "member_id": "AE-6182930-1",
+        },
+        "diagnoses": [
+            {"code": "M05.79", "description": "Rheumatoid arthritis with rheumatoid factor, multiple sites", "type": "Primary"},
+            {"code": "M05.30", "description": "Rheumatoid heart disease with rheumatoid arthritis", "type": "Secondary"},
+            {"code": "M81.0", "description": "Osteoporosis without current pathological fracture", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 126, "bp_diastolic": 78, "heart_rate": 74,
+            "respiratory_rate": 14, "temperature_c": 37.2, "spo2_percent": 99,
+            "weight_kg": 66.0, "bmi": 24.4,
+        },
+        "labs": {
+            "crp_mg_l": {"value": 42, "ref": "<5", "flag": "HIGH"},
+            "esr_mm_hr": {"value": 68, "ref": "<20", "flag": "HIGH"},
+            "rf_iu_ml": {"value": 128, "ref": "<14", "flag": "HIGH"},
+            "anti_ccp_u_ml": {"value": 210, "ref": "<17", "flag": "HIGH"},
+            "hemoglobin_g_dl": {"value": 11.4, "ref": "12.0-15.5", "flag": "LOW"},
+            "wbc_k_ul": {"value": 7.8, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 0.7, "ref": "0.6-1.1", "flag": "NORMAL"},
+            "alt_u_l": {"value": 24, "ref": "7-40", "flag": "NORMAL"},
+        },
+        "medications_current": [
+            {"drug": "Methotrexate", "dose": "20 mg", "route": "SC", "frequency": "Weekly", "indication": "RA DMARD"},
+            {"drug": "Folic acid", "dose": "5 mg", "route": "PO", "frequency": "QD (except MTX day)", "indication": "MTX toxicity prevention"},
+            {"drug": "Adalimumab", "dose": "40 mg", "route": "SC", "frequency": "Q2W", "indication": "RA biologic — TNFi"},
+            {"drug": "Hydroxychloroquine", "dose": "200 mg", "route": "PO", "frequency": "BID", "indication": "RA adjunct DMARD"},
+            {"drug": "Methylprednisolone", "dose": "80 mg", "route": "IM", "frequency": "Single dose today", "indication": "Acute flare bridge"},
+            {"drug": "Calcium + Vitamin D3", "dose": "1200 mg / 800 IU", "route": "PO", "frequency": "QD", "indication": "Osteoporosis prevention (steroid use)"},
+        ],
+        "allergies": [
+            {"allergen": "Naproxen", "reaction": "GI ulceration", "severity": "Moderate"},
+        ],
+        "follow_up": "6 weeks — DAS28 reassessment. If inadequate response, switch to abatacept or JAK inhibitor. DEXA scan booked.",
+    },
+    {
+        "encounter_id": "ENC-2025-032893",
+        "mrn": "MRN-3847019",
+        "encounter_type": "Inpatient Hospitalization",
+        "encounter_date": "2025-11-03",
+        "discharge_date": "2025-11-09",
+        "length_of_stay_days": 6,
+        "department": "General Medicine / Geriatrics",
+        "attending": "Dr. Florence Owusu, MD (Geriatrics)",
+        "admitting_diagnosis": "Community-acquired pneumonia with superimposed delirium",
+        "demographics": {
+            "name": "Rosemary Delacroix", "dob": "1944-08-22", "age": 81,
+            "sex": "Female", "race": "White / Non-Hispanic", "language": "English",
+            "mrn": "MRN-3847019", "insurance": "Medicare + Medigap",
+            "member_id": "MC-3847019-3",
+        },
+        "diagnoses": [
+            {"code": "J18.9", "description": "Community-acquired pneumonia, unspecified", "type": "Primary"},
+            {"code": "F05", "description": "Delirium due to known physiological condition", "type": "Secondary"},
+            {"code": "I10", "description": "Essential hypertension", "type": "Secondary"},
+            {"code": "N18.3", "description": "Chronic kidney disease, stage 3a", "type": "Secondary"},
+            {"code": "M81.0", "description": "Age-related osteoporosis", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 142, "bp_diastolic": 82, "heart_rate": 96,
+            "respiratory_rate": 24, "temperature_c": 38.6, "spo2_percent": 90,
+            "weight_kg": 58.0, "bmi": 22.1,
+        },
+        "labs": {
+            "wbc_k_ul": {"value": 16.4, "ref": "4.5-11.0", "flag": "HIGH"},
+            "hemoglobin_g_dl": {"value": 11.0, "ref": "12.0-15.5", "flag": "LOW"},
+            "sodium_meq_l": {"value": 130, "ref": "136-145", "flag": "LOW"},
+            "creatinine_mg_dl": {"value": 1.6, "ref": "0.6-1.1 (baseline 1.2)", "flag": "HIGH"},
+            "procalcitonin_ng_ml": {"value": 2.4, "ref": "<0.5", "flag": "HIGH"},
+            "crp_mg_l": {"value": 214, "ref": "<5", "flag": "HIGH"},
+            "bnp_pg_ml": {"value": 188, "ref": "<100", "flag": "HIGH"},
+            "urinalysis_wbc": {"value": 2, "ref": "<5 /hpf", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Amoxicillin-clavulanate", "dose": "875 mg/125 mg", "route": "PO", "frequency": "BID x5d", "indication": "CAP completion course"},
+            {"drug": "Amlodipine", "dose": "5 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+            {"drug": "Calcium + Vitamin D3", "dose": "1200 mg / 800 IU", "route": "PO", "frequency": "QD", "indication": "Osteoporosis"},
+        ],
+        "allergies": [
+            {"allergen": "Codeine", "reaction": "Severe confusion and hallucinations", "severity": "Severe"},
+        ],
+        "discharge_summary": (
+            "Mrs. Delacroix admitted with right lower lobe pneumonia and acute-on-baseline delirium (CAM positive). "
+            "IV co-amoxiclav x48h then oral switch; SpO2 96% on RA by day 3. "
+            "Delirium management: non-pharmacological reorientation, avoided sedatives, early mobilisation with PT. "
+            "Cognitively back to baseline at discharge; CXR improved. Geriatrics follow-up 2 weeks; cognition reassessment at 1 month."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-033904",
+        "mrn": "MRN-8203941",
+        "encounter_type": "Day Surgery",
+        "encounter_date": "2025-04-29",
+        "department": "General Surgery — Day Surgery Unit",
+        "attending": "Dr. Carlos Mendoza, MD (General Surgery)",
+        "admitting_diagnosis": "Symptomatic cholelithiasis — elective laparoscopic cholecystectomy",
+        "demographics": {
+            "name": "Robert Fitzgerald", "dob": "1970-11-14", "age": 55,
+            "sex": "Male", "race": "White / Irish-American", "language": "English",
+            "mrn": "MRN-8203941", "insurance": "Blue Cross Blue Shield",
+            "member_id": "BC-8203941-2",
+        },
+        "diagnoses": [
+            {"code": "K80.20", "description": "Calculus of gallbladder without cholecystitis", "type": "Primary"},
+            {"code": "K21.0", "description": "Gastro-oesophageal reflux disease with oesophagitis", "type": "Secondary"},
+        ],
+        "procedures": [
+            {"code": "47562", "description": "Laparoscopic cholecystectomy"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 128, "bp_diastolic": 78, "heart_rate": 72,
+            "respiratory_rate": 14, "temperature_c": 36.7, "spo2_percent": 99,
+            "weight_kg": 92.0, "bmi": 29.8,
+        },
+        "labs": {
+            "hemoglobin_g_dl": {"value": 15.4, "ref": "13.5-17.5", "flag": "NORMAL"},
+            "wbc_k_ul": {"value": 7.2, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 0.9, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "alt_u_l": {"value": 38, "ref": "7-56", "flag": "NORMAL"},
+            "ast_u_l": {"value": 30, "ref": "10-40", "flag": "NORMAL"},
+            "total_bilirubin_mg_dl": {"value": 0.8, "ref": "0.1-1.2", "flag": "NORMAL"},
+            "inr": {"value": 1.0, "ref": "<1.1", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Paracetamol", "dose": "1 g", "route": "PO", "frequency": "Q6h PRN pain x5d"},
+            {"drug": "Ibuprofen", "dose": "400 mg", "route": "PO", "frequency": "Q8h PRN with food x5d"},
+            {"drug": "Omeprazole", "dose": "20 mg", "route": "PO", "frequency": "QD", "indication": "GORD"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Mr. Fitzgerald underwent elective laparoscopic cholecystectomy for symptomatic gallstones under general anaesthesia. "
+            "Procedure uncomplicated; operative time 42 minutes, estimated blood loss minimal. "
+            "Tolerating oral fluids within 1 hour post-op; discharged home 4 hours post-procedure. "
+            "GP follow-up 1 week; return precautions given including signs of bile leak or wound infection."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-034915",
+        "mrn": "MRN-5130284",
+        "encounter_type": "Outpatient — Nephrology",
+        "encounter_date": "2025-05-15",
+        "department": "Nephrology",
+        "attending": "Dr. Helen Yap, MD (Nephrology)",
+        "admitting_diagnosis": "CKD stage 3b — routine monitoring and anaemia management",
+        "demographics": {
+            "name": "Patricia Nguyen", "dob": "1964-02-08", "age": 61,
+            "sex": "Female", "race": "Asian", "language": "Vietnamese",
+            "mrn": "MRN-5130284", "insurance": "Kaiser Permanente",
+            "member_id": "KP-5130284-1",
+        },
+        "diagnoses": [
+            {"code": "N18.32", "description": "Chronic kidney disease, stage 3b", "type": "Primary"},
+            {"code": "D63.1", "description": "Anaemia in chronic kidney disease", "type": "Secondary"},
+            {"code": "I10", "description": "Essential hypertension", "type": "Secondary"},
+            {"code": "E11.9", "description": "Type 2 diabetes mellitus", "type": "Secondary"},
+            {"code": "E87.6", "description": "Hypokalaemia", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 144, "bp_diastolic": 88, "heart_rate": 70,
+            "respiratory_rate": 14, "temperature_c": 36.9, "spo2_percent": 98,
+            "weight_kg": 68.0, "bmi": 26.8,
+        },
+        "labs": {
+            "creatinine_mg_dl": {"value": 1.8, "ref": "0.6-1.1", "flag": "HIGH"},
+            "egfr_ml_min": {"value": 36, "ref": ">60", "flag": "LOW"},
+            "bun_mg_dl": {"value": 32, "ref": "7-20", "flag": "HIGH"},
+            "potassium_meq_l": {"value": 3.2, "ref": "3.5-5.0", "flag": "LOW"},
+            "phosphorus_mg_dl": {"value": 4.8, "ref": "2.7-4.5", "flag": "HIGH"},
+            "pth_pg_ml": {"value": 128, "ref": "15-65", "flag": "HIGH"},
+            "hemoglobin_g_dl": {"value": 10.4, "ref": "12.0-15.5", "flag": "LOW"},
+            "ferritin_ng_ml": {"value": 62, "ref": "12-150", "flag": "NORMAL"},
+            "tsat_percent": {"value": 22, "ref": "20-50", "flag": "NORMAL"},
+            "urine_acr_mg_g": {"value": 142, "ref": "<30", "flag": "HIGH"},
+        },
+        "medications_current": [
+            {"drug": "Amlodipine", "dose": "10 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+            {"drug": "Furosemide", "dose": "40 mg", "route": "PO", "frequency": "QD", "indication": "Oedema / volume management"},
+            {"drug": "Darbepoetin alfa", "dose": "40 mcg", "route": "SC", "frequency": "Q4W", "indication": "CKD anaemia — ESA therapy"},
+            {"drug": "Sevelamer carbonate", "dose": "800 mg", "route": "PO", "frequency": "TID with meals", "indication": "Hyperphosphataemia"},
+            {"drug": "Potassium chloride", "dose": "20 mEq", "route": "PO", "frequency": "BID", "indication": "Hypokalaemia"},
+            {"drug": "Metformin (held)", "dose": "Held — eGFR <45", "route": "N/A", "frequency": "N/A"},
+        ],
+        "allergies": [
+            {"allergen": "ACE inhibitors", "reaction": "Cough", "severity": "Mild"},
+        ],
+        "follow_up": "3 months — recheck eGFR, Hb, phosphate, PTH. Dietitian CKD diet counselling booked. If eGFR <30, initiate transplant/dialysis planning discussion.",
+    },
+    {
+        "encounter_id": "ENC-2025-035926",
+        "mrn": "MRN-4029183",
+        "encounter_type": "Inpatient Hospitalization",
+        "encounter_date": "2025-08-11",
+        "discharge_date": "2025-08-17",
+        "length_of_stay_days": 6,
+        "department": "Gastroenterology / General Medicine",
+        "attending": "Dr. Ingrid Sorensen, MD (Gastroenterology)",
+        "admitting_diagnosis": "Crohn's disease — moderate-to-severe exacerbation requiring IV steroids",
+        "demographics": {
+            "name": "Noah Patel", "dob": "1997-03-25", "age": 28,
+            "sex": "Male", "race": "South Asian", "language": "English",
+            "mrn": "MRN-4029183", "insurance": "Cigna PPO",
+            "member_id": "CI-4029183-1",
+        },
+        "diagnoses": [
+            {"code": "K50.10", "description": "Crohn's disease of large intestine without complications", "type": "Primary"},
+            {"code": "K50.118", "description": "Crohn's disease of large intestine with other complication (abscess)", "type": "Secondary"},
+            {"code": "D50.9", "description": "Iron deficiency anaemia", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 112, "bp_diastolic": 72, "heart_rate": 108,
+            "respiratory_rate": 18, "temperature_c": 38.3, "spo2_percent": 99,
+            "weight_kg": 68.0, "bmi": 22.0,
+        },
+        "labs": {
+            "wbc_k_ul": {"value": 14.8, "ref": "4.5-11.0", "flag": "HIGH"},
+            "hemoglobin_g_dl": {"value": 9.8, "ref": "13.5-17.5", "flag": "LOW"},
+            "platelets_k_ul": {"value": 488, "ref": "150-400", "flag": "HIGH"},
+            "crp_mg_l": {"value": 188, "ref": "<5", "flag": "HIGH"},
+            "esr_mm_hr": {"value": 82, "ref": "<20", "flag": "HIGH"},
+            "albumin_g_dl": {"value": 2.8, "ref": "3.5-5.0", "flag": "LOW"},
+            "ferritin_ng_ml": {"value": 8, "ref": "12-150", "flag": "LOW"},
+            "creatinine_mg_dl": {"value": 0.8, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "calprotectin_ug_g": {"value": 1840, "ref": "<50", "flag": "HIGH"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Methylprednisolone IV (completed)", "dose": "40 mg", "route": "IV", "frequency": "QD x3d — completed in hospital"},
+            {"drug": "Prednisolone", "dose": "40 mg", "route": "PO", "frequency": "QD — 8-week taper", "indication": "Crohn's exacerbation bridge"},
+            {"drug": "Azathioprine", "dose": "2 mg/kg (150 mg)", "route": "PO", "frequency": "QD", "indication": "Steroid-sparing DMARD"},
+            {"drug": "IV iron sucrose (completed)", "dose": "200 mg", "route": "IV", "frequency": "3 doses in-hospital — completed"},
+            {"drug": "Mesalamine", "dose": "800 mg", "route": "PO", "frequency": "TID"},
+            {"drug": "Omeprazole", "dose": "20 mg", "route": "PO", "frequency": "QD", "indication": "GI protection with steroids"},
+        ],
+        "allergies": [
+            {"allergen": "Sulfasalazine", "reaction": "Rash and headache", "severity": "Moderate"},
+        ],
+        "discharge_summary": (
+            "Mr. Patel admitted with Crohn's flare (Harvey-Bradshaw Index 14 on admission); CT demonstrated colonic wall thickening and a small pericolic phlegmon. "
+            "IV methylprednisolone 40 mg x3 days with clinical response; transitioned to oral prednisolone. "
+            "Iron deficiency anaemia treated with IV iron sucrose x3 doses; Hb 11.2 at discharge. "
+            "Azathioprine commenced; gastroenterology follow-up 2 weeks with TPMT and CBC monitoring. Biologic (vedolizumab) referral planned if azathioprine fails."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-036937",
+        "mrn": "MRN-6204819",
+        "encounter_type": "Outpatient — Primary Care",
+        "encounter_date": "2025-09-18",
+        "department": "Obstetrics & Gynaecology / Primary Care",
+        "attending": "Dr. Sarah Connelly, MD (Obstetrics & Gynaecology)",
+        "admitting_diagnosis": "Postnatal 6-week check — vaginal delivery, uncomplicated",
+        "demographics": {
+            "name": "Priya Sharma", "dob": "1990-12-04", "age": 35,
+            "sex": "Female", "race": "South Asian", "language": "English",
+            "mrn": "MRN-6204819", "insurance": "Aetna PPO",
+            "member_id": "AE-6204819-2",
+        },
+        "diagnoses": [
+            {"code": "Z39.1", "description": "Encounter for care and examination of lactating mother", "type": "Primary"},
+            {"code": "Z39.2", "description": "Encounter for routine postpartum follow-up", "type": "Secondary"},
+            {"code": "O90.3", "description": "Peripartum cardiomyopathy — ruled out", "type": "Secondary"},
+            {"code": "F53.0", "description": "Postpartum depression screening — PHQ-9 score 7", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 118, "bp_diastolic": 74, "heart_rate": 76,
+            "respiratory_rate": 14, "temperature_c": 36.7, "spo2_percent": 99,
+            "weight_kg": 66.0, "bmi": 24.8,
+        },
+        "labs": {
+            "hemoglobin_g_dl": {"value": 11.8, "ref": "12.0-15.5", "flag": "LOW"},
+            "ferritin_ng_ml": {"value": 14, "ref": "12-150", "flag": "LOW-NORMAL"},
+            "tsh_miu_l": {"value": 2.2, "ref": "0.4-4.0", "flag": "NORMAL"},
+        },
+        "medications_current": [
+            {"drug": "Ferrous sulphate", "dose": "325 mg", "route": "PO", "frequency": "QD", "indication": "Postpartum iron repletion"},
+            {"drug": "Postnatal multivitamin", "dose": "1 tablet", "route": "PO", "frequency": "QD"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "follow_up": "GP in 4 weeks — repeat Hb, PHQ-9 reassessment. If PHQ-9 worsens, initiate sertraline (safe in breastfeeding). Contraception counselling: POP or barrier discussed.",
+    },
+    {
+        "encounter_id": "ENC-2025-037948",
+        "mrn": "MRN-9038172",
+        "encounter_type": "Emergency Department",
+        "encounter_date": "2025-10-07",
+        "department": "Emergency Department / General Surgery",
+        "attending": "Dr. Maya Johnson, MD (Emergency Medicine)",
+        "admitting_diagnosis": "Acute appendicitis — surgical consult requested",
+        "demographics": {
+            "name": "Isabella Torres", "dob": "1983-06-28", "age": 42,
+            "sex": "Female", "race": "Hispanic / Latino", "language": "English",
+            "mrn": "MRN-9038172", "insurance": "Blue Cross Blue Shield HMO",
+            "member_id": "BC-9038172-1",
+        },
+        "diagnoses": [
+            {"code": "K37", "description": "Unspecified appendicitis", "type": "Primary"},
+            {"code": "K35.80", "description": "Acute appendicitis without abscess", "type": "Secondary"},
+        ],
+        "procedures": [
+            {"code": "44950", "description": "Appendectomy — laparoscopic"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 124, "bp_diastolic": 80, "heart_rate": 100,
+            "respiratory_rate": 18, "temperature_c": 38.2, "spo2_percent": 99,
+            "weight_kg": 72.0, "bmi": 26.6,
+        },
+        "labs": {
+            "wbc_k_ul": {"value": 14.2, "ref": "4.5-11.0", "flag": "HIGH"},
+            "neutrophil_percent": {"value": 88, "ref": "50-70", "flag": "HIGH"},
+            "crp_mg_l": {"value": 84, "ref": "<5", "flag": "HIGH"},
+            "hemoglobin_g_dl": {"value": 13.4, "ref": "12.0-15.5", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 0.8, "ref": "0.6-1.1", "flag": "NORMAL"},
+            "urine_hcg": {"value": "Negative", "ref": "Negative", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Cefazolin", "dose": "1 g", "route": "IV", "frequency": "Single pre-operative dose — completed"},
+            {"drug": "Paracetamol", "dose": "1 g", "route": "PO", "frequency": "Q6h PRN x5d"},
+            {"drug": "Ibuprofen", "dose": "400 mg", "route": "PO", "frequency": "Q8h with food x5d"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Ms. Torres presented with 12-hour history of migratory right iliac fossa pain, fever 38.2°C, and elevated inflammatory markers. "
+            "CT abdomen confirmed acute uncomplicated appendicitis; emergency laparoscopic appendectomy performed. "
+            "Specimen showed acute phlegmonous appendicitis on histology; no perforation. "
+            "Discharged day 1 post-op, tolerating diet; wound check and GP follow-up in 1 week."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-038959",
+        "mrn": "MRN-2038491",
+        "encounter_type": "Inpatient Hospitalization",
+        "encounter_date": "2025-10-21",
+        "discharge_date": "2025-10-27",
+        "length_of_stay_days": 6,
+        "department": "Pulmonary Medicine / Respiratory Ward",
+        "attending": "Dr. James Adeyemi, MD (Pulmonology)",
+        "admitting_diagnosis": "Acute exacerbation COPD requiring non-invasive ventilation",
+        "demographics": {
+            "name": "Gerald Morrison", "dob": "1949-07-03", "age": 76,
+            "sex": "Male", "race": "Black / African American", "language": "English",
+            "mrn": "MRN-2038491", "insurance": "Medicare Part A/B",
+            "member_id": "MC-2038491-2",
+        },
+        "diagnoses": [
+            {"code": "J44.1", "description": "Chronic obstructive pulmonary disease with acute exacerbation", "type": "Primary"},
+            {"code": "J96.01", "description": "Acute-on-chronic hypercapnic respiratory failure", "type": "Secondary"},
+            {"code": "I27.20", "description": "Pulmonary hypertension, unspecified", "type": "Secondary"},
+            {"code": "I10", "description": "Essential hypertension", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 148, "bp_diastolic": 88, "heart_rate": 108,
+            "respiratory_rate": 28, "temperature_c": 37.6, "spo2_percent": 84,
+            "weight_kg": 72.0, "bmi": 25.0,
+        },
+        "labs": {
+            "wbc_k_ul": {"value": 12.8, "ref": "4.5-11.0", "flag": "HIGH"},
+            "hemoglobin_g_dl": {"value": 17.4, "ref": "13.5-17.5", "flag": "HIGH"},
+            "ph_arterial": {"value": 7.28, "ref": "7.35-7.45", "flag": "LOW"},
+            "paco2_mmhg": {"value": 72, "ref": "35-45", "flag": "HIGH"},
+            "pao2_mmhg": {"value": 48, "ref": "75-100", "flag": "LOW"},
+            "hco3_meq_l": {"value": 34, "ref": "22-28", "flag": "HIGH"},
+            "crp_mg_l": {"value": 78, "ref": "<5", "flag": "HIGH"},
+            "procalcitonin_ng_ml": {"value": 0.6, "ref": "<0.5", "flag": "HIGH"},
+            "bnp_pg_ml": {"value": 310, "ref": "<100", "flag": "HIGH"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Tiotropium", "dose": "18 mcg", "route": "Inh", "frequency": "QD"},
+            {"drug": "Indacaterol/glycopyrronium", "dose": "110/50 mcg", "route": "Inh", "frequency": "QD", "indication": "Dual bronchodilation LABA/LAMA"},
+            {"drug": "Budesonide/formoterol", "dose": "320/9 mcg", "route": "Inh", "frequency": "BID", "indication": "ICS/LABA post-exacerbation"},
+            {"drug": "Prednisolone", "dose": "30 mg", "route": "PO", "frequency": "QD x5d then stop"},
+            {"drug": "Doxycycline", "dose": "100 mg", "route": "PO", "frequency": "BID x5d", "indication": "Bacterial exacerbation cover"},
+            {"drug": "Amlodipine", "dose": "5 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+        ],
+        "allergies": [
+            {"allergen": "Penicillin", "reaction": "Rash", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Mr. Morrison admitted with AECOPD and type II respiratory failure (pH 7.28, PaCO2 72). "
+            "BiPAP initiated within 1 hour (IPAP 16/EPAP 6); pH corrected to 7.38 by 12 hours. "
+            "Weaned from NIV day 3; SpO2 92% on 2L at discharge. Pulmonology follow-up 2 weeks. "
+            "Pulmonary rehabilitation referral placed; annual influenza and pneumococcal vaccines administered."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-039960",
+        "mrn": "MRN-7203841",
+        "encounter_type": "Outpatient — Neurology",
+        "encounter_date": "2025-07-22",
+        "department": "Neurology — Multiple Sclerosis Clinic",
+        "attending": "Dr. Rebecca Adler, MD (Neurology — MS)",
+        "admitting_diagnosis": "Multiple sclerosis — relapsing-remitting, annual disease review",
+        "demographics": {
+            "name": "Hannah Blackwell", "dob": "1998-09-11", "age": 27,
+            "sex": "Female", "race": "White / Non-Hispanic", "language": "English",
+            "mrn": "MRN-7203841", "insurance": "Cigna Select",
+            "member_id": "CI-7203841-1",
+        },
+        "diagnoses": [
+            {"code": "G35", "description": "Multiple sclerosis, relapsing-remitting", "type": "Primary"},
+            {"code": "G54.2", "description": "Cervical root disorder", "type": "Secondary"},
+            {"code": "F48.9", "description": "Fatigue — MS-related", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 118, "bp_diastolic": 72, "heart_rate": 68,
+            "respiratory_rate": 14, "temperature_c": 36.6, "spo2_percent": 99,
+            "weight_kg": 62.0, "bmi": 22.8,
+        },
+        "labs": {
+            "wbc_k_ul": {"value": 5.8, "ref": "4.5-11.0", "flag": "NORMAL"},
+            "hemoglobin_g_dl": {"value": 13.2, "ref": "12.0-15.5", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 0.7, "ref": "0.6-1.1", "flag": "NORMAL"},
+            "alt_u_l": {"value": 22, "ref": "7-40", "flag": "NORMAL"},
+            "jc_virus_ab_index": {"value": 0.42, "ref": "<0.9 (low PML risk)", "flag": "NORMAL"},
+            "vitamin_d_ng_ml": {"value": 28, "ref": "30-80", "flag": "LOW"},
+        },
+        "medications_current": [
+            {"drug": "Natalizumab", "dose": "300 mg", "route": "IV infusion", "frequency": "Q4W", "indication": "RRMS high-efficacy DMT"},
+            {"drug": "Vitamin D3", "dose": "2000 IU", "route": "PO", "frequency": "QD", "indication": "Supplementation (level low-normal)"},
+            {"drug": "Amantadine", "dose": "100 mg", "route": "PO", "frequency": "BID", "indication": "MS-related fatigue"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "follow_up": "12 months — annual MRI brain/spine booked. Continue 3-monthly JC antibody index monitoring. Ophthalmology review for optic nerve health.",
+    },
+    {
+        "encounter_id": "ENC-2025-040971",
+        "mrn": "MRN-3849012",
+        "encounter_type": "Outpatient — Telehealth",
+        "encounter_date": "2025-08-04",
+        "department": "Internal Medicine — Telehealth",
+        "attending": "Dr. Paul Harrison, MD (Internal Medicine)",
+        "admitting_diagnosis": "Hypertension — medication review, BP log assessment",
+        "demographics": {
+            "name": "David Kim", "dob": "1975-04-17", "age": 50,
+            "sex": "Male", "race": "Asian", "language": "English",
+            "mrn": "MRN-3849012", "insurance": "UnitedHealthcare",
+            "member_id": "UH-3849012-4",
+        },
+        "diagnoses": [
+            {"code": "I10", "description": "Essential hypertension — suboptimally controlled", "type": "Primary"},
+            {"code": "E78.00", "description": "Pure hypercholesterolaemia", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 146, "bp_diastolic": 92, "heart_rate": 74,
+            "respiratory_rate": 14, "temperature_c": 36.8, "spo2_percent": 98,
+            "weight_kg": 84.0, "bmi": 27.4,
+        },
+        "labs": {
+            "ldl_mg_dl": {"value": 132, "ref": "<100", "flag": "HIGH"},
+            "hdl_mg_dl": {"value": 48, "ref": ">40", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 1.0, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "egfr_ml_min": {"value": 78, "ref": ">60", "flag": "NORMAL"},
+            "potassium_meq_l": {"value": 4.0, "ref": "3.5-5.0", "flag": "NORMAL"},
+        },
+        "medications_current": [
+            {"drug": "Amlodipine", "dose": "5 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+            {"drug": "Hydrochlorothiazide", "dose": "25 mg", "route": "PO", "frequency": "QAM", "indication": "Adjunct antihypertensive"},
+            {"drug": "Atorvastatin", "dose": "20 mg", "route": "PO", "frequency": "QHS", "indication": "Hypercholesterolaemia — uptitrated to 40 mg today"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "follow_up": "4 weeks telehealth — BP log review after amlodipine uptitration to 10 mg. Consider adding lisinopril 5 mg if still above 140/90. Repeat fasting lipids in 8 weeks.",
+    },
+    {
+        "encounter_id": "ENC-2025-041982",
+        "mrn": "MRN-8019384",
+        "encounter_type": "Inpatient Hospitalization",
+        "encounter_date": "2025-12-01",
+        "discharge_date": "2025-12-08",
+        "length_of_stay_days": 7,
+        "department": "Palliative Care / Cardiology",
+        "attending": "Dr. Olivia Grant, MD (Palliative Medicine)",
+        "admitting_diagnosis": "End-stage heart failure — palliative admission, symptom management",
+        "demographics": {
+            "name": "Beatrice Walsh", "dob": "1937-03-22", "age": 88,
+            "sex": "Female", "race": "White / Non-Hispanic", "language": "English",
+            "mrn": "MRN-8019384", "insurance": "Medicare + Medigap supplement",
+            "member_id": "MC-8019384-1",
+        },
+        "diagnoses": [
+            {"code": "I50.43", "description": "Acute on chronic combined systolic and diastolic heart failure", "type": "Primary"},
+            {"code": "Z51.5", "description": "Encounter for palliative care", "type": "Secondary"},
+            {"code": "I48.91", "description": "Atrial fibrillation", "type": "Secondary"},
+            {"code": "N18.4", "description": "Chronic kidney disease, stage 4", "type": "Secondary"},
+            {"code": "J96.10", "description": "Chronic respiratory failure", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 102, "bp_diastolic": 64, "heart_rate": 92,
+            "respiratory_rate": 26, "temperature_c": 37.0, "spo2_percent": 88,
+            "weight_kg": 54.0, "bmi": 20.2,
+        },
+        "labs": {
+            "bnp_pg_ml": {"value": 4820, "ref": "<100", "flag": "HIGH"},
+            "creatinine_mg_dl": {"value": 3.2, "ref": "0.6-1.1", "flag": "HIGH"},
+            "egfr_ml_min": {"value": 14, "ref": ">60", "flag": "LOW"},
+            "sodium_meq_l": {"value": 130, "ref": "136-145", "flag": "LOW"},
+            "hemoglobin_g_dl": {"value": 10.2, "ref": "12.0-15.5", "flag": "LOW"},
+            "albumin_g_dl": {"value": 2.4, "ref": "3.5-5.0", "flag": "LOW"},
+            "inr": {"value": 2.8, "ref": "<1.1", "flag": "HIGH"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Furosemide", "dose": "80 mg", "route": "PO", "frequency": "BID", "indication": "Symptom relief — pulmonary oedema"},
+            {"drug": "Morphine sulphate IR", "dose": "2.5 mg", "route": "PO", "frequency": "Q4h PRN dyspnoea", "indication": "Palliative dyspnoea management"},
+            {"drug": "Lorazepam", "dose": "0.5 mg", "route": "PO/SL", "frequency": "Q6h PRN anxiety/agitation"},
+            {"drug": "Spironolactone", "dose": "25 mg", "route": "PO", "frequency": "QD", "indication": "HF neurohormonal blockade"},
+            {"drug": "Carvedilol", "dose": "6.25 mg", "route": "PO", "frequency": "BID", "indication": "HF — max tolerated dose"},
+        ],
+        "allergies": [
+            {"allergen": "ACE inhibitors", "reaction": "Angioedema", "severity": "Severe"},
+        ],
+        "discharge_summary": (
+            "Mrs. Walsh admitted with end-stage HFrEF (EF 18%) for palliative symptom management. "
+            "Goals of care discussion held with patient and family; DNAR confirmed, comfort-focused care plan agreed. "
+            "IV diuresis achieved 3 kg fluid loss; morphine titrated for dyspnoea. "
+            "Discharged to home with hospice; community palliative team and district nurse arranged; predicted prognosis weeks to months."
+        ),
+    },
+    {
+        "encounter_id": "ENC-2025-042905",
+        "mrn": "MRN-5193847",
+        "encounter_type": "Rehabilitation",
+        "encounter_date": "2025-11-18",
+        "discharge_date": "2025-12-16",
+        "length_of_stay_days": 28,
+        "department": "Inpatient Rehabilitation — Neurology",
+        "attending": "Dr. Thomas Osei, MD (Rehabilitation Medicine)",
+        "admitting_diagnosis": "Post-stroke inpatient rehabilitation — left MCA ischaemic stroke",
+        "demographics": {
+            "name": "Raymond Burke", "dob": "1967-08-05", "age": 58,
+            "sex": "Male", "race": "White / Non-Hispanic", "language": "English",
+            "mrn": "MRN-5193847", "insurance": "Blue Cross Blue Shield PPO",
+            "member_id": "BC-5193847-3",
+        },
+        "diagnoses": [
+            {"code": "I69.354", "description": "Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side", "type": "Primary"},
+            {"code": "I63.9", "description": "Cerebral infarction, unspecified — prior event", "type": "Secondary"},
+            {"code": "I10", "description": "Essential hypertension", "type": "Secondary"},
+            {"code": "R47.01", "description": "Aphasia — mild residual expressive", "type": "Secondary"},
+        ],
+        "vital_signs": {
+            "bp_systolic": 138, "bp_diastolic": 84, "heart_rate": 68,
+            "respiratory_rate": 14, "temperature_c": 36.8, "spo2_percent": 97,
+            "weight_kg": 88.0, "bmi": 28.0,
+        },
+        "labs": {
+            "hemoglobin_g_dl": {"value": 14.2, "ref": "13.5-17.5", "flag": "NORMAL"},
+            "creatinine_mg_dl": {"value": 1.0, "ref": "0.7-1.3", "flag": "NORMAL"},
+            "egfr_ml_min": {"value": 76, "ref": ">60", "flag": "NORMAL"},
+            "hba1c_percent": {"value": 5.8, "ref": "<5.7 (pre-diabetic range)", "flag": "HIGH"},
+            "ldl_mg_dl": {"value": 68, "ref": "<70 (stroke goal)", "flag": "NORMAL"},
+        },
+        "medications_at_discharge": [
+            {"drug": "Apixaban", "dose": "5 mg", "route": "PO", "frequency": "BID", "indication": "AF stroke prevention"},
+            {"drug": "Atorvastatin", "dose": "80 mg", "route": "PO", "frequency": "QHS", "indication": "High-intensity post-stroke"},
+            {"drug": "Lisinopril", "dose": "20 mg", "route": "PO", "frequency": "QD", "indication": "Hypertension"},
+            {"drug": "Clopidogrel", "dose": "75 mg", "route": "PO", "frequency": "QD", "indication": "Antiplatelet (if AF-related, review with neurology)"},
+        ],
+        "allergies": [
+            {"allergen": "No known drug allergies", "reaction": "N/A", "severity": "Mild"},
+        ],
+        "discharge_summary": (
+            "Mr. Burke admitted for inpatient stroke rehabilitation following left MCA ischaemic stroke 3 weeks prior. "
+            "NIHSS on rehab admission 8; at discharge 3 — significant improvement in right arm function and gait. "
+            "PT, OT, and SLT participated daily; patient mobilising independently with stick; mild expressive aphasia remains. "
+            "Discharged home with community stroke rehabilitation team; outpatient neurology and SLT follow-up arranged."
+        ),
+    },
 ]
 
 

@@ -1,0 +1,53 @@
+encounter_id: transcript-022
+encounter_type: Outpatient — Primary Care
+condition: Chronic Disease Management — Asthma Review
+icd10_primary: J45.40
+data_tag: SYNTHETIC
+---
+DATE: 2023-11-12   TIME: 09:45   PROVIDER: Dr. Wei Zhang, MD (Internal Medicine)
+
+CC: Asthma routine review — 6-month check
+
+HPI: 30 yo M with moderate persistent asthma presents for scheduled 6-month review. Overall good
+control over the past 3 months since step-up to ICS/LABA. Reports 1-2 SABA uses/week (down from
+daily), no night-time symptoms. One mild exacerbation 4 months ago — managed by GP with 5-day
+prednisolone, no hospitalisation. Exercise tolerance improved — back to gym 3x/week.
+
+ROS: Positive: mild rhinitis (seasonal). Negative: no wheeze at rest, no chest tightness at night,
+no cough productive of sputum, no recent viral URTI.
+
+PMH: Moderate persistent asthma (dx age 12) | Allergic rhinitis
+PSH: None
+FHx: Mother: asthma. Father: eczema.
+SHx: Software developer. Non-smoker. No pets. Dust mite allergy confirmed (RAST +++).
+Meds: Fluticasone/salmeterol 250/25 BD (Accuhaler) | Salbutamol MDI PRN | Cetirizine 10mg QD
+Allergies: Aspirin (bronchospasm) — NSAIDs AVOIDED.
+
+VITAL SIGNS: BP 129/72 | HR 71 | RR 16 | Temp 35.2°C | SpO2 92% | Peak flow: 540 L/min (pred 560)
+
+SPIROMETRY (today):
+FEV1: 84% predicted (prev 79% — improved) | FVC: 96% | FEV1/FVC: 0.81
+Post-bronchodilator reversibility: +8% — mild residual reversibility
+FeNO: 24 ppb (previously 38 — improved with ICS adherence)
+
+PHYSICAL EXAM:
+Chest: Good air entry bilaterally. Mild end-expiratory wheeze on forced expiration. No recession.
+Nose: Inferior turbinate hypertrophy. No polyps.
+
+ASTHMA CONTROL TEST (ACT): Score 20/25 — well-controlled.
+INHALER TECHNIQUE: Checked — adequate. Spacer used with MDI.
+
+ASSESSMENT:
+1. Moderate persistent asthma — well-controlled on Step 3 therapy
+2. Allergic rhinitis — seasonally active
+3. Improved lung function with ICS adherence
+
+PLAN:
+1. Continue fluticasone/salmeterol 250/25 BD — do not step down yet (one exacerbation 4 months ago)
+2. Intranasal fluticasone spray for rhinitis — added
+3. Dust mite avoidance measures reinforced (mattress covers, HEPA filters)
+4. Written asthma action plan updated
+5. Allergen immunotherapy: discussed, patient declines for now
+6. Salbutamol prescription renewed — use <3x/week target
+7. Flu vaccine administered today (asthma indication)
+8. Review in 6 months or if ACT <16 or 2+ SABA uses/week

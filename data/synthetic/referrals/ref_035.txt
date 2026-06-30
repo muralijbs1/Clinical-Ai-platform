@@ -1,0 +1,67 @@
+referral_id: REF-2025-099013
+specialty: Orthopaedics (Spine)
+urgency: SOON
+patient_name: Simone Bergmann
+patient_dob: 1982-12-29
+patient_sex: Female
+patient_mrn: MRN-7069371
+insurance: BlueCross PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — ORTHOPAEDIC SURGERY (SPINE)
+Date: 2025-12-14    Referral ID: REF-2025-099013
+Urgency: SOON — Appointment within 2-3 weeks
+
+TO: Spinal Surgery / Orthopaedics Department
+FROM: Dr. Mark Szymanski, MD — Primary Care, NPI 9921102328
+      Gateway Primary Care, Phone: (555) 900-2244, Fax: (555) 900-2245
+
+PATIENT: Simone Bergmann | DOB: 1982-12-29 | Age: 43 | Sex: Female
+MRN: MRN-7069371 | Insurance: BlueCross PPO | Member ID: BP-7069371-19
+
+REASON FOR REFERRAL: L4-L5 disc herniation with left-sided L5 radiculopathy — 6 weeks of
+conservative management (physiotherapy, NSAIDs, nerve root block x1) without adequate
+improvement. Requesting spine orthopaedic evaluation for surgical consideration.
+
+CLINICAL SUMMARY:
+Ms. Bergmann is a 43-year-old female presenting with a 10-week history of left-sided low back
+pain with radiation down the posterior left thigh and lateral left calf to the dorsum of the
+foot — typical L5 dermatomal distribution. Onset was acute lifting injury at work.
+
+Pain severity: VAS 7/10 (back), 8/10 (leg — worse than back). The leg pain dominates.
+
+Neurological examination today:
+- Left knee extension: MRC 5/5 (intact)
+- Left great toe dorsiflexion: MRC 3/5 (WEAK — L5 myotome deficit)
+- Left ankle eversion: MRC 4-/5 (mildly weak — L5/S1)
+- Sensation: Reduced light touch, dorsum of left foot and first web space
+- Left ankle reflex: 2+ (intact). Left knee reflex: 2+ (intact)
+- Straight leg raise (SLR): Positive at 35 degrees left (strongly positive — root tension sign)
+- Crossed SLR: Negative
+
+MRI Lumbar Spine (6 weeks ago): Large left paracentral and foraminal disc herniation at L4-L5
+with moderate left lateral recess stenosis and contact with the traversing L5 nerve root.
+No epidural abscess. No cord compression (conus at L1). No high-grade canal stenosis.
+
+Conservative management to date (all completed):
+- Physiotherapy: 8 sessions (core stability, neural mobilisation) — minimal improvement
+- NSAIDs: Naproxen 500mg BID x6 weeks — partial pain relief only
+- Fluoroscopy-guided left L4-L5 transforaminal ESI: performed 3 weeks ago — inadequate response
+
+No red flag symptoms: No bladder/bowel dysfunction, no saddle anaesthesia, no fever.
+Medical history: Hypothyroidism (Levothyroxine 75mcg QD, TSH normal). BMI 24.1.
+Allergies: Sulfonamides (rash).
+
+QUESTIONS FOR SPINE ORTHOPAEDICS:
+1. Surgical candidacy — microdiscectomy L4-L5 given failed conservative therapy x6 weeks?
+2. Any further imaging required (CT myelogram vs updated MRI)?
+3. Timeline expectations — does neurological deficit (great toe weakness) indicate expedited surgery?
+4. TLIF or MISS (minimally invasive spine surgery) approach — candidacy assessment?
+5. Return to work planning (desk-based work, sedentary job)?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-989815 | Insurance: BlueCross PPO
+Authorised for: Spine orthopaedics consultation and surgical assessment
+
+Referring Physician: Dr. Mark Szymanski, MD
+NPI: 9921102328 | Phone: (555) 900-2244 | Fax Results To: (555) 900-2245

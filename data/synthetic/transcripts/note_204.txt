@@ -1,0 +1,50 @@
+encounter_id: transcript-016
+encounter_type: Emergency Department
+condition: Meningitis — Bacterial
+icd10_primary: G00.9
+data_tag: SYNTHETIC
+---
+DATE: 2023-08-07   TIME: 01:15   PROVIDER: Dr. Priya Anand, MD (Emergency Medicine)
+
+CC: Severe headache, neck stiffness, fever, and photophobia x 8 hours
+
+HPI: 22 yo M presents with 8h h/o severe frontal/occipital headache (10/10), neck stiffness,
+photophobia, and fever to 40.1°C. Nausea and two episodes of vomiting. No recent illness.
+No rash noted by patient. No prior meningitis. Lives in college dormitory. Meningococcal vaccine:
+received at age 12 (prior to MenACWY recommendation update — may not be current).
+
+VS: BP 126/74 | HR 106 | RR 20 | Temp 41.0°C | SpO2 97% RA
+
+EXAM: Nuchal rigidity present. Kernig's sign positive. Brudzinski's sign positive.
+Petechial rash noted posterior thighs and buttocks (12-15 pinpoint lesions — non-blanching).
+No papilloedema. PERRL. No focal neuro deficits.
+
+LABS:
+CBC: WBC 24.6 [HIGH] | Bands 22% [HIGH] | Hgb 14.8 | Plt 88 [LOW — early DIC concern]
+CMP: Na 131 [LOW] | K 4.4 | Cr 1.1 | Glu 42 [LOW — glucose consumed by bacteria]
+CRP: 384 mg/L [MARKEDLY ELEVATED] | PCT: 22.4 ng/mL [MARKEDLY ELEVATED]
+Coags: INR 2.4 | aPTT 44 [coagulopathy]
+
+CT Head (non-contrast): No intracranial hypertension. No herniation. No abscess. Proceed to LP.
+
+CSF Analysis:
+Opening pressure: 340 mmH2O [MARKEDLY ELEVATED]
+WBC: 8,200 [MARKEDLY ELEVATED — predominantly neutrophils 96%]
+Glucose: 22 mg/dL [LOW — serum:CSF ratio 0.28 — bacterial pattern]
+Protein: 480 mg/dL [ELEVATED] | Lactate 6.8 [elevated] | Gram stain: Gram-negative diplococci
+
+ASSESSMENT:
+1. Bacterial Meningitis — Neisseria meningitidis suspected (non-blanching rash, GN diplococci) — G00.9
+2. Meningococcaemia with early DIC — septic shock risk — A39.4
+3. SIADH — Na 131 — secondary to meningitis — E22.2
+
+PLAN:
+1. ANTIBIOTICS STAT (start BEFORE LP result if LP delayed — do NOT delay for CT if no signs of ICP):
+   - Ceftriaxone 2g IV q12h (meningococcal coverage)
+   - Vancomycin 15mg/kg IV q8h (coverage until sensitivities)
+   - Ampicillin 2g IV q4h (Listeria coverage — given slightly atypical demographics)
+2. Dexamethasone 0.15mg/kg q6h x4d (start BEFORE or WITH first antibiotic dose)
+3. Isolation precautions: droplet x24h after antibiotic initiation
+4. Public health notification (meningococcal disease is reportable)
+5. Close contacts: rifampicin prophylaxis
+6. ICU admission.

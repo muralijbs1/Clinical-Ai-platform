@@ -1,0 +1,35 @@
+encounter_id: transcript-012
+encounter_type: Emergency Department
+condition: Upper Gastrointestinal Bleed
+icd10_primary: K92.1
+data_tag: SYNTHETIC
+---
+DATE: 2024-12-28   TIME: 11:15   PROVIDER: Dr. Hannah Kim, MD (Emergency Medicine)
+
+CC: Haematemesis (coffee-ground vomiting) and melaena x 12 hours
+
+HPI: 62 yo M with 12h h/o vomiting coffee-ground material (x4 episodes, approx 200mL each)
+and black tarry stools x2. Lightheaded when standing. Chronic NSAID use for knee OA
+(naproxen 500mg BID). Drinks 2-3 whiskeys nightly. No known liver disease. No prior GIB.
+
+VS: BP 86/59 | HR 112 | RR 21 | SpO2 100% RA | Temp 38.8°C
+Orthostatics: BP drops 22mmHg on standing.
+
+LABS:
+Hgb: 7.4 g/dL [LOW — was 14.2 three months ago] | Hct 22% | Plt 198
+BUN: 44 | Cr 0.9 | BUN/Cr ratio 48.9 [HIGH — upper GIB pattern] | INR: 1.4 | aPTT 34
+ALT 28 | AST 38 | AlkPhos 88 | T. Bili 0.9 | albumin 3.6
+
+ASSESSMENT:
+1. Active Upper GIB — likely peptic ulcer / NSAID-induced — K92.1
+   Glasgow-Blatchford Score: 14 (high risk — immediate endoscopy)
+2. Haemodynamic instability — hypotension, tachycardia, orthostasis
+
+PLAN:
+1. 2x large-bore IVs. Type & cross 4 units pRBC. Transfuse 2u pRBC immediately.
+2. PPI: Pantoprazole 80mg IV bolus → 8mg/hr infusion
+3. Octreotide 50mcg IV bolus → 50mcg/hr infusion (rule out variceal bleed pending scope)
+4. Ceftriaxone 1g IV QD (prophylaxis if suspected cirrhosis)
+5. GI STAT — upper endoscopy within 24h (non-variceal; or ASAP if variceal suspected)
+6. STOP NSAIDs permanently. Alcohol counselling.
+7. ICU admission.

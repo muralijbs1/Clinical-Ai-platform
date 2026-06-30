@@ -1,0 +1,56 @@
+encounter_id: transcript-005
+encounter_type: Outpatient — Surgical
+condition: Post-operative — Laparoscopic Cholecystectomy
+icd10_primary: Z48.815
+data_tag: SYNTHETIC
+---
+DATE: 2023-05-17   TIME: 07:00   PROVIDER: Dr. Wei Zhang, MD (General Surgery)
+Post-operative Day 7 — Laparoscopic Cholecystectomy (s/p 2025-05-05)
+
+CC: Post-op check, wound check
+
+HPI: 39 yo F for 1-week post-operative visit after elective laparoscopic cholecystectomy for
+symptomatic cholelithiasis with acute cholecystitis. Procedure uneventful — critical view of
+safety documented, no IOC performed, no conversion to open, OR time 62 minutes.
+Pain now 2/10 (was 6/10 POD1). Tolerating regular diet. No fever at home. No jaundice.
+Denies clay-coloured stools, dark urine, right shoulder tip pain. Ambulating independently.
+
+PMH: Cholelithiasis with acute cholecystitis | HTN | Hypothyroidism | Obesity
+
+Meds (post-op): Acetaminophen 1000mg q6h PRN | Ibuprofen 400mg q6h PRN
+               Omeprazole 20mg QD | Levothyroxine 88mcg QD | Lisinopril 20mg QD | Docusate 100mg BID
+
+ALLERGIES: Latex (contact urticaria).
+
+OBJECTIVE:
+VS: BP 122/78 | HR 67 | Temp 39.2°C | SpO2 100% RA | Wt 82kg
+
+Abdomen: Soft, non-distended. Mild tenderness deep palpation RUQ — expected POD7.
+No guarding, rebound, or rigidity.
+
+PORT SITES:
+- Umbilical (12mm): Healed well. No erythema, no discharge.
+- Epigastric (5mm): Well-healed. Clean and dry.
+- RUQ (5mm): Mild periincisional ecchymosis, resolving. No signs of infection.
+- RUQ lateral (5mm): Well-healed. Clean.
+
+Pathology: Chronic cholecystitis with acute-on-chronic cholecystitis. No dysplasia or malignancy.
+
+LABS:
+ALT: 28 U/L [NORMAL — was 62 pre-op] | AST: 24 [NORMAL]
+Total bilirubin: 0.8 mg/dL [NORMAL — no bile duct injury]
+Alk Phos: 88 [NORMAL — was 134, resolving]
+
+ASSESSMENT:
+1. POD7 s/p laparoscopic cholecystectomy — uncomplicated — Z48.815
+2. Hypertension — stable — I10
+3. Hypothyroidism — stable — E03.9
+
+PLAN:
+1. No complications. Normal recovery. Cleared to drive today.
+2. No heavy lifting >10 lbs until 4 weeks. No pool/bath submersion x2 weeks.
+3. Taper acetaminophen PRN. Stop ibuprofen at 2 weeks.
+4. Discontinue Omeprazole at 4 weeks, Docusate at 2 weeks.
+5. Return precautions: fever >38.5°C, worsening pain, jaundice, dark urine, clay stools.
+
+F/U: No routine follow-up needed. Discharge from surgical care.

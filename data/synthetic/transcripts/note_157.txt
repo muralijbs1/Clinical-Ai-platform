@@ -1,0 +1,38 @@
+encounter_id: transcript-011
+encounter_type: Emergency Department
+condition: Atrial Fibrillation with Rapid Ventricular Response
+icd10_primary: I48.0
+data_tag: SYNTHETIC
+---
+DATE: 2025-01-06   TIME: 06:00   PROVIDER: Dr. Priya Patel, MD (Emergency Medicine)
+
+CC: Palpitations, lightheadedness, and dyspnoea x 3 hours
+
+HPI: 65 yo F presents with sudden onset palpitations at rest, associated with dyspnoea (moderate),
+and lightheadedness. No syncope. No chest pain. First episode. Denies fever, recent illness,
+caffeine excess. PMH: HTN on HCTZ and lisinopril. Thyroid disease (on levothyroxine). No prior AF.
+
+VS: BP 122/81 | HR 151 (irregular) | RR 19 | SpO2 93% RA | Temp 36.7°C
+
+LABS:
+TSH: 0.08 mIU/L [SUPPRESSED — thyrotoxicosis?] | Free T4: 2.6 ng/dL [HIGH]
+CBC: WBC 8.4 | Hgb 13.2 | Plt 244
+CMP: Na 138 | K 3.6 | Mg 1.8 [LOW-NORMAL] | Cr 0.9 | Glu 102
+Troponin: <0.01 [negative] | BNP: 188 pg/mL [mildly elevated]
+INR: 1.1
+
+EKG: AF with RVR at 148 bpm. No WPW. No ST changes. Irregularly irregular rhythm confirmed.
+
+ASSESSMENT:
+1. New-onset Atrial Fibrillation with RVR — I48.0
+   Likely precipitant: thyrotoxicosis (suppressed TSH, elevated T4)
+2. Thyrotoxicosis (new finding) — E05.90
+3. Hypomagnasaemia — E83.42
+
+PLAN:
+1. Rate control: Diltiazem 0.25 mg/kg IV over 2 min → target HR <100 (avoid in WPW — excluded)
+2. Magnesium sulphate 2g IV over 20 min
+3. Anticoagulation: CHA2DS2-VASc 2 (age, HTN) → start Apixaban 5mg BID
+4. Endocrinology consult (thyrotoxicosis) — likely precipitant
+5. Admit for cardioversion if AF >48h or haemodynamic compromise
+DISPOSITION: Admitted cardiology. Rhythm monitoring. Cardioversion considered once anticoagulated x3 weeks.

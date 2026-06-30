@@ -1,0 +1,62 @@
+referral_id: REF-2025-094649
+specialty: Vascular
+urgency: SOON
+patient_name: Arthur Pemberton
+patient_dob: 1951-10-17
+patient_sex: Male
+patient_mrn: MRN-3625937
+insurance: Medicare Part B + Medigap
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — VASCULAR MEDICINE / VASCULAR SURGERY
+Date: 2025-12-06    Referral ID: REF-2025-094649
+Urgency: SOON — Appointment within 2 weeks
+
+TO: Vascular Surgery / Peripheral Arterial Disease Clinic
+FROM: Dr. Janet Ogilvie, MD — Cardiology, NPI 5580701988
+      Cardiovascular Associates, Phone: (555) 560-8899, Fax: (555) 560-8900
+
+PATIENT: Arthur Pemberton | DOB: 1951-10-17 | Age: 74 | Sex: Male
+MRN: MRN-3625937 | Insurance: Medicare Part B + Medigap | Medicare ID: 2PE-B7-3625
+
+REASON FOR REFERRAL: Peripheral arterial disease (PAD) — bilateral lower limb claudication
+limiting walking to 150 metres. ABI 0.58 (right), 0.62 (left) — moderate-to-severe PAD.
+Requesting vascular assessment for revascularisation planning.
+
+CLINICAL SUMMARY:
+Mr. Pemberton is a 74-year-old male with symptomatic PAD presenting with bilateral calf
+cramping on walking (claudication distance 150 metres, significantly limiting function).
+Pain resolves within 5 minutes of rest. No rest pain. No tissue loss. No ulceration.
+No limb colour change at rest.
+
+ABI (ankle-brachial index) performed in clinic today:
+- Right ankle/brachial: 0.58 (moderate-to-severe PAD — threshold <0.9)
+- Left ankle/brachial: 0.62 (moderate PAD)
+Both values consistent with haemodynamically significant disease.
+
+Doppler waveforms: Bilateral monophasic waveforms at posterior tibial and dorsalis pedis
+levels — consistent with significant proximal disease.
+
+Risk factor profile: 45 pack-year smoker (current smoker — cessation counselled, offered
+NRT), T2DM (HbA1c 8.2% — suboptimal), hypertension (Amlodipine 10mg, Perindopril 10mg),
+dyslipidaemia (Atorvastatin 80mg), atrial fibrillation (Apixaban 5mg BID).
+Cardiac: known CAD, previous PCI 2019 (RCA stenting) — no current symptoms of angina.
+
+Limb examination: Bilateral femoral pulses present (reduced R>L). Popliteal: absent bilaterally.
+Posterior tibial: absent bilaterally. Dorsalis pedis: absent bilaterally. No trophic changes.
+Legs warm. Capillary refill <2 seconds.
+Allergies: Penicillin (rash — mild).
+
+QUESTIONS FOR VASCULAR SURGERY:
+1. CT angiography or MRA to delineate disease distribution (aorto-iliac vs femoropopliteal vs tibial)?
+2. Revascularisation candidacy — endovascular (angioplasty/stenting) vs surgical bypass?
+3. Exercise rehabilitation programme (supervised walking — evidence-based first-line)?
+4. Antiplatelet therapy — Apixaban already on board — should aspirin be added (dual pathway risk)?
+5. Smoking cessation — varenicline or bupropion in the context of cardiovascular disease?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-656482 | Insurance: Medicare Part B + Medigap
+Authorised for: Vascular consultation and lower limb arterial imaging
+
+Referring Physician: Dr. Janet Ogilvie, MD
+NPI: 5580701988 | Phone: (555) 560-8899 | Fax Results To: (555) 560-8900

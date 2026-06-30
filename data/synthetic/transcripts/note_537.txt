@@ -1,0 +1,44 @@
+encounter_id: transcript-049
+encounter_type: Outpatient — Paediatrics
+condition: Simple Febrile Convulsion — 2-Year-Old
+icd10_primary: R56.00
+data_tag: SYNTHETIC
+---
+DATE: 2025-04-12   TIME: 21:30   PROVIDER: Dr. David Okonkwo, MD (Paediatrics)
+
+CC: Witnessed tonic-clonic seizure during fever — outpatient follow-up next day
+
+HPI: 2 yo M brought by parents for next-day follow-up after a witnessed tonic-clonic seizure lasting
+90 seconds at home during fever. Parents called ambulance; by arrival, seizure had self-terminated.
+Child was febrile (39.2°C) with concurrent viral URTI (2-day runny nose). No prior seizures.
+Currently well — no fever, playing normally.
+
+ROS: Positive: fever (at time of event), viral URTI symptoms. Negative: no focal weakness, no regression.
+
+PMH: Fully vaccinated. No prior seizures. No neurodevelopmental issues.
+FHx: Maternal uncle: childhood febrile convulsions (resolved). SHx: Lives with parents. Attended nursery.
+Meds: None. Allergies: NKDA.
+
+VITAL SIGNS: Temp 36.5°C | HR 105 | RR 27 | SpO2 100% | Wt 12.4kg
+
+PHYSICAL EXAM: Alert, interactive, appropriate for age. Normal tone and reflexes. No focal neuro deficit.
+No meningism (neck supple, no Kernig's). Throat: red, no exudate. Ears: normal bilaterally. No rash.
+
+INVESTIGATIONS:
+FBC: WBC 11.4 (lymphocytosis — viral pattern). CRP 18 (low). Blood glucose: 4.8 (normal).
+Electrolytes: normal (Na 138, Ca 2.28, Glucose normal).
+No LP performed (simple febrile convulsion criteria met: age 6mo-5yr, <15min, generalised, single event).
+
+ASSESSMENT:
+1. Simple febrile convulsion — meets all criteria
+2. Viral URTI — likely precipitant
+3. Good neurological recovery — no concern for complex febrile seizure or structural cause
+
+PLAN:
+1. Reassure parents: excellent prognosis — 30% chance of recurrence, but resolves by age 6
+2. Fever management: antipyretics (paracetamol 15mg/kg q6h) — does NOT prevent febrile convulsions
+3. Safety: lay child on side if seizes, do not restrain, time episode, call 999 if >5 minutes
+4. EEG: NOT routinely indicated for simple febrile convulsion
+5. MRI: NOT required (simple presentation, normal neuro exam, normal development)
+6. Anticonvulsants: NOT started (single simple event — risk-benefit does not support prophylaxis)
+7. Return if: seizure >5 minutes, focal features, afebrile seizure, developmental regression

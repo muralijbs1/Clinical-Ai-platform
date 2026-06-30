@@ -1,0 +1,43 @@
+encounter_id: transcript-043
+encounter_type: Inpatient — ICU
+condition: Moderate-Severe ARDS — Post-Viral Pneumonia
+icd10_primary: J80
+data_tag: SYNTHETIC
+---
+DATE: 2023-06-12   TIME: 06:00   PROVIDER: Dr. Marcus Lee, MD (Intensive Care Medicine)
+
+CC: ICU admission — intubated for respiratory failure, ARDS criteria met
+
+HPI: 52 yo M transferred from respiratory ward day 3 of viral pneumonia (influenza A confirmed).
+Progressive hypoxia despite high-flow nasal oxygen (FiO2 0.8 — SpO2 82%). CPAP trial failed.
+Intubated and ventilated for refractory hypoxia. No significant prior lung disease.
+
+ROS: Assessed via family — no known comorbidities prior to acute illness.
+
+PMH: Hypertension | Obese (BMI 36) | PSH: None. FHx: Not relevant.
+SHx: Construction supervisor. Non-smoker. Alcohol 8 units/week.
+Meds: Amlodipine 5mg. Allergies: NKDA.
+
+VITAL SIGNS (intubated): HR 110 | BP 121/63 (noradrenaline 0.1mcg/kg/min) | Temp 37.2°C | SpO2 91%
+
+VENTILATOR: Mode: VCV | Vt 420mL (6mL/kg IBW) | PEEP 12cmH2O | FiO2 0.65 | P-plat 28cmH2O
+
+INVESTIGATIONS:
+ABG (on FiO2 0.65): pH 7.36, pO2 62, pCO2 44, HCO3 24. PaO2/FiO2: 95 → severe ARDS.
+CXR: bilateral diffuse alveolar opacification. No cardiomegaly.
+Echo: EF 55%, no LV dysfunction (excludes cardiogenic). PCWP not elevated.
+Bronchoalveolar lavage: inflammatory cells ++, influenza PCR positive.
+
+ASSESSMENT:
+1. Moderate-severe ARDS — influenza A pneumonia (PaO2/FiO2 95, Berlin criteria)
+2. Vasoplegic shock — vasopressors required
+3. Obesity — reduced chest wall compliance, challenging ventilation
+
+PLAN:
+1. Lung-protective ventilation: Vt 6mL/kg IBW, Pplat <30, PEEP titrated (12cmH2O currently)
+2. Prone positioning: 16h/day cycles — improves oxygenation in moderate-severe ARDS
+3. Neuromuscular blockade: cisatracurium 48h (improves synchrony, reduces barotrauma risk)
+4. Corticosteroids: methylprednisolone 1mg/kg/day (viral-ARDS, >14-day course)
+5. Antiviral: oseltamivir 150mg BD (influenza A, severe disease, immunocompromised obese patient)
+6. Vasopressors: target MAP >65; noradrenaline first-line
+7. Daily spontaneous awakening and breathing trials once FiO2 ≤0.4

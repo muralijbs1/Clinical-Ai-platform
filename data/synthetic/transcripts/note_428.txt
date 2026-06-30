@@ -1,0 +1,41 @@
+encounter_id: transcript-038
+encounter_type: Outpatient — Primary Care
+condition: Chronic Low Back Pain — Non-Specific
+icd10_primary: M54.5
+data_tag: SYNTHETIC
+---
+DATE: 2024-06-14   TIME: 04:30   PROVIDER: Dr. Amanda Walsh, MD (Family Medicine)
+
+CC: Chronic low back pain — review and management update
+
+HPI: 4 yo M with 3-year history of non-specific low back pain. Pain 4-6/10, worsens with prolonged
+sitting (office work), improves with movement. No radiation below knee. No red flags. Previous
+physiotherapy helped briefly. Currently using naproxen 500mg PRN (3-4x/week).
+
+ROS: Positive: chronic LBP. Negative: no radiculopathy, no bladder/bowel change, no saddle anaesthesia,
+no night sweats, no unexplained weight loss.
+
+PMH: Hypertension | PSH: Appendicectomy 2004. FHx: No malignancy. SHx: IT manager. Sedentary job.
+BMI 29. Meds: Amlodipine 5mg | Naproxen 500mg PRN. Allergies: NKDA.
+
+VITAL SIGNS: BP 127/84 | HR 72 | BMI 29.2 | Wt 88kg
+
+PHYSICAL EXAM: Lumbar: restricted flexion, full extension. Paravertebral tenderness L3-L5. No scoliosis.
+SLR: negative bilateral. Reflexes: intact. No focal weakness.
+
+INVESTIGATIONS:
+MRI lumbar spine: mild L4-L5 disc degeneration with posterior disc bulge — not impinging nerve root.
+PSA, ESR, CRP: normal (red flag exclusion done 18 months ago).
+
+ASSESSMENT:
+1. Chronic non-specific low back pain — mechanical, degenerative L4-L5
+2. NSAIDs overuse (3-4x/week) — GI risk counselling needed
+
+PLAN:
+1. Active exercise programme referral — supervised physiotherapy / back pain group class
+2. Cognitive-behavioural approach: address catastrophising (STarT Back score: medium risk)
+3. Reduce naproxen reliance: add omeprazole for GI protection; prescribe scheduled paracetamol 1g QDS
+4. Ergonomic assessment: standing desk, hourly movement breaks
+5. Weight management: 5% weight loss target (improves lumbar load)
+6. Acupuncture: offer via self-referral — modest evidence in chronic non-specific LBP
+7. Review 3 months. MRI not to be repeated without new symptoms.

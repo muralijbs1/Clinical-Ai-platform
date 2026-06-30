@@ -1,0 +1,40 @@
+encounter_id: transcript-013
+encounter_type: Inpatient — Gastroenterology
+condition: Acute Pancreatitis
+icd10_primary: K85.1
+data_tag: SYNTHETIC
+---
+DATE: 2025-05-25   TIME: 15:00   PROVIDER: Dr. Marcus Williams, MD (Gastroenterology)
+
+CC: Epigastric pain radiating to back, nausea, vomiting x 18 hours
+
+HPI: 37 yo M with 18h h/o severe epigastric pain (8/10) radiating to back, nausea, and vomiting.
+Pain worse with food. Drinks 6-8 beers/day. No gallstones on prior imaging. No prior pancreatitis.
+No fever at home.
+
+VS: BP 112/70 | HR 112 | RR 18 | Temp 37.8°C | SpO2 93% RA | Wt 84kg
+
+LABS:
+Lipase: 1,840 U/L [MARKEDLY ELEVATED — ref <60] | Amylase 620 U/L [elevated]
+WBC: 15.2 [HIGH] | Hgb 15.8 | CRP: 182 mg/L [HIGH — severity marker]
+CMP: Na 136 | K 3.8 | Cr 1.1 | Glu 188 | Ca 8.6 [low normal — monitor]
+ALT 42 | AST 58 | ALP 110 | T. bili 0.9 [no biliary obstruction]
+Triglycerides: 284 mg/dL [elevated — secondary cause excluded at this level]
+
+CT Abdomen/Pelvis (w/ contrast): Pancreatic oedema with peripancreatic fat stranding.
+Balthazar Grade C. No necrosis. No pseudocyst. No abscess.
+
+Ranson Score at 48h: 3 (moderate severity) | BISAP 2
+
+ASSESSMENT:
+1. Acute Alcoholic Pancreatitis — moderate severity — K85.1
+2. Alcohol use disorder (severe) — F10.20
+
+PLAN:
+1. NPO — begin aggressive IV fluids: LR 250-500mL/hr x4h → reassess
+2. Pain: Morphine 4mg IV q4h PRN | Ketorolac 30mg IV q6h x2d
+3. Antiemetics: Ondansetron 4mg IV q6h
+4. Nutrition: restart feeding (NG if still intolerant at 48h — enteral preferred)
+5. Monitor for complications: glucose, Ca, haematocrit q6h
+6. Alcohol cessation counselling. Thiamine 100mg IV QD.
+7. Repeat imaging if no improvement at 48h.

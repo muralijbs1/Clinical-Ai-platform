@@ -1,0 +1,44 @@
+encounter_id: transcript-044
+encounter_type: Outpatient — Surgical
+condition: Pre-Operative Assessment — Elective Right Hemicolectomy
+icd10_primary: Z01.818
+data_tag: SYNTHETIC
+---
+DATE: 2024-01-11   TIME: 14:30   PROVIDER: Dr. Thomas Andersson, MD (Pre-Operative Assessment)
+
+CC: Pre-operative assessment before elective right hemicolectomy (colorectal cancer T2N0)
+
+HPI: 4 yo F scheduled for elective right hemicolectomy for T2N0M0 right-sided colon cancer
+(diagnosed on colonoscopy, confirmed histology). MDT: curative resection planned.
+Current functional status: NYHA I, no exercise limitation.
+
+ROS: Positive: mild fatigue (anaemia). Negative: no dyspnoea, no angina, no palpitations.
+
+PMH: Hypertension | T2DM (diet-controlled, HbA1c 6.2%) | Anaemia (pre-op Hb 10.4) | PSH: Appendicectomy, Caesarean x2.
+SHx: Retired teacher. Lives with husband. Non-smoker. Meds: Amlodipine 5mg | Aspirin 75mg.
+Allergies: Sulfa drugs (rash).
+
+VITAL SIGNS: BP 135/78 | HR 68 | SpO2 98% | BMI 26.4 | Hb 10.4
+
+PHYSICAL EXAM: Well-appearing. No cardiorespiratory findings. Surgical scar: right iliac fossa + lower midline.
+Abdomen: soft, no palpable mass.
+
+INVESTIGATIONS:
+Hb 10.4, MCV 72 (iron deficiency). Ferritin 8. Pre-op bloods: normal coagulation.
+ECG: normal sinus rhythm. Echo not required (NYHA I, no cardiac history).
+Creatinine 0.9 (eGFR 74). HbA1c 6.2%.
+Lung function: FVC 94%, FEV1 88% — no respiratory risk.
+
+ASSESSMENT:
+1. Pre-operative evaluation — low cardiac risk (Lee RCRI score 1)
+2. Iron deficiency anaemia — needs correction pre-operatively
+3. Aspirin: peri-operative management required
+
+PLAN:
+1. IV iron infusion: Ferinject 1000mg — target Hb >12 before surgery (book 3 weeks pre-op)
+2. Aspirin: continue until surgery (colorectal cancer — thrombotic risk > bleeding)
+3. Amlodipine: continue morning of surgery
+4. Anaesthetic pre-assessment: spinal vs GA discussion with anaesthetist
+5. Enhanced recovery after surgery (ERAS) protocol: carbohydrate drinks pre-op, early mobilisation
+6. VTE prophylaxis: LMWH for 28 days post-op (colorectal cancer — high VTE risk)
+7. Consent discussion: surgical risks documented, patient questions answered

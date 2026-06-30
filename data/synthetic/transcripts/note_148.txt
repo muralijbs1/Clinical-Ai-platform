@@ -1,0 +1,74 @@
+encounter_id: transcript-010
+encounter_type: Emergency Department
+condition: Community-Acquired Pneumonia (CAP)
+icd10_primary: J18.9
+data_tag: SYNTHETIC
+---
+DATE: 2023-09-20   TIME: 03:15   PROVIDER: Dr. Priya Patel, MD (Emergency Medicine)
+
+CC: Productive cough, fever, shortness of breath x 4 days
+
+HPI: 83 yo F presents with 4-day h/o productive cough (yellow-green sputum), fever to 38.9°C at home,
+progressive dyspnoea, reduced appetite. Lives independently in assisted living. No recent hospitalisation
+in past 90 days. No mechanical ventilation or IV antibiotics in past 6 months. Up to date on pneumococcal
+vaccine (received PPSV23 3 years ago, PCV13 5 years ago). Not immunocompromised.
+
+ROS: Positive: cough (productive), fever, dyspnoea, chills, anorexia, pleuritic chest pain (L lateral).
+Negative: haemoptysis, vomiting, diarrhoea, confusion (family denies), leg swelling, night sweats.
+
+PMH: HTN | HFrEF (EF 45%, NYHA II) | T2DM | CKD 2 (Cr 1.1) | Hypothyroidism | Diverticulosis
+
+Meds: Furosemide 20mg QD | Lisinopril 20mg QD | Carvedilol 12.5mg BID | Spironolactone 25mg QD
+      Metformin 500mg BID | Atorvastatin 40mg QHS | Levothyroxine 75mcg QD | Aspirin 81mg QD
+
+ALLERGIES: Penicillin (documented anaphylaxis — unknown provenance; consider allergy testing)
+
+OBJECTIVE:
+VS: BP 145/76 | HR 100 | RR 25 | Temp 39.0°C | SpO2 91% RA | Wt 68kg
+On 4L NC: SpO2 95%.
+
+General: Ill-appearing, fatigued, no acute distress at rest. Shallow respirations.
+Respiratory: Dullness to percussion LLL. Increased tactile fremitus LLL. Bronchial breath sounds LLL.
+             Crackles LLL > LUL. E→A changes LLL.
+CV: RRR. Faint S3 audible. Mild JVP elevation 3cm.
+Abdomen: Soft, NT. No guarding.
+Extremities: 1+ bilateral ankle oedema (chronic, baseline per patient).
+
+LABS:
+CBC: WBC 18.6 [HIGH] | Neutrophils 16.2 | Bands 8% | Hgb 11.8 [mild anaemia] | Plt 312
+CMP: Na 132 [LOW] | K 4.6 | Cr 1.4 [above baseline 1.1] | BUN 32 | Glu 186 [HIGH]
+CRP: 198 mg/L [markedly elevated] | Procalcitonin: 1.8 ng/mL [elevated — bacterial]
+Lactate: 1.6 mmol/L [borderline]
+BNP: 320 pg/mL [elevated — CHF component]
+Blood cultures x2: Pending
+
+Sputum Gram stain: Gram-positive diplococci — consistent with Streptococcus pneumoniae
+Urine pneumococcal Ag: POSITIVE
+
+CXR: Dense left lower lobe consolidation. No pneumothorax. Mild cardiomegaly. Mild vascular congestion.
+     No significant pleural effusion.
+
+PSI Score: 108 (Class IV — High risk) → Inpatient admission indicated
+CURB-65: 3 (urea elevated, RR 24, age ≥65) → Inpatient indicated
+
+ASSESSMENT:
+1. Community-Acquired Pneumonia — Left lower lobe, likely S. pneumoniae — J18.9
+   High-risk (PSI IV, CURB-65 3). Urine pneumococcal Ag positive. Penicillin allergy documented.
+2. Hyponatraemia — Na 132, likely SIADH secondary to pneumonia — E87.1
+3. Acute kidney injury (mild) — Cr 1.4 vs baseline 1.1 — likely pre-renal — N17.9
+4. CHF exacerbation (mild contribution) — BNP 320, mild vascular congestion — I50.20
+
+PLAN:
+1. Antibiotics (PENICILLIN ALLERGY — anaphylaxis):
+   - Levofloxacin 750mg IV QD (respiratory fluoroquinolone — covers atypicals + S. pneumoniae)
+   - Azithromycin 500mg IV QD (add atypical coverage per IDSA CAP guidelines x5d)
+   Alternative to beta-lactams given anaphylaxis history.
+2. Controlled O2: Target SpO2 92-95% via NC / Venturi
+3. Cautious IV fluids: 250mL NS bolus PRN (HF background) | track fluid balance q4h
+4. Hold Metformin (AKI), Hold Spironolactone (AKI, hyperkalaemia risk)
+5. Furosemide: continue 20mg QD (gentle diuresis for mild congestion)
+6. Daily CXR until clinical improvement
+7. Repeat blood cultures. Sputum culture.
+8. Nutrition: soft diet, encourage oral intake
+
+DISPOSITION: Admitted to General Medicine floor. IV antibiotics → PO switch at 48-72h if improving.

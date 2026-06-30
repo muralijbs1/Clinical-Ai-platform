@@ -1,0 +1,74 @@
+encounter_id: transcript-006
+encounter_type: Emergency Department
+condition: Pulmonary Embolism
+icd10_primary: I26.09
+data_tag: SYNTHETIC
+---
+DATE: 2025-05-16   TIME: 17:30   PROVIDER: Dr. Yuki Tanaka, MD (Emergency Medicine)
+
+CC: Acute onset dyspnoea and right-sided pleuritic chest pain
+
+HPI: 36 yo F presents with 6-hour h/o sudden-onset shortness of breath and right-sided sharp
+chest pain, worsening with inspiration. Onset while at her office desk. Denies fever. Notes
+calf pain and swelling right leg x 4 days. RFs: started OCP 4 months ago, recent 9-hour flight
+from London 2 weeks ago, sedentary desk job. No prior VTE. Non-smoker. No recent surgery.
+No personal or family history of thrombophilia.
+
+ROS: Positive: dyspnoea, pleuritic RCP, right calf swelling/pain, mild haemoptysis (blood-streaked sputum x1).
+Negative: syncope, leg erythema, fever, chest trauma, recent surgery, prolonged immobility >3d.
+
+PMH: Oral contraceptive pill x 4 months | Seasonal allergies
+
+PSH: Tonsillectomy 2005
+
+Meds: Levonorgestrel/EE 0.15/0.03mg QD | Loratadine 10mg PRN
+
+ALLERGIES: NKDA
+
+OBJECTIVE:
+VS: BP 102/74 | HR 111 | RR 24 | Temp 38.3°C | SpO2 89% RA | Wt 64kg | Ht 5'5"
+O2 requirement: placed on NC 4L/min → SpO2 97%.
+
+General: Alert, anxious, tachypnoeic.
+Respiratory: Reduced air entry RLL. No wheezes. Mild splinting.
+Cardiovascular: Tachycardic, regular. Loud P2. No murmurs.
+Extremities: Right calf circumference 3cm > left. Right calf pitting oedema. Positive Homan's.
+No skin changes/erythema.
+
+LABS:
+D-dimer: 4.8 µg/mL [MARKEDLY ELEVATED; ref <0.5]
+ABG (4L NC): pH 7.48 | PaO2 74 | PaCO2 28 | HCO3 21 | A-a gradient 31 [elevated]
+Troponin I: 0.08 ng/mL [borderline elevated — RV strain marker]
+Pro-BNP: 620 pg/mL [elevated — RV stress]
+CBC: WBC 11.2 | Hgb 13.8 | Plt 287 [all near-normal]
+CMP: all within normal limits | Cr 0.7
+INR: 1.0 | APTT: 28s [both normal — baseline]
+
+EKG: Sinus tachycardia at 108 bpm. S1Q3T3 pattern (classic but non-specific). T-wave inversions V1-V4.
+No RV strain pattern. QTc 420ms.
+
+CTPA: Multiple bilateral pulmonary emboli — right main PA, RLL segmental, left lower lobe segmental.
+Right ventricular dilation (RV:LV ratio 1.2). No saddle embolus. No infarct.
+Doppler US right leg: Acute DVT — right popliteal and femoral veins. Left leg: negative.
+
+Wells PE Score: 7 (High probability)
+
+ASSESSMENT:
+1. Submassive (intermediate-risk) Pulmonary Embolism — bilateral, RV dilation — I26.09
+   Provoked: OCP + long-haul flight. Wells 7 (high). D-dimer markedly elevated.
+   RV:LV ratio 1.2 on CTPA, troponin borderline elevated. No haemodynamic instability = sub-massive.
+2. Deep Vein Thrombosis — right popliteal + femoral — I82.4B1
+3. Oral contraceptive-associated VTE risk — Z79.3 (OCP)
+
+PLAN:
+1. Anticoagulation STAT:
+   - Enoxaparin 1mg/kg SC q12h (64mg q12h) — bridge to DOAC
+   - Rivaroxaban 15mg PO BID x21 days → 20mg QD maintenance (DOAC preferred, avoid OCP interaction)
+2. Haematology referral for thrombophilia screen (defer until 3 months anticoagulation complete)
+3. STOP ORAL CONTRACEPTIVE PILL — documented counselling provided
+4. Continuous cardiac monitoring — watch for haemodynamic deterioration
+5. If deteriorates to massive PE criteria → thrombolysis with alteplase
+6. Admit to cardiology/medicine with PE protocol
+7. Pulmonology follow-up in 3 months — assess for chronic thromboembolic pulmonary hypertension
+
+DISPOSITION: Admitted to cardiac telemetry. Stable — intermediate high-risk PE.

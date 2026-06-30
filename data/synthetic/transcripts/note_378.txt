@@ -1,0 +1,40 @@
+encounter_id: transcript-033
+encounter_type: Emergency Department
+condition: Anaphylaxis — Peanut Allergy
+icd10_primary: T78.01XA
+data_tag: SYNTHETIC
+---
+DATE: 2024-12-10   TIME: 03:15   PROVIDER: Dr. Angela Foster, MD (Emergency Medicine)
+
+CC: Anaphylaxis — urticaria, throat tightening, hypotension — 20 minutes after eating
+
+HPI: 22 yo M with known peanut allergy brought by ambulance. Ate a salad at restaurant — unaware of
+peanut oil in dressing. Developed urticaria within 5 minutes, then throat tightening, stridor, and
+dizziness. EpiPen not carried tonight. Ambulance gave IM adrenaline 0.5mg en route.
+
+ROS: Positive: urticaria, throat swelling, stridor, dizziness. Negative: post-adrenaline improving.
+
+PMH: Peanut allergy (anaphylaxis age 8 — hospitalised) | Eczema | PSH: None.
+SHx: Graphic designer. Non-smoker. Meds: Cetirizine PRN. Allergies: Peanut (severe anaphylaxis).
+
+VITAL SIGNS: BP 84/53 (improving to 110/72 post-adrenaline) | HR 125→96 | RR 19 | SpO2 93%→99%
+
+PHYSICAL EXAM: Urticaria resolving. Mild residual angioedema lips. Stridor resolved post-adrenaline.
+Chest: mild wheeze. Abdomen: soft.
+
+INVESTIGATIONS:
+Serum tryptase (at 1h): 48 μg/L (markedly elevated — confirms anaphylaxis).
+ECG: sinus tachycardia. FBC, U&E: unremarkable.
+
+ASSESSMENT:
+1. Anaphylaxis — peanut allergy (Resuscitation Council Grade 3)
+2. Initial cardiovascular compromise — responded to IM adrenaline
+
+PLAN:
+1. IV chlorphenamine 10mg and IV hydrocortisone 200mg (ongoing mediator suppression)
+2. Observe minimum 6 hours post-adrenaline (biphasic reaction risk — occurs up to 12h)
+3. Repeat tryptase at 2h and 24h for baseline comparison
+4. Prescribe EpiPen × 2 — patient counselled on self-administration technique
+5. Allergy/immunology outpatient referral — oral immunotherapy consideration
+6. MedicAlert bracelet strongly recommended
+7. Dietary advice: restaurant labelling, peanut avoidance strategy reinforced

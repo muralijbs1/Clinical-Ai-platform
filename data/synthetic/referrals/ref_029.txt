@@ -1,0 +1,60 @@
+referral_id: REF-2025-092467
+specialty: Endocrinology (Thyroid Cancer)
+urgency: SOON
+patient_name: Lorraine Thibodeau
+patient_dob: 1974-04-26
+patient_sex: Female
+patient_mrn: MRN-1403715
+insurance: Humana PPO
+data_tag: SYNTHETIC
+---
+REFERRAL LETTER — ENDOCRINOLOGY (THYROID CANCER SURVEILLANCE)
+Date: 2025-12-02    Referral ID: REF-2025-092467
+Urgency: SOON — Appointment within 2-3 weeks
+
+TO: Endocrinology / Thyroid Cancer Follow-Up Clinic
+FROM: Dr. Owen Bradley, MD — Surgical Oncology, NPI 3360501968
+      Cancer Surgical Associates, Phone: (555) 340-6677, Fax: (555) 340-6678
+
+PATIENT: Lorraine Thibodeau | DOB: 1974-04-26 | Age: 51 | Sex: Female
+MRN: MRN-1403715 | Insurance: Humana PPO | Member ID: HP-1403715-14
+
+REASON FOR REFERRAL: Post-total thyroidectomy surveillance for papillary thyroid carcinoma
+(Stage pT2N0M0) — rising serum thyroglobulin (Tg) on TSH-suppression therapy. Requesting
+endocrinology assessment for recurrence evaluation and RAI eligibility.
+
+CLINICAL SUMMARY:
+Ms. Thibodeau underwent total thyroidectomy in March 2023 for papillary thyroid carcinoma
+(classic variant, pT2N0M0, Stage II per 8th edition AJCC — tumour 2.2cm, clear margins,
+no lymphovascular invasion, no extrathyroidal extension). Post-operatively received adjuvant
+radioactive iodine (RAI 131-I 30mCi) — post-treatment scan showed no residual functioning
+thyroid tissue and no metastatic uptake.
+
+She has been on TSH-suppressive levothyroxine (TSH target <0.1 mU/L — high-risk protocol
+at time of treatment). Recent serial Tg trending:
+- March 2024: Tg <0.1 ng/mL (undetectable — excellent response)
+- September 2024: Tg 0.4 ng/mL (detectable but low)
+- March 2025: Tg 1.2 ng/mL (rising — concerning for structural recurrence)
+- November 2025: Tg 3.8 ng/mL (rising — RISING despite suppression → referred urgently)
+
+Anti-Tg antibodies: negative (confirms Tg values reliable).
+TSH: 0.08 mU/L (suppressed, compliant with levothyroxine). Free T4: 1.9 ng/dL.
+Neck ultrasound (last month): No definitive structural recurrence in thyroid bed. No cervical
+lymphadenopathy (≥5mm). Equivocal 6mm left paratracheal node — cannot exclude recurrence.
+
+Allergies: No known drug allergies. No iodine contrast allergy.
+
+QUESTIONS FOR ENDOCRINOLOGY:
+1. Rising Tg — is this structural recurrence or remnant? Next imaging: CT neck/chest with contrast vs
+   rhTSH-stimulated Tg/RAI whole body scan?
+2. Is re-treatment with RAI appropriate if occult recurrence identified?
+3. Should TSH suppression target be maintained, relaxed, or intensified?
+4. Neck ultrasound-guided FNA of the equivocal paratracheal node?
+5. If distant metastasis — systemic therapy options (lenvatinib, sorafenib) — referral pathway?
+
+PRIOR AUTHORISATION:
+Auth Number: PA-434260 | Insurance: Humana PPO
+Authorised for: Endocrinology consultation and thyroid cancer surveillance imaging
+
+Referring Physician: Dr. Owen Bradley, MD
+NPI: 3360501968 | Phone: (555) 340-6677 | Fax Results To: (555) 340-6678
